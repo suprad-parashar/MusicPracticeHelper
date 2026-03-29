@@ -1,0 +1,77 @@
+{
+  "raga_name": "Jhalavarali",
+  "other_names": [
+    "Jhālavarāḻi",
+    "Dhalivarali",
+    "Dhālivarāḻi",
+    "Varāḻi"
+  ],
+  "melakarta_number": 39,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Rishi",
+  "arohana": [
+    "S",
+    "R1",
+    "G1",
+    "M2",
+    "P",
+    "D1",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D1",
+    "P",
+    "M2",
+    "G1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Shanta",
+    "Adbhuta"
+  ],
+  "mood": "Jhalavarali has a rare, austere, and slightly intense melodic personality shaped by its vivadi swaras and the striking leap between G1 and M2. It can evoke a feeling of inward devotion, gravity, and contemplative stillness, while also carrying an unusual, almost mystical brightness because of the prati madhyamam and kakali nishadam. The raga may suggest a mood of solemn prayer, yearning, and spiritual wonder rather than lightness or romance, making it suitable for reflective and serious musical expression.",
+  "description": "Jhalavarali is a Carnatic melakarta raga, the 39th in the 72 melakarta system. It is pronounced Jhālavarāḻi and is said to mean 'A moon with the sun's heat'. In the Muthuswami Dikshitar school of Carnatic music, it is called Dhālivarāḻi (also written Dhalivarali). The prefix 'Jhala' is stated to have been added to the raga name to suit the katapayadi formula. It is the 3rd raga in the 7th chakra, Rishi, with mnemonic name Rishi-Go and mnemonic phrase 'sa ra ga mi pa dha nu'. Its scale is S R1 G1 M2 P D1 N3 S / S N3 D1 P M2 G1 R1 S, employing shuddha rishabham, shuddha gandharam, prati madhyamam, shuddha dhaivatham, and kakali nishadham. As a melakarta, it is by definition a sampurna raga with all seven notes in both ascent and descent. It is the prati madhyamam equivalent of Ganamoorti, the 3rd melakarta. Jhalavarali has a few janya ragas, of which Varali is very popular. The raga belongs to a special group within the Rishi chakra whose graha bhedam does not yield any other melakarta raga. Like the other ragas of this chakra, it contains a distinctive gap of three notes between G1 and M2, a feature stated to be unique among melakartas.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The source material does not give a formal lakshana-style gamaka prescription for Jhalavarali, but its vivadi structure implies that gamaka handling must be careful, weighty, and identity-preserving rather than rendered as a plain scalar pattern. R1 and especially G1 should be treated with controlled kampita or delicate oscillation so that the lower tetrachord does not sound flat or generic. The unusual and highly characteristic jump from G1 to M2 must remain clearly profiled; this interval should not be blurred by excessive smoothing. M2 acts as a bright point of contrast and can be given emphasis as a nyasa or pivot tone after the tense lower swaras. P is generally a stable, comparatively plain resting note. D1 may take restrained oscillation, while N3 is an important upper-color note that can be approached with precision and emphasis in both ascent and descent. Jaru between adjacent notes may be used sparingly and with exact intonation, but overuse can weaken the raga's austere contour. Overall, the raga benefits from distinct articulation of swaras, measured kampita on the vivadi tones, and a serious, deliberate handling that preserves its rare and solemn melodic personality.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "C–D♭–D–F♯–G–A♭–B–C",
+  "popular_janya_ragas": [
+    "Varali"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Namami sri rama",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Madhava dayya",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "unknown"
+    },
+    {
+      "name": "Anatha rakshaka",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sachidananda roopini",
+      "composer": "Shri Balaviswanathan of Kerala",
+      "language": "unknown"
+    }
+  ],
+  "notable_features": "It is the 3rd raga in the 7th chakra Rishi. Mnemonic name: Rishi-Go. Mnemonic phrase: sa ra ga mi pa dha nu. It is the prati madhyamam counterpart of Ganamoorti. In the Muthuswami Dikshitar school it is called Dhālivarāḻi / Dhalivarali. The prefix 'Jhala' is said to have been added to suit the katapayadi formula. Graha bhedam on Jhalavarali does not produce any other melakarta raga. It is one of the six ragas in the Rishi chakra—along with Salagam, Jalarnavam, Navaneetam, Pavani, and Raghupriya—that have a gap of three notes between G1 and M2; this is stated to be unique among melakartas."
+}

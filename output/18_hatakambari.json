@@ -1,0 +1,68 @@
+{
+  "raga_name": "Hatakambari",
+  "other_names": [
+    "Hātakāmbari",
+    "Jayashuddhamālavi"
+  ],
+  "melakarta_number": 18,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Agni",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "M1",
+    "P",
+    "D3",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D3",
+    "P",
+    "M1",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Veera",
+    "Adbhuta",
+    "Bhakti"
+  ],
+  "mood": "Hatakambari has a bright, forceful, and slightly austere emotional color. Its vivadi note-combination gives it a sense of alertness, classical dignity, and tension that resolves into strength rather than softness. The raga can evoke heroic resolve, wonder at its unusual scale structure, and a serious devotional atmosphere. It is often felt as expansive and disciplined, suitable for music that is contemplative yet powerful.",
+  "description": "Hatakambari (pronounced Hātakāmbari) is the 18th melakarta rāgam in the 72-melakarta system of Carnatic music. It is the 6th rāgam in the 3rd chakra, Agni, with mnemonic name Agni-Sha and mnemonic phrase sa ra gu ma pa dhu nu. Its scale is S R1 G3 M1 P D3 N3 S / S N3 D3 P M1 G3 R1 S, using shuddha rishabham, antara gandharam, shuddha madhyamam, shatsruthi dhaivatham, and kakali nishadham. As a melakarta, it is a sampoorna rāgam with all seven notes in both ascent and descent. It is the shuddha madhyama equivalent of Vishwambari, the 54th melakarta. In the original Venkatamakhin asampurna melakarta scheme, the corresponding raga is Jayashuddhamālavi, where the scale is shadava-sampurna with vakra prayoga: S R1 G3 M1 P N3 S / S N3 D3 N3 P M1 G3 R1 S. Hatakambari has minor janya ragas associated with it. The raga’s notes under graha bhedam yield Gavambhodi. It is a vivadi melakarta because of the R1, G3, D3, and N3 combination.",
+  "time_of_day": "",
+  "gamaka_usage": "As a vivadi melakarta, Hatakambari is generally rendered with careful, controlled ornamentation rather than heavy kampita. R1 and G3 need precise intonation and are often linked with subtle jaru or light kampita so the scale does not sound harsh. M1 and P are usually steadier anchor notes. D3 and N3 are also handled with caution, often approached through smooth slides in descent and clean articulation in ascent. In the melakarta form the scale is non-vakra and fully sampurna, so scalar movement is possible, but the raga’s identity depends on exact placement of the vivadi swaras and smooth transitions between adjacent notes.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Naraharim",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Alalagada",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "RakshĀsumam srÎ lakshmÎ Pathe",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    }
+  ],
+  "notable_features": "Hatakambari is the 18th melakarta and the 6th raga of the Agni chakra. It is the shuddha madhyama counterpart of Vishwambari (54th melakarta). In the asampurna melakarta tradition it is called Jayashuddhamālavi and is shadava-sampurna with vakra descent. Graha bhedam on Hatakambari yields Gavambhodi. The raga is associated with a few minor janya ragas. It is a vivadi melakarta due to the presence of R1, G3, D3, and N3.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hatakambari"
+}

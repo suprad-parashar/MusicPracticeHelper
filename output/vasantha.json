@@ -1,0 +1,214 @@
+{
+  "raga_name": "Vasantha",
+  "other_names": [
+    "Vasanta"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 17,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G3",
+    "M1",
+    "D2",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "M1",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "vakra audava-shadava",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Shringara"
+  ],
+  "mood": "Vasantha is an auspicious, evening-suited raga with a bright yet gentle emotional color. It feels graceful, uplifting, and slightly wistful, often evoking the freshness of spring, devotion, and a calm inner radiance. The absence of panchamam and the asymmetric, vakra movement give it a distinctive, airy character that can suggest both serenity and tender longing, making it suitable for reflective and devotional expression.",
+  "description": "Vasantha (pronounced vasantā) is a janya raga of Suryakantam, the 17th melakarta, though according to P. Subba Rao the majority opinion is that it is derived from Mayamalavagowla, the 15th melakarta. It is an asymmetric scale that omits panchamam and is classified as a vakra audava-shadava raga. The arohana is S G3 M1 D2 N3 S and the avarohana is S N3 D2 M1 G3 R1 S. The raga uses shadjam, shuddha rishabham, antara gandharam, shuddha madhyamam, chatushruti dhaivatam, and kakali nishadam. Some sources claim that originally it used D1 instead of D2. It is considered suitable for evening performance and is regarded as auspicious. The raga has ample scope for alapana and has been used by many composers across the Carnatic repertoire. It is also noted for its similarity to Lalitha, which differs by using shuddha dhaivatam and shuddha rishabham in the arohana. The source text does not identify a formal inventor.",
+  "time_of_day": "evening",
+  "gamaka_usage": "Vasantha is rendered with phrase-oriented gamaka treatment rather than a plain scalar approach. The raga’s identity is strengthened by smooth jaru-like transitions through the vakra prayogas, especially in the ascent S–G3–M1 and the descent N3–D2–M1–G3–R1–S. R1 in the avarohana is typically given a gentle kampita or oscillatory touch, while G3 and N3 are handled with controlled oscillation to preserve the raga’s bright, auspicious color. M1 is usually kept stable as a pivot note, and D2 is approached and released with light slides rather than heavy gamaka. Because panchamam is absent, phrases must avoid Pa entirely, and the raga’s character depends on characteristic prayogas more than on sustained note-by-note exposition. Compared with Lalitha, Vasantha’s use of chatushruti dhaivatam gives a slightly more open and luminous feel, while still retaining a soft, devotional contour.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Ninne Kori",
+      "composer": "Tecchur Singarachar",
+      "language": ""
+    },
+    {
+      "name": "Sannutangi",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Shiva Mahasena",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Jaya Mangalam",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Dani Korikenu",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": ""
+    },
+    {
+      "name": "Seetamma Mayamma",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Etla Dorikitivo",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Brihadambikayai",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Hariharaputram",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Marakatha Lingam",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Ramachandram Bhavayami",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Paramapurusha Jagadeeshwara",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Ellam Sivan Seyal",
+      "composer": "Shuddhananda Bharati",
+      "language": ""
+    },
+    {
+      "name": "Malmaruga Shanmukha",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Maadhayai Nidhi Ennum",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Natanam Adinar",
+      "composer": "Gopalakrishna Bharathi",
+      "language": ""
+    },
+    {
+      "name": "Kanden Kanden",
+      "composer": "Arunachala Kavi",
+      "language": ""
+    },
+    {
+      "name": "Neelamalar",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Ivandhaan Ivandhaane",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Pavana Kumaara",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Vita Samavara Jala",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Rajeswarim Sambhavaye",
+      "composer": "Ganapathi Sachchidananda Swamiji",
+      "language": ""
+    },
+    {
+      "name": "Thom Thomena",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Yoganrusimha Padambuja Brunga",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Kodu Bega Divyamathi",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Dangurava Saariraryya",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Rama Rama Rama Rama Rama Enniro Seetha",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Palisenna Gopalakrishna",
+      "composer": "Jagannatha Dasa",
+      "language": ""
+    },
+    {
+      "name": "Vade Venkatadri Meeda",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Shaila Suthe",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Devi Rame Mamava",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Gowri Sukumari",
+      "composer": "N.C.Krishnamacharyulu",
+      "language": ""
+    },
+    {
+      "name": "Manadhai Orumai",
+      "composer": "Chidambara Nataraja Deekshithar",
+      "language": ""
+    }
+  ],
+  "notable_features": "Vasantha is a janya raga of Suryakantam (17th melakarta), though a majority opinion cited in the source derives it from Mayamalavagowla (15th melakarta). It is a vakra audava-shadava raga with no panchamam. The source notes that some claim the raga originally used D1 instead of D2. It is suitable for evening and considered auspicious. It has ample scope for alapana. It is closely related in sound to Lalitha, which uses shuddha rishabham in the arohana and shuddha dhaivatam instead of Vasantha’s chatushruti dhaivatam.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vasanta"
+}

@@ -1,0 +1,135 @@
+{
+  "raga_name": "Abheri",
+  "other_names": [
+    "Ābhēri",
+    "Aberi",
+    "Bhimpalasi",
+    "Bheempalas"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 22,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G2",
+    "M1",
+    "P",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-sampoorna",
+  "is_vakra": true,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "D1"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Karuna",
+    "Bhakti",
+    "Shanta"
+  ],
+  "mood": "Abheri has a soft, plaintive, and deeply expressive mood. It often feels tender and introspective, with a gentle melancholy that can evoke longing, devotion, and quiet emotional surrender. The raga can also sound soothing and serene, especially in its more traditional treatment, while the use of D1 in older phrases adds a more wistful, sorrow-tinged shade. It suits reflective, devotional, and emotionally nuanced settings, and its close resemblance to Bhimpalasi gives it a familiar, yearning fragrance.",
+  "description": "Abheri is a janya raga of Kharaharapriya (22nd melakarta) and is commonly rendered in an audava-sampoorna form. The commonly cited scale is S G2 M1 P N2 S / S N2 D2 P M1 G2 R2 S, but the raga has important historical and stylistic variants. Older sources and pre-1960 classifications often treat it as a Natabhairavi janya with Shuddha Dhaivatam (D1) in the descent, and some traditional versions still preserve this older form. The text notes that the original Abheri had D1 rather than D2 in avarohanam, and that the present form was influenced by Hindustani Bhimpalasi. There are at least two D1-bearing versions mentioned: Thyagaraja’s version with N2 in the ascent (S G2 M1 P N2 S / S N2 D1 P M1 G2 R2 S), and Dikshitar’s version with a more restricted ascent and vakra prayoga (S M1 G2 M1 P P S S / S N2 D1 P M1 G2 R2 S). The raga is said to sound close to Hindustani Bhimpalasi/Bheempalas and Dhanashree, and the current version is also compared to Bageshri because of the soft rendering of Gandhara. Abheri is a bhashanga raga because of the occasional use of D1, though some sources alternatively analyze the D2-bearing form as a janya of Kharaharapriya and the D1-bearing form as a janya of Natabhairavi. It has graha bhedam relationships yielding Mohanakalyani, Kedaragaula, and Arabhi when shifted from the Kharaharapriya-based scale.",
+  "time_of_day": "evening",
+  "gamaka_usage": "Gandhara is treated with delicate oscillation and soft emphasis; in the Bhimpalasi-like modern form it is often rendered gently, which is part of the raga’s plaintive color. R2 and M1 are the most stable swaras and can be prolonged without gamaka. G2 typically takes light to moderate kampita and often resolves toward R2; phrases such as S G R G M are characteristic in related treatment and help preserve the raga’s identity. D2 in the common form and D1 in older phrases must be handled carefully, with D1 giving a more melancholic shade. N2 is important in the ascent and descent, and the phrase P N2 S is characteristic in the Thyagaraja version. The text specifically notes that in Dikshitar’s variant, S M1 G2 M1 is a vakra prayoga and that S G2 M1 and P N2 S are not allowed there, indicating stricter phraseology. Overall, the raga depends more on nuanced phrase-shape and gentle oscillation than on heavy gamaka; the subtle treatment of G2 and the dhaivata distinction are central to its identity.",
+  "hindustani_equivalent": "Bhimpalasi",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Nagumomu Ganaleni",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nanda Gopala",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Bhajare Re Manasa",
+      "composer": "Mysore Vasudevacharya",
+      "language": ""
+    },
+    {
+      "name": "Gokula Nilaya Kripalaya",
+      "composer": "Mysore Vasudevacharya",
+      "language": ""
+    },
+    {
+      "name": "Kandha Muruga Varuvaye",
+      "composer": "Pithukuli Murugadas",
+      "language": ""
+    },
+    {
+      "name": "Muraliya Nadava keli",
+      "composer": "Vidyaprasanna Teertha",
+      "language": "Kannada"
+    },
+    {
+      "name": "Karevaru Ba Manege",
+      "composer": "Vidyaprasanna Teertha",
+      "language": "Kannada"
+    },
+    {
+      "name": "Ambiga Naa Ninna Nambide",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Echarike Echarike",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Katiyalli Karavittano",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Pavamana Jagada Prana",
+      "composer": "Vijaya Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Angaladolu Ramanadida",
+      "composer": "Kanaka Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Veral Veli",
+      "composer": "Rajan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Vinabheri",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kandha Vandharul",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Eshwari Rajeshwari",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    }
+  ],
+  "notable_features": "Abheri has a disputed historical identity: older sources classify it as a Natabhairavi janya with D1, while the modern common form is treated as a Kharaharapriya janya with D2 and occasional D1 as anya swara. The raga has at least two named D1-based variants in the text: a Thyagaraja version and a Dikshitar version with stricter prayogas. It is related by graha bhedam to Mohanakalyani, Kedaragaula, and Arabhi (using the Kharaharapriya-based scale). The text also notes close resemblance to Karnataka Devagandhari and Bhimpalasi, and that the subtle Gandhara treatment can make it feel like Bageshri. The raga is associated with the original version of Nagumomu and with the older form of Veenabheri and Kandha Vandharul.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abheri"
+}

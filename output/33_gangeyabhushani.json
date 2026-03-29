@@ -1,0 +1,52 @@
+{
+  "raga_name": "Gangeyabhushani",
+  "other_names": [
+    "Gangeyabhushani",
+    "Gāngēyabhūṣaṇi",
+    "gAngEyabhUshaNi"
+  ],
+  "melakarta_number": 33,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Rtu",
+  "arohana": [
+    "S",
+    "R3",
+    "G3",
+    "M1",
+    "P",
+    "D1",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D1",
+    "P",
+    "M1",
+    "G3",
+    "R3",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Bhakti",
+    "Shanta",
+    "Adbhuta"
+  ],
+  "mood": "Gangeyabhushani has a bright yet uncommon melodic color shaped by the close R3–G3 relationship and the contrast of D1 with N3. The raga can create a contemplative, devotional, and slightly austere atmosphere, with an undercurrent of wonder because of its unusual scalar flavor. Rather than sounding overtly romantic or playful, it tends to suggest inward focus, seriousness, dignity, and a subtle spiritual intensity. In elaboration, it can feel meditative and poised, while still retaining a distinctive tension that gives it individuality among melakarta ragas.",
+  "description": "Gangeyabhushani is a Carnatic melakarta raga, specifically Melakarta number 33 in the standard 72-melakarta system. It is a sampurna melakarta, containing all seven swaras in both ascent and descent: S R3 G3 M1 P D1 N3 S / S N3 D1 P M1 G3 R3 S. It belongs to the Rtu chakra, being the third melakarta in that group. As a janaka raga, it serves as a parent framework from which janya ragas may be derived. Its note material gives it a distinctive vivadi color, especially because of the use of shatsruti rishabha alongside antara gandhara. Like other melakarta ragas, Gangeyabhushani is not merely a scale but a melodic entity whose identity emerges through characteristic handling of swaras, phraseology, and gamaka.",
+  "time_of_day": "",
+  "gamaka_usage": "Gangeyabhushani requires careful handling of its swaras to bring out raga bhava and to avoid reducing it to a bare scalar pattern. The most sensitive area is the lower tetrachord, where R3 and G3 occur in close proximity; these should be intoned with precision, with controlled kampita and measured emphasis so the vivadi character is preserved without blurring the distinction between the two notes. G3 can take a gentle oscillation, while R3 is best treated with restraint and clarity rather than heavy shaking. M1 and P generally act as relatively stable resting or anchoring tones. In the upper tetrachord, D1 is often approached from P with a soft slide or delicate oscillation, and N3 can be highlighted with a mild kampita resolving to the upper shadja. Jaru connections in phrases such as P D1 N3 >S and >S N3 D1 P help smooth the raga’s angular intervallic feel. Descending phrases like M1 G3 R3 S should be rendered with care so that the R3–G3 region remains distinct and aesthetically balanced. Overall, gamakas in this raga should be deliberate, not overly dense, emphasizing precision, repose on M1/P, and subtle oscillatory treatment on the more sensitive swaras.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [],
+  "notable_features": "Gangeyabhushani is the 33rd melakarta and belongs to the Rtu chakra. It is a sampurna janaka raga with the scale S R3 G3 M1 P D1 N3 S / S N3 D1 P M1 G3 R3 S. Its use of the vivadi swara relationship in the R3–G3 region gives it a distinctive and somewhat tense scalar color. Alternate transliterations include Gangeyabhushani and gAngEyabhUshaNi. No specific time-of-day assignment, Hindustani equivalent, or confirmed composition list is supported by the provided snippets."
+}

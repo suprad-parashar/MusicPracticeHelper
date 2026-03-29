@@ -1,0 +1,53 @@
+{
+  "raga_name": "Atana",
+  "other_names": [
+    "Athana",
+    "Adana"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 29,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M1",
+    "P",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M1",
+    "P",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "janya",
+  "is_vakra": true,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "G2",
+    "N2"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Veera",
+    "Bhakti"
+  ],
+  "mood": "Atana has a bright, forceful, and highly theatrical character. It is described as very catchy and capable of giving a strong stage flavor when a concert feels dull, so it tends to wake up the audience and create a sense of energy, confidence, and dramatic uplift. Its emotional world is bold rather than tender, often evoking courage, public celebration, and a spirited, dramatic atmosphere suited to drama music and performance settings.",
+  "description": "Atana, also spelled Athana or Adana, is a janya raga derived from the 29th melakarta, Sankarabharanam (Dhirasankarabharanam). It is a well-known Carnatic raga with a strong association with drama music and stage performance, valued for its catchy, attention-grabbing appeal. The raga is described as organically developed and not bound by a rigid linear ascent and descent; instead, it relies on characteristic interwoven phrases in improvisation. Its standard scale is arohana S R2 M1 P N3 S and avarohana S N3 D2 P M1 P G3 R2 S. The source notes that the raga uses chatushruti rishabham, antara gandharam, shuddha madhyamam, chatushruti dhaivatam, and kakali nishadam, while also being bhashanga with anya swaras G2 and N2. A rare feature mentioned is the use of kakali nishada in descent. The raga is associated with veeram (courage) and is especially effective in dramatic and concert settings where a lively, attention-grabbing mood is desired. It is unrelated to the Hindustani raga Adana despite the similar name.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "Atana is treated with characteristic phrase-based gamakas rather than a plain scalar rendering. The raga’s identity depends on interwoven prayogas, with strong emphasis on kampita and oscillatory treatment in the melodic phrases, especially around R2, G3, D2, and N3. M1 and P are often handled as stable anchor notes, with P frequently repeated or touched in phrase loops. The descent is particularly important for its vakra movement and phrase turns, and the rare descental use of kakali nishada (N3) is a defining color. As a bhashanga raga, the anya swaras G2 and N2 may appear as delicate phrase-inflections rather than as structural scale tones, and they should not be overemphasized. The raga should sound lively, clipped, and idiomatic, not like a straight Shankarabharanam derivative.",
+  "hindustani_equivalent": "Adana (unrelated; name similarity only)",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [],
+  "notable_features": "Very common in drama music; considered highly catchy and stage-effective. Gives a strong veera/courageous flavor. Bhashanga raga with anya swaras G2 and N2. Rarely uses kakali nishada in descent. Not strictly linear in arohana-avaroha; phrase-based and organically developed. Unrelated to Hindustani Adana. No compositions were explicitly listed in the provided text.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Atana"
+}

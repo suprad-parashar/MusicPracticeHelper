@@ -1,0 +1,101 @@
+{
+  "raga_name": "Jana Ranjani",
+  "other_names": [
+    "Janaranjani"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 29,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M1",
+    "P",
+    "D2",
+    "P",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "D2",
+    "P",
+    "M1",
+    "R2",
+    "S"
+  ],
+  "raga_type": "vakra sampoorna-audava",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Jana Ranjani is a bright, pleasing, and audience-friendly raga whose very name suggests delight and enjoyment among listeners. Its zig-zag ascent and compact five-note descent create a lively yet controlled emotional space: cheerful, engaging, and mildly uplifting rather than deeply plaintive. It can evoke a sense of graceful movement, festive warmth, and easy accessibility, making it feel welcoming to both performer and audience.",
+  "description": "Jana Ranjani is a janya raga of Shankarabharanam, the 29th melakarta. The name is explained as meaning a raga that induces enjoyment among rasikas: 'Jana' meaning people and 'Ranjani' meaning that which pleases or delights. It is classified as a vakra sampoorna-audava ragam: the ascent uses all notes but in a zig-zag manner, while the descent is pentatonic. Its scale is S R2 G3 M1 P D2 P N3 S in ascent and S D2 P M1 R2 S in descent. The raga is noted as being very similar to Poornachandrika, and the two are considered twin ragas, difficult to distinguish unless rendered with precise sangatis and pidis. It is a well-known concert and teaching raga because its structure is compact, attractive, and easy for listeners to enjoy, while still demanding careful phrase control from the performer.",
+  "time_of_day": "",
+  "gamaka_usage": "The source does not give explicit gamaka rules, but the raga’s identity depends strongly on characteristic phrases rather than plain scalar movement. R2, G3, M1, D2, and N3 are typically handled with gentle oscillation and phrase-based slides, especially in the zig-zag ascent S R2 G3 M1 P D2 P N3 S. The repeated P in the ascent suggests a jaru-like turn around panchamam, and the descent is usually rendered with clean, compact phrases emphasizing D2–P–M1–R2–S. Compared with Poornachandrika, Janaranjani relies heavily on sangatis and pidis, so gamaka and phrase choice are crucial for differentiation. The notes are not treated as rigidly plain; instead, the raga comes alive through delicate kampita on R2 and G3, smooth glides into M1 and D2, and restrained, graceful oscillations that preserve its bright but composed character.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Vidajaladhura",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nadadina Mata",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Smarane Sukhamu Rama Nama",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Pahimam Sri Rajarajeswari",
+      "composer": "Maha Vaidyanatha Iyer",
+      "language": ""
+    },
+    {
+      "name": "Ranjani Mridupankaja Lochani",
+      "composer": "Tanjavur Sankara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Nannu Brova Rada",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Shri Chakra Varada",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Paripahimam Para Vasudeva",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Pranapathe Nee Salaho",
+      "composer": "Vyasatirtha",
+      "language": ""
+    },
+    {
+      "name": "Ambara Chidambaram",
+      "composer": "Muthu Thandavar",
+      "language": ""
+    }
+  ],
+  "notable_features": "Jana Ranjani is a janya of Shankarabharanam (melakarta 29). It is vakra in the ascent and audava in the descent. The raga is described as highly pleasing to listeners, and its name reflects that quality. It is closely related to Poornachandrika and is considered one of a pair of twin ragas with it; accurate sangatis and pidis are needed to distinguish them. The provided text does not mention graha bhedam, but the scale and structure are clearly defined.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jana_Ranjani"
+}

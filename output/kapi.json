@@ -1,0 +1,232 @@
+{
+  "raga_name": "Kapi",
+  "other_names": [
+    "Kāpi",
+    "Kapı",
+    "KAPI"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 22,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M1",
+    "P",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "N2",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-vakra sampoorna",
+  "is_vakra": true,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "N3",
+    "G3",
+    "D1"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Shanta"
+  ],
+  "mood": "Kapi carries a deeply devotional and emotionally tender atmosphere. It is often felt as a raga of prayer, yearning, and gentle pathos, with an undercurrent of warmth and happiness. The listener may experience a soft, meandering emotional landscape that moves between surrender, sadness, and serene devotion, making it suitable for reflective and intimate settings.",
+  "description": "Kapi is a popular rāga in Carnatic music and is a janya rāgam of Kharaharapriya. It is characterized by a meandering vakra scale and is typically performed at slow and medium speeds. The raga is described as capable of inducing devotion, pathos, sadness, sentiment, and happiness. Its structure is audava-vakra sampoorna: the आरोhaṇa is pentatonic, while the avarohaṇa uses seven notes in a non-linear, vakra manner. The raga is bhashanga because of the use of Kakali Nishadam (N3) and Anthara Gandharam (G3), and the text also notes a mild presence of shuddha daivatham (D1) in some usages, especially in devotional contexts such as 'Jagadhodharana'. The traditional Kāpi differs from the Hindustani raag and thaat Kafi; the Hindustani equivalent is Pilu. The text also notes that Muthuswami Dikshitar's Kāpi is quite different from the traditional Kāpi and is often cited as karNATaka Kāpi. Venkatamakhin's moorchana for Kāpi is given as S R2 G2 M1 P D2 N2 S / N2 D2 P M1 G2 G2 R2 S.",
+  "time_of_day": "",
+  "gamaka_usage": "Kapi is rendered with gentle, expressive gamakas rather than rigid scalar delivery. The nishadas are especially important: N2 and N3 are both used, with the vakra phrase N2-D2-N2 being a distinctive prayoga. N2 is typically oscillated and approached with a curved, meandering motion, while D2 is used as part of the vakra descent rather than as a starkly held note. R2 and G2 are also treated with light kampita and smooth jaru-like transitions, supporting the raga’s flowing character. M1 and P are comparatively steadier anchor notes. The text indicates a mild presence of D1 in devotional renderings, and G3 may appear as an anya swara, so these foreign notes are handled delicately and sparingly. Compared with closely related ragas, Kapi’s identity depends less on a plain scale and more on its characteristic oscillations, vakra descent, and the expressive treatment of nishada.",
+  "hindustani_equivalent": "Pilu",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Jagadoddhārana Adisidaleshode",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Bannisi gopi",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Mee Valla Gunadosha Memi",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Anyayamu Seyakura",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Intha Sowkhya",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rama Raghukula Jalanidhi",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Edi Nee Bahubala",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nithya Roopa",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ennalu Nee Trova",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rama Pahi Megha Shyama",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Venkatachalapate Ninu Nammiti",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Veera Hanumathe",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Viharamanasa Rame",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Smarasi Pura",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sree Madhavamanu",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Namasudhamayi",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Enna thavam seydanai Yashoda",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Eesananbar",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sodhanai Sumaikku",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Bhaja maadhavam anisham",
+      "composer": "Mysore Vasudevacharya",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Maya Gopabala",
+      "composer": "K C Kesava Pillai",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Jaanaki ramana dasaratha nandana",
+      "composer": "Vanamaamalai Jeeyar Swami",
+      "language": "Tamil"
+    },
+    {
+      "name": "Javo Mat Thum (Upaakhyanam)",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Chinnanchiru Kiliye (First two stanzas)",
+      "composer": "Subramanya Bharathi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Kurai Ondrum Illai (Two charanam verses)",
+      "composer": "Chakravarti Rajagopalachari",
+      "language": "Tamil"
+    },
+    {
+      "name": "Karthikeyanai",
+      "composer": "Mayuram Viswanatha Sastri",
+      "language": "Tamil"
+    },
+    {
+      "name": "Aravinda Padamalar",
+      "composer": "Ambujam Krishna",
+      "language": "Tamil"
+    },
+    {
+      "name": "Charanamule Nammiti",
+      "composer": "Bhadrachala Ramadasu",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kanaka Simham",
+      "composer": "Kalyani Varadarajan",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kanna Vaa Manivanna Vaa (First two verses)",
+      "composer": "Ambujam Krishna",
+      "language": "Tamil"
+    },
+    {
+      "name": "Nee mattume en nenjil nirkirai",
+      "composer": "Perumal Murugan and K Arun Prakash",
+      "language": "Tamil"
+    },
+    {
+      "name": "Vaddani Nenatiga",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Samayamide Gadura",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Parulana Mata",
+      "composer": "Dharmapuri Subbarayar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Bayarani Baliche",
+      "composer": "Thirupathi Narayanaswamy",
+      "language": "Telugu"
+    }
+  ],
+  "notable_features": "Kapi is an audava-vakra sampoorna janya of Kharaharapriya. It is bhashanga due to the use of N3 and G3, and the text also mentions a mild foreign D1 in some contexts. The raga is associated with devotion and pathos, and is often sung slowly or at medium tempo. The traditional Kāpi differs from Hindustani Kafi; its Hindustani equivalent is Pilu. The text explicitly notes that Muthuswami Dikshitar’s Kāpi is quite different from the traditional Kāpi and is often called karNATaka Kāpi. Venkatamakhin’s moorchana is given as S R2 G2 M1 P D2 N2 S / N2 D2 P M1 G2 G2 R2 S. The source also states that in the song 'Jagadhodharana' by Purandara Dasa, D1 occurs as an anya swara.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kapi_(raga)"
+}

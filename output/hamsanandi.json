@@ -1,0 +1,165 @@
+{
+  "raga_name": "Hamsanandi",
+  "other_names": [
+    "hamsānandi"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 53,
+  "inventor": "Harikesanallur Muthiah Bhagavatar",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "M2",
+    "D2",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "M2",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "shadava-shadava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Hamsanandi has a serene, luminous, and expansive mood. Its omission of panchamam gives it a floating, slightly ethereal quality, often felt as calm devotion with a gentle sense of wonder. The raga suits reflective listening and evening contemplation, evoking a peaceful, graceful atmosphere rather than intense pathos or drama. It can feel soothing and uplifting at once, with enough openness for alapana and swara elaboration.",
+  "description": "Hamsanandi is a hexatonic (shadava) janya rāgam in Carnatic music, derived from the 53rd melakarta, Gamanashrama. It is symmetric and omits panchamam entirely, sharing with Shree ranjani the feature of having only the invariant panchamam missing from the parent scale. Its structure is shadava-shadava, with identical six-note ascent and descent: S R1 G3 M2 D2 N3 >S and >S N3 D2 M2 G3 R1 S. The scale uses shadjam, shuddha rishabham, antara gandharam, prati madhyamam, chathusruthi dhaivatham, and kakali nishadam. It is an evening rāgam and is noted for ample scope for alapana and swara prasthara. The text also notes that it has been used by many composers and in film music. In Hindustani classical music, Sohni raga of the Marwa thaat resembles Hamsanandi. Through graha bhedam, Hamsanandi yields Anandanatani by shifting the tonic to niṣāda, and this relationship is used in a Carnatic tillana by Bhagavatīśvara.",
+  "time_of_day": "evening",
+  "gamaka_usage": "Hamsanandi is generally rendered with smooth, lyrical gamakas rather than heavy oscillation. R1 is often approached cleanly and may receive a light kampita or gentle slide into G3. G3 and N3 are important color notes and are typically given nuanced kampita or delicate jaru-inflected transitions to preserve the raga’s brightness and floating quality. M2 and D2 are usually held with clarity and stability, acting as bright pillars in the scale. The absence of panchamam creates characteristic flowing movements between M2–D2 and D2–N3, and phrases should avoid any accidental P. Compared with closely related panchama-less ragas, Hamsanandi tends to sound more expansive and luminous when the upper notes are allowed to glide smoothly rather than being over-ornamented.",
+  "hindustani_equivalent": "Sohni",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Paahi Jagajanani",
+      "composer": "Maharaja Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Sankara Sreegiri",
+      "composer": "Maharaja Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Srinivasa Thiruvenkatamudayai",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Paavana Guru Pavana",
+      "composer": "Lalitha Dasa",
+      "language": ""
+    },
+    {
+      "name": "Hantha Njan Enthu",
+      "composer": "Maharaja Swati Tirunal",
+      "language": "Manipravalam"
+    },
+    {
+      "name": "Andha Naal Ini Varumo",
+      "composer": "Shuddhananda Bharati",
+      "language": "Tamil"
+    },
+    {
+      "name": "Needu Mahima Mogadana",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Sachaamara Ramaavaani",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Naan Ini",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Ee pariya Sobagu",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Kandena Govindana",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Tattatha Dhimitha",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Smarisu Gurugala",
+      "composer": "Gopala Dasa",
+      "language": ""
+    },
+    {
+      "name": "Ranga kolalanoodalaagi",
+      "composer": "Prasanna venkata dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Raghavendra Rayara Padambuja",
+      "composer": "Kamalesha Vithala Dasu",
+      "language": ""
+    },
+    {
+      "name": "Shauriyuro Vasini",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Meenakshi Jayda Varada",
+      "composer": "M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Muruga Muruga Ena Nee Sol",
+      "composer": "Gomathi Ramasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Dr. Lalgudi Jayaraman",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Srimushnam V. Raja Rao",
+      "language": ""
+    },
+    {
+      "name": "Vadavarayai Maththaaki",
+      "composer": "Ilango Adigal",
+      "language": ""
+    }
+  ],
+  "notable_features": "A janya rāgam of Gamanashrama (53rd melakarta). It is a symmetric shadava-shadava scale with no panchamam. The text explicitly compares it to Shree ranjani in that only the invariant panchamam is missing from the parent scale. It is suitable for alapana and swara prasthara. Through graha bhedam, it yields Anandanatani by shifting the tonic to niṣāda. Sunadavinodini is noted as a similar-sounding rāgam, but it lacks shuddha rishabham. Hamsanandi is also said to resemble Hindustani Sohni (Marwa thaat).",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hamsanandi"
+}

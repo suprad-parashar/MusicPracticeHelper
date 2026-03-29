@@ -1,0 +1,209 @@
+{
+  "raga_name": "Sindhu Bhairavi",
+  "other_names": [
+    "Sindhubhairavi",
+    "Sindhu Bhairavi (raga)"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 8,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M1",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "janya",
+  "is_vakra": false,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "R1",
+    "R2",
+    "R3",
+    "G1",
+    "G2",
+    "G3",
+    "M1",
+    "M2",
+    "D1",
+    "D2",
+    "D3",
+    "N1",
+    "N2",
+    "N3"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Shanta",
+    "Viraha"
+  ],
+  "mood": "Sindhu Bhairavi has a plaintive yet flexible emotional world: it can sound devotional, tender, and deeply human, but also carry the ache of separation and sorrow. The raga often evokes a soft, reflective atmosphere that can move from gentle prayerfulness to poignant longing, making it suitable for both intimate devotional expression and emotionally charged lyrical passages. Because it is a bhashanga raga that can accommodate all 12 notes, it has a wide expressive range and can absorb shades of pathos, compassion, sweetness, and quiet serenity.",
+  "description": "Sindhu Bhairavi is a raga in both Hindustani and Carnatic classical music, and in Carnatic music it is a janya raga of the 8th melakarta, Hanumatodi. It is classified as a bhashanga raga, with all 12 notes considered applicable in practice. The raga is associated with viraham (separation), shokam (sorrow), karunam (compassion), and bhakthi (devotion). The basic scale is often given as arohana S R G M P D N S and avarohana S N D P M G R S, while actual practice allows flexible use of notes and shades beyond the plain parent-scale form. It is not to be confused with similarly named ragas such as Sindhi Bhairavi, Sindh, Sindhura, and Sindhura Bhairavi. The raga is widely used for expressive, light-classical, and devotional repertoire, and it has been popularized in Carnatic performance by singers such as M. L. Vasanthakumari. The source also notes its Hindustani connection and its use in jugalbandi contexts as a common raga between the two traditions.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "Sindhu Bhairavi is rendered with highly flexible ornamentation rather than rigid scalar treatment. The rishabham and gandharam are typically approached with gentle oscillation and slides, and the dhaivatam and nishadam are also treated with expressive kampita and jaru depending on phrase. In practice, the raga allows broad note freedom, so gamaka usage can vary from light, almost folk-like embellishment to more classical kampita-laden treatment. The identity comes less from a fixed set of oscillations and more from nuanced intonation, phrase shaping, and selective stress on notes. Because it is bhashanga, performers may touch anya swaras delicately, but the raga should still retain its plaintive, devotional core rather than sounding like a plain scale.",
+  "hindustani_equivalent": "Sindhi Bhairavi",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Mosa Jese",
+      "composer": "Chinnaiah of the Tanjore Quartet",
+      "language": "unknown"
+    },
+    {
+      "name": "Vinnum Mannum",
+      "composer": "Subramania Bharati",
+      "language": "unknown"
+    },
+    {
+      "name": "Venkatachala Nilayam",
+      "composer": "Purandara Dasa",
+      "language": "unknown"
+    },
+    {
+      "name": "Tamboori meetidava",
+      "composer": "Purandara Dasa",
+      "language": "unknown"
+    },
+    {
+      "name": "Vrindavanave Mandira",
+      "composer": "Purandara Dasa",
+      "language": "unknown"
+    },
+    {
+      "name": "Tirupati Venkataramana",
+      "composer": "Purandara Dasa",
+      "language": "unknown"
+    },
+    {
+      "name": "Harihara ninnanu",
+      "composer": "Purandara Dasa",
+      "language": "unknown"
+    },
+    {
+      "name": "Elliruvano Ranga",
+      "composer": "Purandara Dasa",
+      "language": "unknown"
+    },
+    {
+      "name": "Kai Meeri Hoda Matige",
+      "composer": "Purandara Dasa",
+      "language": "unknown"
+    },
+    {
+      "name": "Narasimhanembo Devanu",
+      "composer": "Purandara Dasa",
+      "language": "unknown"
+    },
+    {
+      "name": "Krishnana Kolalina Kare",
+      "composer": "P T Narasimhachar",
+      "language": "unknown"
+    },
+    {
+      "name": "Dummi Salenni",
+      "composer": "Vadiraja Tirtha",
+      "language": "unknown"
+    },
+    {
+      "name": "Govinda Gopala Gopika",
+      "composer": "Vadiraja Tirtha",
+      "language": "unknown"
+    },
+    {
+      "name": "Enu Karanadinda",
+      "composer": "Vijaya Dasa",
+      "language": "unknown"
+    },
+    {
+      "name": "Sharanu Sheshachala",
+      "composer": "Vijaya Dasa",
+      "language": "unknown"
+    },
+    {
+      "name": "Vishweshwar Darshan",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": "unknown"
+    },
+    {
+      "name": "Bhaja Bhaja",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": "unknown"
+    },
+    {
+      "name": "Ramachandra Prabhu",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": "unknown"
+    },
+    {
+      "name": "Kalyana Gopalam",
+      "composer": "Narayana Theertha",
+      "language": "unknown"
+    },
+    {
+      "name": "Pasyati Disidisi",
+      "composer": "Jayadeva",
+      "language": "unknown"
+    },
+    {
+      "name": "Manadhirkugandhadhu",
+      "composer": "Thanjavur Sankara Iyer",
+      "language": "unknown"
+    },
+    {
+      "name": "Pankajaksha Pahi",
+      "composer": "Thulaseevanam",
+      "language": "unknown"
+    },
+    {
+      "name": "Kantamam",
+      "composer": "Mayuram Viswanatha Sastri",
+      "language": "unknown"
+    },
+    {
+      "name": "Pahi Pahi Gajanana",
+      "composer": "Sri Ganapathy Sachchidananda Swamiji",
+      "language": "unknown"
+    },
+    {
+      "name": "Thillana",
+      "composer": "Lalgudi Jayaraman",
+      "language": "unknown"
+    },
+    {
+      "name": "Karunai Deivame",
+      "composer": "Madurai T. Sreenivasan",
+      "language": "unknown"
+    },
+    {
+      "name": "Kalyana Gopalam",
+      "composer": "Narayana Teertha",
+      "language": "unknown"
+    },
+    {
+      "name": "Venkatachala Nilayam",
+      "composer": "Purandara Dasa",
+      "language": "unknown"
+    }
+  ],
+  "notable_features": "Janya of Hanumatodi (8th melakarta). Classified as a bhashanga raga in Carnatic music, with all 12 notes considered applicable. The source explicitly associates it with the rasas of separation, sorrow, compassion, and devotion. It is also a raga common to both Hindustani and Carnatic traditions and is mentioned as a common choice in Hindustani-Carnatic jugalbandi. M. L. Vasanthakumari is noted for popularizing Kalyana Gopalam and Venkatachala Nilayam in this raga, and she reportedly learned nuances of Sindhu Bhairavi in the Hindustani style from Bade Ghulam Ali Khan. The source warns not to confuse it with similarly named ragas. The provided theory section names Vadi as D2 and Samavadi as G2. The source also notes that in Carnatic music it is a bhashanga raga where all 12 notes are applicable.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sindhu_Bhairavi"
+}

@@ -1,0 +1,61 @@
+{
+  "raga_name": "Senavati",
+  "other_names": [
+    "Senāgrani"
+  ],
+  "melakarta_number": 7,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Netra",
+  "arohana": [
+    "S",
+    "R1",
+    "G2",
+    "M1",
+    "P",
+    "D1",
+    "N1",
+    ">S"
+  ],
+  "avrohana": [
+    "S",
+    "N1",
+    "D1",
+    "P",
+    "M1",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Senavati has a calm, composed, and slightly austere emotional color, with a devotional undertone. The scale’s shuddha rishabham, sadharana gandharam, shuddha madhyamam, shuddha dhaivatham, and shuddha nishadham create a restrained, meditative atmosphere rather than overt brightness. It can suggest quiet prayer, introspection, and a dignified serenity, making it suitable for reflective and devotional expression.",
+  "description": "Senavati is the 7th melakarta rāgam in the 72-melakarta system and belongs to the 2nd chakra, Netra, with mnemonic name Netra-Pa and mnemonic phrase sa ra gi ma pa dha na. Its scale is S R1 G2 M1 P D1 N1 S / S N1 D1 P M1 G2 R1 S, making it a sampoorna melakarta with all seven notes in both directions. It is the shuddha madhyamam equivalent of Gavambhodi, the 43rd melakarta. In the older asampurna melakarta system compiled by Venkatamakhin, the corresponding raga is called Senāgrani, and the scale is rendered with vakra prayoga in both ascent and descent. The raga has minor janya ragams associated with it. Graha bhedam on Senavati yields the melakarta ragas Latangi and Sooryakantam. The raga is also known in the Muthuswami Dikshitar school as Senāgrani.",
+  "time_of_day": "",
+  "gamaka_usage": "As a melakarta with vivadi swaras R1, D1, and N1, Senavati typically requires careful kampita and jaru treatment to soften the inherent tension of these notes. R1 and G2 are usually handled with gentle oscillation and connected phrases rather than stark flat rendering, while M1 and P are comparatively stable anchor notes. D1 and N1 should be approached with controlled oscillation and smooth slides, especially in descending phrases, to preserve the raga’s sober character. Because the scale is structurally straightforward, the raga’s identity depends on precise phraseology and nuanced gamaka on the vivadi notes rather than heavy ornamentation.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Jalamela Raghupathe",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Gnanambike palayamam",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    }
+  ],
+  "notable_features": "1st rāgam in the 2nd chakra Netra. Mnemonic name: Netra-Pa. Mnemonic phrase: sa ra gi ma pa dha na. Shuddha madhyamam equivalent of Gavambhodi (43rd melakarta). In the asampurna melakarta system, Senāgrani uses the same notes but with vakra prayoga in arohana and avarohana. Graha bhedam from Senavati yields Latangi and Sooryakantam. The raga uses vivadi swaras (R1, D1, N1).",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Senavati"
+}

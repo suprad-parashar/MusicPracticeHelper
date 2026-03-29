@@ -1,0 +1,88 @@
+{
+  "raga_name": "Kantamani",
+  "other_names": [
+    "Kāntāmaṇi",
+    "Kuntalam"
+  ],
+  "melakarta_number": 61,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Rudra",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M2",
+    "P",
+    "D1",
+    "N1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N1",
+    "D1",
+    "P",
+    "M2",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Adbhuta",
+    "Shanta"
+  ],
+  "mood": "Kantamani has a serious, introspective and somewhat rarefied melodic color. The presence of prati madhyamam together with shuddha dhaivatam and shuddha nishadam gives it a tense yet meditative quality, often suggesting devotion, inward reflection, and a touch of poignancy. It can evoke the feeling of solemn worship, quiet wonder, or a contemplative late-evening atmosphere where emotion is restrained but deep. Its character is not overtly bright; instead it leans toward a dignified, subtle emotional world with devotional and slightly plaintive shades.",
+  "description": "Kantamani is a melakarta ragam in Carnatic music and is the 61st melakarta in the 72 melakarta system. It is known as Kuntalam in the Muthuswami Dikshitar school of Carnatic music. It is the 1st ragam in the 11th chakra, Rudra, and its mnemonic name is Rudra-Pa; the mnemonic phrase is 'sa ri gu mi pa dha na'. Its scale is sampurna in both ascent and descent, as required of a melakarta. The swaras used are chathusruthi rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and shuddha nishadham, along with shadjam and panchamam. Like Kalyani, it employs R2, G3, M2 and P, but in the upper tetrachord it uses D1 and N1; its nishadam lies at the same sthana as the dhaivata of Kalyani. It is the prati madhyamam equivalent of Mararanjani, the 25th melakarta. In theoretical treatment, Kantamani yields Manavati through graha bhedam. It is a rare melakarta with only a few minor janya ragams associated with it.",
+  "time_of_day": "",
+  "gamaka_usage": "Kantamani is not a raga that thrives on plain scalar rendering alone; its identity emerges through careful handling of its vivadi-flavored upper tetrachord. R2 and G3 may be given measured kampita and weight, while M2 is an important color note that can be sustained with repose. P remains a firm nyasa and stabilizing pivot. The crucial area is the ascent and descent around P-D1-N1->S and >S-N1-D1-P: D1 and especially N1 should be treated with precision and restraint, often with subtle kampita or delicate oscillatory shading rather than hard, flat intonation. Gentle jaru connections such as N1~D1~P and M2~G3~R2 help soften the austerity of the scale and preserve raga bhava. Because Kantamani shares R2 G3 M2 P with Kalyani but differs sharply in using D1 and N1, performers must clearly articulate the lower dhaivata-nishada region so that it does not drift toward Kalyani-like phrases. Overall, the gamaka approach is controlled, weighty, and exact, with restrained ornamentation that highlights the raga's serious, meditative and uncommon personality.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Sri Sugandhi Kuntalambike",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Nadasukham",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Bhuvaneshwari pahi",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Palintuvo",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Matiki Matiki",
+      "composer": "Tiruvottriyur Tyagayyar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Pahimam Sri Venkateshwara",
+      "composer": "Akkarai Sornalatha",
+      "language": ""
+    },
+    {
+      "name": "Kamala Kanthamani",
+      "composer": "K Ramaraj",
+      "language": "Telugu"
+    }
+  ],
+  "notable_features": "Called Kuntalam in the Muthuswami Dikshitar school. It is the 1st ragam of the 11th chakra Rudra, with mnemonic name Rudra-Pa and mnemonic phrase 'sa ri gu mi pa dha na'. Like Kalyani, it shares R2, G3, M2 and P, but differs in the upper tetrachord by employing D1 and N1; its nishadam is at the same sthana as the dhaivata of Kalyani. It is the prati madhyamam counterpart of Mararanjani (25th melakarta). Through graha bhedam, its notes yield Manavati. It has a couple of minor janya ragams. Because it contains D1 and N1 in a prati madhyama melakarta framework, it includes vivadi swara relationships."
+}

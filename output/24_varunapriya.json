@@ -1,0 +1,71 @@
+{
+  "raga_name": "Varunapriya",
+  "other_names": [
+    "Viravasantam"
+  ],
+  "melakarta_number": 24,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Veda",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M1",
+    "P",
+    "D3",
+    "N3",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N3",
+    "D3",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Varunapriya has a poised, balanced, and luminous character. Its complete seven-note structure gives it an orderly, expansive feel, while the combination of chatushruti rishabham, sadharana gandharam, shuddha madhyamam, shatsruti dhaivatham, and kakali nishadham lends a restrained brightness rather than exuberance. The raga can evoke calm contemplation, devotional uplift, and a dignified sense of clarity, making it suitable for reflective and prayerful expression.",
+  "description": "Varunapriya is the 24th melakarta rāgam in the 72-melakarta system of Carnatic music. It is the 6th rāgam in the 4th chakra, Veda, and its mnemonic name is Veda-Sha; the mnemonic phrase is sa ri gi ma pa dhu nu. It is also called Viravasantam in the Muthuswami Dikshitar school. Its scale is sampoorna, with the notes S R2 G2 M1 P D3 N3 S / S N3 D3 P M1 G2 R2 S. It is the shuddha madhyamam equivalent of Neetimati, the 60th melakarta. Varunapriya is structurally complete and symmetrical in note content, and the available sources note that it does not have janya ragas associated with it. A graha bhedam on Varunapriya yields Ragavardhini. The raga is recognized as a monsoon-associated scale in some modern discussions, and it is represented in compositions by Tyagaraja, Koteeswara Iyer, M. Balamuralikrishna, and Muthuswami Dikshitar.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The provided sources do not specify a detailed gamaka grammar for Varunapriya. As a melakarta, its swaras are generally rendered in a clear, stable manner so the scale identity remains prominent. S, M1, and P are typically held steady, while R2, G2, D3, and N3 may take light kampita or gentle oscillation depending on phrase context. Since it is not described as vakra or bhashanga, gamakas should support the plain scalar outline rather than obscure it. Compared with more heavily ornamented janya ragas, Varunapriya is best approached with measured, restrained ornamentation.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Yemani pogadudu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Samashrayami Sada",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Singara kumari",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Veeravasanta Thyagaraja",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta #24; 4th chakra Veda; mnemonic name Veda-Sha; mnemonic phrase sa ri gi ma pa dhu nu; shuddha madhyamam equivalent of Neetimati (#60); no janya ragas listed in the provided sources; graha bhedam from Varunapriya yields Ragavardhini; called Viravasantam in the Muthuswami Dikshitar school.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Varunapriya"
+}

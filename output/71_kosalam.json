@@ -1,0 +1,93 @@
+{
+  "raga_name": "Kosalam",
+  "other_names": [
+    "Kusumākaram",
+    "Kusumaakaram"
+  ],
+  "melakarta_number": 71,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Aditya",
+  "arohana": [
+    "S",
+    "R3",
+    "G3",
+    "M2",
+    "P",
+    "D2",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M2",
+    "G3",
+    "R3",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Adbhuta",
+    "Veera",
+    "Bhakti",
+    "Shanta"
+  ],
+  "mood": "Kosalam has a bright, expansive and striking melodic personality owing to its sharp R3, G3 and prati madhyama. At the same time, available descriptions also associate it with devotion and serenity. The raga can therefore suggest radiance without harshness: a luminous, dignified, inwardly devotional atmosphere with a sense of wonder, confidence and calm spiritual poise. It often feels majestic yet composed, as though opening into a clear sunlit space that is both uplifting and contemplative.",
+  "description": "Kosalam (pronounced kōsalam) is a Carnatic melakarta raga and the 71st melakarta in the 72-melakarta system. It is the 5th raga in the 12th chakra, Aditya, and its mnemonic name is Aditya-Ma; the mnemonic phrase is 'sa ru gu mi pa dhi nu'. As a melakarta, it is by definition a sampurna raga, containing all seven swaras in both ascent and descent with the same notes in both directions. Its swaras are shatsruthi rishabham, antara gandharam, prati madhyamam, chathusruthi dhaivatham and kakali nishadham, along with shadjam and panchamam. Kosalam is the prati madhyamam equivalent of Shoolini, the 35th melakarta. In the Muthuswami Dikshitar school, it is called Kusumākaram. The raga has associated janya ragas. Theoretically, through graha bhedam, Kosalam yields three other melakarta ragas: Keeravani, Hemavati and Vakulabharanam.",
+  "time_of_day": "",
+  "gamaka_usage": "The available sources do not give a codified lakshana-style gamaka prescription for Kosalam, but its handling can be described from its scalar identity and swara structure. Since it is a direct sampurna melakarta with no vakra movement indicated, the raga accommodates clear linear sancharas in both ascent and descent. Its identity depends strongly on the bright placement of R3, G3, M2 and N3, so these notes must be rendered with precision and not blurred by excessive oscillation. R3 and G3, being closely placed and highly coloristic, are usually treated with controlled kampita or light nokku rather than broad, heavy oscillations; their distinction is crucial to preserving the raga's brilliance. M2 functions as a luminous pivot and can take a gentle kampita or be used as a linking note in smooth phrases. P is generally held steady as a point of repose. D2 and N3 may be connected with measured jaru in ascent or descent, especially in scalar passages, while maintaining the clean melakarta outline. Overall, Kosalam favors well-shaped, exact ornamentation over dense gamaka layering: too much oscillatory weight can obscure the raga's sharp, radiant contour, whereas restrained kampita, subtle slides and precise intonation bring out its majestic and devotional character.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Kusumaakara Shobhitha",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sri chakrapura vasini",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Idi neeku nyayama",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Ubhaya kaveri",
+      "composer": "Veene Sheshanna",
+      "language": ""
+    },
+    {
+      "name": "Ka Guha Shanmukha",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Ō ManasĀ muktiNi ganumu",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Sundari Kannal",
+      "composer": "",
+      "language": "Tamil"
+    },
+    {
+      "name": "Paarthene",
+      "composer": "Girishh Gopalakrishnan",
+      "language": "Tamil"
+    }
+  ],
+  "notable_features": "Pronunciation given as kōsalam. It is the prati madhyamam counterpart of Shoolini (35). In the Dikshitar school it is known as Kusumākaram. Graha bhedam on Kosalam yields Keeravani, Hemavati and Vakulabharanam. It belongs to the 12th chakra Aditya and is specifically the 5th raga in that chakra, with mnemonic name Aditya-Ma and mnemonic phrase 'sa ru gu mi pa dhi nu'. Some contemporary descriptions characterize the raga as flowing with devotion and serenity, complementing its bright melakarta structure."
+}

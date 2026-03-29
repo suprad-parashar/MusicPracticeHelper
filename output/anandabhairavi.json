@@ -1,0 +1,464 @@
+{
+  "raga_name": "Anandabhairavi",
+  "other_names": [
+    "Ananda Bhairavi",
+    "Ānandabhairavi"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 20,
+  "inventor": "Syama Sastri is said to have made this raga popular and given it its present form",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G2",
+    "R2",
+    "G2",
+    "M1",
+    "P",
+    "D2",
+    "P",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampoorna",
+  "is_vakra": true,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "G3",
+    "D1",
+    "N3"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna",
+    "Shringara"
+  ],
+  "mood": "Anandabhairavi is a very old, melodious raga that conveys happiness, tenderness, and a gentle devotional warmth. Its very name suggests joy, and the scale tends to create a soft, pleasing, rakti-filled atmosphere rather than brilliance or aggression. Listeners often feel comforted, affectionate, and emotionally soothed, as if hearing a graceful, intimate expression of devotion or feminine grace. It suits reflective, auspicious, and emotionally rich settings, with a happy yet restrained character.",
+  "description": "Anandabhairavi or Ananda Bhairavi is an ancient and highly melodious Carnatic raga, also used in Indian traditional and regional musics. It is a janya raga of the 20th melakarta Natabhairavi. Though it is a sampoorna raga with all seven swaras, it is not a melakarta because of its vakra prayoga and its use of anya swaras in phrases. It is classified as a bhashanga and rakti raga. The source notes three anya swaras used only in prayogas: G3, D1, and N3, while the arohana-avarohaṇa itself uses the parent-scale notes. The raga is strongly associated with Syama Sastri, who is said to have popularized it and given it its present form. It is also noted for unique phraseology in manodharma and compositions, and for being distinct from Reetigowla because one should not linger long on nishadam. The raga appears prominently in major compositions by Syama Sastri, Tyagaraja, Muthuswami Dikshitar, Papanasam Sivan, Swathi Thirunal, Annamacharya, Purandara Dasa, and many others. In the Kamalamba Navavarna set of Muthuswami Dikshitar, Anandabhairavi is the raga of the second kriti, and the set is highlighted as one of the classic showcases of the raga. The text also mentions a defining modern illustration, 'Yaadhum Oore' from Sandham: Symphony Meets Classical Tamil, and a Kuchipudi-related anecdote involving Tyagaraja and the song Madhura Nagarilo set in this raga. The raga is also described as ancient, with origins in South Indian folk traditions, and as one that spreads a feeling of joy and fulfillment.",
+  "time_of_day": "any time",
+  "gamaka_usage": "Anandabhairavi uses characteristic vakra and phrase-based gamakas rather than a plain scalar treatment. The source highlights recurring prayogas such as 'sa ga ga ma', 'sa pa', and 'sa ga ma pa'. G2 is central and often handled with gentle oscillation and curved movement; R2 is approached and left with smooth jaru-like motion; M1 and P are generally stable anchor notes. D2 is used in the scale, but the anya D1 appears only in phrases like 'ga ma pa da', so dhaivatam treatment must be carefully differentiated between the scale note and the foreign shade. G3 appears in 'ma pa ma ga ga ma' as an ornamental phrase note, and N3 appears subtly in 'sa da ni sa'. The musician is specifically not allowed to stay long on nishadam, so N2 should be touched lightly and released quickly. Overall, the raga depends on delicate kampita and phrase contours, with restrained, graceful oscillation rather than heavy gamaka. Compared with Reetigowla, its nishada handling is more fleeting and less lingering. It is also described as thriving on melodic oscillations and majestic glides.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Marivere Gati",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Mahilo Amba",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "O Jagadhamba",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Pahi Sri Girijasuthe",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Himachala Tanaya",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Adinamuninchi Pogadi",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sami nee Rammaanave",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Neeke Teliyaka",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nee Balama Nama Balama",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rama Rama Neevaramu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ksheera Sagara Vihara",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Maanasa Guruguha",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Dandayudhapanim",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Kamalamba Samrakshatu",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Anandeswarena",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Paradevathe Namaste",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Abhayamba Nayaka Hari Sayaka",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Thyagaraja Yoga Vaibhavam",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Singāra Vēlavan Vanthān",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Nanganallūr Ezhundharul",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Vānōr Vanangum Annaiyē",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Swāmī Charanam",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Ānandabhairavī Annaiyum",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sami ni pai",
+      "composer": "Tiruvottriyur Tyagayyar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Raveme Maguva",
+      "composer": "Melattur Venkataramana Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Madhura Nagarilo",
+      "composer": "Chittoor Subramaniam Pillai",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vanitaro",
+      "composer": "Dasu Sriramulu",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rave Na Cheli",
+      "composer": "Pattabhiramayya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Yathum oore Anthem",
+      "composer": "Rajan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Paavanasuguna",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sakhiye intha velayil",
+      "composer": "Ponniah Pillai",
+      "language": "Tamil"
+    },
+    {
+      "name": "Itti Muddulaadi",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Merugu Vantidi",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kamti SukravAramu",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Neene Dayalu",
+      "composer": "Purandaradasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Veera Hanuma Bahu",
+      "composer": "Purandaradasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Hodi Nagari Mele",
+      "composer": "Purandaradasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Summane Baruvude Mukti",
+      "composer": "Purandaradasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Srinivasa neene",
+      "composer": "Purandaradasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Etthanai Thaan Viddhai",
+      "composer": "Anai Ayya",
+      "language": "Tamil"
+    },
+    {
+      "name": "Laali Govinda Laali",
+      "composer": "Sripadaraja",
+      "language": "Kannada"
+    },
+    {
+      "name": "Palayachyutha Palayajitha",
+      "composer": "Vadiraja Tirtha",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Smarasi Puraguru",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Paluke Bangaramayena",
+      "composer": "Bhadrachala Ramadasu",
+      "language": "Telugu"
+    },
+    {
+      "name": "Krishna Karuna",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Pahi Tharakshupuralaya",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Varija Vadana",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Bharathi pankaja",
+      "composer": "Mannargudi Sambasiva Bhagavatar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Poonthen Nermozhi",
+      "composer": "Swathi Thirunal",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Balike Moham",
+      "composer": "Swathi Thirunal",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Maanini Vamata",
+      "composer": "Swathi Thirunal",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Andolika Vahane",
+      "composer": "Swathi Thirunal",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Samaganapriye",
+      "composer": "Periyasaamy Thooran",
+      "language": "Tamil"
+    },
+    {
+      "name": "Poo Mel Valarum Annaiye",
+      "composer": "Mazhavai Chidambara Bharathi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Raghudvaha Dâsa",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Kamalasulochana",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Pahi Sri Ramachandra",
+      "composer": "Paidala Gurumurti Sastri",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Thanjavur Sankara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Dr Lalgudi Jayaraman",
+      "language": ""
+    },
+    {
+      "name": "Ehi Mudam Dehi",
+      "composer": "Narayana Teertha",
+      "language": ""
+    },
+    {
+      "name": "Kanikaramu Leka",
+      "composer": "Pallavi Gopala Iyer",
+      "language": ""
+    },
+    {
+      "name": "Rara Sami",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sadbhakthiyu Galga",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Mari Marine Ninne",
+      "composer": "Akella Achyuta Ramam",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kaapaduve",
+      "composer": "Tanjore Quartet",
+      "language": ""
+    },
+    {
+      "name": "Pattakura",
+      "composer": "Sarangapani",
+      "language": "Padam"
+    },
+    {
+      "name": "Manchi Dinamu",
+      "composer": "Kshetrayya",
+      "language": "Padam"
+    },
+    {
+      "name": "Sripathi Sutubariki",
+      "composer": "Kshetrayya",
+      "language": "Padam"
+    },
+    {
+      "name": "Emani Telupudu",
+      "composer": "Kshetrayya",
+      "language": "Padam"
+    },
+    {
+      "name": "Sari Niga Samamana Deivam",
+      "composer": "Madurai R. Muralidaran",
+      "language": "Padam"
+    },
+    {
+      "name": "Bhagyam Ullore Vaarungal",
+      "composer": "Sri Sri Mualidhara Swamiji",
+      "language": ""
+    },
+    {
+      "name": "Chapala Chittuda",
+      "composer": "Ponniah Pillai",
+      "language": ""
+    },
+    {
+      "name": "Pantamela",
+      "composer": "Ponniah Pillai",
+      "language": "Tanavarnam"
+    },
+    {
+      "name": "Paradevi Tiruppaarkkadal",
+      "composer": "Neelakanta Sivan",
+      "language": ""
+    },
+    {
+      "name": "Sami Ninne",
+      "composer": "Nagapattinam Veerasamy Pillai",
+      "language": "Tanavarnam"
+    },
+    {
+      "name": "Neemaditsallaga",
+      "composer": "Mathrubhoothayya",
+      "language": ""
+    },
+    {
+      "name": "Ninne Valachi",
+      "composer": "Puranam Kanakaiah",
+      "language": "Tanavarnam"
+    },
+    {
+      "name": "Panthamu Jesithi",
+      "composer": "Tanjore Quartet",
+      "language": "Padavarnam"
+    },
+    {
+      "name": "Chalamu Jesithe",
+      "composer": "Tanjore Quartet",
+      "language": "Padavarnam"
+    },
+    {
+      "name": "Kamalamba Samrakshathu",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    }
+  ],
+  "notable_features": "Janya of Natabhairavi (20th melakarta). Sampoorna but not melakarta because of vakra prayoga and anya swaras. Classified as bhashanga and rakti raga. The source explicitly names three anya swaras: G3, D1, and N3, used only in prayogas. Popular patterns include 'sa ga ga ma', 'sa pa', and 'sa ga ma pa'. The raga should not linger on nishadam. Syama Sastri is credited with making it popular and shaping its present form. It is considered one of the favorite ragas of Syama Sastri. The Kamalamba Navavarna kriti 'Kamalamba Samrakshathu' is in Anandabhairavi. The text also notes that Tyagaraja and Muthuswami Dikshitar do not use any anya swaras in their compositions, though the raga itself permits them in prayoga. A modern defining example cited is 'Yaadhum Oore' by Raleigh Rajan. The raga is said to have a life-changing anecdote connected with Tyagaraja and a Kuchipudi Bhagavata recital. It is considered melodious, old, and happiness-inducing. It is also described as having origins in South Indian folk traditions and as a raga that spreads joy and fulfillment.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anandabhairavi"
+}

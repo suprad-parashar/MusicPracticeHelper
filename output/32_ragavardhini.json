@@ -1,0 +1,51 @@
+{
+  "raga_name": "Ragavardhini",
+  "other_names": [
+    "Ragavardhini",
+    "Ragavardini"
+  ],
+  "melakarta_number": 32,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Veda",
+  "arohana": [
+    "S",
+    "R3",
+    "G3",
+    "M1",
+    "P",
+    "D1",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D1",
+    "P",
+    "M1",
+    "G3",
+    "R3",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Bhakti",
+    "Veera",
+    "Adbhuta"
+  ],
+  "mood": "Ragavardhini has a rare, striking, and intellectually arresting melodic color. Its vivadi structure gives it a tense brightness and a sense of alertness, so the listener often experiences it as serious, energetic, and dignified rather than soft or leisurely. It can suggest intense devotion, inward resolve, and a subtle sense of wonder born from its unusual scalar personality. In elaboration, it evokes an atmosphere of exploration and expansion, with a feeling of forward movement and concentrated emotional force.",
+  "description": "Ragavardhini (also transliterated Ragavardini) is the 32nd melakarta raga in the Carnatic music system and a janaka raga in the 72-melakarta scheme. It belongs to the 6th chakra, Veda. Its scale is sampurna in both ascent and descent: S R3 G3 M1 P D1 N2 S / S N2 D1 P M1 G3 R3 S. As a melakarta, it contains all seven swaras in both directions and serves as a parent scale for derived janya ragas, though specific popular janyas are not identified in the provided material. Ragavardhini is not a commonly heard melakarta in mainstream concert practice, and its identity is shaped strongly by its vivadi content, especially the presence of R3 in conjunction with G3. This gives the raga a distinctive, uncommon melodic personality that stands apart from more frequently performed melakartas. Like other melakarta ragas, its full character emerges not merely from the scalar outline but from phraseology, intonation, and careful handling in alapana, composition, and improvisation.",
+  "time_of_day": "",
+  "gamaka_usage": "Ragavardhini requires careful and disciplined gamaka handling because of its vivadi structure. The R3-G3 zone is the most delicate area: R3 must be rendered with precise intonation and clearly separated from G3, without excessive smearing that would blur the raga’s identity. G3 can take a measured kampita, while R3 is best approached with restraint, often as a sharply defined swara or with a light oscillatory touch rather than heavy shaking. D1 and N2 may also admit controlled kampita or subtle nokku depending on phrase context, especially in descending contours such as N2-D1-P. M1 and P generally act as steadier anchoring notes and can serve as nyasa points. Jaru phrases can be effective in descent, especially around N2-D1-P and G3-R3-S, but the slides should preserve the exact swara positions. In ascent, scalar clarity is important, and over-ornamentation can weaken the raga’s uncommon profile. Overall, the raga benefits from a balance of plain-note definition and selective ornamentation: enough gamaka to give life and Carnatic identity, but not so much that the vivadi intervals lose their sharp character.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [],
+  "notable_features": "Melakarta 32 in the 72-melakarta system; belongs to the Veda chakra. It is a sampurna janaka raga with a non-vakra scale and vivadi content, notably the use of R3. The raga is considered relatively uncommon in concert usage. Graha bhedam on Ragavardhini yields Varunapriya, as noted in the provided source snippet. No confirmed Hindustani equivalent, time association, or composer-specific canonical compositions were established from the provided material."
+}

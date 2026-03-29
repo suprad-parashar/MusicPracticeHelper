@@ -1,0 +1,59 @@
+{
+  "raga_name": "Amritha Kalyani",
+  "other_names": [
+    "Amrith Kalyan"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 65,
+  "inventor": "Mahesh Mahadev",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G3",
+    "M2",
+    "P",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M2",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Amritha Kalyani has a bright, uplifting, and auspicious character, with a serene devotional sweetness. Its pentatonic ascent gives it a clean, open, floating quality, while the fuller descent adds warmth and completeness. The raga tends to evoke calm joy, prayerful devotion, and a gentle sense of grace, making it suitable for reflective or celebratory settings rather than intense pathos or drama.",
+  "description": "Amritha Kalyani is a Carnatic janya raga created by composer Mahesh Mahadev. It is derived from the 65th melakarta, Mechakalyani, and is an audava-sampurna raga: the ascent is pentatonic and omits R and D, while the descent is sampurna with all notes of the parent scale except that the source text specifically presents the scale as S G3 M2 P N3 S' / S' N3 D2 P M2 G3 R2 S. It is described as equivalent to the Western Lydian mode, though with the second and sixth notes omitted in the ascending form. The raga is also referred to as Amrith Kalyan in Hindustani music. The source notes that it is asymmetric and that the ascending scale lacks rishabham and dhaivatam. Compositions mentioned in this raga include 'Achyutam Keshavam' by Mahesh Mahadev and 'Ragapravaham' by Ganesh Kumaresh. It is a modern derivative of Kalyani and shares the parent raga's bright, expansive, and auspicious color while remaining distinct through its reduced ascent.",
+  "time_of_day": "evening",
+  "gamaka_usage": "The source does not give explicit gamaka rules, but the scale suggests a smooth, lyrical treatment. The ascent is best rendered plainly and lightly, with emphasis on the clean pentatonic contour S–G3–M2–P–N3–S. In descent, the raga can take fuller Carnatic ornamentation on G3, R2, D2, and N3, with gentle slides into M2 and P to preserve the Kalyani-like brightness. Because the ascent omits R and D, those notes should not be stressed there; they belong to the descending phrase and should be introduced naturally with jaru-like movement rather than abrupt attack. Compared with plain Kalyani, the raga’s gamaka treatment is more restrained in ascent and more complete in descent. G3 and N3 may be given mild kampita or delicate oscillation, while M2 and P are often approached with smooth jaru. R2 and D2 are best used as connecting descent notes rather than as heavily gamaka-laden anchors, preserving the raga's airy, graceful character.",
+  "hindustani_equivalent": "Amrith Kalyan",
+  "western_equivalent": "Lydian mode",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Achyutam Keshavam",
+      "composer": "Mahesh Mahadev",
+      "language": ""
+    },
+    {
+      "name": "Ragapravaham",
+      "composer": "Ganesh Kumaresh",
+      "language": ""
+    }
+  ],
+  "notable_features": "Created by Mahesh Mahadev. Janya of Mechakalyani (65th melakarta). Audava-sampurna structure. Asymmetric scale with omitted R and D in ascent. Equivalent to the Western Lydian mode, but with the second and sixth notes omitted in the ascending form. Also named Amrith Kalyan in Hindustani music.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amritha_Kalyani"
+}

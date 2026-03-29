@@ -1,0 +1,98 @@
+{
+  "raga_name": "Nasikabhushani",
+  "other_names": [
+    "Nāsikābhūshaṇi",
+    "Nasikābhūṣaṇi",
+    "Nāsāmaṇi"
+  ],
+  "melakarta_number": 70,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Aditya",
+  "arohana": [
+    "S",
+    "R3",
+    "G3",
+    "M2",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M2",
+    "G3",
+    "R3",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Adbhuta",
+    "Veera",
+    "Bhakti"
+  ],
+  "mood": "Nasikabhushani has a bright, striking and somewhat uncommon melodic color because of its R3–G3 and M2 combination. It can evoke a sense of brilliance, alertness and wonder, while still supporting devotional expression in composed music. The raga suggests a dignified, forward-moving energy rather than deep repose; it can feel intellectually stimulating, radiant and slightly austere, making it suitable for weighty yet vivid presentation.",
+  "description": "Nasikabhushani is a rāgam in Carnatic music and the 70th melakarta rāgam in the 72 melakarta system. In the Muthuswami Dikshitar school it is called Nāsāmaṇi. It is the 4th rāgam in the 12th chakra, Aditya, with the mnemonic name Aditya-Bhu and mnemonic phrase 'sa ru gu mi pa dhi ni'. Its scale is sampurna in both ascent and descent: S R3 G3 M2 P D2 N2 S / S N2 D2 P M2 G3 R3 S. The swaras used are shatsruthi rishabham, antara gandharam, prati madhyamam, chathusruthi dhaivatham and kaisiki nishadham, along with shadjam and panchamam. As a melakarta rāgam, it contains all seven notes in both directions. It is the prati madhyamam equivalent of Vagadheeswari, the 34th melakarta rāgam. Nasikabhushani has a couple of minor janya rāgams associated with it. In theoretical treatment, performing graha bhedam from its dhaivatham (D2) yields another minor melakarta rāgam, Shadvidamargini. In Western music, it corresponds to the Hungarian major scale.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The available sources do not give a codified gamaka lakshana for Nasikabhushani. From the scale structure and melakarta treatment, the raga is generally rendered with clear, precise intonation rather than heavy vakra-based ornamentation. The R3–G3 region is especially important and must be articulated carefully so the raga’s identity remains distinct; these swaras should not be blurred. M2 is a key color-bearing swara and is typically approached with smooth linkage from G3 or toward P, while N2 should be handled with care in the upper tetrachord so that the contrast with D2 and the ascent to upper S remains clear. Panchamam and shadjam function well as stable nyasa points. Janta, light kampita, and measured slides may be used, but excessive oscillation that obscures the direct sampurna outline is best avoided. Overall, the raga benefits from a bright, clean presentation with controlled gamaka, preserving the sharp scalar personality created by R3, G3, M2 and N2.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "Hungarian major scale",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Māravairī Ramanī",
+      "composer": "Thyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Thandarul Ayyā",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Shrī Ramā Saraswathī",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Shrī Krishnō Mām Rakshathu",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Adigalige Vandipe",
+      "composer": "Vijaya Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Ambikām Upāseham",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Thāye en Saraswathī",
+      "composer": "Lalitha Dasa",
+      "language": "Tamil"
+    },
+    {
+      "name": "Karipurārī Kāmārī",
+      "composer": "Arunagirinathar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Paradēvī Shankarī",
+      "composer": "Nallan Chakravarthy Murthy",
+      "language": ""
+    }
+  ],
+  "notable_features": "Also known as Nāsāmaṇi in the Muthuswami Dikshitar school and in the asampurna mela system. It is the 4th rāgam in the 12th chakra Aditya. Mnemonic name: Aditya-Bhu. Mnemonic phrase: sa ru gu mi pa dhi ni. It is the prati madhyamam equivalent of Vagadheeswari (34). Graha bhedam from dhaivatham (D2) yields Shadvidamargini. It has a couple of minor janya rāgams associated with it. Karipurārī Kāmārī is identified as a Thiruppugazh of Arunagirinathar set to tune by Neyveli Santhanagopalan. Paradēvī Shankarī is identified as a varnam by Nallan Chakravarthy Murthy."
+}

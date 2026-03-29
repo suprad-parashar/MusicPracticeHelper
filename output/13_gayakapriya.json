@@ -1,0 +1,68 @@
+{
+  "raga_name": "Gayakapriya",
+  "other_names": [
+    "Geyahejjujji"
+  ],
+  "melakarta_number": 13,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Agni",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "M1",
+    "P",
+    "D1",
+    "N1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N1",
+    "D1",
+    "P",
+    "M1",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampoorna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Gayakapriya has a calm, devotional, and dignified mood. Its shuddha rishabham, antara gandharam, shuddha madhyamam, shuddha dhaivatham, and shuddha nishadham give it a clear, restrained brightness rather than intense pathos or romance. The raga feels composed and prayerful, suitable for reflective listening, solemn praise, and an atmosphere of spiritual poise.",
+  "description": "Gayakapriya is the 13th melakarta rāgam in the 72-melakarta system and belongs to the 3rd chakra, Agni, with mnemonic name Agni-Pa and mnemonic phrase sa ra gu ma pa dha na. Its scale is the standard sampoorna melakarta form: arohana S R1 G3 M1 P D1 N1 S and avarohana S N1 D1 P M1 G3 R1 S. It is the shuddha madhyamam equivalent of Dhavalambari, the 49th melakarta. In the Muthuswami Dikshitar school it is called Geyahejjujji. In the original Venkatamakhin asampurna melakarta scheme, Geyahejjujji is the 13th melakarta and uses a vakra shadava-sampurna structure with arohana S R1 M1 G3 M1 P D1 S and avarohana S N1 D1 P M1 G3 R1 S. The raga has a few minor janya ragas, with Kalagada noted as occasionally heard in concerts. A theoretical graha bhedam on Gayakapriya yields Dhatuvardani.",
+  "time_of_day": "",
+  "gamaka_usage": "Gayakapriya is generally rendered with restrained, phrase-oriented ornamentation rather than heavy oscillation. As a melakarta with shuddha R1, shuddha M1, shuddha D1, and shuddha N1, these swaras are usually treated as relatively stable anchor notes. G3 may take a light kampita or gentle glide in melodic phrases, while D1 and N1 can also receive mild oscillation depending on the prayoga. R1 is typically approached cleanly from S or N1, and M1 is often held steady as a pivot note. Because the raga is sampoorna and structurally straightforward, gamakas are used to shape the line and maintain dignity rather than to create intense emotional tension. Compared with more heavily gamaka-laden ragas, Gayakapriya tends to sound plain, clear, and balanced.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Kalagada"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Nada nilai",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sri Mahavishnum",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Ramachandra bhakthum",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta #13; 1st rāgam in the 3rd chakra Agni; mnemonic name Agni-Pa; mnemonic phrase sa ra gu ma pa dha na; shuddha madhyamam equivalent of Dhavalambari (#49); called Geyahejjujji in the Muthuswami Dikshitar school; original Venkatamakhin asampurna form is vakra and shadava-sampurna; graha bhedam yields Dhatuvardani; Kalagada is a noted janya.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gayakapriya"
+}

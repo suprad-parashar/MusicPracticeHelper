@@ -1,0 +1,73 @@
+{
+  "raga_name": "Chitrambari",
+  "other_names": [
+    "Chaturangini"
+  ],
+  "melakarta_number": 66,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Rudra",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M2",
+    "P",
+    "D3",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D3",
+    "P",
+    "M2",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Adbhuta",
+    "Veera",
+    "Bhakti"
+  ],
+  "mood": "Chitrambari has a bright, sharp, and striking melodic personality owing to its prati madhyama and shatshruti dhaivata content. It can evoke a sense of brilliance, wonder, and intensity rather than softness, giving it an arresting and somewhat majestic emotional color. The raga may suggest awe, spiritual grandeur, and a bold, radiant energy, making it suitable for compositions with devotional depth as well as intellectual or dramatic musical exploration.",
+  "description": "Chitrambari (pronounced chitrāmbari) is a Carnatic raga and the 66th melakarta in the 72 melakarta system. In the Muthuswami Dikshitar school it is called Chaturangini. It is the prati madhyamam equivalent of Naganandini, the 30th melakarta. Chitrambari is the 6th raga in the 11th chakra, Rudra. Its mnemonic name is Rudra-Sha and its mnemonic phrase is 'sa ra gu mi pa dhu nu'. As a melakarta, it is by definition a sampurna raga, containing all seven swaras in both ascent and descent. Its scale uses chathushruti rishabham, antara gandharam, prati madhyamam, shatshruti dhaivatam, and kakali nishadam. Chitrambari has a few janya ragas, of which Amritavarshini is especially popular. Theoretical analysis notes that by graha bhedam, Chitrambari yields three other melakarta ragas: Shanmukhapriya, Shoolini, and Dhenuka.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The available material does not give a direct lakshana-style prescription of gamakas for Chitrambari. From the scale structure and its melakarta status, the raga is best handled with clear, disciplined gamaka treatment rather than heavy, diffuse oscillation. R2 and G3 can take measured kampita and light nokku, while M2 should be rendered with a bright, well-defined intonation that preserves the prati-madhyama color. The upper tetrachord is especially important: D3 and N3, being close and highly brilliant in effect, need precise placement and controlled oscillation; they should not be over-shaken to the point of blurring into neighboring shades. Jaru phrases linking P-D3-N3->S and the reverse descent can be used carefully, but the straight sampurna outline must remain audible. P is generally a stable resting point, and direct scalar movement is acceptable because the raga is not vakra. Overall, Chitrambari benefits from crisp phrasing, exact intonation, and moderate ornamentation that highlights its vivid, somewhat rarefied melodic identity.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Amritavarshini"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Ekamranatheshwarena",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Guruguha Bhava Tharangineem",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sri Rama Nelami",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Telugu"
+    },
+    {
+      "name": "Samaganalola",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    }
+  ],
+  "notable_features": "Pronounced chitrāmbari. In the Dikshitar tradition it is known as Chaturangini. It is the prati madhyamam counterpart of Naganandini (melakarta 30). In graha bhedam, its notes yield the melakarta ragas Shanmukhapriya, Shoolini, and Dhenuka. It belongs to the 11th chakra Rudra and carries the mnemonic name Rudra-Sha with mnemonic phrase 'sa ra gu mi pa dhu nu'. It has a few janya ragas, among which Amritavarshini is noted as very popular."
+}

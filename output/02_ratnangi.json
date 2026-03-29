@@ -1,0 +1,83 @@
+{
+  "raga_name": "Ratnangi",
+  "other_names": [
+    "Phenadhyuti"
+  ],
+  "melakarta_number": 2,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Indu",
+  "arohana": [
+    "S",
+    "R1",
+    "G1",
+    "M1",
+    "P",
+    "D1",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D1",
+    "P",
+    "M1",
+    "G1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Ratnangi has a calm, composed, and luminous mood, with a gentle devotional undertone. Its shuddha and relatively restrained swaras give it a serene, balanced character rather than intense drama, evoking clarity, poise, and a gem-like radiance. It suits reflective, auspicious, and prayerful settings, and can feel quietly uplifting rather than emotionally turbulent.",
+  "description": "Ratnangi (pronounced ratnāngi, meaning \"the one with a gem-like body\") is the 2nd melakarta rāgam in the 72-melakarta system of Carnatic music. It belongs to the 1st chakra, Indu, and its mnemonic name is Indu-Sri. The scale is sampoorna, using shuddha rishabham, shuddha gandharam, shuddha madhyamam, shuddha dhaivatham, and kaisiki nishadham: S R1 G1 M1 P D1 N2 S / S N2 D1 P M1 G1 R1 S. In the Muthuswami Dikshitar school it is called Phenadhyuti. It is the shuddha madhyama equivalent of Jalārnavam, the 38th melakarta. In the older asampurna melakarta tradition compiled by Venkatamakhin, Phenadhyuti is the 2nd melakarta, with a different ascent: S R1 M1 P D1 P N2 S / S N2 D1 P M1 G1 R1 S. Ratnangi has a few minor janya ragas, with Revati noted as a very popular one. The raga’s notes, when subjected to graha bhedam, yield Gamanashrama and Jhankaradhwani. It is a foundational melakarta and serves as an important parent scale in Carnatic pedagogy.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The source text does not explicitly detail gamakas for Ratnangi, but as a melakarta with shuddha R1, G1, M1, D1 and N2, the raga is generally rendered with controlled, measured ornamentation rather than heavy oscillation. The swaras are typically approached cleanly and with smooth jaru-like transitions in scalar passages, while the stable anchor notes S, P, and often M1 are held plainly. Because the scale is structurally simple and non-vakra, gamaka treatment is usually restrained and even; any oscillation on R1, G1, D1, or N2 would be subtle and context-dependent rather than expansive. Compared with more gamaka-rich ragas, Ratnangi’s identity lies more in its exact note content and plain scalar clarity than in elaborate kampita patterns.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Revati"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Kalasavardhijam",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Tarunam ide",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sree Gurum Chintayaamyaham",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Janani Ashrita",
+      "composer": "Harikeshanallur Muthaiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Niratamu",
+      "composer": "Nallan Chakravarthy Murthy",
+      "language": ""
+    },
+    {
+      "name": "Sri Dakshinamurthim",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    }
+  ],
+  "notable_features": "Ratnangi is the 2nd melakarta and the 2nd raga in the Indu chakra. Its mnemonic name is Indu-Sri. In the Dikshitar school it is known as Phenadhyuti. It is the shuddha madhyama equivalent of Jalārnavam (38th melakarta). Graha bhedam on Ratnangi yields Gamanashrama and Jhankaradhwani. The asampurna melakarta version (Phenadhyuti) uses a different arohana: S R1 M1 P D1 P N2 S. Revati is mentioned as a popular janya raga.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ratnangi"
+}

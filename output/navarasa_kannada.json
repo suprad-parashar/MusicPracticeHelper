@@ -1,0 +1,92 @@
+{
+  "raga_name": "Navarasa kannada",
+  "other_names": [
+    "Navarasakannada"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 28,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G3",
+    "M1",
+    "P",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "svarantara-shadava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Navarasa kannada has a bright, graceful, and compact melodic personality. Its ascent is terse and uplifting, moving quickly from shadjam to antara gandharam, madhyamam, panchamam, and upper shadjam, while the descent adds warmth and fullness through nishadam, dhaivatam, and rishabham. The result is a raga that feels elegant, poised, and pleasantly devotional rather than deeply plaintive or dramatic. It suits refined, flowing expression, and its character is especially effective in instrumental settings where its clean contours can evoke serenity, composure, and a gentle celebratory mood.",
+  "description": "Navarasa kannada or Navarasakannada is a janya rāgam derived from the 28th melakarta, Harikambhoji. It is an asymmetric scale with a svarantara-shadava structure: four notes in ascent and six in descent. The arohana omits rishabham, gandharam, dhaivatam, and nishadham except for the direct leap to upper shadjam, while the avarohana omits panchamam. The scale is S G3 M1 P Ṡ / Ṡ N2 D2 M1 G3 R2 S. The raga is described as especially well suited for instrumental music, particularly veena and flute, and also for orchestral music. The source text does not mention a formal inventor or historical origin beyond its derivation from Harikambhoji. It is a compact, asymmetric janya with a clear melodic identity and is associated with several compositions, especially by Tyagaraja and other composers.",
+  "time_of_day": "",
+  "gamaka_usage": "The source text does not specify gamaka treatment, but from the scale structure the raga is likely rendered with relatively clean, phrase-based movement rather than heavy oscillation. G3 is an important anchor note and would typically receive gentle kampita or stress in characteristic phrases, while M1 and P are generally held steady as structural tones. R2, D2, and N2 appear only in descent and are usually approached by smooth jaru-like slides within descending phrases. Because the ascent is sparse and direct, the raga’s identity depends more on phrase contour than on elaborate gamaka. Compared with more gamaka-heavy janyas, Navarasa kannada tends to sound crisp and instrumental when the notes are articulated clearly.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Evvarunnaru (varnam)",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Sarasangi Ninnu Joochi (varnam)",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Ninnuvina Naamadhendhu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Paluku kanta",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Naan Oru Vilayaattu",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Vande Sada Padmanabham",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Durga Devi Durita Nivarini",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Kannada"
+    },
+    {
+      "name": "Nee Padamule Gathiyani",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Maathu Saaku (Javali)",
+      "composer": "Ananda Dasa",
+      "language": ""
+    }
+  ],
+  "notable_features": "This raga is an asymmetric janya of Harikambhoji (28th melakarta). It is classified as svarantara-shadava, with 4 notes in ascent and 6 in descent. The source explicitly says it is well suited for instrumental music, especially veena and flute, and also for orchestral music. The arohana is S G3 M1 P Ṡ and the avarohana is Ṡ N2 D2 M1 G3 R2 S. No panchamam appears in descent. The text notes that several compositions in this raga became popular due to Tyagaraja. The raga page does not provide graha bhedam, prati madhyama equivalent, or other theoretical relationships.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Navarasa_kannada"
+}

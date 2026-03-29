@@ -1,0 +1,91 @@
+{
+  "raga_name": "Bhavapriya",
+  "other_names": [
+    "Bhavāni"
+  ],
+  "melakarta_number": 44,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Vasu",
+  "arohana": [
+    "S",
+    "R1",
+    "G2",
+    "M2",
+    "P",
+    "D1",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D1",
+    "P",
+    "M2",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Shanta"
+  ],
+  "mood": "Bhavapriya has a serious, inward, and devotional emotional color. Its combination of shuddha rishabham, sadharana gandharam, prati madhyamam, and shuddha dhaivatham gives it a slightly austere and meditative feel, often suggesting prayer, introspection, and gentle pathos rather than brightness or exuberance. The raga can evoke the mood of quiet worship, reflective solitude, and emotional surrender, making it suitable for compositions addressed to deities, especially Shiva. Listeners may experience it as contemplative, tender, and spiritually charged, with an undercurrent of yearning softened by calmness.",
+  "description": "Bhavapriya is a Carnatic melakarta raga meaning 'the one dear to Bhava (Shiva)'. It is the 44th melakarta in the 72 melakarta system and is the 2nd raga in the 8th chakra, Vasu. Its mnemonic name is Vasu-Sri and its mnemonic phrase is 'sa ra gi mi pa dha ni'. The scale is sampurna in both ascent and descent: S R1 G2 M2 P D1 N2 S / S N2 D1 P M2 G2 R1 S. The swaras used are shuddha rishabham, sadharana gandharam, prati madhyamam, shuddha dhaivatham, and kaisiki nishadham, along with shadjam and panchamam. As a melakarta, it contains all seven notes in both directions by definition. Bhavapriya is the prati madhyamam equivalent of Hanumatodi (Todi), the 8th melakarta. In the Muthuswami Dikshitar school, it is called Bhavani. It has a minor janya raga associated with it. Through graha bhedam, Bhavapriya yields two other minor melakarta ragas: Vagadheeswari and Naganandini.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "As a melakarta with the R1-G2 and D1-N2 combinations and as the prati madhyama counterpart of Todi, Bhavapriya is best handled with nuanced gamaka-rich treatment rather than plain scalar rendering. R1 and G2 are important identity-bearing swaras and are typically given oscillated, weighty treatment rather than being sung as flat scale notes; the lower tetrachord especially needs repose and curved handling. M2 is a key color note in this raga and can be sustained with controlled emphasis, often serving as a point of repose that distinguishes the raga from its shuddha-madhyama counterpart. P is generally steady and acts as a stable anchor. D1 and N2 benefit from gentle kampita and curved approaches, especially in descent, and phrases such as N2-D1-P and M2-G2-R1 are naturally effective when rendered with jaru-like linkage rather than broken articulation. The raga's character emerges through measured oscillation, subtle slides, and a serious gait; overly plain, bright, or brisk scalar treatment can weaken its identity and reduce it to a mere note-sequence. In alapana and kriti rendering, the raga responds well to gamaka shaping that preserves its austere, devotional, and introspective flavor.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "Harmonic minor",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Srikanta niyeda",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Jayathi Siva",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Maam Avasrita",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sentiru velan",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Vennai tirudi",
+      "composer": "Periyasaamy Thooran",
+      "language": "Tamil"
+    },
+    {
+      "name": "Madhava mamava",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Kanikarumbuto",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Bhuvaneshwari Brihannayaki",
+      "composer": "Ashok Madhav",
+      "language": "Sanskrit"
+    }
+  ],
+  "notable_features": "Called Bhavani in the Muthuswami Dikshitar school. Mnemonic name: Vasu-Sri. Mnemonic phrase: sa ra gi mi pa dha ni. It is the prati madhyama equivalent of Hanumatodi. Graha bhedam on Bhavapriya yields Vagadheeswari and Naganandini. The source notes that it has a minor janya raga associated with it, though the janya is not named. Its swara set corresponds to the harmonic minor scale in Western scalar comparison."
+}

@@ -1,0 +1,98 @@
+{
+  "raga_name": "Poornachandrika",
+  "other_names": [
+    "Purnachandrika",
+    "Poornachandrika"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 29,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M1",
+    "P",
+    "D2",
+    "P",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "P",
+    "M1",
+    "R2",
+    "G3",
+    "M1",
+    "R2",
+    "S"
+  ],
+  "raga_type": "janya",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Poornachandrika has a bright, serene, and gently uplifting mood. It carries a calm devotional glow rather than intense pathos, giving the listener a feeling of clarity, composure, and quiet joy. The raga can suggest a soft morning freshness or a composed, prayerful atmosphere, with enough melodic lift to feel graceful and optimistic without becoming heavy or dramatic.",
+  "description": "Poornachandrika is a janya raga of Shankarabharanam, the 29th melakarta. Its scale is asymmetric and vakra, with the characteristic arohana S R2 G3 M1 P D2 P S and avarohana S N3 P M1 R2 G3 M1 R2 S. The raga is closely related in scale-feel to Madhyamavati in ascent, but differs by using G3 and D2, and by its distinctive descent with N3 and the vakra return through M1 and R2. It is described as a bright, fast-radiating raga and is often taught in intermediate stages because its zig-zag structure tests precision in phrase handling. The raga has a number of well-known compositions by major composers, indicating its established place in the Carnatic repertoire. It is not a melakarta, but a derived scale with a clear parent in Shankarabharanam.",
+  "time_of_day": "",
+  "gamaka_usage": "Poornachandrika is shaped more by phraseology than by heavy oscillation. R2 and G3 are typically rendered with gentle kampita and smooth connection, while M1 and P act as relatively steady anchor notes. The characteristic D2 P in ascent should be given a clean jaru-like lift into the upper register, and the descent N3 P M1 R2 G3 M1 R2 S must be articulated with careful glide and phrase shaping rather than plain scalar motion. The repeated M1 R2 movement in the avarohana is a defining prayoga and is usually sung with light oscillation and a flowing return, not as a rigid step. Compared with more heavily gamaka-laden ragas, Poornachandrika prefers graceful, bright, and precise ornamentation, with the vakra phrases carrying much of its identity.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Panchanadeesha Pahimaam",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Ne Jesina",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Telisi Rama",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Palukavemi Na",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Shanka Chakra",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sri Rajarajeshwari",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sri Ranganatham Upasmahe",
+      "composer": "Muthuswami Dikshitar or Ambi Dikshitar or one of Muthuswami Dikshitar's disciples",
+      "language": ""
+    },
+    {
+      "name": "Varadanipuna",
+      "composer": "G.N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Palayamam Deva",
+      "composer": "Swati Tirunal",
+      "language": ""
+    }
+  ],
+  "notable_features": "Janya of Shankarabharanam (29th melakarta). The scale is vakra and asymmetric. Arohana uses the phrase D2 P before upper shadjam, and avarohana uses N3 P M1 R2 G3 M1 R2 S. The raga is related by scale similarity to Madhyamavati in ascent, but differs by the use of G3 and the specific descent. It is often taught in intermediate stages because its zig-zag structure demands precision. The provided text does not mention graha bhedam, prati madhyama equivalent, or a specific time theory. It is associated with several popular compositions by Tyagaraja, Muthuswami Dikshitar, Patnam Subramania Iyer, Swati Tirunal, and G.N. Balasubramaniam.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Poornachandrika"
+}

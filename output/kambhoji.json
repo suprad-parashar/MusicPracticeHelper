@@ -1,0 +1,485 @@
+{
+  "raga_name": "Kambhoji",
+  "other_names": [
+    "Kambodhi",
+    "Khambaj"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 28,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M1",
+    "P",
+    "D2",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S",
+    "(N3",
+    "P",
+    "D2",
+    "S)"
+  ],
+  "raga_type": "shadava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "N3"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna",
+    "Shringara",
+    "Hasya"
+  ],
+  "mood": "Kambhoji is a grand, expansive, and deeply expressive raga with a regal yet intimate emotional range. It can project devotion and serenity, but it is equally capable of tenderness, pathos, and graceful romantic feeling. The raga often evokes a dignified, mature atmosphere—majestic in concert settings, yet warm and human in its emotional pull. Because of its bhashanga usage and broad melodic canvas, it can move from stately repose to affectionate lyricism, making it suitable for both devotional and lyrical compositions.",
+  "description": "Kambhoji or Kambodhi is a highly popular and ancient derived raga in Carnatic music, classified under the 28th melakarta Harikambhoji. It is said to have existed since the 7th century, and some traditions also associate its scale with Cambodia. It is a shadava raga in the ascent and sampurna in the descent. A key feature is the use of N3 in the phrase N3 P D2 S, which makes it a bhashanga raga. Historically, Kambhoji is referenced in ancient and medieval Indian musical literature under related names and classifications, including as Thakkesi in Cilappatikaram and in treatises such as Brihaddesi, Sangita Makaranda, and Chaturdandi Prakashika. It has long been treated as one of the primary and most important ragas in Carnatic music, with a very large repertoire of compositions across composers and genres, including geetam, kriti, varnam, padam, javali, and even film music. The raga is also associated with older classificatory schemes where it appears as a female raga/ragini, and that traditional association is often linked to its suitability for shringara, hasya, and karuna.",
+  "time_of_day": "evening",
+  "gamaka_usage": "Kambhoji is traditionally rendered with rich, weighty gamakas and broad oscillations. R2 and G3 are typically handled with kampita and graceful slides, giving the raga its characteristic majesty. M1 is usually sustained or gently touched rather than heavily oscillated. D2 and N2 in the descent are often approached with jaru-like phrases, and the bhashanga N3 in the phrase N3 P D2 S is treated as a delicate, phrase-specific inflection rather than a stable scale note. The raga depends strongly on prayoga and phrase identity rather than plain scalar rendering; flat, dry intonation would weaken its identity. Compared with closely related Harikambhoji, Kambhoji is more ornate, more expansive, and more phrase-driven, with stronger emphasis on oscillatory movement and long, flowing melodic curves.",
+  "hindustani_equivalent": "Khamaj",
+  "western_equivalent": "Mixolydian mode",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Mandhara Dharare",
+      "composer": "Paidala Gurumurti Sastri",
+      "language": ""
+    },
+    {
+      "name": "Krishnamurthy Kanna Munde",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Kandu Kandu Nee Enna",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Kailasavasa Gaurisha",
+      "composer": "Vijaya Dasa",
+      "language": ""
+    },
+    {
+      "name": "Nadamadi Thirintha",
+      "composer": "Papanasa Mudaliar",
+      "language": ""
+    },
+    {
+      "name": "Ayyane Atkol Meyyane",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Arumarundoru",
+      "composer": "Muthu Thandavar",
+      "language": ""
+    },
+    {
+      "name": "Dasarendare Purandaradasarayya",
+      "composer": "Vyasatirtha",
+      "language": ""
+    },
+    {
+      "name": "Emayya Rama",
+      "composer": "Bhadrachala Ramadasu",
+      "language": ""
+    },
+    {
+      "name": "Enna Vandaalum",
+      "composer": "Neelakanta Sivan",
+      "language": ""
+    },
+    {
+      "name": "Shivanai Ninaindu",
+      "composer": "Neelakanta Sivan",
+      "language": ""
+    },
+    {
+      "name": "Govinda Ghataya",
+      "composer": "Narayana Teertha",
+      "language": ""
+    },
+    {
+      "name": "Vedadri Sikhara",
+      "composer": "Narayana Teertha",
+      "language": ""
+    },
+    {
+      "name": "Sripatimiha",
+      "composer": "Narayana Teertha",
+      "language": ""
+    },
+    {
+      "name": "Lambodaram Avalambe",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Mari mari vacchuna",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Trivikramam Aham",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Akhilanda Koti (Varnam)",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Kuzhaloodhi Manamellam",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Mithiladhipa",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Manadarindho",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Endha Vidamagilum (Padam)",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Aakka Poruttavarkku",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Vāngum Enakku",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Konjum Mazhalai Peshi",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Devi Ni Padasarasamule",
+      "composer": "Shyama Sastri",
+      "language": ""
+    },
+    {
+      "name": "O Rangashayi",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Maa Janaki",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Elara Sri Krishna",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Evvari Mata",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Mahita Pravrddha",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Sri Raghuvara",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Marimari Ninne",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Margamu Telupave",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Emayya Rama",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Kamalambikayai (4th Avarana)",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sri Subrahmanyaya Namaste",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Marakatavallim",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kailsanathena",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Gopala Krishnaaya",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sri Valmika Lingam",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kashi Vishveshvara",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Samba Sadashivaaya",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sarasijanabha (Padavarnam)",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Sarasa Mridupada (Padavarnam)",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Charupankaja",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Karanam Vina",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Rasavilasa Lolo",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Namasudhamayi",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Poorna Chandranana",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Saradindu Sama Mukhanakum",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Manasi Karuna",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Padasanati Munijana",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Panchabanan Tannudaya (Padam)",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Innu Mama Bhagyataru (Padam)",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Intha Modi Elara (Padam)",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Koniyadina Napai",
+      "composer": "Veena Kuppayyar",
+      "language": ""
+    },
+    {
+      "name": "Ratna Kanchuka Dharini",
+      "composer": "Harikesanallur Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Shivam Harim",
+      "composer": "Harikesanallur Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Palinchu Sarvani",
+      "composer": "Puliyur Doraiswamy Iyer",
+      "language": ""
+    },
+    {
+      "name": "Adum Deivam",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Anandame Paramanandame",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Kaana Kan Kodi",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Kadhirkama Kandan",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Shikkal Meviya",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Neeye Sharanam",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Thiruvadi Sharanam",
+      "composer": "Gopalakrishna Bharati",
+      "language": ""
+    },
+    {
+      "name": "En Kula Deivame",
+      "composer": "Ambujam Krishna",
+      "language": ""
+    },
+    {
+      "name": "Vennai Unnum En",
+      "composer": "Periyasami Thooran",
+      "language": ""
+    },
+    {
+      "name": "Ele Palimpa",
+      "composer": "M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Natamadi Tirinda",
+      "composer": "Papavinasha Mudaliar",
+      "language": ""
+    },
+    {
+      "name": "Lambodaram Bhavaye",
+      "composer": "Thulaseevanam",
+      "language": ""
+    },
+    {
+      "name": "Bala Vinave (Padam)",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Samanyamugade (Padam)",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Adiyokka Yugamu (Padam)",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Ivan Yaaro Ariyen (Padam)",
+      "composer": "Kavi Kunjara Bharati",
+      "language": ""
+    },
+    {
+      "name": "Padhari Varugudhu (Padam)",
+      "composer": "Subbarama Iyer",
+      "language": ""
+    },
+    {
+      "name": "Ethirilaatha (Padam)",
+      "composer": "Subbarama Iyer",
+      "language": ""
+    },
+    {
+      "name": "Emi Mayamu (Javali)",
+      "composer": "Pattabhiramayya",
+      "language": ""
+    },
+    {
+      "name": "Pankajakshi (Varnam)",
+      "composer": "Maha Vaidyanatha Iyer",
+      "language": ""
+    },
+    {
+      "name": "Kamalakshi (Varnam)",
+      "composer": "Kunnakudi Krishnaiyer",
+      "language": ""
+    },
+    {
+      "name": "Taruni Ninnu (Varnam)",
+      "composer": "Fiddle Ponnuswami",
+      "language": ""
+    },
+    {
+      "name": "Intha Chalamu (Varnam)",
+      "composer": "Pallavi Gopala Iyer",
+      "language": ""
+    },
+    {
+      "name": "Nathanai Azhaithuvadi Sakhiye (Varnam)",
+      "composer": "T. S.Kalyanasundaram",
+      "language": ""
+    },
+    {
+      "name": "Aadiya Paadhangal Ambalathil",
+      "composer": "M. S. Viswanathan",
+      "language": "Tamil"
+    }
+  ],
+  "notable_features": "Derived from the 28th melakarta Harikambhoji. It is a bhashanga raga because of the use of N3 in the phrase N3 P D2 S. It is classified as shadava in the ascent and sampurna in the descent. Historically, it appears in ancient and medieval sources under related names and classifications, including Thakkesi in Cilappatikaram and references in Brihaddesi, Sangita Makaranda, Chaturdandi Prakashika, and other treatises. The raga is one of the primary ragas in Carnatic music and has a very large composition corpus. The text also notes a possible derivation of the scale from Cambodia. It is associated with female-raga/ragini classification in older theory, linking it to shringara, hasya, and karuna. Harikambhoji is its parent melakarta; Kambhoji is one of its most famous janyas.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kambhoji"
+}

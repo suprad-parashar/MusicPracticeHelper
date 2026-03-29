@@ -1,0 +1,72 @@
+{
+  "raga_name": "Yagapriya",
+  "other_names": [
+    "Kalāvati",
+    "Kalavati"
+  ],
+  "melakarta_number": 31,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Rutu",
+  "arohana": [
+    "S",
+    "R3",
+    "G3",
+    "M1",
+    "P",
+    "D1",
+    "N1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N1",
+    "D1",
+    "P",
+    "M1",
+    "G3",
+    "R3",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Yagapriya has a serene, composed, and devotional character. Its scale is bright yet restrained, with a calm dignity that can evoke quiet devotion, inner stillness, and a sense of auspiciousness. The raga tends to feel orderly and balanced rather than emotionally turbulent, making it suitable for reflective, prayerful, and spiritually centered moods.",
+  "description": "Yagapriya is the 31st melakarta rāgam in the 72-melakarta system and belongs to the 6th chakra, Rutu, with mnemonic name Rutu-Pa and mnemonic phrase sa ru gu ma pa dha na. It is a sampoorna scale with all seven notes in both ascent and descent: S R3 G3 M1 P D1 N1 S / S N1 D1 P M1 G3 R3 S. The raga uses shatsruthi rishabham, antara gandharam, shuddha madhyamam, shuddha dhaivatham, and shuddha nishadham. In the Muthuswami Dikshitar school it is known as Kalāvati. It is the shuddha madhyamam equivalent of Sucharitra, the 67th melakarta. The source notes that Kalāvati has also been adopted in Hindustani music. Yagapriya has a few minor janya ragas associated with it, though none are listed in the provided text. Its notes, when subjected to graha bhedam, do not yield any melakarta ragas.",
+  "time_of_day": "",
+  "gamaka_usage": "The provided text does not specify detailed gamaka treatment. As a melakarta with a straightforward sampurna structure, the swaras are generally rendered in a clean, scalar manner. R3 and G3 are typically handled with gentle oscillation or connected movement in practice, while M1 and P are usually steadier anchor notes. D1 and N1 are also expected to be treated carefully and distinctly, with smooth jaru-like transitions between adjacent notes rather than heavy kampita. Since the source gives no special prayoga rules, no unusual gamaka restrictions can be asserted beyond standard melakarta intonation.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Kalavati Kamalasyanu",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Shambho Sadashiva",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Thyaga Bhoga Yagapriya",
+      "composer": "Shuddhananda Bharati",
+      "language": ""
+    },
+    {
+      "name": "Yashodeyam Vande",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    }
+  ],
+  "notable_features": "It is the 1st rāgam in the 6th chakra Rutu. The source explicitly states that it is called Kalāvati in the Muthuswami Dikshitar school. It is the shuddha madhyamam equivalent of Sucharitra (67th melakarta). Graha bhedam on Yagapriya does not produce any melakarta rāgams. The raga is a melakarta, so it is by definition sampoorna and uses the same seven notes in ascent and descent.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yagapriya"
+}

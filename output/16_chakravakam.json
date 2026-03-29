@@ -1,0 +1,167 @@
+{
+  "raga_name": "Chakravakam",
+  "other_names": [
+    "Chakravaham",
+    "Tōyavēgavāhini"
+  ],
+  "melakarta_number": 16,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "Venkatamakhin (asampurna form); standardized in the modern melakarta scheme by Govindacharya",
+  "chakra": "Agni",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "M1",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Shanta"
+  ],
+  "mood": "Chakravakam has a restrained, devotional, and compassionate mood. It tends to evoke sincerity, humility, sympathy, and a gentle pathos rather than exuberance. The raga feels calm and inward-looking, suitable for devotional contemplation and emotionally tender expression, with a dignified warmth that can also suggest empathy and quiet resolve.",
+  "description": "Chakravakam or Chakravaham is the 16th melakarta rāgam in the 72-melakarta system and the 4th melakarta in the 3rd chakra, Agni. Its mnemonic name is Agni-Bhu and the mnemonic phrase is sa ra gu ma pa dhi ni. The scale is S R1 G3 M1 P D2 N2 S / S N2 D2 P M1 G3 R1 S, making it a sampoorna raga with all seven swaras in both ascent and descent. In the Muthuswami Dikshitar school, this raga is called Tōyavēgavāhini. It is the suddha madhyamam equivalent of Ramapriya (52nd melakarta). The raga is noted for its devotional and compassionate character and is considered similar to Ahir Bhairav in Hindustani music. In the asampurna melakarta tradition, Tōyavēgavāhini is listed as the 16th melakarta with the same note set and same ascent/descent. Chakravakam has several janya ragas, with Bindumalini, Malayamarutam, and Valaji mentioned as popular ones. It is also theoretically related through graha bhedam, yielding Sarasangi and Dharmavati when the notes are shifted while preserving relative frequencies.",
+  "time_of_day": "morning",
+  "gamaka_usage": "The Ri and Ga are rendered a bit flatter than in Mayamalavagowla, giving the raga a more restrained feel. The Da and Ni are treated somewhat like in Hari Kambhoji, contributing to its devotional essence. In practice, the raga favors gentle, measured gamaka rather than heavy ornamentation: R1 and G3 are typically approached with subtle oscillation and careful intonation, while M1 and P are comparatively steady. D2 and N2 should be sung with a smooth, devotional contour, often with light jaru-like movement into and out of the upper tetrachord. The overall treatment should avoid making the scale sound bright or overly forceful; the characteristic effect comes from controlled, slightly flattened phrasing and restrained kampita on the key notes.",
+  "hindustani_equivalent": "Ahir Bhairav",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Bindumalini",
+    "Malayamarutam",
+    "Valaji"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Etula Brotuvo Teliya",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sugunamule",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kānakkankoti Vendum",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Gajānanayutham",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Kailasanatham Bhajeham",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Vinayaka Vighna Nashaka",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Veena Pusthaka Dharinim",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Varahim Vaishnavim",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Inka Daya",
+      "composer": "Ramaswami Dikshitar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Mullu Koneya Mele",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Kada Beladingalu",
+      "composer": "Sripadaraja",
+      "language": "Kannada"
+    },
+    {
+      "name": "Sarojanabha",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Inka Daya Raleda",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Jalajakshi (Varnam)",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Na Manavini",
+      "composer": "Garbhapurivasa",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nera Nammiti",
+      "composer": "Mysore Vasudevachar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Janardhanam Samashrayeham",
+      "composer": "Mysore Vasudevachar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Pramathadipam Pranathathiharam",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sri Amruta Phalāmbike",
+      "composer": "Kalyani Varadarajan",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Pibare Ramarasam",
+      "composer": "Sadashiva Brahmendra",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Chandrashekharendra Saraswathi Mānasa Bhajarē",
+      "composer": "P. K. Rajagopala Iyer",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Jathiswaram",
+      "composer": "K. N. Dhandayudapani Pillai",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta #16; 4th melakarta in the 3rd chakra Agni. Mnemonic name Agni-Bhu; mnemonic phrase sa ra gu ma pa dhi ni. Asampurna name: Tōyavēgavāhini. Suddha madhyamam equivalent of Ramapriya (52nd melakarta). Graha bhedam on Chakravakam yields Sarasangi and Dharmavati. Closely resembles Ahir Bhairav in Hindustani music. The raga is associated with devotion, sympathy, and compassion. The source also notes that it differs from Mayamalavagowla in treatment, with flatter Ri-Ga and Hari Kambhoji-like Da-Ni.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chakravakam_(raga)"
+}

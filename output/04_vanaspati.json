@@ -1,0 +1,84 @@
+{
+  "raga_name": "Vanaspati",
+  "other_names": [
+    "Bhānumati",
+    "Bhanumati"
+  ],
+  "melakarta_number": 4,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Indu",
+  "arohana": [
+    "S",
+    "R1",
+    "G1",
+    "M1",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Vanaspati has a serene, composed, and devotional character. Its shuddha rishabham and shuddha gandharam give it a restrained, austere color, while the chatushruti dhaivatham and kaisiki nishadham add a gentle lift and warmth. As a melakarta, it feels balanced and complete rather than highly ornate, suiting contemplative or prayerful settings and evoking calm devotion, dignity, and inward focus.",
+  "description": "Vanaspati is the 4th melakarta rāgam in the 72-melakarta system and belongs to the 1st chakra, Indu, with mnemonic name Indu-Bhu and mnemonic phrase sa ra ga ma pa dhi ni. It is a sampoorna scale in the modern melakarta system, using shuddha rishabham, shuddha gandharam, shuddha madhyamam, chatushruti dhaivatham, and kaisiki nishadham. In the Muthuswami Dikshitar school it is called Bhānumati/Bhanumati. It is the shuddha madhyamam equivalent of Navaneetam (melakarta 40). In the older Venkatamakhin asampurna system, Bhānumati is the 4th melakarta and is shadava-sampurna, with the ascent omitting gandharam: S R1 M1 P D2 N2 S, while the descent is complete. The raga has at least one noted janya, Rasāli. Graha bhedam on Vanaspati yields the minor melakarta Mararanjani. The source text also notes compositions in this raga and its Dikshitar-school name, showing its importance in both theoretical and compositional traditions. The name Vanaspati literally means \"lord of the forest,\" and the raga is recognized as a foundational melakarta with clear pedagogical value in the melakarta scheme.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The source text does not explicitly describe gamakas, but from the scale structure Vanaspati is typically rendered with restrained, measured ornamentation rather than heavy oscillation. R1 and G1 are usually approached with delicate kampita or gentle slides to preserve the austere flavor of the raga; M1 and P are generally held steady as anchor notes; D2 and N2 may take light oscillation or jaru-like transitions in phrases leading back to S. Because it is a melakarta with shuddha R and G, the swaras should remain clearly articulated and not be over-ornamented. The raga’s identity depends on clean phraseology and balanced treatment of the notes rather than elaborate gamaka density.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Rasāli"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Pariyachakama",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "ĒswarĪ JagadĪswari",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "unknown"
+    },
+    {
+      "name": "Brihadamba madamba",
+      "composer": "Muthuswamy Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Matsyavatara",
+      "composer": "Muthuswamy Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Guruguha swamini",
+      "composer": "Muthuswamy Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Vanadurge",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    }
+  ],
+  "notable_features": "Melakarta #4; 1st chakra Indu; mnemonic name Indu-Bhu; mnemonic phrase sa ra ga ma pa dhi ni. Shuddha madhyamam equivalent of Navaneetam (#40). In the Muthuswami Dikshitar school the raga is called Bhānumati/Bhanumati. In the asampurna system it is shadava-sampurna with arohana S R1 M1 P D2 N2 S and avarohana S N2 D2 P M1 G1 R1 S. Graha bhedam from Vanaspati yields Mararanjani. The text mentions Rasāli as a better-known janya raga associated with Vanaspati. The raga is also pedagogically important as an early melakarta in the first chakra.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vanaspati"
+}

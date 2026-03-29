@@ -1,0 +1,92 @@
+{
+  "raga_name": "Nagasvaravali",
+  "other_names": [
+    "Nāgasvarāvaḻi"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 28,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G3",
+    "M1",
+    "P",
+    "D2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Nāgasvarāvaḻi has a bright, open, and symmetrical pentatonic feel that sounds clean and uncluttered. With both rishabham and nishadam absent, the raga projects spaciousness, purity, and a restrained auspiciousness rather than intense emotion. It often evokes calm confidence, devotional uplift, and a gentle festive brightness, making it suitable for contemplative and prayerful expression.",
+  "description": "Nāgasvarāvaḻi is an audava (pentatonic) janya rāgam in Carnatic music. It is symmetric and omits both rishabham and nishādam. Its scale is S G3 M1 P D2 S in ascent and S D2 P M1 G3 S in descent. The notes used are shadjam, antara gandharam, shuddha madhyamam, panchamam, and chathusruti dhaivatam. It is considered a janya of Harikambhoji, the 28th melakarta, though it can also be derived by dropping R and N from Chakravakam, Sooryakantam, Shankarabharanam, Vagadheeswari, or Shoolini. The raga is regarded as a rare janya in concert practice, though it has a substantial body of compositions associated with it. It is also noted for its theoretical relationship through graha bhedam to Hamsadhwani. In scale structure it is close to Mohanam and Shuddha Saveri, but differs by the presence of M1 and G3 respectively.",
+  "time_of_day": "",
+  "gamaka_usage": "Detailed gamaka treatment is generally restrained in Nāgasvarāvaḻi. The raga relies more on plain, well-spaced phrases than on heavy oscillation, because its identity comes from the clean pentatonic framework S-G3-M1-P-D2-S. S, P, and D2 are usually rendered as stable anchor notes. G3 and M1 may take light kampita or gentle slides, especially in phrases such as G3-M1-P and D2-P-M1-G3, but the oscillation is typically subtle rather than forceful. Jaru-like glides between adjacent notes help preserve the raga’s bright, flowing character. Excessive gamaka is usually avoided so that the absence of R and N remains clear and the raga does not lose its open, symmetrical feel.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Shrīpatē Nīpada",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Garuda Gamana",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sri Sankara Guruvaram",
+      "composer": "Maha Vaidyanatha Iyer",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Gaṃ Gaṇapatē Sadā",
+      "composer": "Jayachamaraja Wodeyar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Bhutapataye Namo Namaste",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Bandhamu Seyaradu",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Shivachidambarame",
+      "composer": "Muthu Thandavar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Vadana Vijita",
+      "composer": "Spencer Venugopal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Raghukulottaama Rama",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": "Sanskrit"
+    }
+  ],
+  "notable_features": "Janya of Harikambhoji (28th melakarta). Can also be derived from Chakravakam, Sooryakantam, Shankarabharanam, Vagadheeswari, or Shoolini by dropping both R and N. Graha bhedam on Nāgasvarāvaḻi yields Hamsadhwani. Scale-similarity notes: Mohanam replaces M1 with R2; Shuddha Saveri replaces G3 with R2. The raga is an audava-audava pentatonic scale. It is described as a rare janya in concert use, though it has many compositions in the repertoire.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nagasvaravali"
+}

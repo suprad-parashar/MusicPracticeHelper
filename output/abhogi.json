@@ -1,0 +1,154 @@
+{
+  "raga_name": "Abhogi",
+  "other_names": [
+    "Ābhōgi",
+    "Abhogi Kanada",
+    "Abhogi Kānaḍā"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 22,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M1",
+    "D2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "D2",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Abhogi has a calm, restrained, and gently uplifting mood. Its pentatonic structure gives it a clean, uncluttered feel, often creating a serene and introspective atmosphere rather than intense drama. Because it is frequently used for medium to fast-tempo compositions, it can also feel graceful and lightly animated, suitable for devotional expression, reflective beauty, and a composed, inward-looking emotional space. In Hindustani usage it is associated with a late-night ambience, while in Carnatic music it is often heard as a raga that balances simplicity with elegance.",
+  "description": "Abhogi is a Carnatic janya raga derived from Kharaharapriya (22nd melakarta), though it can also be derived from Gourimanohari by omitting both panchamam and nishadam. It is a symmetric audava-audava pentatonic scale with five notes in both ascent and descent, and it omits Pa and Ni entirely. The scale is S R2 G2 M1 D2 S : S D2 M1 G2 R2 S. The raga is also adapted into Hindustani music, where it is known as Abhogi Kanada or simply Abhogi and is classified under Kafi thaat. In Hindustani theory it is treated as a Kanada-type raga, with a characteristic vakra phrase G M R S used straight in the Carnatic version as a notable difference. Graha bhedam on Abhogi yields Valaji, and according to P. Moutal, Kalavati is a transposition of Abhogi. The raga is used for compositions in medium to fast tempo and has been employed by many composers in both classical and film music. Its close scale relations include Sriranjani and Jayamanohari, which share similar note sets but differ by the presence or absence of N2 and by descending treatment.",
+  "time_of_day": "night",
+  "gamaka_usage": "Abhogi is generally rendered with restrained gamaka, keeping the raga clean and uncluttered. G2 is the most characteristic swara and is often approached from M1 with a gentle slide or light oscillation to preserve the Kanada flavour; in Hindustani-influenced treatment it may carry a more pronounced and lingering oscillation. R2 and M1 are comparatively stable anchor notes and are often held plainly or with only mild kampita. D2 is usually clean and functional, serving as a simple upper support note rather than a heavily ornamented pitch. The descent commonly emphasizes the straight phrase D2 M1 G2 R2 S, and the Kanada-like phrase G2 M1 R2 S is important, though in Carnatic usage it is rendered more directly and less heavily vakra than in Hindustani Abhogi Kanada. Overall, gamakas are subtle rather than expansive, with slides and light kampita on G2 being the main expressive device.",
+  "hindustani_equivalent": "Abhogi Kanada",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Nannu Brova Nee Kinta Tāmasamā",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Manasu Nilpa",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Neelakantha Niranjana",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Anugalavu Chinte",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Maneyolagaado",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Śri Lakṣhmi varāham",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sabhāpatikku veru daivam",
+      "composer": "Gopalakrishna Bharati",
+      "language": "Tamil"
+    },
+    {
+      "name": "Neekepudu",
+      "composer": "Mysore Sadashiva Rao",
+      "language": "Telugu"
+    },
+    {
+      "name": "Evvari bodhana",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Manasa Vrutha",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nekkurugi unnai",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Manakkurangu",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Thanjam Enrale",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Ramuni Kori",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sri Mahaganapathe",
+      "composer": "N S Ramachandran",
+      "language": "unknown"
+    },
+    {
+      "name": "Manujudai Putti",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Guru Padaravinda",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": "unknown"
+    },
+    {
+      "name": "Mahasaya Hrudaya",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": "unknown"
+    },
+    {
+      "name": "Par gaya chahai sab koi",
+      "composer": "Raidas",
+      "language": "unknown"
+    },
+    {
+      "name": "Jayati siri radhike",
+      "composer": "Gadadhar Bhatt",
+      "language": "unknown"
+    },
+    {
+      "name": "Ek barajori kare saiyya",
+      "composer": "unknown",
+      "language": "unknown"
+    }
+  ],
+  "notable_features": "Abhogi is an audava-audava janya raga with no panchamam or nishadam. It is considered a janya of Kharaharapriya (22nd melakarta), though it can also be derived from Gourimanohari by dropping Pa and Ni. Graha bhedam from Abhogi yields Valaji, and P. Moutal notes Kalavati as a transposition. In Hindustani music it is known as Abhogi Kanada and assigned to Kafi thaat. A key stylistic point is the Kanada phrase G2 M1 R2 S, which is treated straight in Carnatic usage. The raga is popular for medium-to-fast compositions and is used in both classical and film music.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abhogi"
+}

@@ -1,0 +1,83 @@
+{
+  "raga_name": "Chalanata",
+  "other_names": [
+    "Chalanāta",
+    "Chalanāttai",
+    "Chala Nattai"
+  ],
+  "melakarta_number": 36,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Rutu",
+  "arohana": [
+    "S",
+    "R3",
+    "G3",
+    "M1",
+    "P",
+    "D3",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D3",
+    "P",
+    "M1",
+    "G3",
+    "R3",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Veera",
+    "Adbhuta",
+    "Bhakti"
+  ],
+  "mood": "Chalanata has a bright, forceful, and majestic emotional color. Its sharp swara set, especially the presence of R3 and D3, gives it a striking, brilliant, and energetic feel that can suggest heroism, grandeur, and ceremonial splendor. At the same time, because it is closely associated with the Nattai family and used in compositions of devotional and concert significance, it can also evoke a devotional uplift and a sense of awe. The raga suits an atmosphere of invocation, radiance, and confident proclamation rather than introspective softness.",
+  "description": "Chalanata is a Carnatic melakarta raga, the 36th in the 72 melakarta system. It is a janaka raga and, as a melakarta, is by definition sampurna, containing all seven swaras in both ascent and descent. It is the 6th raga in the 6th chakra, Rutu, with mnemonic name Rutu-Sha and mnemonic phrase 'sa ru gu ma pa dhu nu'. Its scale is S R3 G3 M1 P D3 N3 S / S N3 D3 P M1 G3 R3 S, employing shadjam, shatsruthi rishabham, antara gandharam, shuddha madhyamam, panchamam, shatsruthi dhaivatham, and kakali nishadham. It is the shuddha madhyamam equivalent of Rasikapriya, the 72nd melakarta. The raga is one of the few referred to by the same name in the Muthuswami Dikshitar school of Carnatic music. Chalanata has popular janya ragas associated with it, notably Nata (Nattai) and Ghambheeranata (Gambheeranattai), and Nata is said to overshadow Chalanata in concert usage. Being a vivadi melakarta because of the R3-G3 and D3-N3 proximity, it has comparatively fewer direct kritis, with composers often favoring its janya ragas for broader melodic treatment. Through graha bhedam, Chalanata yields the major melakarta raga Shubhapantuvarali.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "Chalanata is generally handled with a bold, bright, and highly precise gamaka approach. Because it is a vivadi melakarta with the close note pairs R3-G3 and D3-N3, the swaras must be intoned very clearly; excessive smearing can blur the raga identity. S, M1, and P function as comparatively steady nyasa or anchoring points. R3 and D3 need especially careful treatment: they are usually given firm emphasis, often with controlled kampita rather than wide oscillation, so that they do not collapse into neighboring swaras. G3 and N3 may also take light kampita or spurita-like emphasis in brisk phrases, but their positions should remain sharply defined. Janta prayogas, assertive briga-oriented movement, and direct scalar runs suit the raga well. Slides and jarus may be used sparingly between adjacent swaras, but the overall handling should preserve the raga's crisp, radiant contour rather than a heavily curved or languorous texture. In comparison with its janya Nattai, Chalanata is approached more as a complete melakarta framework, with straighter sampurna movement and less dependence on characteristic vakra phrases; the gamakas support majesty and brilliance without obscuring the exact swara-sthanas.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Nata",
+    "Nattai",
+    "Ghambheeranata",
+    "Gambheeranattai"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Rājadhirāja",
+      "composer": "Baluswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Nagātmajā Manōharam",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Margazhi Thingal",
+      "composer": "Andal",
+      "language": "Tamil"
+    },
+    {
+      "name": "Madhava Panchakam",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Edayya Gathi",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    }
+  ],
+  "notable_features": "One of the few ragas referred to by the same name in the Muthuswami Dikshitar school. It belongs to the 6th chakra Rutu and has mnemonic name Rutu-Sha. Its mnemonic phrase is 'sa ru gu ma pa dhu nu'. It is the shuddha madhyamam counterpart of Rasikapriya. Graha bhedam on Chalanata yields Shubhapantuvarali. Though it has notable janya ragas such as Nata/Nattai and Ghambheeranata/Gambheeranattai, Nata is more prominent in concert practice and tends to overshadow Chalanata. As a vivadi melakarta, it has relatively fewer direct kritis compared with more frequently elaborated melas, and musicians often explore its musical personality through its better-known janya ragas."
+}

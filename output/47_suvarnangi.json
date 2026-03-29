@@ -1,0 +1,79 @@
+{
+  "raga_name": "Suvarnangi",
+  "other_names": [
+    "Suvarṇāngi",
+    "Souveeram",
+    "Sauviram",
+    "Sowveeram"
+  ],
+  "melakarta_number": 47,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Vasu",
+  "arohana": [
+    "S",
+    "R1",
+    "G2",
+    "M2",
+    "P",
+    "D2",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M2",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Shanta",
+    "Adbhuta"
+  ],
+  "mood": "Suvarnangi has a bright yet serious melodic personality, combining the austerity of shuddha rishabham and sadharana gandharam with the luminous color of prati madhyamam and kakali nishadham. The result is a raga that can feel devotional, inward, and quietly majestic rather than overtly romantic or playful. It evokes a sense of golden radiance suggested by its name, with a contemplative stillness and a subtle wonder that suits meditative, reverential, and dignified musical settings.",
+  "description": "Suvarnangi is a Carnatic raga and the 47th melakarta in the 72 melakarta system. The name means 'the golden bodied one.' In the Muthuswami Dikshitar school it is called Souveeram or Sauviram, and the variant spelling Sowveeram is also attested. It is the 5th raga in the 8th chakra, Vasu, with mnemonic name Vasu-Ma and mnemonic phrase 'sa ra gi mi pa dhi nu.' Its scale is S R1 G2 M2 P D2 N3 S / S N3 D2 P M2 G2 R1 S, employing shuddha rishabham, sadharana gandharam, prati madhyamam, chathusruthi dhaivatham, and kakali nishadham. As a melakarta, it is by definition a sampoorna raga, containing all seven notes in both ascent and descent. It is the prati madhyamam equivalent of Kokilapriya, the 11th melakarta. Though not among the most frequently heard melakartas in mainstream concert practice, it is recognized for its distinctive scalar color and has a small set of janya ragas associated with it.",
+  "time_of_day": "",
+  "gamaka_usage": "As a sampurna melakarta with a straight scalar structure, Suvarnangi can accommodate both scale-oriented and phrase-oriented treatment, but its identity is best preserved through careful gamaka on the softer swaras rather than excessive plain-note rendering. R1 and G2 are important for establishing the raga’s grave color and are typically not left completely flat; they respond well to gentle kampita and nuanced intonation, especially in phrases moving through S–R1–G2 and G2–R1–S. M2 is a key color-bearing swara and is often given a clear, slightly sustained emphasis rather than a heavy shake, helping distinguish the raga from nearby melakarta colors. P functions as a stable nyasa point. D2 is usually handled with measured emphasis and smooth linkage to N3 or P rather than aggressive oscillation. N3 may be touched with mild kampita or a delicate upper inflection, especially in descent, so that its brightness is retained without sounding stark. Smooth jaru connections across M2–P–D2–N3 and in descending contours such as >S–N3–D2–P and P–M2–G2–R1 are effective. Because the raga combines the tense lower tetrachord R1–G2 with the sharper prati madhyamam and kakali nishadham, precise intonation is crucial; over-plain scalar rendering can make it sound skeletal, while over-ornamentation can blur its clean melakarta outline. A dignified, balanced gamaka approach with controlled kampita on R1/G2/N3, steadier treatment of P, and clear emphasis on M2 best preserves Suvarnangi’s identity.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Sowveeram",
+    "Abhiru",
+    "Rathikā",
+    "Vijayashree"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Sarasa souveera",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Iha para sukha",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Jaya Jaganmayi",
+      "composer": "Rukminibai Thampuratti",
+      "language": ""
+    },
+    {
+      "name": "Sri raghupathim",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    }
+  ],
+  "notable_features": "5th raga in the 8th chakra Vasu; mnemonic name Vasu-Ma; mnemonic phrase 'sa ra gi mi pa dhi nu.' Known as Souveeram or Sauviram in the Muthuswami Dikshitar school; the spelling Sowveeram is also seen. It is the prati madhyamam counterpart of Kokilapriya (melakarta 11). Graha bhedam on Suvarnangi does not produce any other melakarta raga. Janya ragas listed in available sources include Sowveeram, Abhiru, Rathikā, and Vijayashree."
+}

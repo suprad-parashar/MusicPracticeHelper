@@ -1,0 +1,77 @@
+{
+  "raga_name": "Divyamani",
+  "other_names": [
+    "Divyamaṇi",
+    "Jeevantika",
+    "Jeevantini"
+  ],
+  "melakarta_number": 48,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Vasu",
+  "arohana": [
+    "S",
+    "R1",
+    "G2",
+    "M2",
+    "P",
+    "D3",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D3",
+    "P",
+    "M2",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Adbhuta",
+    "Shanta"
+  ],
+  "mood": "Divyamani has a bright yet serious melodic personality, combining the austerity of shuddha rishabham with the brilliance of prati madhyamam, shatsruthi dhaivatham, and kakali nishadham. The result is a raga that can feel devotional and elevated, with a sense of radiance and inward wonder. Its very name, meaning 'divine gem,' suggests a luminous, refined emotional color. It suits contemplative devotional expression as well as passages that evoke majesty, spiritual clarity, and a quietly wondrous atmosphere.",
+  "description": "Divyamani is the 48th melakarta raga in the 72 melakarta system of Carnatic music. Its name means 'the divine gem.' In the Muthuswami Dikshitar school, it is known as Jeevantika or Jeevantini. It is the 6th raga in the 8th chakra, Vasu, and its mnemonic name is Vasu-Sha, with mnemonic phrase 'sa ra gi mi pa dhu nu.' As a melakarta, it is a sampurna raga, containing all seven swaras in both ascent and descent with a symmetrical scale. Its swara set is S R1 G2 M2 P D3 N3 S / S N3 D3 P M2 G2 R1 S, employing shuddha rishabham, sadharana gandharam, prati madhyamam, shatsruthi dhaivatham, and kakali nishadham. It is the prati madhyamam equivalent of Roopavati, the 12th melakarta. Though not a commonly heard major concert raga, it is recognized in theory and has a few janya ragas and a small but notable compositional presence. Available comparative references note that there is no direct Hindustani raga called Divyamani. Theoretically, graha bhedam on this scale does not yield another melakarta raga.",
+  "time_of_day": "",
+  "gamaka_usage": "Available references do not give a full codified gamaka grammar for Divyamani, but the snippets do offer one important clue: the D3 is heard with a gamaka touch suggestive of N2 on it, and the raga can at first impression resemble Varali with a D3, while retaining G2 as its gandharam. In practice, this implies that Divyamani should not be rendered as a plain scalar scale alone. R1 and G2 need careful handling, with G2 carrying expressive oscillation and the R1-G2 region shaped delicately so the raga's identity is not flattened. M2 may be approached with measured emphasis to bring out the prati-madhyama color, while P remains a comparatively steady anchoring swara. D3 is a sensitive note in the raga and can take a nuanced kampita/ornamented treatment rather than a dry intonation; the reported shading toward N2 in its gamaka should be understood as an ornamental inflection, not as an actual anya swara. N3 can be used with brightness in the upper tetrachord, especially in D3-N3-S phrases. Since Divyamani is a sampurna melakarta with no vakra movement, straight phrases help establish the scale, but the raga gains character when the poorvanga is handled with gravity and the uttaranga with controlled brilliance. Excessively plain rendering can make it sound skeletal, while over-ornamentation may blur it toward neighboring prati-madhyama ragas; therefore a balanced use of kampita and subtle slides is important.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Deshamookhari",
+    "Dundubi",
+    "Shuddha Gandhari"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Leela ganu joochi",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Brihadeesha Katakshena",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Appa muruga",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Noumi Tavakina Pada",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    }
+  ],
+  "notable_features": "48th melakarta; 6th raga in the 8th chakra Vasu; mnemonic name Vasu-Sha; mnemonic phrase 'sa ra gi mi pa dhu nu'; known as Jeevantika or Jeevantini in the Muthuswami Dikshitar school; prati madhyamam equivalent of Roopavati (12th melakarta); graha bhedam on this scale does not yield any other melakarta raga; a comparative source notes that there is no Hindustani raga called Divyamani; some references list Deshamookhari, Dundubi, and Shuddha Gandhari as janya ragas derived from Divyamani; the D3 is noted in discussion as taking a gamaka shading suggestive of N2, giving the raga a fleeting resemblance to Varali with D3 while preserving its own identity through G2."
+}

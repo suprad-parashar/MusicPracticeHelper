@@ -1,0 +1,163 @@
+{
+  "raga_name": "Asaveri",
+  "other_names": [
+    "Asāvēri",
+    "Asavari"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 8,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R1",
+    "M1",
+    "P",
+    "D1",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N2",
+    "S",
+    "P",
+    "D1",
+    "M1",
+    "P",
+    "R2",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "audava-vakra-sampurna",
+  "is_vakra": true,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "R2",
+    "G2",
+    "N2"
+  ],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Bhakti",
+    "Shanta",
+    "Karuna"
+  ],
+  "mood": "Asaveri has a plaintive, devotional, and gently meditative mood. Its pentatonic ascent gives it a simple, austere, and prayerful character, while the vakra descent and foreign notes add a touch of yearning and emotional depth. The raga can evoke quiet surrender, introspection, and a soft sense of pathos, making it suitable for devotional and reflective settings rather than brilliance or exuberance.",
+  "description": "Asaveri is an ancient Carnatic rāgam mentioned in the Sangita Ratnakara. It is a janya rāgam derived from the 8th melakarta, Hanumatodi. The raga is asymmetric and bhashanga in nature: its ascending scale omits gandharam and nishadam, while the descending scale is vakra and includes foreign notes relative to the parent scale. It is classified as audava-vakra-sampurna, with a pentatonic ascent and a fuller, zigzag descent. The scale is closely related in feel to Komal Asavari and Asa Todi of Hindustani music. The text also notes that the Hindustani Asavari resembles Natabhairavi in Carnatic music. Asaveri is a well-established concert and compositional raga with many kritis and varnams, especially by Tyagaraja, Muthuswami Dikshitar, and other major composers.",
+  "time_of_day": "morning",
+  "gamaka_usage": "The raga’s gamaka treatment is shaped by its bhashanga and vakra nature. R1 is a key anchor note and is typically handled with clear emphasis and kampita/ornamental stress. M1 and P are generally steadier structural tones, often sustained or connected by smooth jaru. D1 is important in both ascent and descent and is usually given a firm, slightly ornamented treatment. In the descent, N2 is not treated as a plain scalar note but as a characteristic foreign color tone, often approached and left with delicate oscillation or slide. The anya swaras R2 and G2 in the avarohana are especially expressive and should be rendered with careful gamaka, not as rigidly flat notes; they help create the raga’s distinctive pathos. Because the scale is vakra, straight scalar rendering is less effective than curved, phrase-based prayogas. Compared with closely related Todi-type ragas, Asaveri’s descent is lighter and more plaintive, with the foreign notes giving it a unique veena-like color.",
+  "hindustani_equivalent": "Komal Asavari / Asa Todi",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Mapala Velasi Ika",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Dasharatha Nandana",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nammaka Ne Mosa",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Samayamu Telisi",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sari Vedalina",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Epaniko Janminchithinani",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Jankaja Sametha",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Lekana Ninnu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rara Mayintidaka",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Chandram Bhaja Manasa",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Kumaraswaminam",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Vijayate Govinda",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Ramachandrulu Napai",
+      "composer": "Bhadrachala Ramadasu",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kadaikkannal Irangi",
+      "composer": "Arunachala Kavi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sharanam Sharanam Raghurama",
+      "composer": "Arunachala Kavi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Deva Palaya Murare",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Palaya Madhava Mam Anisham",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Itharani Meedhil",
+      "composer": "Arunagirinathar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sri Kanchi Nayike",
+      "composer": "Annaswami Shastri",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Thamasinchuka",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Jalajaksha",
+      "composer": "Dr. Lalgudi Jayaraman",
+      "language": ""
+    }
+  ],
+  "notable_features": "Asaveri is a bhaashaanga ragam because its avarohanam contains chatushruti rishabham, a foreign swara relative to the parent Todi scale. The text explicitly identifies the anya swaras as Chaturshruti Rishabham (R2) / Shuddha gandharam (G1) and Chaturshruti dhaivatam (D2) / Shuddha nishadam (N1), with the veena rendering them from G1 and N1. It is an ancient raga mentioned in Sangita Ratnakara. The raga is structurally audava-vakra-sampurna. It resembles Komal Asavari and Asa Todi of Hindustani music. The source lists many popular kritis and two varnams in this raga.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Asaveri"
+}

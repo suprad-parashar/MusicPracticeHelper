@@ -1,0 +1,96 @@
+{
+  "raga_name": "Kanakangi",
+  "other_names": [
+    "Kanakāngi",
+    "Kanakāmbari",
+    "Kanakambari"
+  ],
+  "melakarta_number": 1,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Indu",
+  "arohana": [
+    "S",
+    "R1",
+    "G1",
+    "M1",
+    "P",
+    "D1",
+    "N1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N1",
+    "D1",
+    "P",
+    "M1",
+    "G1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Kanakangi has an austere, pristine, and inward-looking mood. Its all-shuddha scale gives it a calm, restrained, and contemplative character, often felt as serene, devotional, and quietly dignified rather than ornate or dramatic. The raga can suggest purity, simplicity, and a sense of prayerful submission, with a gentle golden warmth hinted at by its name, 'the golden-bodied one.'",
+  "description": "Kanakangi is the 1st melakarta rāgam in the 72-melakarta system and the 1st rāgam in the 1st chakra, Indu. Its mnemonic name is Indu-Pa and the mnemonic phrase is sa ra ga ma pa dha na. It is a sampurna rāgam with all seven swaras in both ascent and descent, using only shuddha swaras: S R1 G1 M1 P D1 N1 S / S N1 D1 P M1 G1 R1 S. It is the shuddha madhyamam equivalent of Salagam, the 37th melakarta. In the Muthuswami Dikshitar school it is called Kanakāmbari. In the original Venkatamakhin asampurna melakarta scheme, Kanakāmbari is also the 1st melakarta, but with an audava-sampurna structure: S R1 M1 P D1 S / S N1 D1 P M1 G1 R1 S. The raga is described as meaning 'the golden-bodied one' and is considered a very rare, austere melakarta with relatively few compositions. Graha bhedam on Kanakangi yields Kamavardani.",
+  "time_of_day": "",
+  "gamaka_usage": "Kanakangi is generally rendered with restrained, even treatment rather than heavy ornamentation. Because it is a pure shuddha melakarta, the raga identity depends more on plain, careful phraseology than on elaborate gamaka. R1, G1, D1, and N1 may take gentle kampita or subtle slides where needed, but the oscillation should remain light and controlled. S and P are usually held steady. The swaras should sound clean and uncluttered, with smooth transitions and minimal embellishment, preserving the raga’s austere and meditative flavor.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Karnataka Shuddha Saveri",
+    "Lavangi"
+  ],
+  "notable_compositions": [
+    {
+      "name": "kanakAmbari kAruNyAmRtalahari",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sri Gananatham Bhajamyaham",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Kanakangaka Sukha Guha",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sreesa Putraya",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Sri Ganeswaram",
+      "composer": "Nallan Chakravarthy Murthy",
+      "language": ""
+    },
+    {
+      "name": "Gananatham Smarami",
+      "composer": "Akkarai Sornalatha",
+      "language": ""
+    },
+    {
+      "name": "Gananatha Nin",
+      "composer": "Madurai N Sivaganesh",
+      "language": ""
+    },
+    {
+      "name": "Ullam Urugi",
+      "composer": "Suddhananda Bharathi",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta #1; first rāgam of the Indu chakra; mnemonic name Indu-Pa; shuddha madhyamam equivalent of Salagam (#37); called Kanakāmbari in the Muthuswami Dikshitar school; asampurna Venkatamakhin version is audava-sampurna; janyas include Karnataka Shuddha Saveri and Lavangi; graha bhedam yields Kamavardani; the name is glossed as 'the golden-bodied one'; regarded as an austere ragam with few compositions.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kanakangi"
+}

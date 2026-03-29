@@ -1,0 +1,49 @@
+{
+  "raga_name": "Sri Tyagaraja",
+  "other_names": [
+    "Sri Tyagaraja raga",
+    "Sri Tyagaraja rāgam"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 59,
+  "inventor": "Mahesh Mahadev",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G2",
+    "M2",
+    "P",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "P",
+    "M2",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-shadava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Shanta"
+  ],
+  "mood": "Sri Tyagaraja has a devotional, tender, and emotionally plaintive character. Its sound is uplifting yet inward-looking, evoking reverence, surrender, and a gentle sense of longing. The omission of rishabham and dhaivatam in ascent gives it a clean, open, and somewhat austere lift, while the descent adds a touch of human warmth and pathos. It suits devotional contemplation and can also suggest compassion, humility, and serene emotional depth.",
+  "description": "Sri Tyagaraja is a Carnatic janya rāgam derived from the 59th melakarta, Dharmavati. It was created by composer Mahesh Mahadev and named after saint Tyagaraja of Tiruvaiyaru. Mahesh Mahadev introduced the rāgam to Indian classical music through Carnatic kritis and viruttams, and also introduced it to Hindustani music. It is an asymmetric audava-shadava rāgam: the ascent is pentatonic and omits rishabham and dhaivatam, while the descent is hexatonic and includes chatushruti rishabham but omits dhaivatam. The scale uses shadjam, sadharana gandharam, prati madhyamam, panchamam, kakali nishadham, and in descent chatushruti rishabham. The rāgam is explicitly described as emoting bhakti and karuna rasa through its gamakas. No compositions are listed in the source section, though the page notes that compositions in this rāgam exist.",
+  "time_of_day": "",
+  "gamaka_usage": "The source specifically says the gamakas of this rāgam evoke bhakti and karuna. By implication from the scale, G2 and N3 are the principal expressive notes and are likely treated with gentle kampita and sliding phrases, while M2 and P are comparatively steadier anchor notes. R2 appears only in descent and should be handled as a connecting note rather than a dominant resting pitch. Because the rāgam is asymmetric and omits D in both directions, phrases should avoid dhaivatam entirely; the characteristic color comes from smooth jaru-like movement between G2–M2–P–N3 in ascent and N3–P–M2–G2–R2–S in descent. The overall treatment should remain devotional and restrained rather than heavily brigha-oriented.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [],
+  "notable_features": "Created by Mahesh Mahadev and named after Saint Tyagaraja. It is a janya of Dharmavati (59th melakarta). The rāgam is audava-shadava and asymmetric, with no rishabham or dhaivatam in ascent and no dhaivatam in descent. Mahesh Mahadev is noted as having introduced this rāgam to both Carnatic and Hindustani music. The source does not provide graha bhedam, prati madhyama equivalent, or specific compositions.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sri_Tyagaraja"
+}

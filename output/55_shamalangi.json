@@ -1,0 +1,74 @@
+{
+  "raga_name": "Shamalangi",
+  "other_names": [
+    "Shyamalangi",
+    "Shāmaḻangi",
+    "Shāmaḻam",
+    "Shamalang"
+  ],
+  "melakarta_number": 55,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Disi",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M2",
+    "P",
+    "D1",
+    "N1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N1",
+    "D1",
+    "P",
+    "M2",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Shanta"
+  ],
+  "mood": "Shamalangi has a serious, inward, and slightly austere melodic personality. The combination of prati madhyamam with shuddha dhaivatam and shuddha nishadam gives it a restrained, meditative color that can suggest devotion, quiet yearning, and gentle pathos rather than overt brightness. It can feel contemplative and introspective, suited to reflective moments, prayerful settings, or music that seeks depth over exuberance. The raga may also evoke a calm stillness with an undercurrent of emotional tension, making it effective for devotional and weighty musical expression.",
+  "description": "Shamalangi or Shyamalangi (pronounced shāmaḻāngi) is a Carnatic raga and the 55th melakarta in the 72 melakarta system. In the Muthuswami Dikshitar school it is called Shāmaḻam. It is the 1st raga in the 10th chakra, Disi, with mnemonic name Disi-Pa and mnemonic phrase 'sa ri gi mi pa dha na'. Its scale is S R2 G2 M2 P D1 N1 S / S N1 D1 P M2 G2 R2 S. The swaras used are chathusruthi rishabham, sadharana gandharam, prati madhyamam, shuddha dhaivatham and shuddha nishadham, along with shadjam and panchamam. As a melakarta, it is by definition a sampoorna raga, containing all seven notes in both ascent and descent. It is the prati madhyamam equivalent of Jhankaradhwani, the 19th melakarta. A couple of minor janya ragas are associated with it. Through graha bhedam, its notes yield two minor melakarta ragas: Ganamoorti and Vishwambari.",
+  "time_of_day": "No fixed time; in Carnatic practice ragas are generally not bound to a strict time-of-day system, and Shamalangi is chosen more for bhava than for hour.",
+  "gamaka_usage": "The source material does not give a codified lakshana of gamakas for Shamalangi, but its handling can be inferred from its melakarta identity and vivadi content. The raga should not be rendered as a bare scalar pattern. R2 and especially G2 are best given measured kampita or gentle oscillation so the poorvanga does not sound flat. M2 is a key color-bearing swara and must be intoned clearly and often approached with a smooth slide from G2 or resolved carefully to P. In the uttaranga, D1 and N1 require particularly careful treatment because of the vivadi flavor of the scale; they are usually more effective with restrained kampita, nokku, or short jaru connections rather than hard, plain attacks. P and S function well as comparatively steady nyasa points, helping stabilize the raga. Characteristic continuity is enhanced by linking phrases such as M2-P-D1-N1, N1-D1-P, and P-M2-G2-R2 with subtle jarus. Excessive briga-heavy or overly plain scalar singing can weaken the raga’s identity; the raga responds better to weight, precision of sruti, and controlled oscillation, especially around G2, D1, and N1. Compared with brighter prati-madhyama melas, Shamalangi benefits from a more restrained and introspective gamaka approach.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Veera raghava",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Shyamalangi",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Namo namaste geervani",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Shyamalangi Matangi",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    }
+  ],
+  "notable_features": "55th melakarta; first raga in the 10th chakra Disi; mnemonic name Disi-Pa; mnemonic phrase 'sa ri gi mi pa dha na'. Known as Shāmaḻam in the Muthuswami Dikshitar school. It is the prati madhyamam counterpart of Jhankaradhwani (19th melakarta). Graha bhedam on this scale yields Ganamoorti and Vishwambari. It has a couple of minor janya ragas associated with it."
+}

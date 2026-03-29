@@ -1,0 +1,248 @@
+{
+  "raga_name": "Darbar",
+  "other_names": [
+    "Darbār"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 22,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M1",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "R2",
+    "G2",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "vakra shadava-sampurna",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Shanta",
+    "Karuna"
+  ],
+  "mood": "Darbar has a dignified, composed, and devotional mood with a regal bearing, yet it also carries a plaintive softness because of its vakra descent and the lingering treatment of gandharam and nishadam. It can feel solemn and prayerful, suitable for medium to fast tempo compositions that still retain gravity. The raga often evokes the atmosphere of a courtly setting, but in Carnatic usage its emotional center is more devotional and reflective than merely majestic.",
+  "description": "Darbar (pronounced darbār) is a comparatively recent raga in Carnatic music, possibly entering the tradition in the earlier part of the 18th century. It is a vakra ragam derived from the 22nd melakarta Kharaharapriya. The scale is characterized by a straightforward ascent and a zig-zag descent, with nishadam and gandharam treated as long notes in the avarohana. The raga is widely used for compositions in medium to fast tempo and has been employed by many composers, including Tyagaraja, Muthuswami Dikshitar, Swathi Thirunal, Veena Kuppayyar, Patnam Subramania Iyer, Subbarama Dikshitar, Mysore Vasudevachar, Koteeswara Iyer, Subbaraya Sastri, Andal, Ambujam Krishna, Purandara Dasa, Walajapet Venkataramana Bhagavathar, Gowrishankar Sthapthi, KS Krishnamurthi, Thirupathi Narayanaswamy, Ramaswami Sivan, Neelakanta Sivan, Bhadrachala Ramadasu, Krishnaswaamy Ayyaa, Ghanam Krishna Iyer, Pattabhiramayya, Unnayi Warrier, Melattur Veerabadhrayya, and Tarangambadi Panchanada Iyer. The raga resembles Nayaki. It is also used in film music. The source text does not mention a specific inventor or formalizer.",
+  "time_of_day": "evening",
+  "gamaka_usage": "Darbar is handled with a strong vakra prayoga in the descent, where G2 is explicitly repeated and elongated: Ṡ N2 D2 P M1 R2 G2 G2 R2 S. Nishadam and gandharam are to be rendered long in the avarohana, suggesting sustained kampita/oscillatory treatment and careful emphasis rather than quick, flat execution. R2 and M1 are important anchor notes and are usually approached smoothly with jaru-like movement in phrases. The ascent is comparatively plain and direct, while the descent carries the raga’s identity through the repeated gandharam and the lingering nishadam. Compared with closely related ragas, Darbar’s descent is more ornate and weighty, and the repeated G2 is a key signature that should not be glossed over.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Aparathamulaman Piyadukovayya",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Yochana Kamalalochana",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Enthundi Vedalithivo",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Ela Theliyalero",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Naradhaguruswami Ikanaina",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Mundhuvenuka Niruprakkalathodai",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Ramabhirama Ramaneeyarama",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Nithyaroopa Evaripandithyamemi",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Paripalayamam Kodantapanaii",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Ramalobhamela Nanurakshimchu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Chalamela",
+      "composer": "Veena Kuppayyar",
+      "language": ""
+    },
+    {
+      "name": "Neeve Dhikkani",
+      "composer": "Veena Kuppayyar",
+      "language": ""
+    },
+    {
+      "name": "Daari Theliyaka",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Intha Modi Elara",
+      "composer": "Subbarama Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Thyagarajadhanyam",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Halasyanatham Smarami",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Smaramanasa Padhmanabacharanam",
+      "composer": "Maharaja Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Shaure Vithara Kushalamayi",
+      "composer": "Maharaja Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Adiya Patham",
+      "composer": "Gopalakrishna Bharathi",
+      "language": ""
+    },
+    {
+      "name": "Raghavendra Guru Manatosmi",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Sree Venugopala",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Meena Nayanana Neevunamidha",
+      "composer": "Subbaraya Sastri",
+      "language": ""
+    },
+    {
+      "name": "Nayaganai Nindra",
+      "composer": "Andal",
+      "language": ""
+    },
+    {
+      "name": "Vezha Mugatharase",
+      "composer": "Ambujam Krishna",
+      "language": ""
+    },
+    {
+      "name": "Hettamakkalu",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Neeve Nannu",
+      "composer": "Walajapet Venkataramana Bhagavathar",
+      "language": ""
+    },
+    {
+      "name": "Anjaneyam Namamyaham",
+      "composer": "Gowrishankar Sthapthi",
+      "language": ""
+    },
+    {
+      "name": "Desham Thaan Namadhu",
+      "composer": "KS Krishnamurthi",
+      "language": ""
+    },
+    {
+      "name": "Momu Jupavemira",
+      "composer": "Thirupathi Narayanaswamy",
+      "language": ""
+    },
+    {
+      "name": "Inimel Aayinum",
+      "composer": "Ramaswami Sivan",
+      "language": ""
+    },
+    {
+      "name": "Kadaikkan Paaraiyya",
+      "composer": "Neelakanta Sivan",
+      "language": ""
+    },
+    {
+      "name": "Vachevo Ravo",
+      "composer": "Bhadrachala Ramadasu",
+      "language": ""
+    },
+    {
+      "name": "Pahimam Balakumara",
+      "composer": "Krishnaswaamy Ayyaa",
+      "language": ""
+    },
+    {
+      "name": "Parimala Natha",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sirukki Mayakkam",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Eelaguna",
+      "composer": "Pattabhiramayya",
+      "language": ""
+    },
+    {
+      "name": "Poomathinotha Charuthano",
+      "composer": "Unnayi Warrier",
+      "language": ""
+    },
+    {
+      "name": "Akkaro Ipudindu",
+      "composer": "Melattur Veerabadhrayya",
+      "language": ""
+    },
+    {
+      "name": "Arabhimanam Ragamalika",
+      "composer": "Tarangambadi Panchanada Iyer",
+      "language": ""
+    }
+  ],
+  "notable_features": "Derived from the 22nd melakarta Kharaharapriya. It is a vakra raga with the characteristic avarohana Ṡ N2 D2 P M1 R2 G2 G2 R2 S. Nishadam and gandharam are specifically noted as long in the descent. Darbar is a comparatively recent raga, likely from the early 18th century. It is suitable for medium to fast tempo compositions. The raga resembles Nayaki. The text also notes that Nayaganai Nindra was originally in Darbar but is now sung in Mohanam. Darbar has been used in film music as well.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Darbar_(Raga)"
+}

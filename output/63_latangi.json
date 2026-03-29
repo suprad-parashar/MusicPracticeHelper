@@ -1,0 +1,103 @@
+{
+  "raga_name": "Latangi",
+  "other_names": [
+    "Latāngi",
+    "Geetapriya",
+    "Gitapriya"
+  ],
+  "melakarta_number": 63,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Rudra",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M2",
+    "P",
+    "D1",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D1",
+    "P",
+    "M2",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Adbhuta",
+    "Veera"
+  ],
+  "mood": "Latangi has a bright yet serious emotional color, combining the brilliance of prati madhyama with the slightly tense pull of shuddha dhaivata. It can feel devotional and majestic, while also carrying an arresting, searching quality that gives it depth and intensity. The raga suits moments of inward focus, dignified praise, and expansive melodic exploration, often evoking a sense of wonder, spiritual aspiration, and controlled emotional power.",
+  "description": "Latangi is a Carnatic raga and the 63rd melakarta ragam in the 72 melakarta system. In the Muthuswami Dikshitar school, it is called Geetapriya or Gitapriya. It is the 3rd ragam in the 11th chakra, Rudra, with the mnemonic name Rudra-Go and mnemonic phrase 'sa ri gu mi pa dha nu'. Its scale is sampurna in both ascent and descent, as required of a melakarta. The swaras used are chathusruthi rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kakali nishadham, along with shadjam and panchamam. Latangi is the prati madhyamam equivalent of Sarasangi, the 27th melakarta. It has a few minor janya ragams associated with it. The raga is also theoretically notable because, under graha bhedam, its notes yield two other melakarta ragams: Sooryakantam and Senavati.",
+  "time_of_day": "",
+  "gamaka_usage": "Latangi should not be rendered as a bare scalar prati-madhyama melakarta; its identity emerges through classical Carnatic gamaka on the key swaras. R2 and G3 are typically enlivened with kampita and close, connected treatment rather than being struck as isolated plain notes. M2 is an important color-bearing swara and is often given sustained emphasis or approached with a smooth slide from G3; phrases around G3–M2 and M2–P help establish the raga’s brightness. D1 requires especially careful handling: because the raga combines a sharp M2 and N3 with the softer shuddha dhaivata, D1 is usually treated with weight and controlled oscillation or as part of a curved approach from P and toward N3, rather than overexposed flat intonation. N3 can take a graceful kampita and often serves as a luminous upper leading tone to the tara shadja. Jaru-based connections such as N3>S, P D1 N3, and descending N3 D1 P M2 are effective when shaped with restraint. Panchama and shadja are comparatively steadier resting points. In alapana, neraval, and kalpana swara, both linear and elaborative phrases are possible, but the raga’s character depends on preserving the tension-and-release between M2, D1, and N3 through nuanced oscillation and slides, avoiding an overly plain or mechanical scale rendition.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Diname Sudhinamu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kanta Joodumi Okapari",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sadhu Jana Vinutham",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Marivere",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Aparadhamulanniyu",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Pirava varam tharum",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Venkataramana",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Srilalithe Srikanthasahite",
+      "composer": "Jayachamarajendra Wodeyar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Tamralochani Latangi",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Konjum Salangai Tigazhum Varnam",
+      "composer": "Madurai R. Muralidaran",
+      "language": "Tamil"
+    }
+  ],
+  "notable_features": "Pronounced latāngi. Mnemonic name: Rudra-Go. Mnemonic phrase: sa ri gu mi pa dha nu. It is the 3rd raga in the 11th chakra. In the Dikshitar tradition it is known as Geetapriya or Gitapriya. It is the prati madhyama equivalent of Sarasangi (27th melakarta). Through graha bhedam, Latangi yields the melakarta ragas Sooryakantam and Senavati. It has a few minor janya ragas."
+}

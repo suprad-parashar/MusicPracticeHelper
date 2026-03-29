@@ -1,0 +1,61 @@
+{
+  "raga_name": "Arabhi",
+  "other_names": [
+    "Aarabhi",
+    "pazhanthakkam"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 29,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M1",
+    "P",
+    "D2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Veera",
+    "Bhakti",
+    "Shanta"
+  ],
+  "mood": "Arabhi is an ancient, highly auspicious raga with a bright, energetic, and valour-filled character. It tends to evoke a sense of uplift, confidence, and ceremonial grandeur rather than deep pathos. The raga feels brisk and open, suited to spirited singing, festive occasions, and music that inspires courage and forward motion. Its relatively plain-note treatment gives it a direct, clean, and assertive emotional profile, while its devotional associations also lend it a sacred, prayerful atmosphere.",
+  "description": "Arabhi or Aarabhi is a janya raga derived from Shankarabharanam (29th melakarta). It is described as a combination of the pentatonic scale Shuddha Saveri and the sampurna scale Shankarabharanam. The raga dates back to 7 AD and was originally called pazhanthakkam in ancient Tamil music. It is considered a very auspicious raga and is associated with Veera rasa. Arabhi is one of the five Ghana ragams and is especially brilliant when thanam is played on the veena. Its scale is audava-sampurna: the arohana has five notes, while the avarohana is complete. The raga is upanga and uses only N3, unlike Devagandhari which can use N2 and is bhashanga. Arabhi is closely related to Devagandhari, but differs in the treatment of ga, ri, and phraseology; in particular, phrases like pa ma da sa are avoided in Arabhi. It is noted for its energy and for brigas more than elaborate gamaka-laden exposition. The famous Pancharatna Kriti Sadhinchane by Saint Tyagaraja is set in Arabhi, and the Onam song Maveli Naadu Vaneedum Kaalam is also popularly taught in this raga.",
+  "time_of_day": "",
+  "gamaka_usage": "Arabhi is said to use very little gamaka and frequency variation, relying mainly on flat, steady notes. The gandharam is kept very close to madhyamam, so the phrase ma ga ri tends to sound almost like ma ma ri. Likewise, nishadam stays very close to shadjam, so sa ni da can sound like sa sa da. Rishabham is not fluctuated, and the raga favors plain, direct intonation over oscillation. Compared with Devagandhari, Arabhi avoids the asaivu on ri and does not use the phrase pa ma da sa. It is more suited to brigas and crisp phrase movement than to heavy gamaka treatment. The swaras R2, M1, P, D2, and N3 are generally rendered cleanly, with G3 treated as a near-M1 note rather than a strongly oscillated tone.",
+  "hindustani_equivalent": "Durga",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Sadhinchane",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Maveli Naadu Vaneedum Kaalam",
+      "composer": "",
+      "language": ""
+    }
+  ],
+  "notable_features": "Ancient raga dating to 7 AD; originally called pazhanthakkam in ancient Tamil music. One of the five Ghana ragams and especially effective in thanam on veena. Upanga raga using only N3. Closely related to Devagandhari, but Arabhi avoids Devagandhari-specific phraseology and gamaka style. The text explicitly notes that Thyagaraja uses phrases like 'sa sa da' in Sadhinchane, though 'sa ni da' also occurs. Arabhi is described as very energetic and more conducive to brigas than gamakas.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Arabhi"
+}

@@ -1,0 +1,141 @@
+{
+  "raga_name": "Shree ranjani",
+  "other_names": [
+    "Sriranjani",
+    "Shri ranjani",
+    "Shree Ranjani"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 22,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M1",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "shadava-shadava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Shree ranjani is a pleasing, symmetric, and popular raga with a gentle, soothing, and devotional character. Its six-note structure and the absence of panchamam give it a clean, open, and slightly plaintive sweetness that feels calm rather than intense. It often evokes serenity, grace, and quiet devotion, making it suitable for reflective or auspicious moods and for compositions that aim for elegance and emotional warmth.",
+  "description": "Shree ranjani is a derived (janya) rāgam in Carnatic music and is a hexatonic shadava-shadava scale, meaning it uses six notes in both ascent and descent. It is symmetric and omits panchamam entirely. Its structure is ārohaṇa S R2 G2 M1 D2 N2 Ṡ and avarohaṇa Ṡ N2 D2 M1 G2 R2 S. The raga uses shadjam, chatushruti rishabham, sadharana gandharam, shuddha madhyamam, chatushruti dhaivatham, and kaisiki nishadam. It is a janya of Kharaharapriya, the 22nd melakarta, and differs from its parent mainly by the omission of panchamam. The raga is also known as Sriranjani, Shri ranjani, and Shree Ranjani. It is a popular and pleasing raga used widely in classical compositions and even film music. Related scale comparisons in the source note that Abhogi lacks kaisiki nishadam, while Jayamanohari resembles Abhogi in ascent and Sriranjani in descent.",
+  "time_of_day": "morning",
+  "gamaka_usage": "The source text does not give detailed gamaka rules for Shree ranjani, but its scalar shape implies a smooth, lyrical treatment. R2 and M1 are typically the most stable swaras and can be held clearly. G2 and N2 are likely to be rendered with gentle oscillation or light slides to preserve the raga’s sweetness, while D2 is approached cleanly and connected by jaru-like movement in phrases such as M1 G2 R2 and D2 N2 Ṡ. Since panchamam is absent, phrases should avoid P entirely. Compared with more gamaka-heavy ragas, Shree ranjani generally benefits from restrained ornamentation and flowing prayogas rather than heavy kampita, with emphasis on graceful transitions and the characteristic six-note contour.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Marubalka",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Brochevarevare",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sari evvare",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Bhuvini daasudane",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sogasuga mrudanga talamu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Shri Dum Durge",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Balambikaya",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Parvata Raja Kumari",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sri Ramachandro Rakshathumam",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Nee Sati Daivamendu",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ini oru kanam unnai",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Kaana Vendamo",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Mata innum Vaatha",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Gajavadana karuna",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Srinivasa Enna Bittu",
+      "composer": "Purandaradasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Thaala beku",
+      "composer": "Purandaradasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Vandhe Arula Venum",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Needhan Mechikolla Vendum",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    }
+  ],
+  "notable_features": "Hexatonic shadava-shadava raga; symmetric scale; omits panchamam; janya of Kharaharapriya (22nd melakarta). The source explicitly compares it with Abhogi and Jayamanohari by scale similarity. It is described as pleasing and popular, used in classical music and film music. The Wikipedia content does not mention a specific inventor or time of day. The raga is distinct from the Hindustani raga of the same name, which has a different scale.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shree_ranjani"
+}

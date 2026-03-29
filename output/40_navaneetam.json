@@ -1,0 +1,89 @@
+{
+  "raga_name": "Navaneetam",
+  "other_names": [
+    "Navaneetham",
+    "Navanītam",
+    "Nabhomani",
+    "Nabhōmaṇi"
+  ],
+  "melakarta_number": 40,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "unknown",
+  "chakra": "Rishi",
+  "arohana": [
+    "S",
+    "R1",
+    "G1",
+    "M2",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M2",
+    "G1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Bhakti",
+    "Shanta",
+    "Karuna"
+  ],
+  "mood": "Navaneetam has a quiet, inward, and somewhat rarefied emotional color. Its use of the vivadi combination R1–G1 along with prati madhyamam gives it a serious, contemplative, and slightly austere melodic personality rather than an overtly bright one. The raga can suggest devotional introspection, serene stillness, and a gentle touch of yearning or tenderness. It suits meditative, scholarly, and spiritually reflective settings more than festive exuberance, and can evoke the feeling of calm prayer, soft supplication, or a dignified inner solitude.",
+  "description": "Navaneetam is a Carnatic melakarta raga, the 40th in the 72 melakarta system. It is pronounced navanītam. The name is glossed in the source as meaning 'the eternal new one', and Navaneetham is also explained as a Sanskrit word meaning fresh butter, from 'nava' meaning fresh/new and 'neetham' meaning butter. In the Muthuswami Dikshitar school, this raga is called Nabhomani. It is the 4th raga in the 7th chakra, Rishi; its mnemonic name is Rishi-Bhu and the mnemonic phrase is 'sa ra ga mi pa dhi ni'. Its scale is S R1 G1 M2 P D2 N2 S / S N2 D2 P M2 G1 R1 S, using shuddha rishabham, shuddha gandharam, prati madhyamam, chatushruti dhaivatam, and kaisiki nishadam. As a melakarta, it is by definition a sampurna raga with all seven notes in both ascent and descent. It is the prati madhyamam equivalent of Vanaspati, the 4th melakarta. The source states that Navaneetam does not yet have a janya raga associated with it. In graha bhedam, shifting its notes yields no other melakarta raga, like all six ragas in the Rishi chakra. The source specifically notes that only these ragas have a gap of three notes between G1 and M2, a feature not occurring in any other melakarta by definition.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "As a melakarta with the vivadi swara pair R1 and G1, Navaneetam generally calls for careful, nuanced handling rather than plain scalar rendering. R1 and G1 are typically treated with delicate kampita or restrained oscillatory shading so that the vivadi character is heard clearly without sounding harsh. The R1–G1 region should not be attacked too bluntly; these notes are better approached with measured intonation and subtle inflection. M2, the prati madhyama, is an important color-bearing swara and can be sustained more steadily, often serving as a point of repose after the tense lower tetrachord. P functions as a firm anchoring note with comparatively plain treatment. D2 and N2 may be rendered with light kampita or smooth jaru-based approach in phrase movement, especially in descent such as N2–D2–P and >S–N2–D2–P. Because of the unusual three-note gap between G1 and M2, the transition across this span is a defining feature of the raga; phrases traversing G1 to M2 should be handled distinctly and with care, often as a clear leap or controlled glide rather than blurred intonation. As a non-vakra sampurna melakarta, the scale is linear, but effective rendition depends on phrase-sensitive gamaka, especially around R1 and G1, and on preserving the contrast between the oscillated lower swaras and the steadier M2–P region. Excessively brigha-heavy treatment can weaken the raga’s grave, contemplative identity.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Srinatha Sodarim",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Nabhomani Chandragni Nayanam",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Lēmidelpa Peddalevāru",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nayeda Vanchana Seyakura",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sami Idhe Nalla Samayam",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Himātmajē Santatam Pāhimām",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Umāpati Pāhi",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Telugu"
+    }
+  ],
+  "notable_features": "Called Nabhomani in the Muthuswami Dikshitar school. It is the 4th raga in the 7th chakra Rishi, with mnemonic name Rishi-Bhu and mnemonic phrase 'sa ra ga mi pa dhi ni'. It is the prati madhyamam equivalent of Vanaspati (4th melakarta). The source states that it has no janya raga associated with it yet. Under graha bhedam, it yields no other melakarta raga, like the other ragas of the Rishi chakra: Salagam, Jalarnavam, Jhalavarali, Pavani, and Raghupriya. A distinctive theoretical feature is the three-note gap between G1 and M2, said to occur only in these six ragas and in no other melakarta by definition."
+}

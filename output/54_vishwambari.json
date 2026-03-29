@@ -1,0 +1,72 @@
+{
+  "raga_name": "Vishwambari",
+  "other_names": [
+    "Vamshavati",
+    "Visvambari"
+  ],
+  "melakarta_number": 54,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Brahma",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "M2",
+    "P",
+    "D3",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D3",
+    "P",
+    "M2",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Adbhuta",
+    "Veera",
+    "Bhakti"
+  ],
+  "mood": "Vishwambari has a bright, striking and somewhat majestic emotional color. The combination of shuddha rishabham with antara gandharam and the sharp prati madhyamam gives it an intense, uncommon melodic personality that can feel awe-inspiring and expansive. It can suggest grandeur, spiritual power, and a sense of wonder, making it suitable for devotional or dignified presentation rather than soft intimacy. To a listener, it may evoke the feeling of standing before something vast, radiant, and slightly austere.",
+  "description": "Vishwambari is the 54th melakarta raga in Carnatic music and therefore a janaka (parent) raga. In the Muthuswami Dikshitar school it is called Vamshavati. It is the 6th raga in the 9th chakra, Brahma, with the mnemonic name Brahma-Sha and mnemonic phrase 'sa ra gu mi pa dhu nu'. As a melakarta, it is sampurna in both ascent and descent. The swaras employed are shuddha rishabham, antara gandharam, prati madhyamam, shatsruthi dhaivatham and kakali nishadham, besides shadjam and panchamam. It is the prati madhyamam equivalent of Hatakambari, the 18th melakarta. Vishwambari has a few minor janya ragas associated with it. Through graha bhedam, its notes yield two other minor melakarta ragas: Shamalangi and Ganamoorti.",
+  "time_of_day": "",
+  "gamaka_usage": "As a melakarta with a direct sampurna scale and vivadi content, Vishwambari is best handled with clear intonation and careful gamaka control. R1 should be rendered with precision and usually with a measured kampita rather than excessive oscillation, since its proximity relationships in the scale can easily blur the raga identity if handled loosely. G3 and N3 may take gentle oscillation or emphasis, while M2 often acts as a bright pivot note and can be sustained with moderate ornamentation. D3, being a vivadi-associated sharp dhaivata in this context, should be approached carefully and cleanly, often benefiting from controlled kampita or subtle glide from P rather than heavy shaking. P and S serve as stable resting points. Jaru phrases between P-D3-N3 and M2-G3-R1 can help outline the raga, but overuse of curved phrases may obscure its scalar clarity. Overall, the raga favors a disciplined, luminous treatment with restrained but deliberate gamakas.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Vamshavati shiva yuvati",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Bhaktavatsalam",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Paramananda",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Vijayatam shri rajarajeswarim",
+      "composer": "Mysore Jayachamaraja Wodeyar",
+      "language": ""
+    }
+  ],
+  "notable_features": "54th melakarta; 6th raga in the 9th chakra Brahma; mnemonic name Brahma-Sha; mnemonic phrase 'sa ra gu mi pa dhu nu'; called Vamshavati in the Muthuswami Dikshitar school; also transliterated as Visvambari; prati madhyamam counterpart of Hatakambari (18th melakarta); graha bhedam yields Shamalangi and Ganamoorti; has a few minor janya ragas associated with it."
+}

@@ -1,0 +1,89 @@
+{
+  "raga_name": "Rishabhapriya",
+  "other_names": [
+    "Ratipriya"
+  ],
+  "melakarta_number": 62,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Rudra",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M2",
+    "P",
+    "D1",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D1",
+    "P",
+    "M2",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Adbhuta",
+    "Shanta"
+  ],
+  "mood": "Rishabhapriya has a serious yet luminous prati-madhyama color, combining brightness with a restrained, introspective depth. Its scale suggests a contemplative and slightly yearning emotional space, capable of evoking devotion, quiet wonder, and gentle pathos rather than overt exuberance. The presence of shuddha dhaivata and kaisiki nishada gives it a soft inward pull, while the antara gandhara and prati madhyama lend brilliance and tension. The overall effect is meditative, dignified, and subtly emotive, suitable for reflective devotional expression and thoughtful melodic exploration.",
+  "description": "Rishabhapriya is the 62nd melakarta ragam in Carnatic music and therefore a parent scale in the 72 melakarta system. It is the 2nd ragam in the 11th chakra, Rudra, with the mnemonic name Rudra-Sri and mnemonic phrase 'sa ri gu mi pa dha ni'. Its scale is sampurna in both ascent and descent: S R2 G3 M2 P D1 N2 S / S N2 D1 P M2 G3 R2 S. The swaras used are chathusruthi rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kaisiki nishadham, along with shadjam and panchamam. It is the prati madhyamam equivalent of Charukesi, the 26th melakarta. In the Muthuswami Dikshitar school, it is called Ratipriya. A few minor janya ragams are associated with it. The raga also has theoretical importance: by graha bhedam from panchamam, it yields the melakarta Kokilapriya. Rishabhapriya and Kokilapriya are noted as the only melakarta ragas to contain a whole-tone scale segment; omitting Pa in Rishabhapriya yields the whole-tone collection. A janya raga named Gopriya is formed by omitting panchamam in both ascent and descent, and this scale is special because graha bhedam on it reproduces the same scale repeatedly due to equal interval spacing; in Western terminology this corresponds to a whole-tone scale.",
+  "time_of_day": "",
+  "gamaka_usage": "As a melakarta with a straight sampurna scale, Rishabhapriya permits clear scalar movement, but a merely plain rendering can sound skeletal; its identity emerges through measured gamaka on the key swaras. R2 and especially G3 are often given gentle kampita or a nuanced oscillatory touch rather than being struck too flatly, helping establish the raga’s melodic personality early. M2 is an important color note and is usually approached smoothly from G3 or led into from P with a mild jaru, highlighting the prati-madhyama brightness without making the raga sound harsh. P generally functions as a stable nyasa point and is comparatively plain. D1 and N2 are crucial for bhava: D1 is delicate and should be handled with care, often with a soft oscillation or curved approach from P, while N2 benefits from a tender kampita and a subtle pull toward the upper shadja in ascent or toward D1 in descent. Characteristic movement is therefore not just linear SRGMPDN-S, but phrases where G3-M2 and D1-N2 are linked with smooth slides and controlled inflection. The raga should avoid over-heavy gamakas that obscure its melakarta clarity, yet it also should not be rendered in a dry scale-wise manner; balanced kampita on G3, D1, and N2, with graceful jaru around M2 and the upper tetrachord, best preserves its contemplative, slightly yearning character.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Gopriya"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Ghana naya desika",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Maara ratipriyam",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Nandisam vande",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Inta sodhanamulaku",
+      "composer": "Veene Sheshanna",
+      "language": ""
+    },
+    {
+      "name": "Mahima dakkinchu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Panniru Kaiyane",
+      "composer": "D. Pattamal",
+      "language": ""
+    },
+    {
+      "name": "Mahatmule theliyaleru",
+      "composer": "Mysore Vasudevacharyar",
+      "language": ""
+    }
+  ],
+  "notable_features": "2nd ragam in the 11th chakra Rudra; mnemonic name Rudra-Sri. Mnemonic phrase: sa ri gu mi pa dha ni. It is the prati madhyamam equivalent of Charukesi (melakarta 26). In the Muthuswami Dikshitar school it is known as Ratipriya. Graha bhedam from panchamam yields Kokilapriya. Rishabhapriya and Kokilapriya are stated to be the only melakarta ragas to contain a whole-tone scale; omitting Pa in Rishabhapriya and Sa in Kokilapriya gives that collection. Its janya Gopriya, formed by omitting panchamam, is notable because graha bhedam on it reproduces the same scale repeatedly due to equal frequency spacing, corresponding to the Western whole-tone scale."
+}

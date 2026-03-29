@@ -1,0 +1,215 @@
+{
+  "raga_name": "Hamsadhvani",
+  "other_names": [
+    "Hamsadhwani",
+    "Hamsadhwani rāgam",
+    "Hansadhwani"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 29,
+  "inventor": "Ramaswami Dikshitar",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "P",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "P",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Hamsadhvani has a bright, uplifting, and auspicious character. It feels open, clean, and celebratory, often evoking a sense of freshness, invocation, and devotional joy. Because it is commonly sung at the beginning of performances and is strongly associated with Lord Ganesha, it creates an atmosphere of welcome, confidence, and spiritual optimism rather than deep pathos or intensity. Its pentatonic clarity gives it a light, sparkling quality that can suggest the graceful cry of a swan, as its name implies.",
+  "description": "Hamsadhvani means \"the cry of the swan.\" It is a Carnatic audava (pentatonic) janya raga of Shankarabharanam (29th melakarta), though by prayoga it is sometimes treated as a janya of Kalyani (65th). The raga omits madhyamam and dhaivatham entirely, using only S, R2, G3, P, and N3. It is widely used in both Carnatic and Hindustani music, having been borrowed into Hindustani tradition from Carnatic music. The raga is credited to Ramaswami Dikshitar (1735–1817), father of Muthuswami Dikshitar, and was later popularized in Hindustani music by Aman Ali Khan of the Bhendibazaar gharana and further through Amir Khan. It is especially favored for invocatory pieces and many compositions in praise of Lord Ganesha. In Hindustani music it is associated with Bilaval thaat, and its vadi-samvadi are Sa and Pa. The raga is also noted for graha bhedam relationships: shifting the tonic yields Nagasvaravali. It has scale similarities with Amritavarshini, Gambhiranata, Mohanam, and Niroshta, each differing by one note substitution. In performance practice it is a highly accessible, elegant, and concert-opening raga with broad use in classical and film music.",
+  "time_of_day": "late evening",
+  "gamaka_usage": "Hamsadhvani is generally rendered with a clean, crisp treatment rather than heavy oscillation. Since the scale is pentatonic and omits madhyamam and dhaivatham, the raga depends more on phrase shape and note emphasis than on dense gamaka. R2 and G3 are typically given gentle kampita or light oscillation in phrases, while P and N3 are often held more steadily to preserve the raga's bright, open character. Jaru-like slides between R2–G3 and G3–P are important, and the descent N3–P–G3–R2–S should sound smooth and flowing. Compared with more gamaka-heavy ragas, Hamsadhvani should remain relatively plain and buoyant; over-oscillation can blur its identity. The characteristic phraseology and the clear landing on P and N3 are more important than elaborate ornamentation.",
+  "hindustani_equivalent": "Hamsadhwani",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Jalajaskha",
+      "composer": "Mānambuccāvaḍi Venkaṭa Subbayyar",
+      "language": ""
+    },
+    {
+      "name": "Pagavari",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Gajamukhane Siddhidayakane",
+      "composer": "Vyasatirtha",
+      "language": ""
+    },
+    {
+      "name": "Raghunāyaka",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Śrī Raghukula",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Abhishta varada",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vātāpi Gaṇapatiṃ",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Parvathi Pathim",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Pāhi Śripatē",
+      "composer": "Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Varanamukha vā",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Maha Ganapathe",
+      "composer": "Maha Vaidyanatha Iyer",
+      "language": ""
+    },
+    {
+      "name": "Mūlādhāra mūrti",
+      "composer": "Papanasam Sivan",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Karunai seivai",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "ullam irangi",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "parasakthi janani",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Gajavadana beduve",
+      "composer": "Purandaradasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Nammamma Sharade",
+      "composer": "Kanakadasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Vināyakā",
+      "composer": "Veena Kuppayyar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Varavallabha Ramaṇa",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Gaṃ Gaṇapatē",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Thayagi Thandhayumai",
+      "composer": "Ramalinga Swamigal",
+      "language": ""
+    },
+    {
+      "name": "Pirai Aniyum Peruman",
+      "composer": "Dr M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Vinayaka Vighnavishaka",
+      "composer": "R Ganapati",
+      "language": ""
+    },
+    {
+      "name": "Sundar Gopālaṃ",
+      "composer": "Devaki Pandit",
+      "language": ""
+    },
+    {
+      "name": "Varuvai Arulvai Shantanayagi",
+      "composer": "Manachanallur Giridharan",
+      "language": ""
+    },
+    {
+      "name": "Tumbikkai Andavane",
+      "composer": "Manachanallur Giridharan",
+      "language": ""
+    },
+    {
+      "name": "Vinayaka Ninnu Vina",
+      "composer": "E.V. Ramakrishna Bhagavathar",
+      "language": ""
+    },
+    {
+      "name": "Vande Anishamaham",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Bhajamahe Sree Vinayakam",
+      "composer": "Tulaseevanam",
+      "language": ""
+    },
+    {
+      "name": "Arul purivai",
+      "composer": "Sudhanandha Bharathi",
+      "language": ""
+    },
+    {
+      "name": "Karunai seiguvai",
+      "composer": "Sudhanandha Bharathi",
+      "language": ""
+    },
+    {
+      "name": "Nera Mora",
+      "composer": "Pallavi Doraiswamy Iyer",
+      "language": ""
+    },
+    {
+      "name": "Lagi Lagan Pathi Sakhi Sangh",
+      "composer": "",
+      "language": ""
+    }
+  ],
+  "notable_features": "Audava-audava pentatonic raga with no madhyamam or dhaivatham. It is commonly used at the beginning of performances. In Hindustani music it is linked to Bilaval thaat and has vadi Sa, samvadi Pa. Graha bhedam on Hamsadhvani yields Nagasvaravali. Scale-similarity relations are noted with Amritavarshini (prati madhyamam in place of R), Gambhiranata (shuddha madhyamam in place of R), Mohanam (D2 in place of N3), and Niroshta (D2 in place of P).",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hamsadhvani"
+}

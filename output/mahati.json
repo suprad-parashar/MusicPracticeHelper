@@ -1,0 +1,55 @@
+{
+  "raga_name": "Mahati",
+  "other_names": [
+    "Mahathi"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 14,
+  "inventor": "M. Balamuralikrishna",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G3",
+    "P",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    "<S",
+    "N2",
+    "P",
+    "G3",
+    "S"
+  ],
+  "raga_type": "tetratonic",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Mahati has a bright, compact, and uplifting mood. Its sparse four-note structure gives it a clean, open, and somewhat modern sound, with a sense of clarity and poise rather than deep pathos. The raga can feel devotional and serene because of its restrained movement, while also creating wonder through its unusual tetratonic design. It suits reflective, concise musical statements and can evoke a calm, elegant, and slightly surprising emotional atmosphere.",
+  "description": "Mahati, also written as Mahathi, is a Carnatic raga created by M. Balamuralikrishna. It is a symmetric tetratonic (chaturswara) raga with the scale S G3 P N2 S / S N2 P G3 S. The raga omits rishabham, madhyamam, and dhaivatam in both ascent and descent, using only shadjam, antara gandharam, panchamam, and kaishiki nishadham. In the source text it is classified as a janya of the 14th melakarta Vakulabharanam, the 28th melakarta Harikambhoji, or the 34th melakarta Vagadhishvari; the structured parent_raga field is set to 14 because that is explicitly listed first in the source. The web snippets also describe Mahathi as a relatively modern and unique janya rāgam, not one of the older ragams from ancient texts. The text states that there is no equivalent raga in Hindustani music and no equivalent scale in Western music. Mahati is notable as an intentionally created raga and as an example of a highly compact scale in Carnatic music.",
+  "time_of_day": "",
+  "gamaka_usage": "Because Mahati is a very sparse tetratonic raga, gamaka treatment is necessarily restrained and focused. S is generally held steady as the tonal anchor, while G3 and N2 are the principal notes for gentle oscillation and phrase shaping. P is typically treated as a stable, plain note, functioning as the pivot between G3 and N2. The raga’s identity depends on clean, well-spaced movement S–G3–P–N2–S and the reverse, so heavy kampita on every note would blur its character; instead, light slides and controlled ornamentation are preferred, especially on G3 and N2. The absence of M and D means phrases should avoid any suggestion of those swaras, and the raga’s effect comes from clarity and precision rather than dense gamaka-laden elaboration.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Mahaneeya Madhura",
+      "composer": "M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Adhisaya Ragam",
+      "composer": "M. S. Viswanathan",
+      "language": ""
+    }
+  ],
+  "notable_features": "Mahati is a symmetric chaturswara raga with only four notes. It is described as a janya of multiple melakarta parents in the source, specifically 14th Vakulabharanam, 28th Harikambhoji, or 34th Vagadhishvari. It has no Hindustani equivalent and no Western equivalent scale. The raga was created by M. Balamuralikrishna. Web snippets describe it as a relatively modern and unique janya rāgam, not one of the older, well-established ragams from ancient texts. Compositions mentioned in the source include Mahaneeya Madhura and the film song Adhisaya Ragam from Apoorva Ragangal. The source does not provide tala or language for these compositions."
+}

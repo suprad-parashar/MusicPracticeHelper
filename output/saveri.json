@@ -1,0 +1,340 @@
+{
+  "raga_name": "Saveri",
+  "other_names": [
+    "Sāvēri",
+    "Saveri ragam"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 15,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R1",
+    "M1",
+    "P",
+    "D1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D1",
+    "P",
+    "M1",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "audava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Karuna",
+    "Bhakti"
+  ],
+  "mood": "Saveri has a deeply compassionate, plaintive, and dignified emotional color. It is strongly associated with karuna rasa, so it often feels tender, sorrowful, and empathetic rather than overtly tragic. The raga can evoke a sense of prayerful devotion, quiet nobility, and restrained pathos, making it suitable for reflective, emotionally weighty moments and devotional settings.",
+  "description": "Saveri is a Carnatic raga and a janya of the 15th melakarta, Mayamalavagowla. It is an audava-sampurna raga, using five notes in ascent and a full seven-note descent. Its scale is characterized by the prominent use of shuddha rishabham and shuddha dhaivatam, which are specifically noted as the swaras that give the raga its distinctive identity. The ascending scale is S R1 M1 P D1 S, while the descending scale is S N3 D1 P M1 G3 R1 S. The raga is closely related in scale-feel to Karnataka Shuddha Saveri in ascent and to Mayamalavagowla in descent. The source text explicitly identifies it as a raga that brings out karuna rasa, i.e. compassion. It is also associated with a large body of compositions across composers and forms, including varnams, kritis, padams, geetams, javalis, and devotional songs. The text also notes that Bhavayaami Raghuraamam was originally fully in Saveri before being retuned into a ragamalika by Semmangudi Srinivasa Iyer.",
+  "time_of_day": "morning",
+  "gamaka_usage": "The raga’s identity depends heavily on the treatment of R1 and D1, which are the most characteristic swaras and should be brought out with clear emphasis. In performance, these notes are typically handled with expressive kampita and gentle oscillation rather than being rendered mechanically. M1 and P are comparatively steadier anchor notes, while the descent should clearly outline the phrase N3-D1-P-M1-G3-R1-S to preserve the raga’s classical contour. The gamaka approach should highlight the plaintive weight of the raga: R1 often receives a delicate oscillation and D1 is stressed in descent and cadential phrases. Compared with lighter pentatonic ragas, Saveri’s descent requires more ornamented, emotionally laden phrasing to project its karuna character.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Sarasuda",
+      "composer": "Kothavasal Venkatarama Iyer",
+      "language": ""
+    },
+    {
+      "name": "Saveriha",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Vanajaksha",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Ela Ne Vani Joli",
+      "composer": "Tiger Varadachariar",
+      "language": ""
+    },
+    {
+      "name": "Sankari Sankuru",
+      "composer": "Shyama Sastri",
+      "language": ""
+    },
+    {
+      "name": "Sripathi Mukha",
+      "composer": "Shyama Sastri",
+      "language": ""
+    },
+    {
+      "name": "Durusuga Kripa Juchi",
+      "composer": "Shyama Sastri",
+      "language": ""
+    },
+    {
+      "name": "Sarasakshi Sada Pahimam",
+      "composer": "Shyama Sastri",
+      "language": ""
+    },
+    {
+      "name": "Janani Natajana",
+      "composer": "Shyama Sastri",
+      "language": ""
+    },
+    {
+      "name": "Bhavayaami Raghuraamam",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Anjaneya Raghuraamam",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Paripahi Ganadhipa",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Pahimam Sripadmanabha",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Pahi Saarasanaabha",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Devi Pavane",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Raama Baana",
+      "composer": "Sadhguru Thyagarajaswami",
+      "language": ""
+    },
+    {
+      "name": "Tulasi Jagajjanani",
+      "composer": "Sadhguru Thyagarajaswami",
+      "language": ""
+    },
+    {
+      "name": "Intha Thaamasamaithe",
+      "composer": "Sadhguru Thyagarajaswami",
+      "language": ""
+    },
+    {
+      "name": "Paraashakthi Manuparaadaa",
+      "composer": "Sadhguru Thyagarajaswami",
+      "language": ""
+    },
+    {
+      "name": "Chalu Chalu Nee",
+      "composer": "Sadhguru Thyagarajaswami",
+      "language": ""
+    },
+    {
+      "name": "Balamu Kulamu Ela Raama Bhakthi",
+      "composer": "Sadhguru Thyagarajaswami",
+      "language": ""
+    },
+    {
+      "name": "Neevu Brova Valenamma",
+      "composer": "Sadhguru Thyagarajaswami",
+      "language": ""
+    },
+    {
+      "name": "Karmame Balavantamaaye",
+      "composer": "Sadhguru Thyagarajaswami",
+      "language": ""
+    },
+    {
+      "name": "Kanna Thalli Neevu",
+      "composer": "Sadhguru Thyagarajaswami",
+      "language": ""
+    },
+    {
+      "name": "Daridaapu Leka",
+      "composer": "Sadhguru Thyagarajaswami",
+      "language": ""
+    },
+    {
+      "name": "Kari Kalabha Mukham",
+      "composer": "Muthuswamy Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sri Rajagopala",
+      "composer": "Muthuswamy Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Etu Namminavo Manasa",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Entha Nerchina Saphalamemi",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Kannale Kanden",
+      "composer": "Gopalakrishna Bharati",
+      "language": ""
+    },
+    {
+      "name": "Adiya Padhathai",
+      "composer": "Gopalakrishna Bharati",
+      "language": ""
+    },
+    {
+      "name": "Pahimam Girithanaye",
+      "composer": "Irayimman Thampi",
+      "language": ""
+    },
+    {
+      "name": "Somapoma",
+      "composer": "Irayimman Thampi",
+      "language": ""
+    },
+    {
+      "name": "Velayya Daya",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sriramula Divyanama",
+      "composer": "Bhadrachala Ramadasu",
+      "language": ""
+    },
+    {
+      "name": "Murugu Muruga",
+      "composer": "Periyasaamy Thooran",
+      "language": ""
+    },
+    {
+      "name": "Sri Kamakoti Peetasthithe",
+      "composer": "Mysore Sadashiva Rao",
+      "language": ""
+    },
+    {
+      "name": "Sarojakshi Nee Padamulane",
+      "composer": "Veena Kuppayyar",
+      "language": ""
+    },
+    {
+      "name": "Venkataramanane Baro",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Parakumadade",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Barayya Venkataramana",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Lemaro Ma Muvvagopaludendaina",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Bhamaro Napaini/Yemo Teliyadetuvale",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Baagaaya Nee Vagalella",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Bhasurangi Bale",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Hemopameyaangi",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Annai Janaki Vandhale",
+      "composer": "Arunachala Kavi",
+      "language": ""
+    },
+    {
+      "name": "Yaro Ivar Yaro",
+      "composer": "Arunachala Kavi",
+      "language": ""
+    },
+    {
+      "name": "Unnai Thoodhanuppinen",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Etthanai Sonnalum",
+      "composer": "Subbarama Iyer",
+      "language": ""
+    },
+    {
+      "name": "Idai Vida Innum Vere",
+      "composer": "Subbarama Iyer",
+      "language": ""
+    },
+    {
+      "name": "Telise Noora",
+      "composer": "Venkata Girivaru or Tirupati Narayanaswami",
+      "language": ""
+    },
+    {
+      "name": "Ada Janmamylethina",
+      "composer": "Kasturiranga",
+      "language": ""
+    },
+    {
+      "name": "Janakasutha",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Mutta Vadura",
+      "composer": "Chinnaiah of the Tanjore Quartet",
+      "language": ""
+    },
+    {
+      "name": "Kapali Iruka",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Muruga Muzhumathi",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Kamakshi Gauri",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    }
+  ],
+  "notable_features": "Saveri is a janya of Mayamalavagowla (15th melakarta). It is an audava-sampurna raga with the ascent S R1 M1 P D1 S and descent S N3 D1 P M1 G3 R1 S. The raga’s hallmark is the strong identity of R1 and D1. It is explicitly said to evoke karuna rasa. A notable historical point is that Bhavayaami Raghuraamam was originally fully in Saveri, though Semmangudi Srinivasa Iyer later retuned it into a ragamalika with Saveri as the first raga. The source also compares Saveri’s ascending scale to Karnataka Shuddha Saveri and its descending scale to Mayamalavagowla. The text does not specify a melakarta number for Saveri itself because it is a janya raga.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Saveri"
+}

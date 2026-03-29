@@ -1,0 +1,134 @@
+{
+  "raga_name": "Bowli",
+  "other_names": [
+    "Bauli",
+    "Bhauli"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 15,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "P",
+    "D1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D1",
+    "P",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "audava-shadava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Bowli is a gentle, serene morning raga with a calm, devotional, and slightly plaintive character. Its sparse audava ascent and fuller descent create a feeling of quiet unfolding, like dawn light gradually spreading across a still landscape. The raga tends to evoke peace, inwardness, reverence, meditation, and spirituality rather than dramatic emotion, making it suitable for devotional and contemplative settings.",
+  "description": "Bowli is a Carnatic janya raga derived from the 15th melakarta, Mayamalavagowla. It is an asymmetric audava-shadava raga, with five notes in the ascent and six in the descent. The scale uses shuddha rishabham, antara gandharam, panchamam, and shuddha dhaivatam in the arohana, with kakali nishadham added in the avarohana. It is known as a morning raga and is associated with meditation, spirituality, calmness, and a pious, deeply contemplative atmosphere. The raga is also spelled Bauli or Bhauli. Related scale-similarity notes mention Revagupti, which matches Bowli’s ascent but omits nishadam entirely, and Mechabowli, which matches the ascent while adding madhyamam only in the descent. Bowli is used in a number of devotional and classical compositions across composers and languages.",
+  "time_of_day": "morning",
+  "gamaka_usage": "Bowli is generally rendered with restrained, delicate gamaka treatment rather than heavy ornamentation. R1 and G3 are often given gentle kampita or subtle oscillation, especially in phrases that establish the raga’s devotional color. P is usually held steady as an anchor note. D1 is approached and released smoothly, often with a light jaru-like connection from P to D1 and back in descent. N3 appears only in the avarohana and is treated carefully as a descending color note, usually with a soft glide into D1 rather than a forceful oscillation. The raga’s compact ascent favors phrase-based singing over brigha-heavy elaboration; characteristic prayogas should preserve its serene, meditative quality. Compared with closely related pentatonic/hexatonic morning ragas, Bowli’s identity depends on the gentle use of N3 in descent and the calm handling of the Mayamalavagowla-derived R1-G3 contour.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Arunodayame",
+      "composer": "Dr. Lalgudi Jayaraman",
+      "language": ""
+    },
+    {
+      "name": "Sriman Narayana",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Melukovayya",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Deena Janaavana",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Shambho Mahadeva",
+      "composer": "Neelakanta Sivan",
+      "language": ""
+    },
+    {
+      "name": "Tappulanniyu",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Parvati Nayaka",
+      "composer": "Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Samajendra",
+      "composer": "Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Elu Narayanane",
+      "composer": "Kanakadasa",
+      "language": ""
+    },
+    {
+      "name": "Elu Hanumantha",
+      "composer": "Purandara Dasaru",
+      "language": ""
+    },
+    {
+      "name": "Karunanidhiye Thaye",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Brahmamokate",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Sri Parvati Parameshvarau",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Baskarayathe",
+      "composer": "Swarna Venkatesha Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Muyarchiyinal Manithan",
+      "composer": "Swarna Venkatesha Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kshanameva Ganya Manye",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Kanna Ezhundhirum Pillaai",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    }
+  ],
+  "notable_features": "Bowli is a janya of Mayamalavagowla and is classified as audava-shadava. The source explicitly notes its morning association and its meditative, spiritual character. It is closely related by scale similarity to Revagupti (same ascent, no nishadam) and Mechabowli (same ascent, with madhyamam added only in descent).",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bowli"
+}

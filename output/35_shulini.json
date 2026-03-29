@@ -1,0 +1,80 @@
+{
+  "raga_name": "Shulini",
+  "other_names": [
+    "Sulini",
+    "Shoolini",
+    "Soolini",
+    "Shailadesākshi",
+    "Shailadeshi"
+  ],
+  "melakarta_number": 35,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Rutu",
+  "arohana": [
+    "S",
+    "R3",
+    "G3",
+    "M1",
+    "P",
+    "D2",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R3",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Adbhuta",
+    "Veera",
+    "Bhakti"
+  ],
+  "mood": "Shulini has a bright, forceful, and striking melodic personality. With its sharp R3–G3 combination and luminous N3, it can evoke a sense of brilliance, alertness, and uplift, often suggesting majesty, energy, and a slightly austere devotional intensity rather than softness or deep pathos. The raga can feel expansive and intellectually vivid, suiting compositions of praise, invocation, and dignified spiritual expression. Its mood may be experienced as bold and radiant, with an undercurrent of wonder and reverence.",
+  "description": "Shulini is a Carnatic melakarta ragam, the 35th in the 72 melakarta system. It is also spelled Sulini, Shoolini, or Soolini. In the Muthuswami Dikshitar school, it is called Shailadesākshi or Shailadeshi. It is the 5th ragam in the 6th chakra, Rutu, with the mnemonic name Rutu-Ma and mnemonic phrase 'sa ru gu ma pa dhi nu'. Its scale is sampurna in both ascent and descent: S R3 G3 M1 P D2 N3 S / S N3 D2 P M1 G3 R3 S. The swaras used are shatsruthi rishabham, antara gandharam, shuddha madhyamam, chathusruthi dhaivatham, and kakali nishadham, along with shadjam and panchamam. As a melakarta, it contains all seven notes in both directions. It is the shuddha madhyamam equivalent of Kosalam, the 71st melakarta. Shulini has a couple of minor janya ragams associated with it. Through graha bhedam, its notes yield three other melakarta ragams: Shanmukhapriya, Dhenuka, and Chitrambari.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The source material does not give a codified gamaka lakshana for Shulini, but its handling can be described from its melakarta structure and tonal color. Since it is a straight sampurna melakarta without vakra movement or anya swaras, phrases are generally rendered with clear scalar integrity. The R3–G3 region is crucial: these two adjacent bright swaras should not be treated too blandly, as their close placement gives the raga much of its identity. R3 is typically approached with a light oscillatory touch or as a passing, energized note leading into G3, while G3 can take a slightly firmer kampita than R3. M1 and P function as comparatively stable nyasa points and can be held more plainly. In the upper tetrachord, D2 and especially N3 contribute to the raga’s brilliance; N3 may be given a gentle kampita or a glide into upper S, and phrases like D2 N3 >S and >S N3 D2 P should be shaped with brightness rather than heavy curvature. Descending phrases such as N3 D2 P and M1 G3 R3 S need careful intonation so that the sharp R3 is preserved distinctly and does not blur toward softer handling. Jaru between adjacent notes may be used tastefully, but over-ornamentation can obscure the raga’s direct, radiant contour. Overall, Shulini favors controlled kampita, light slides, and crisp scalar prayogas over dense gamaka-laden treatment, with emphasis on clarity, brilliance, and the energetic color of the R3–G3 and D2–N3 zones.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Prana Natha",
+      "composer": "Thyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Shri Shoolinim Shritha",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Paramukhamadeno",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Nalinanarayani",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "unknown"
+    },
+    {
+      "name": "Paalayaashumaam Shulini",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Sanskrit"
+    }
+  ],
+  "notable_features": "5th ragam in the 6th chakra Rutu; mnemonic name Rutu-Ma; mnemonic phrase 'sa ru gu ma pa dhi nu'. Called Shailadesākshi or Shailadeshi in the Muthuswami Dikshitar school. It has a couple of minor janya ragams. Graha bhedam on Shulini yields the melakarta ragams Shanmukhapriya, Dhenuka, and Chitrambari. It is the shuddha madhyamam equivalent of Kosalam (melakarta 71)."
+}

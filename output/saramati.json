@@ -1,0 +1,130 @@
+{
+  "raga_name": "Saramati",
+  "other_names": [
+    "Saramathi"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 20,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M1",
+    "P",
+    "D1",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D1",
+    "M1",
+    "G2",
+    "S"
+  ],
+  "raga_type": "sampurna-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna"
+  ],
+  "mood": "Saramati has a calm, devotional, and gently plaintive character. Its ascent carries a complete, balanced movement, while the descent becomes sparse and meditative by dropping rishabham and panchamam, creating a feeling of inwardness and restraint. The raga can evoke serenity, prayerful devotion, and a soft emotional ache, making it suitable for reflective and spiritually colored expression rather than overt drama. The overall effect is soothing yet slightly wistful, with a dignified, contemplative atmosphere.",
+  "description": "Saramati is a janya rāgam derived from the 20th melakarta Natabhairavi. It is an asymmetric scale that combines the sampurna structure of Natabhairavi in the ascent with the pentatonic contour of Hindolam in the descent, and is therefore classified as sampurna-audava. The rāga omits panchamam and rishabham in the avarohaṇa. Its scale is S R2 G2 M1 P D1 N2 S in ascent and S N2 D1 M1 G2 S in descent. The source text explicitly notes its similarity to Hindolam, whose notes match Saramati’s descending scale. No specific inventor, chakra, or historical origin details are given in the provided text. The page lists many compositions set in Saramati, showing its use in both classical and devotional repertoire.",
+  "time_of_day": "",
+  "gamaka_usage": "The provided text does not give explicit gamaka rules, but the scale strongly suggests a restrained, expressive treatment. R2 and G2 in the ascent are likely handled with gentle oscillation and connected phrases, while M1, D1, and N2 can be rendered with smooth jaru-like transitions. In the descent, the pentatonic Hindolam-like line S N2 D1 M1 G2 S is typically kept compact and flowing, with emphasis on the characteristic descent rather than heavy oscillation. Since panchamam and rishabham are absent in the avarohaṇa, they should be avoided in descent, and the raga’s identity depends on clean phraseology and the contrast between the fuller ascent and sparse descent.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Mokshamugalada",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Narasimhana Pada",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Sarasadala Nayane",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Enna Thunivai",
+      "composer": "Marimuthu Pillai",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sri Ramabadhra",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Manasaramati",
+      "composer": "Thanjavur Shankara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sri Saradamba Bhaje",
+      "composer": "H. H. Sri Bharathi Tirtha Mahaswamigal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Unnata Venkata",
+      "composer": "Thulaseevanam",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Arula Vendum Thaaye",
+      "composer": "M. M. Dandapani Desikar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sharade Namaste",
+      "composer": "Kalyani Varadarajan",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Saramati Saraswati",
+      "composer": "Kalyani Varadarajan",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Unnai Anri",
+      "composer": "Dr. Lalgudi Jayaraman",
+      "language": "Tamil"
+    },
+    {
+      "name": "Nadamadum Deivame",
+      "composer": "Maharajapuram Santhanam",
+      "language": "Tamil"
+    },
+    {
+      "name": "Bharatha Nannaadu",
+      "composer": "N. S. Chidambaram",
+      "language": "Kannada"
+    },
+    {
+      "name": "Ramam Bhaje",
+      "composer": "Y. K. Srikantaiah",
+      "language": "Kannada"
+    },
+    {
+      "name": "Mari Mari Ninne",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    }
+  ],
+  "notable_features": "Saramati is an asymmetric janya of Natabhairavi (20th melakarta). It is described as a combination of Natabhairavi and Hindolam, with the descending scale matching Hindolam exactly. The raga is sampurna-audava: all seven notes appear in ascent, but the descent is pentatonic and omits both R and P. The source also notes a film adaptation context: Ilaiyaraaja set Tyagaraja’s krithi 'Mari Mari Ninne' to this raga in the film Sindhu Bhairavi, though the original composition is in Kambhoji. The text explicitly mentions the scale similarity to Hindolam.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Saramati"
+}

@@ -1,0 +1,105 @@
+{
+  "raga_name": "Malayamarutam",
+  "other_names": [
+    "Malayamarutham",
+    "Malayamarutham"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 16,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "shadava-shadava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Malayamarutam has a pleasing, gentle, and refreshing morning character. It tends to evoke calmness, light devotion, and an easy, uplifting serenity rather than deep pathos or intense drama. The raga suits the early hours of the day, creating an atmosphere of freshness, clarity, and quiet optimism, and it is often associated with morning programmes and functions.",
+  "description": "Malayamarutam is a janya rāgam in Carnatic music and is classified as a symmetric hexatonic shadava-shadava scale. It omits madhyamam entirely, giving it a bright, open sound. The scale is considered a janya of Chakravakam, the 16th melakarta, though it can also be derived from Ramapriya by dropping madhyamam. The name is commonly understood as meaning \"fragrant hill-breeze,\" reflecting the raga’s light, refreshing character. It is a morning raga and is regularly used in morning programmes and functions. The raga is described as pleasing, but it has only a limited number of classical compositions. It has also been used in film music and, in recent years, has been used in Hindustani music by instrumentalists.",
+  "time_of_day": "morning",
+  "gamaka_usage": "Malayamarutam is generally rendered with restrained ornamentation rather than heavy gamaka density. R1 and G3 are the most characteristic notes and are often approached with gentle kampita or subtle slides to preserve the raga’s soft, buoyant feel. P is usually held steady as an anchor point, while D2 and N2 may be touched with light oscillation or smooth jaru-based movement, especially in descent. Because madhyamam is absent, phrases should avoid any M-like inflection and remain clean and open. The identity of the raga depends more on clear scalar movement and graceful phrase endings than on elaborate gamaka patterns. Compared with more ornate ragas, Malayamarutam is best sung or played with a light, flowing treatment and minimal force.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Dhanyudevvado",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Manasa Etulorthune",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Padmanabha Palitebha",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Karpaga Manohara",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Karunaanidiye Eesha",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Smarane Onde",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Thedi Kandene",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Anumane Saamikindha",
+      "composer": "Arunachala Kavi",
+      "language": ""
+    },
+    {
+      "name": "Dayai Puriya",
+      "composer": "Samuel Vedanayagam Pillai",
+      "language": ""
+    },
+    {
+      "name": "Chandiran Oli",
+      "composer": "Subramania Bharati",
+      "language": ""
+    },
+    {
+      "name": "Navaratna Vilasa",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    }
+  ],
+  "notable_features": "Malayamarutam is a symmetric scale without madhyamam, using S R1 G3 P D2 N2 S / S N2 D2 P G3 R1 S. It is a shadava-shadava rāgam and is considered a janya of Chakravakam (16th melakarta), though it can also be derived from Ramapriya by omitting madhyamam. It is noted as a morning raga and is regularly used in morning programmes. The raga has only a few classical compositions but has also found use in film music and, in recent years, in Hindustani instrumental performance. Related-scale comparison in the source notes that Valaji differs by omitting shuddha rishabham, and Rasikaranjani differs by omitting nishadam.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Malayamarutam"
+}

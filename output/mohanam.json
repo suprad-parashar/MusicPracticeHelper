@@ -1,0 +1,375 @@
+{
+  "raga_name": "Mohanam",
+  "other_names": [
+    "Bhoop",
+    "Bhopali",
+    "Bhupali"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 28,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "P",
+    "D2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "D2",
+    "P",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Mohanam has a bright, open, and uplifting mood, with a serene yet expansive character. Its pentatonic symmetry gives it a clean, uncluttered feel that often evokes joy, devotion, and a sense of calm beauty. It can suggest pastoral simplicity, festive cheer, or a contemplative stillness, and is equally at home in devotional pieces, beginner teaching material, and elaborated concert improvisation. The raga often feels accessible and universally pleasing, with a timeless, almost global melodic appeal.",
+  "description": "Mohanam is a highly popular audava (pentatonic) rāga in Carnatic music, usually treated as a janya rāga of Harikambhoji (28th melakarta), though alternate opinions in the source suggest Mechakalyani or even Shankarabharanam may be a more appropriate classification based on lakshana. It is symmetric and omits madhyamam and nishādham entirely. The scale is S R2 G3 P D2 S / S D2 P G3 R2 S. The raga is one of the most common pentatonic scales worldwide and is especially prominent in East and Southeast Asian music, including China and Japan. The source notes that an ancient Tamil pentatonic scale, Mullaippann (3 BCE), used sa ri ga pa da and is considered equivalent to Mohanam in Carnatic style. Mohanam lends itself to extensive elaboration and exploration in both classical and film music. It is also closely related by scale to several ragas: Mohanakalyani (ascending Mohanam, descending Kalyani), Bilahari (ascending Mohanam, descending Shankarabharanam), Garudadhvani (ascending Shankarabharanam, descending Mohanam), Shivaranjani (differs only by gandharam), Hamsadhvani (uses nishadam in place of dhaivatam), and Niroshta (uses nishadam in place of panchamam).",
+  "time_of_day": "evening",
+  "gamaka_usage": "Mohanam is generally rendered with smooth, flowing phrases rather than heavy oscillation. R2 and D2 are typically handled with light kampita or gentle jaru depending on phrase context, while G3 is a key note that is often given a graceful, rounded treatment and may be approached or left by slide. P is usually held steady as an anchor. Because the raga is pentatonic and symmetric, clean phrase-shapes such as S R2 G3 P D2 S and the descent S D2 P G3 R2 S are important, and the notes should sound open and unforced. Compared with ragas like Shivaranjani, the antara gandharam (G3) in Mohanam is brighter and more expansive; compared with Bhairavi or other heavily gamaka-driven ragas, Mohanam is less dependent on dense oscillation and more on elegant linear movement and phrase identity.",
+  "hindustani_equivalent": "Bhoop (Bhopali)",
+  "western_equivalent": "Major pentatonic scale",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Varaveena Mridupaani",
+      "composer": "",
+      "language": ""
+    },
+    {
+      "name": "Sadapathim",
+      "composer": "Paidala Gurumurti Sastri",
+      "language": ""
+    },
+    {
+      "name": "Ninnukori",
+      "composer": "Ramanathapuram Poochi Srinivasa Iyengar",
+      "language": ""
+    },
+    {
+      "name": "Alilaimel",
+      "composer": "Tiger Varadachariar",
+      "language": ""
+    },
+    {
+      "name": "Manamohana",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Sarasijaksha",
+      "composer": "Tiruvottriyur Tyagayyar",
+      "language": ""
+    },
+    {
+      "name": "Kuzhaloodhi",
+      "composer": "Chithravina N. Ravikiran",
+      "language": ""
+    },
+    {
+      "name": "Kapalishvarim Bhajare",
+      "composer": "Ambi Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sada Bhavayeham",
+      "composer": "UK Nagavanshi",
+      "language": ""
+    },
+    {
+      "name": "Mohamella Delisenu",
+      "composer": "Pattabhiramayya",
+      "language": ""
+    },
+    {
+      "name": "Vadiga Gopaluni",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Maguva Tana",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Preenayamo Vasudevam",
+      "composer": "Madhwacharya",
+      "language": ""
+    },
+    {
+      "name": "Cheri Yasodaku Sisuvithadu",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Periginaadu Chudaro",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Podagantimayya",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Madhva nama",
+      "composer": "Sripadaraja",
+      "language": ""
+    },
+    {
+      "name": "Kolalanooduva Chaduranyare",
+      "composer": "Vyasatirtha",
+      "language": ""
+    },
+    {
+      "name": "Raja Beediyolaginda",
+      "composer": "Vadiraja Tirtha",
+      "language": ""
+    },
+    {
+      "name": "Narayanana Nene Manave",
+      "composer": "Vadiraja Tirtha",
+      "language": ""
+    },
+    {
+      "name": "Dashavatara Stuti",
+      "composer": "Vadiraja Tirtha",
+      "language": ""
+    },
+    {
+      "name": "Ava reethiyinda",
+      "composer": "Vadiraja Tirtha",
+      "language": ""
+    },
+    {
+      "name": "Ranga Nayaka Raajeeva Lochana",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Mella Mellane Bandane",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Pillangoviya Cheluva",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Bandalu Mahalakshmi",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Bide Ninna Padava",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Vaidya Banda Nodi",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Yaaru Olidarenu",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "En Savi En Savi",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Sundari Rangana Tandu Tora",
+      "composer": "Kanaka Dasa",
+      "language": ""
+    },
+    {
+      "name": "Intha Prabhuva",
+      "composer": "Vijaya Dasa",
+      "language": ""
+    },
+    {
+      "name": "Rama Rama Emberadakshara",
+      "composer": "Vijaya Dasa",
+      "language": ""
+    },
+    {
+      "name": "Barayyya Ba Ba",
+      "composer": "Gopala Dasa",
+      "language": ""
+    },
+    {
+      "name": "Eddu Baruthare",
+      "composer": "Jagannatha Dasa",
+      "language": ""
+    },
+    {
+      "name": "Hakkiya Hegaleri",
+      "composer": "Prasanna Venkata Dasa",
+      "language": ""
+    },
+    {
+      "name": "Mohana Rama",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Nannu Palimpa",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Enduko Baga Teliyadu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Dayarani",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Rama Ninnu Nammina",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Evarura Ninnuvina",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Darishinchuta Telisenura",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Varadaraja Pahimam",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Maati Maatiki",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Bhavanutha",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Narasimha Agaccha",
+      "composer": "Muthuswamy Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kadambari Priyayaih",
+      "composer": "Muthuswamy Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Gopika Manoharam",
+      "composer": "Muthuswamy Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Raktha Ganapathim Bhajeham",
+      "composer": "Muthuswamy Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Rajagopalam Bhajeham",
+      "composer": "Muthuswamy Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kapaali Karunai",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Mayilvahana",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Saundarya Vellam",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Narayana Divyanamam",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Rara Rajiva Lochana",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "En Palli Kondeer Aiyya",
+      "composer": "Arunachala Kavi",
+      "language": ""
+    },
+    {
+      "name": "Vandhan Vandhan Bharatha",
+      "composer": "Arunachala Kavi",
+      "language": ""
+    },
+    {
+      "name": "Kshemam Kuru",
+      "composer": "Narayana Teertha",
+      "language": ""
+    },
+    {
+      "name": "Swagatam Krishna",
+      "composer": "Oottukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Paripahimam Nruhare",
+      "composer": "Swati Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Bansivale Ne Man Moha",
+      "composer": "Swati Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Mohanam Thavavapurai",
+      "composer": "Swati Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Sada Palaya Sarasakshi",
+      "composer": "G N Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Nagalingam",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    }
+  ],
+  "notable_features": "Mohanam is an audava-audava raga with exactly five notes in ascent and descent. It is one of the first scales taught to beginners; the geetham Varaveena Mridupaani is specifically noted as an early teaching piece. The raga is widely used in classical and film music and is considered highly adaptable for elaboration. Its notes when shifted by graha bhedam yield four other major pentatonic ragas: Hindolam, Shuddha Saveri, Udayaravichandrika (Shuddha Dhanyasi), and Madhyamavati. The source also highlights its global prevalence and its connection to ancient Tamil Mullaippann. It is closely related by scale to Mohanakalyani, Bilahari, Garudadhvani, Shivaranjani, Hamsadhvani, and Niroshta.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohanam"
+}

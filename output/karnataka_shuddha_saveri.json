@@ -1,0 +1,58 @@
+{
+  "raga_name": "Karnataka Shuddha Saveri",
+  "other_names": [
+    "Shuddha Sāveri",
+    "Shuddha Saveri"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 1,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R1",
+    "M1",
+    "P",
+    "D1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "D1",
+    "P",
+    "M1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "This is a serene, compact pentatonic raga with a clean and uncluttered emotional profile. The absence of gandharam and nishadam gives it a bright, open, and almost austere simplicity, creating a feeling of calm devotion, innocence, and gentle uplift. It can sound meditative and composed rather than deeply plaintive, making it suitable for reflective or devotional settings and for creative elaboration without emotional heaviness.",
+  "description": "Karnataka Shuddha Saveri is an audava rāgam (pentatonic scale) and a janya rāgam. In the Muthuswami Dikshitar school it is known as Shuddha Sāveri, and it is explicitly distinguished from the more widely known Shuddha Saveri of the Tyagaraja school, which is called Devakriya in the Dikshitar tradition. The scale is symmetric and omits gandharam and nishādam. Its structure is ārohaṇa S R1 M1 P D1 >S and avarohaṇa >S D1 P M1 R1 S. It is considered a janya of Kanakangi, the 1st melakarta, though the text notes that it can also be derived from eight other melakarta rāgams by dropping both gandharam and nishādam. The rāgam lends itself to creative elaboration and exploration because of its use of shuddha notes. A graha bhedam on this scale yields Amritavarshini. It is also related by scale similarity to Saveri, whose ascending scale matches this rāgam while its descent is sampurna. The text also notes that Malahari resembles Saveri, and that the Dikshitar-school Shuddha Saveri has R1 and D1 in place of the more common R2 and D2.",
+  "time_of_day": "",
+  "gamaka_usage": "The source text does not give explicit gamaka rules for this rāgam, but its shuddha-note pentatonic structure implies a relatively plain, stable treatment compared with heavily gamaka-laden ragas. R1, M1, and D1 are the defining tones and are typically rendered with gentle oscillation or light janta/jaru inflection as needed for phrase shaping, while S and P are usually held steady. Because gandharam and nishadam are absent, phrases tend to move cleanly between R1–M1–P–D1 without ornamental detours. The raga’s character comes more from the purity and spacing of the notes than from intense kampita, so excessive oscillation would blur its identity.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Ekamresha Nayike",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Akilandeshwaro Rakshathumam",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    }
+  ],
+  "notable_features": "This rāgam is a janya of Kanakangi (melakarta 1). It is a symmetric audava-audava scale with no gandharam or nishadam. The text states that it can also be derived from eight other melakarta rāgams by omitting G and N. Graha bhedam on Karnataka Shuddha Saveri yields Amritavarshini. It is called Shuddha Sāveri in the Muthuswami Dikshitar school, and is distinct from the more common Shuddha Saveri/Devakriya of the Tyagaraja school. The source emphasizes that it is suitable for creative elaboration because of its shuddha notes.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Karnataka_Shuddha_Saveri"
+}

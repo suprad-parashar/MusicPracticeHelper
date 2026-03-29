@@ -1,0 +1,82 @@
+{
+  "raga_name": "Valaji",
+  "other_names": [
+    "Valachi"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 16,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G3",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "G3",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Valaji has a pleasing, gentle, and uplifting pentatonic character. Its omission of rishabham and madhyamam gives it a clean, open, airy feel, often heard as serene and devotional rather than intense or dramatic. The raga tends to evoke calm joy, lightness, and a graceful, contemplative sweetness, making it suitable for reflective or devotional settings and for music that feels soothing and accessible.",
+  "description": "Valaji or Valachi is a janya rāgam in Carnatic music and is classified as an audava-audava (pentatonic) scale. It omits both rishabham and madhyamam, using the notes S, G3, P, D2 and N2 in both ascent and descent. It is considered a janya of Chakravakam, the 16th melakarta, though it can also be derived from Harikambhoji, Vagadheeswari, Ramapriya, Vachaspati or Nasikabhooshani by dropping both R and M; Chakravakam is taken as the associated parent because it is the lowest-numbered among these possible sources. The raga is symmetric and has a simple, pleasing contour, and it has been used in classical compositions as well as film music. Its Hindustani equivalent is Kalāvati. A notable theoretical relationship is that Valaji yields Abhogi under graha bhedam.",
+  "time_of_day": "",
+  "gamaka_usage": "Valaji is generally rendered with restrained ornamentation and clear phrase shapes rather than heavy gamaka density. G3 is the most characteristic swara and is often given a gentle kampita or subtle oscillatory treatment, especially in phrases that establish the raga’s identity. P is usually treated as a stable anchor note, while D2 and N2 may take light gamaka or smooth jaru-like movement in descent and cadential phrases. Because the raga is pentatonic and omits R and M entirely, those swaras should not be touched in prayogas. Compared with more heavily gamaka-laden ragas, Valaji sounds best when the notes are cleanly articulated and the melodic contour remains open, simple, and graceful.",
+  "hindustani_equivalent": "Kalavati",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Jalandhara Supithasthe Japa Kusuma Bhasure",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Santatam Ninne",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Sri Gayatri",
+      "composer": "Saint Gnanananda Tirtha (Sri Ogirala Veera Raghava Sarma)",
+      "language": ""
+    },
+    {
+      "name": "Tandava Priya",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Dari Yavudayya",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Nachike Padabeda",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Padhame Thunai",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    }
+  ],
+  "notable_features": "Valaji is a symmetric audava-audava raga with no rishabham or madhyamam. It is associated with Chakravakam (16th melakarta) but can also be derived from Harikambhoji, Vagadheeswari, Ramapriya, Vachaspati, or Nasikabhooshani by omitting R and M. Graha bhedam on Valaji yields Abhogi. The raga is noted as pleasing and has relatively few classical compositions, though it is also used in film music.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Valaji"
+}

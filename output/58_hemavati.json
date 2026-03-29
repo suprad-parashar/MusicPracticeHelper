@@ -1,0 +1,114 @@
+{
+  "raga_name": "Hemavati",
+  "other_names": [
+    "Hēmavati",
+    "Simhāravam",
+    "Deshi Simhāravam"
+  ],
+  "melakarta_number": 58,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Disi",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M2",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M2",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Veera",
+    "Adbhuta",
+    "Shanta"
+  ],
+  "mood": "Hemavati has a dignified, expansive and slightly intense melodic personality. Its prati madhyama color combined with the soft sadharana gandharam and kaisiki nishadam gives it a serious yet appealing emotional depth. It can feel devotional and majestic in kriti rendering, while in instrumental and nadaswaram treatment it often acquires a bold, resonant, heroic sweep. The raga suggests inward reflection, grandeur, and a sense of wonder, making it suitable for both meditative and powerfully expressive musical settings.",
+  "description": "Hemavati is a melakarta ragam in Carnatic music and is the 58th melakarta in the 72 melakarta system. It is the 4th ragam in the 10th chakra, Disi, with the mnemonic name Disi-Bhu and mnemonic phrase 'sa ri gi mi pa dhi ni'. Its scale is sampurna in both ascent and descent: S R2 G2 M2 P D2 N2 S / S N2 D2 P M2 G2 R2 S. As a melakarta ragam, it contains all seven notes in both directions. Hemavati is the prati madhyamam equivalent of Kharaharapriya, the 22nd melakarta, and conversely its shuddha madhyamam equivalent is Kharaharapriya. In the Muthuswami Dikshitar school it is called Simharavam or Deshi Simharavam. The raga is especially beloved of nadaswaram vidwans. It is also said to have been borrowed into Hindustani music from Carnatic music, especially by instrumentalists, where a raga using the same swara-set is also known as Hemavati. Hemavati has a few minor janya ragams associated with it.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "As a sampurna melakarta with a straight scalar structure, Hemavati accommodates both scale-oriented and phrase-oriented treatment. The raga is typically enriched through expressive kampita on G2, N2 and often R2, while M2 is an important color-giving note that should be handled with clarity and weight. D2 can be approached with gentle oscillation or glide in melodic movement toward N2 or P. Panchamam is generally a stable resting point, and shadjam is held firm. In elaboration, smooth jaru connections across M2-P-D2-N2 and N2-D2-P are effective, while the raga's identity depends on preserving the distinct prati madhyama flavor without flattening it into Kharaharapriya-like handling. G2 and N2 should not be rendered too plain for long, since their nuanced oscillation helps establish the raga’s serious and resonant character. M2, being the defining prati-madhyama color, is often given sustained emphasis and approached cleanly from G2 or P; excessive ambiguity around M2 can blur the raga’s identity. R2 may be used with measured kampita in descent-oriented phrases such as M2 G2 R2 S, while D2 often works well in curved movement between P and N2 rather than as a stark isolated note. Panchamam and shadjam serve as firm nyasa points, giving balance to the otherwise rich, shaded middle notes. Since Hemavati is favored by nadaswaram performers, expansive, resonant gamaka treatment, broad jarus, and strong phrase projection suit the raga especially well.",
+  "hindustani_equivalent": "Hemavati",
+  "western_equivalent": "Ukrainian Dorian scale",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Nee Sari Saati",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sree Kanthimathim",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Hariyuvatheem Hymavathim",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Madhurambikayam",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Karudhiyadhu Ellam Tharum",
+      "composer": "N. S. Chidambaram",
+      "language": "Tamil"
+    },
+    {
+      "name": "Ika Talanenura Ina",
+      "composer": "S. Ramanathan",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ennai Kaatharulvathu",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Paripalanai",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Mantrini Maathanga",
+      "composer": "Harikesanallur Muthaiah Bhagavathar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Jagelara",
+      "composer": "Vinjamuri Varadaraja Iyengar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nee Pada Sarasa Rathulaku",
+      "composer": "Nallanchakravarthula Krishnamacharyulu",
+      "language": "Telugu"
+    },
+    {
+      "name": "Navukkarasanai",
+      "composer": "M. M. Dandapani Desikar",
+      "language": "Tamil"
+    }
+  ],
+  "notable_features": "Hemavati is the 58th melakarta and the 4th raga in the 10th chakra Disi. Its mnemonic name is Disi-Bhu. Graha bhedam on Hemavati yields three other major melakarta ragams: Keeravani, Vakulabharanam and Kosalam. It is known as Simharavam or Deshi Simharavam in the Muthuswami Dikshitar school. The raga is especially associated with nadaswaram performance. It is said to have entered Hindustani music from Carnatic music, particularly through instrumentalists; the Hindustani raga using the same swara-set is also called Hemavati and is regarded as a relatively recent migrant."
+}

@@ -1,0 +1,308 @@
+{
+  "raga_name": "Bilahari",
+  "other_names": [
+    "Bilahari rāgam",
+    "Bilahari ragam"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 29,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "P",
+    "D2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "N2"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Bilahari has a bright, open, and uplifting character, with the pentatonic ascent giving it a clean, expansive lift and the full descent adding richness and completeness. It tends to feel cheerful, auspicious, and devotional rather than heavy or plaintive. The raga can suggest freshness, clarity, and a sense of graceful movement, making it suitable for compositions that project optimism, reverence, and lively elegance.",
+  "description": "Bilahari is a janya rāgam derived from the 29th melakarta Sankarabharanam. It is an asymmetric audava-sampurna rāgam: the ascent is pentatonic and omits madhyamam and nishādham, while the descent is sampurna in the sense of using the full descending framework of Sankarabharanam. The scale is described as a combination of Mohanam in the ascent and Sankarabharanam in the descent. The rāgam uses shadjam, chathusruthi rishabham, antara gandharam, panchamam, and chathusruthi dhaivatham in the ascent, and kakali nishadham and shuddha madhyamam in the descent. It is also classified as bhashanga because it uses kaishiki nishadham (N2) as an external note in the descending scale. The source notes that the notes are used in every song, emphasizing the standard prayoga of the scale. Bilahari is a well-known concert raga with a large repertoire of compositions across composers and languages. It is closely related by scale similarity to Mohanam, Shankarabharanam, Mohanakalyani, Garudadhvani, and Desakshi. The Wikipedia content does not mention a specific inventor or formalizer.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "Bilahari is generally rendered with a clean, bright, and relatively direct gamaka style rather than heavy oscillation. In the आरोहण (arohana), S, R2, G3, P, and D2 are usually articulated plainly and clearly, with the pentatonic ascent avoiding madhyamam and nishadam. The characteristic movement is often crisp and well-defined, especially in phrases like R2-G3 and D2-S. In the avarohana, M1 and N3 are introduced smoothly, and the descent may allow gentle kampita on G3 and R2 to preserve the Sankarabharanam flavor. The anya N2, when used, is typically a delicate color note rather than a sustained target, and it should be handled sparingly so the raga does not lose its identity. Compared with more heavily gamaka-driven ragas, Bilahari favors clear phraseology, light jaru between key notes, and graceful landing on S, P, and G3.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Sharanu Janakana",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Belagu Javadi Baro",
+      "composer": "Vadiraja Tirtha",
+      "language": ""
+    },
+    {
+      "name": "Lakshmi Shobhane",
+      "composer": "Vadiraja Tirtha",
+      "language": ""
+    },
+    {
+      "name": "Hanumana Maneyavaru",
+      "composer": "Vidyaprasanna Teertha",
+      "language": "Kannada"
+    },
+    {
+      "name": "Na Jeevadhara",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Tolijanma",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Dorakuna Ituvanti",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Kshethra Palaka",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Intha Kannanandamemi",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Narasimha Nannu Brovave",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Kanugontini",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Sri Balasubramanya",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kamakshi Sri Varalakshmi",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sri Sambashivam",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Ekadantham Bhajeham",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Hatakeshwara",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sri Madhurapuri",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Smara Sada",
+      "composer": "Maharaja Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Aaraadhayaami",
+      "composer": "Maharaja Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Gopalam Seveham",
+      "composer": "Maharaja Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Pahi Padmanabha",
+      "composer": "Maharaja Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Jaya Suganalaya",
+      "composer": "Maharaja Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Pahi Sarasanabha",
+      "composer": "Maharaja Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Sri Narasimha Jaya",
+      "composer": "Maharaja Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Santhatham Bhajami",
+      "composer": "Maharaja Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Vimukhava Tava",
+      "composer": "Maharaja Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Karpagambike",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Sarvesha Adimaiyai",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Vaa Sharavanaa",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Jaya Vittala",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Pahi Meenalochani",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Nijamunnai Nambinen",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Parithana Michite",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Raara Venugopa Bala",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sri Chamundeshwari",
+      "composer": "Mysore Vasudevacharya",
+      "language": ""
+    },
+    {
+      "name": "Evarani Vedani",
+      "composer": "Mysore Vasudevacharya",
+      "language": ""
+    },
+    {
+      "name": "Dasharathe Pahimam",
+      "composer": "Mysore Vasudevacharya",
+      "language": ""
+    },
+    {
+      "name": "Anaamilo Mahaboob",
+      "composer": "Maharaja Swathi Thirunal Rama Varma",
+      "language": "Hindi"
+    },
+    {
+      "name": "Vidudhalai Vidudhalai",
+      "composer": "Subramania Bharati",
+      "language": ""
+    },
+    {
+      "name": "Puraya Mama Kamam",
+      "composer": "Narayana Teertha",
+      "language": ""
+    },
+    {
+      "name": "Kaanbadeppo",
+      "composer": "Ambujam Krishna",
+      "language": ""
+    },
+    {
+      "name": "Ami Marer Sagor Pari Debo",
+      "composer": "Rabindranath Tagore",
+      "language": ""
+    },
+    {
+      "name": "Intha Chouka",
+      "composer": "Veena Kuppayyar",
+      "language": ""
+    },
+    {
+      "name": "Nenarunchi Elukora",
+      "composer": "Sonti Venkatasubbayya",
+      "language": ""
+    },
+    {
+      "name": "Chalamela",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Maa Mayura",
+      "composer": "Mazhavai Chidambara Bharathi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Maal Maruganai Ninaindidhu",
+      "composer": "Ramaswami Shivan",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Ariyakudi Ramanuja Iyengar",
+      "language": ""
+    },
+    {
+      "name": "Paripovalera",
+      "composer": "Pattabhiramayya",
+      "language": ""
+    },
+    {
+      "name": "Telise Vagalella",
+      "composer": "Pattabhiramayya",
+      "language": ""
+    },
+    {
+      "name": "Iturara",
+      "composer": "Pattabhiramayya",
+      "language": ""
+    }
+  ],
+  "notable_features": "Bilahari is a janya of Sankarabharanam (29th melakarta) and is described as a combination of Mohanam and Sankarabharanam. It is audava-sampurna and bhashanga due to the external kaishiki nishadham (N2) in descent. The arohana omits madhyamam and nishadam, while the avarohana includes M1 and N3, with N2 as anya swara. The text explicitly says the notes are used in every song. Related scales listed are Mohanam, Shankarabharanam, Mohanakalyani, Garudadhvani, and Desakshi. No specific graha bhedam or prati madhyama equivalent is stated in the provided content.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bilahari"
+}

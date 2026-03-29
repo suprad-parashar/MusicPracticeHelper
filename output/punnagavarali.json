@@ -1,0 +1,169 @@
+{
+  "raga_name": "Punnagavarali",
+  "other_names": [
+    "Punnāgavarāli"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 8,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "N2",
+    "S",
+    "R1",
+    "G2",
+    "M1",
+    "P",
+    "D1",
+    "N2"
+  ],
+  "avrohana": [
+    "N2",
+    "D1",
+    "P",
+    "M1",
+    "G2",
+    "R1",
+    "S",
+    "N2"
+  ],
+  "raga_type": "nishadantya janya",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [
+    "R2"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Karuna",
+    "Bhakti",
+    "Shanta"
+  ],
+  "mood": "Punnagavarali has a plaintive, ancient, and slightly eerie devotional mood. It is strongly associated with karuna rasa, and its nishadantya shape gives it a closed, circular feeling that can sound hypnotic and serpent-like. The raga evokes images of snake charmers, ritual settings, and wedding processions, and when rendered slowly it can feel regal, solemn, and deeply reflective. It suits moments of prayer, ceremonial dignity, and quiet emotional intensity rather than bright exuberance.",
+  "description": "Punnagavarali is a derived raga from Hanumatodi, the 8th melakarta. It is an ancient raga with strong traditional associations, especially in Tamil musical culture. The name and usage connect it with snakes (naga), and it is said to attract snakes when sung perfectly; snake charmers are traditionally associated with this scale. It is commonly used in wedding ceremonies, where the Odam played at the muhurtam is often in Punnagavarali. The raga is nishadantya, meaning it begins and ends on nishada within a single octave, and is therefore usually rendered in madhyama sruti. The source notes that chatushruti rishabha may also occur sometimes in the ascent. Its regal presence is best appreciated in slow phrases. The scale given is N2 S R1 G2 M1 P D1 N2 in ascent and N2 D1 P M1 G2 R1 S N2 in descent. It resembles Nadanamakriya to some extent. Traditional Tamil pieces such as Nondichindu are set in this raga. The raga is a janya of Hanumatodi and is not a melakarta because it ends on nishadam rather than upper shadjam. Additional web sources note that it has folk-music origins and is an example of a raga that originated as a bhashanga raga.",
+  "time_of_day": "",
+  "gamaka_usage": "The raga is best brought out with slow, weighty phrases rather than fast brigha passages. N2 is the framing note and should be clearly established at both ends. R1 and G2 are handled with gentle oscillation and slides; G2 in particular is central to the raga’s identity and should be rendered with careful kampita/jaru treatment rather than as a plain note. D1 is also important and should be approached with controlled movement from P. The text notes that chatushruti rishabha (R2) may occur sometimes in the ascent, so if used it should be treated as an occasional ornamental variant rather than a structural note. Overall, the gamaka style should preserve the raga’s solemn, snake-like, and regal character, avoiding overly bright or rigidly flat intonation.",
+  "hindustani_equivalent": "Mishra Bilaskhani Todi",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Ehi Annapoorne",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kamalambikayasthavabhakthoham",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Thavadhasoham",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Gandhamu Puyyaruga",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Dasaradha Nandana",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Intha Bhagyamani",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Idi Niku",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "E Nomu Nochithimo",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Pahi Kalyanasundhara Rama",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Kankashaila Viharini",
+      "composer": "Syama Sastri",
+      "language": ""
+    },
+    {
+      "name": "Enneramum un Pada",
+      "composer": "Syama Sastri",
+      "language": ""
+    },
+    {
+      "name": "Brovasamayamide",
+      "composer": "Syama Sastri",
+      "language": ""
+    },
+    {
+      "name": "Neela Vaanam",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Natajana Kalpavalli",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Shiva Ganga Nagaranivasini",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Paingottu Malar",
+      "composer": "Thirugnanasambandar",
+      "language": ""
+    },
+    {
+      "name": "Narayanathe Namo Namo",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Padam Teliviyalum Mukham/Ela Thalir Sayane",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Bhavaye Sri Gopalam",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Ninnu Joochi",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Ela Ontiga",
+      "composer": "Kshetrayya, Chettipunyam Srinivasa Iyengar or Muvvanallur Sabhapati",
+      "language": ""
+    },
+    {
+      "name": "Ela Dayaradhe",
+      "composer": "Nedunuri Krishnamurthy",
+      "language": ""
+    },
+    {
+      "name": "Dhavala Gangeya Gangadhara",
+      "composer": "Vadiraja Tirtha",
+      "language": ""
+    }
+  ],
+  "notable_features": "A nishadantya raga usually rendered in madhyama sruti. Associated with karuna rasa, snakes, snake charmers, and wedding-ceremony music (Odam at muhurtam). It is an ancient Tamil-tradition raga and has some resemblance to Nadanamakriya. The source explicitly notes that it is derived from Hanumatodi (melakarta 8) and that R2 may sometimes appear in the ascent. Additional web snippets describe it as having folk-music origins and as a raga that originated straightway as a bhashanga raga.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Punnagavarali"
+}

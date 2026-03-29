@@ -1,0 +1,110 @@
+{
+  "raga_name": "Sarasangi",
+  "other_names": [
+    "Sowrasena"
+  ],
+  "melakarta_number": 27,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Bana",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M1",
+    "P",
+    "D1",
+    "N3",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N3",
+    "D1",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Sarasangi has a serene, polished, and expansive mood with a bright yet composed emotional color. As a melakarta built on the harmonic-major-like interval pattern, it often feels graceful, uplifting, and slightly luminous, evoking calm devotion as well as a sense of refined wonder. It can suggest a dignified, prayerful atmosphere rather than intense pathos, making it suitable for contemplative listening and for music that feels balanced, elegant, and emotionally clear.",
+  "description": "Sarasangi is the 27th melakarta rāgam in the 72-melakarta system and belongs to the 5th chakra, Bana, with mnemonic name Bana-Go and mnemonic phrase sa ri gu ma pa dha ni. It is a sampurna rāgam with all seven swaras in both ascent and descent. The scale uses chathusruthi rishabham (R2), antara gandharam (G3), shuddha madhyamam (M1), shuddha dhaivatham (D1), and kakali nishadham (N3). In the Muthuswami Dikshitar school it is called Sowrasena. It is the shuddha madhyamam equivalent of Latangi, the 63rd melakarta. In Western music it is identified with the Harmonic major scale. The raga has minor janya ragas associated with it, notably Kamala manohari and Nalinakanti. Its notes, when shifted by graha bhedam, yield the melakarta ragas Dharmavati and Chakravakam.",
+  "time_of_day": "",
+  "gamaka_usage": "Sarasangi is generally rendered with restrained, elegant gamaka treatment rather than heavy oscillation. R2, G3, D1, and N3 may take light kampita or gentle oscillatory touches in sangatis, while M1 and P are usually kept comparatively steady as structural anchor notes. Jaru and smooth slides are common in phrase transitions, especially in descent, but the raga’s identity depends on the precise intonation of G3, D1, and N3, so these swaras should not be over-blurred. Compared with more gamaka-dense ragas, Sarasangi tends to sound cleaner and more linear, with controlled ornamentation that preserves its bright, harmonic-major-like character.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "Harmonic major scale",
+  "popular_janya_ragas": [
+    "Kamala manohari",
+    "Nalinakanti"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Menu Joochi",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Jaya jaya padmanabha",
+      "composer": "Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Sourasenesham vallisham",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Nikela dayaradu",
+      "composer": "Ramaswami Sivan",
+      "language": ""
+    },
+    {
+      "name": "Paripaliso guru vadiraja",
+      "composer": "R. K. Padmanabha",
+      "language": ""
+    },
+    {
+      "name": "Vandeham govinda",
+      "composer": "M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Tirupati malaiyurai Venkata vaa",
+      "composer": "M. M. Dandapani Desikar",
+      "language": ""
+    },
+    {
+      "name": "Sadaashivam upaasmahe",
+      "composer": "Jayachamaraja Wadiyar",
+      "language": ""
+    },
+    {
+      "name": "Unadhu Thiruvadi",
+      "composer": "Gopalakrishna Bharati",
+      "language": ""
+    },
+    {
+      "name": "Manavi Chekonavayya",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sarasangi Nee Pai (Varnam)",
+      "composer": "Samantivadi Raghavendrachar",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta #27; 3rd rāgam in the 5th chakra Bana; mnemonic name Bana-Go; called Sowrasena in the Muthuswami Dikshitar school. It is the shuddha madhyamam equivalent of Latangi (#63). Graha bhedam from Sarasangi yields Dharmavati and Chakravakam. The raga is sampurna and non-vakra, with no anya swaras or vivadi swaras in its basic form.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sarasangi"
+}

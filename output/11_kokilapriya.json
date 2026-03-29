@@ -1,0 +1,78 @@
+{
+  "raga_name": "Kokilapriya",
+  "other_names": [
+    "Kokilāravam"
+  ],
+  "melakarta_number": 11,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Netra",
+  "arohana": [
+    "S",
+    "R1",
+    "G2",
+    "M1",
+    "P",
+    "D2",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M1",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Kokilapriya has a bright, serene, and devotional character, with a gentle sweetness suggested by its name and its clean melakarta structure. It tends to evoke calmness, inward devotion, and a composed, uplifting feeling rather than intense drama. The scale’s restrained color makes it suitable for reflective, prayerful music and for conveying a soft, pleasing emotional atmosphere.",
+  "description": "Kokilapriya, meaning \"the one dear to the koel,\" is the 11th melakarta rāgam in the 72-melakarta system of Carnatic music. It belongs to the 2nd chakra, Netra, and its mnemonic name is Netra-Ma with the mnemonic phrase sa ra gi ma pa dha na. Its scale uses shuddha rishabham, sadharana gandharam, shuddha madhyamam, chatushruti dhaivatham, and kakali nishadham, making it a sampoorna rāgam with all seven notes in both ascent and descent. It is the shuddha madhyamam equivalent of Suvarnangi, the 47th melakarta. In the original asampurna melakarta system compiled by Venkatamakhin, the corresponding raga is Kokilāravam, where the same notes appear in vakra phrases and the scale is shadava-sampurna, with six notes in ascent and full seven in descent. The raga is theoretically significant because its notes, when subjected to graha bhedam, yield Rishabhapriya melakarta. It has a few minor janya rāgams associated with it. The raga is not among the most commonly heard melakartas, but it remains important in pedagogy and theory as a clear example of the 11th melakarta structure and its relationship to the asampurna tradition.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "As a melakarta with a straightforward sampoorna scale, Kokilapriya is generally rendered with moderate, controlled gamakas rather than heavy oscillation. R1 and M1 are typically stable anchor notes, while G2, D2, and N3 may take light kampita or gentle slides to bring out the raga’s color. P is usually held steady. Because the scale is not vakra and contains no anya swaras, the gamaka treatment should preserve the plain scalar identity; phrases should flow cleanly with smooth jaru between adjacent swaras and restrained ornamentation compared with more heavily gamaka-driven ragas. In the asampurna Kokilāravam form, the vakra phrase structure would naturally invite more zig-zag movement, but the melakarta form itself is best kept direct and balanced.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Vardhani"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Dasarathe Dayasaradhe",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Vadamela Radha Manohara",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Neeke abhimanamu",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "kOdanDarAmam anisham",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "male nin",
+      "composer": "S Ramanathan",
+      "language": ""
+    }
+  ],
+  "notable_features": "11th melakarta; 5th rāgam in the 2nd chakra Netra; mnemonic name Netra-Ma; mnemonic phrase sa ra gi ma pa dha na; shuddha madhyamam equivalent of Suvarnangi (47th melakarta); asampurna equivalent is Kokilāravam in the Venkatamakhin tradition; graha bhedam from Kokilapriya yields Rishabhapriya; the asampurna form is shadava-sampurna and vakra. Vardhani is noted as a janya of Kokilapriya, with R1 omitted in ascent while retaining the descent.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kokilapriya"
+}

@@ -1,0 +1,261 @@
+{
+  "raga_name": "Reetigowla",
+  "other_names": [
+    "Reethigowla",
+    "Reethi Gowla",
+    "Reethigowlai",
+    "Nārīrītigowla"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 22,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G2",
+    "R2",
+    "G2",
+    "M1",
+    "N2",
+    "D2",
+    "M1",
+    "N2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "M1",
+    "G2",
+    "M1",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "vakra shadava-sampoorna",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Shanta",
+    "Adbhuta"
+  ],
+  "mood": "Reetigowla has a deeply rakti, lyrical, and emotionally rich character, evoking devotion blended with immense joy. Its phrases feel graceful, tender, and flowing, often creating a sense of affectionate surrender and serene delight. The raga can suggest a contemplative devotional atmosphere while also carrying a bright, melodious charm that makes it feel warmly uplifting and aesthetically satisfying.",
+  "description": "Reetigowla, also spelled Reethigowla, Reethi Gowla, or Reethigowlai, is a janya raga associated with the 22nd melakarta, Kharaharapriya. It is described as a vakra shadava-sampoorna raga, with six notes in the arohana and seven in the avarohana, and is regarded as a rakti raga with high melodic content. The raga is known for its unique sancharams and prayogams and for evoking bhakti mixed with immense joy through vadi-samvadi relationships such as Sa-Ma, Ri-Dha, and Ga-Ni. In the Muthuswami Dikshitar school, an asampurna/melakarta form of the scale is known as Nārīrītigowla, listed as the 20th melakarta in Venkatamakhin's original scheme. The raga is strongly associated with rich melodic expression and is a major concert and composition raga, especially for varnams and kritis.",
+  "time_of_day": "",
+  "gamaka_usage": "Reetigowla relies on characteristic vakra prayogas and delicate phrase-based handling rather than straight scalar movement. G2 is central and is often approached in zig-zag fashion with R2; the G2–R2–G2 movement is a signature phrase. N2 is especially important, with the blueprint N2 N2 S giving the raga its distinctive identity. M1 is prominent and is often touched repeatedly in descent, as in G2 M1 P M1 G2 R2 S, creating a flowing, oscillating contour. D2 and N2 are used with careful phrase shaping rather than heavy scalar emphasis. The raga’s identity depends strongly on gamaka-inflected sancharams and on preserving its characteristic note relationships; in the Dikshitar school’s Nārīrītigowla, the scale uses D1 instead of D2, giving a different note color and treatment.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Vanajaksha",
+      "composer": "Veena Kuppayyar",
+      "language": ""
+    },
+    {
+      "name": "Swami Unnaiye Naan",
+      "composer": "Thanjai Vadivelu",
+      "language": ""
+    },
+    {
+      "name": "Sharanagathuni",
+      "composer": "Sripada Pinakapani",
+      "language": ""
+    },
+    {
+      "name": "Sikkal Singara Vela",
+      "composer": "Sikkil Sisters",
+      "language": ""
+    },
+    {
+      "name": "Ninne Nammi",
+      "composer": "T R Vishwanatha Shastri",
+      "language": ""
+    },
+    {
+      "name": "Ninne Nammitinamma",
+      "composer": "M. D. Ramanathan",
+      "language": ""
+    },
+    {
+      "name": "Neela Mayil",
+      "composer": "Dr. S. Ramanathan",
+      "language": ""
+    },
+    {
+      "name": "Adi Vinayakam",
+      "composer": "N. Ravikiran",
+      "language": ""
+    },
+    {
+      "name": "Anaata Rakshasa",
+      "composer": "Dr. L. Subramaniam",
+      "language": ""
+    },
+    {
+      "name": "Kamalamba Arulvai",
+      "composer": "Tiruvarur Ramamurthy Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sri Sathguru",
+      "composer": "unknown composer",
+      "language": ""
+    },
+    {
+      "name": "Seetha Nayaka",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Bale balendu-bhushani",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Nannu vidachi",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Jo Jo Jo Rama",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Badalika teera",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Dvaitamu sukhama",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Paripalaya paripalaya raghunatha",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Raaga ratna malikache",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Chera rava demira",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Hari Katha Shravana Mado",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Thamboolava Kollu",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Jaya Jaya sri Hayavadana",
+      "composer": "Vadiraja",
+      "language": ""
+    },
+    {
+      "name": "Janani Ninnuvina",
+      "composer": "Subbaraya Sastri",
+      "language": ""
+    },
+    {
+      "name": "Nannu Brochutaku",
+      "composer": "Mysore Sadashiva Rao",
+      "language": ""
+    },
+    {
+      "name": "Guruvayurappane",
+      "composer": "Ambujam Krishna",
+      "language": ""
+    },
+    {
+      "name": "Brindavana-nilaye radhe, enna punniyam seideno",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Malarinai thunai, tattvamariya tarama",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Mama hrdaye vihara dayalo",
+      "composer": "Mysore Vasudevacharya",
+      "language": ""
+    },
+    {
+      "name": "Pari-palaya mam shri padmanabha murare",
+      "composer": "Swathi Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Ninnu vina mari galada",
+      "composer": "Shyama shastri",
+      "language": ""
+    },
+    {
+      "name": "Sadhguru Swamiki",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": ""
+    },
+    {
+      "name": "Sri jnana-skandam bhavaye",
+      "composer": "Swami Haridas giri",
+      "language": ""
+    },
+    {
+      "name": "Kamakoti-pitha sthite kamakshi",
+      "composer": "Mysore V Ramarathnam",
+      "language": ""
+    },
+    {
+      "name": "Vanajaaksha",
+      "composer": "Veenai kuppaiyer",
+      "language": ""
+    },
+    {
+      "name": "En manathaamarai en mel",
+      "composer": "GN Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Ninnuvina vere gati evaramma",
+      "composer": "GN Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Tatvamariya tarama",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Shivadayite Jagatam",
+      "composer": "Sri Ganapathi Sachchidananda Swamiji",
+      "language": ""
+    },
+    {
+      "name": "Shri krishna kamalanatho",
+      "composer": "Bangalore T. Srinivas",
+      "language": ""
+    }
+  ],
+  "notable_features": "Associated with the 22nd melakarta Kharaharapriya. Classified as vakra shadava-sampoorna. It is explicitly described as a rakti raga with high melodic content. The raga evokes bhakti mixed with immense joy through Sa-Ma, Ri-Dha, and Ga-Ni relationships. The blueprint N2 N2 S is a distinctive identifying phrase. In the Muthuswami Dikshitar school, the related asampurna/melakarta form is Nārīrītigowla, the 20th melakarta in Venkatamakhin's original list, with vakra prayoga and a D1-based scale.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Reetigowla"
+}

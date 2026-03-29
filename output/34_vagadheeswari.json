@@ -1,0 +1,113 @@
+{
+  "raga_name": "Vagadheeswari",
+  "other_names": [
+    "Vagadheeshwari",
+    "vāgadheeśwari",
+    "Bhogachhāyānāţa",
+    "Bhogachaaya Naatakapriye"
+  ],
+  "melakarta_number": 34,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "unknown",
+  "chakra": "Rutu",
+  "arohana": [
+    "S",
+    "R3",
+    "G3",
+    "M1",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R3",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Shanta",
+    "Adbhuta"
+  ],
+  "mood": "Vagadheeswari has a bright yet composed melodic personality. Its use of R3 and G3 gives it a striking, incisive color, while the shuddha madhyamam and kaisiki nishadam soften the scale into something dignified rather than harsh. The raga can evoke a devotional and contemplative atmosphere, with a sense of intellectual clarity and quiet wonder. It suits reflective, prayerful, and mildly majestic expression rather than overtly romantic or tragic moods.",
+  "description": "Vagadheeswari is a Carnatic melakarta raga and the 34th melakarta in the 72 melakarta system. It is a parent scale (janaka raga) and therefore a sampurna raga, containing all seven swaras in both ascent and descent. It is the 4th raga in the 6th chakra, Rutu, with mnemonic name Rutu-Bhu and mnemonic phrase 'sa ru gu ma pa dhi ni'. Its scale is S R3 G3 M1 P D2 N2 S / S N2 D2 P M1 G3 R3 S. The swaras used are shatsruthi rishabham, antara gandharam, shuddha madhyamam, chathusruthi dhaivatham and kaisiki nishadham, along with shadjam and panchamam. In the Muthuswami Dikshitar school, it is called Bhogachhāyānāţa. It is the shuddha madhyamam equivalent of Nasikabhooshani, the 70th melakarta. In Western terms, it corresponds to the Mixolydian sharp 2 scale/mode. Vagadheeswari has a few minor janya ragas, of which Magadhi and Mohanangi are occasionally heard; Chayanata is also mentioned as a janya raga. Through graha bhedam, its notes yield two other minor melakarta ragas: Naganandini and Bhavapriya.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "As a sampurna melakarta with a straight scalar structure, Vagadheeswari can accommodate both plain-note handling and ornamented treatment. The raga identity is strongly shaped by the R3-G3 area, which must be handled with clarity so that the unusual bright opening tetrachord is unmistakable. R3 is not usually dwelt on with heavy oscillation in the manner of more gamaka-laden rakti ragas; instead it is often approached and released cleanly, sometimes with a light kampita or a subtle glide into G3. G3 can take measured kampita and serves as an important color-bearing swara, but excessive oscillation that blurs the R3-G3 distinction should be avoided. M1 and P are comparatively steady nyasa points and help stabilize the raga's otherwise sharp-edged purvanga. D2 and especially N2 in descent admit gentle kampita or slide-based treatment, with phrases such as N2-D2-P and P-M1-G3-R3 benefiting from smooth jaru movement. The raga tolerates plain-note sancharas well, and this plainness is in fact useful in establishing its melakarta outline; over-decoration can obscure its scalar identity. Characteristic handling therefore lies in balancing clean scalar movement with selective ornamentation: light to moderate kampita on G3 and N2, restrained treatment of R3, stable M1 and P, and graceful descending jarus across the upper notes. Compared with heavier rakti ragas, Vagadheeswari is best projected through lucid phrase architecture, slow-to-medium movement, and a dignified, devotional repose rather than dense gamaka saturation.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "Mixolydian #2",
+  "popular_janya_ragas": [
+    "Magadhi",
+    "Mohanangi",
+    "Chayanata"
+  ],
+  "notable_compositions": [
+    {
+      "name": "SudheyoLu",
+      "composer": "C Honnappa Bhagavatar",
+      "language": "Kannada"
+    },
+    {
+      "name": "Varaveenapaani",
+      "composer": "Nallan Chakravarthy Murthy",
+      "language": "unknown"
+    },
+    {
+      "name": "Nanninda Naane Janisi",
+      "composer": "Kanakadasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Paramathmudu",
+      "composer": "Thyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Bhogachaaya Naatakapriye",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Vani Vagadheeshwari",
+      "composer": "Mysore Chikka Rama Rao",
+      "language": "unknown"
+    },
+    {
+      "name": "Pranamaamyaham",
+      "composer": "M. Balamuralikrishna",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Vagadheeswari Sharadhe",
+      "composer": "T. Sreenidhi",
+      "language": "unknown"
+    },
+    {
+      "name": "Kamala Nayana Jagadeeshwara",
+      "composer": "Swathi Thirunal Rama Varma",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Nadanu Santhana",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Vamadeva Bhavayeham",
+      "composer": "Jayachamarajendra Wadiyar",
+      "language": "Sanskrit"
+    }
+  ],
+  "notable_features": "Called Bhogachhāyānāţa in the Muthuswami Dikshitar school. Mnemonic name: Rutu-Bhu. Mnemonic phrase: sa ru gu ma pa dhi ni. Graha bhedam on this scale yields Naganandini and Bhavapriya. It is the shuddha madhyamam counterpart of Nasikabhooshani. In Western scale terminology, it corresponds to the Mixolydian #2 mode. Though the source says it has a few minor janya ragas, Magadhi and Mohanangi are specifically noted as occasionally heard, and Chayanata is also mentioned as a janya raga."
+}

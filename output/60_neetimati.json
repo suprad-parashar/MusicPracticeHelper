@@ -1,0 +1,84 @@
+{
+  "raga_name": "Neetimati",
+  "other_names": [
+    "Nishādham",
+    "Nishadham"
+  ],
+  "melakarta_number": 60,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Disi",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M2",
+    "P",
+    "D3",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D3",
+    "P",
+    "M2",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Adbhuta",
+    "Bhakti",
+    "Veera"
+  ],
+  "mood": "Neetimati has a bright, incisive and elevated melodic personality. With prati madhyamam, shatsruti dhaivatam and kakali nishadam in a complete heptatonic scale, it suggests brilliance, alertness and a sense of upward aspiration rather than repose-heavy softness. The raga can evoke a dignified devotional feeling, a noble and energetic inner confidence, and a mildly wondrous color because of its luminous upper tetrachord. It suits moods of earnest prayer, intellectual clarity, resolve, and stately musical exploration.",
+  "description": "Neetimati is the 60th melakarta raga in Carnatic music and therefore a parent (janaka) raga in the 72 melakarta system. In the Muthuswami Dikshitar school it is called Nishadham. It is the 6th raga in the 10th chakra, Disi, with mnemonic name Disi-Sha and mnemonic phrase 'sa ri gi mi pa dhu nu'. Its scale is sampurna in both ascent and descent: S R2 G2 M2 P D3 N3 S / S N3 D3 P M2 G2 R2 S. The swaras employed are chathusruthi rishabham, sadharana gandharam, prati madhyamam, shatsruthi dhaivatham and kakali nishadham, along with shadjam and panchamam. It is the prati madhyamam equivalent of Varunapriya, the 24th melakarta raga. Neetimati has a few janya ragas, of which Hamsanadam is specifically noted as a popular derivative. Its notes, when shifted through graha bhedam, yield the minor melakarta Gangeyabhooshani.",
+  "time_of_day": "midday",
+  "gamaka_usage": "As a melakarta with a straight sampurna scale and no vakra movement indicated in the source, Neetimati is handled through clear scalar movement, but its identity depends on careful intonation of G2, M2, D3 and N3. The prati madhyamam (M2) should be rendered with firmness and brightness, often as a point of color rather than with excessive blur. G2 generally benefits from mild kampita or a gentle approach from R2 or M2 so that its sadharana character is preserved. D3 and N3, the sharper upper swaras, need especially precise handling; they may take light oscillation in manodharma, but over-oscillation or flattening can weaken the raga’s contour. P and S act as stable nyasa points. Characteristic scalar stretches such as M2-P-D3-N3->S and the descent >S-N3-D3-P-M2 help establish its luminous, elevated profile. Since no special vakra prayogas or anya-swara usages are indicated, the gamaka approach is best understood as balanced and controlled: enough kampita and connecting slides to retain Carnatic identity, but with clarity of swara-sthana and direct melodic outline remaining paramount.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Hamsanadam"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Aravinda Lochanane",
+      "composer": "Ambujam Krishna",
+      "language": ""
+    },
+    {
+      "name": "Vachamgochara",
+      "composer": "Thyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nishadhadhi Deshadhipathi",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Mohanakara Muthu",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Smaranam",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Sri Tulasi Neetimati",
+      "composer": "Smt. Kalyani Varadarajan",
+      "language": ""
+    }
+  ],
+  "notable_features": "60th melakarta; 6th raga of the 10th chakra Disi; mnemonic name Disi-Sha; mnemonic phrase 'sa ri gi mi pa dhu nu'. Called Nishadham in the Muthuswami Dikshitar school. Prati madhyamam counterpart of Varunapriya (24th melakarta). Through graha bhedam, Neetimati yields the minor melakarta Gangeyabhooshani. It is also traditionally mentioned as a midday raga and is said to appease the gods and nullify inconsistencies in singing ragas at the wrong time."
+}

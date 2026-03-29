@@ -1,0 +1,54 @@
+{
+  "raga_name": "Natakapriya",
+  "other_names": [
+    "Naṭakapriya",
+    "Naṭābharanam",
+    "Natabharanam"
+  ],
+  "melakarta_number": 10,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Netra",
+  "arohana": [
+    "S",
+    "R1",
+    "G2",
+    "M1",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampoorna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Natakapriya has a calm, balanced, and dignified mood with a gentle devotional undertone. As a melakarta with a straightforward sampoorna scale, it tends to feel orderly, stable, and unforced rather than intensely dramatic. The raga can evoke quiet contemplation, a composed theatrical grace, and a soft inwardness that suits reflective or devotional settings more than overtly passionate expression.",
+  "description": "Natakapriya, meaning \"the one dear to theatre,\" is the 10th melakarta rāgam in the 72-melakarta system. It belongs to the 2nd chakra, Netra, and its mnemonic phrase is \"sa ra gi ma pa dhi ni.\" Its scale uses shuddha rishabham, sadharana gandharam, shuddha madhyamam, chatushruti dhaivatham, and kaisiki nishadham. In the Muthuswami Dikshitar school, the same melakarta is called Naṭābharanam. It is the shuddha madhyamam equivalent of Shadvidamargini, the 46th melakarta. In the original Venkatamakhin asampurna system, Naṭābharanam is treated as a vakra shadava-sampurna form with zig-zag phraseology rather than a strictly linear scale. Natakapriya’s notes, when subjected to graha bhedam, yield three other major melakarta ragas: Vachaspati, Charukesi, and Gourimanohari. The text also notes Sindhu Bhairavi as one of the janya ragas associated with this melakarta.",
+  "time_of_day": "",
+  "gamaka_usage": "As a melakarta, Natakapriya is generally rendered with clear, stable treatment of the scale tones rather than heavy vakra ornamentation. R1, G2, D2, and N2 are typically approached with gentle kampita or light oscillation where phrase context demands, while S and P are held steady. M1 is usually a firm anchor. Because the raga is structurally straightforward in the modern melakarta form, gamakas should support the linear identity of the scale without excessive zig-zag phrasing; in the asampurna Naṭābharanam tradition, however, phrases are explicitly vakra and may use more curved, phrase-based movement. Compared with closely related melakarta ragas, the treatment should preserve the distinct shuddha-rishabha/sadharana-gandhara color and avoid introducing anya swaras.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Sindhu Bhairavi"
+  ],
+  "notable_compositions": [],
+  "notable_features": "4th rāgam in the 2nd chakra Netra; mnemonic name Netra-Bhu; mnemonic phrase sa ra gi ma pa dhi ni. Shuddha madhyamam equivalent of Shadvidamargini (46th melakarta). In the Muthuswami Dikshitar school, the 10th melakarta is called Naṭābharanam. Graha bhedam from Natakapriya yields Vachaspati, Charukesi, and Gourimanohari. The asampurna version is vakra and shadava-sampurna, with arohana S G2 M1 P N2 D2 N2 S and avarohana S N2 D2 N2 P N2 P M1 G2 G2 R1 R1 S.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Natakapriya"
+}

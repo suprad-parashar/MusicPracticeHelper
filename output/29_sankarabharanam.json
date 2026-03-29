@@ -1,0 +1,516 @@
+{
+  "raga_name": "Sankarabharanam",
+  "other_names": [
+    "Śankarābharaṇaṃ",
+    "Dhīraśankarābharaṇaṃ",
+    "Dheerasankarabharanam",
+    "Sankarabharanam",
+    "Śaṃkarābharaṇaṃ"
+  ],
+  "melakarta_number": 29,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "Govindacharya",
+  "chakra": "Bāṇa",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M1",
+    "P",
+    "D2",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Śankarābharaṇaṃ has a mellifluous, smooth, and majestic character. It evokes a calm, expansive, and dignified emotional space, often felt as serene confidence rather than intense pathos. Because of its balanced scale and broad scope for elaboration, it can suggest devotion, grace, and grandeur, making it suitable for both contemplative and celebratory settings. Listeners often experience it as uplifting, polished, and classically complete, like a broad open landscape with clear light.",
+  "description": "Dhīraśankarābharaṇaṃ, commonly known as Śankarābharaṇaṃ, is the 29th Melakarta rāga in the 72-melakarta system. It is a sampurna rāga with all seven notes in both ascent and descent: S R2 G3 M1 P D2 N3 S / S N3 D2 P M1 G3 R2 S. The scale corresponds to Bilaval in Hindustani music and to the Western major scale (Ionian mode), making it one of the most widely recognized and universally resonant scales. The rāga is described as mellifluous, smooth, and ideal for melodious yet laid-back majestic presentation. It is glorified as 'Sarva Gamaka Māṇika Rakti Rāgaṃ' because of its rich gamaka possibilities. It is the 5th rāga in the 5th chakra, Bāṇa, with mnemonic name Bāṇa-Ma. It is the shuddha madhyamam equivalent of the 65th melakarta, Kalyāṇi. The rāga has an exceptionally large number of janya rāgas, many of which are highly popular and independently important. The source also notes that its notes are evenly spaced, giving excellent scope for elaboration, interpretation, and phrase exploration. In practice, it is one of the most frequently chosen major concert rāgas, along with Todi, Kalyāṇi, and Kharaharapriya. The rāga is also associated with the white keys of a piano/organ/keyboard in simplified form.",
+  "time_of_day": "all time",
+  "gamaka_usage": "This rāga is especially known for extensive gamaka usage; the source explicitly calls it 'Sarva Gamaka Māṇika Rakti Rāgaṃ'. The swaras are not treated as plain fixed pitches in performance: R2, G3, D2, and N3 commonly take kampita and oscillatory ornamentation, while M1 and P are often held more steadily as structural anchors. Jaru/slide phrases are important in connecting S–R2–G3–M1 and M1–G3–R2–S, and in descending phrases through N3–D2–P–M1. Because the scale is symmetrical and evenly spaced, the raga tolerates rich ornamentation without losing identity. Compared with more austere ragas, Sankarabharanam is less about sparse note choice and more about graceful, flowing gamaka-laden phrases. The major scale framework allows both gentle and grand treatment, but the raga should still sound smooth and dignified rather than heavily forceful.",
+  "hindustani_equivalent": "Bilaval",
+  "western_equivalent": "major scale / Ionian mode",
+  "popular_janya_ragas": [
+    "Arabhi",
+    "Atana",
+    "Bilahari",
+    "Begada",
+    "Maand",
+    "Devagaandhaari",
+    "Jana Ranjani",
+    "Hamsadhvani",
+    "Kathanakuthuhalam",
+    "Niroshta",
+    "Shuddha Sāveri",
+    "Pahādi",
+    "Poornachandrika",
+    "Kedaram",
+    "Kurinji",
+    "Navroj",
+    "Sarasvati-manohari",
+    "Naagadhvani",
+    "Garudadhvani"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Chalamela",
+      "composer": "unknown",
+      "language": "Telugu"
+    },
+    {
+      "name": "Indumukhi",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sami Ninne",
+      "composer": "Veena Kuppayyar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Manavi Chekonarada",
+      "composer": "Ponniah Pillai",
+      "language": "Telugu"
+    },
+    {
+      "name": "Brihadamba Kadamba",
+      "composer": "Ponniah Pillai",
+      "language": "Telugu"
+    },
+    {
+      "name": "Niluparani Mohamuto",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Palaya Sri Panchanadheeswhara",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sakhiye Intha Jalam",
+      "composer": "K. N. Dandayudhapani Pillai",
+      "language": "Telugu"
+    },
+    {
+      "name": "Samikki Sari Evvare",
+      "composer": "Kunnakudi Krishna Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Entha Sudhiname",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sankatamulella",
+      "composer": "Nallan Chakravarthy Murthy",
+      "language": "Telugu"
+    },
+    {
+      "name": "Eduṭa Nilacitē",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Bhakti Bhikṣamīyavē",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Maryāda Kādurā",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rāmā Ninnuvinā",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Svara Rāga Sudhā Rasa",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sundarēśvaruṇi",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Manasu Svādhīnamaina",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sārasa Nēthra",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Gata Mohā",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vara Leela Gāna Lola",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Enduku Peddalavalē",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Buddhi Rādu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Endukī Chalamu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "E Vidhamulanaina",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Emi Nēramu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ivaraka Joochinadi",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nannu Brovakanu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nāpālī Srī Rāmā",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Paripālaya Dāasharathē",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Pāhi Rāmāchandrā",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ramā Ramana Rārā",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ranga Nāyaka",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rāmā Sīthā Rāmā",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rāmā Srī Rāmā Lāli",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sīthā Pathi Kāvavayyā",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sundarēśvaruni",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Shambho Shiva",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Srī Raghuvara Dāsharathē",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Valla Kādhanaka",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sīthā Kalyāna Vaibhogame",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vishnu Vāhanudu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Dakṣhiṇāmūrtē",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Nāgalingam Bhajēham",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sadāśivam Upāsmahē",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Akṣhayalinga Vibho Brihadīshvarāya Namastē",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Śrī Kamalāmbikāyā Katākshithoham",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Parāshakthi Parākela",
+      "composer": "Subbarama Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Shankarāchāryam",
+      "composer": "Subbarama Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Pogadirēlo Ranga",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Kande Nā Kanasinali",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Enāgu Āne",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Shollinile Varum Sukham",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Arulaalan Thiramellam",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Senthil Adhipan",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Ennai Alaiya Ivvelaye",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Karunai Thandennai",
+      "composer": "Mazhavai Chidambara Bharathi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Yenu Olle Hariye",
+      "composer": "Kanaka Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Sarōjadala Nētri",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Dēvī Mīnānētri",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Enthanuchu",
+      "composer": "Subbaraya Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Devi Jagath Janani",
+      "composer": "Swathi Thirunal Maharaja",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Bhaktha Paraayana",
+      "composer": "Swathi Thirunal Maharaja",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Nrityati Nrityati",
+      "composer": "Swathi Thirunal Maharaja",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Rajeevaksha Baro",
+      "composer": "Swathi Thirunal Maharaja",
+      "language": "Kannada"
+    },
+    {
+      "name": "Alarulu Kuriyaga Āḍinadē",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Mahima Teliya Tarama",
+      "composer": "Anai Ayya",
+      "language": "Tamil"
+    },
+    {
+      "name": "Manadhirkishaindha Mannalan",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sahajaguna Ramachandra",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Chandra Rekha",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Tamil"
+    },
+    {
+      "name": "English Notes",
+      "composer": "Muthiah Bhagavatar",
+      "language": "English"
+    },
+    {
+      "name": "Yaaro Enrennaamale",
+      "composer": "Arunachala Kavi",
+      "language": "Tamil"
+    },
+    {
+      "name": "En Kanavai Kelaayo",
+      "composer": "Arunachala Kavi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Annai Janaki",
+      "composer": "Arunachala Kavi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Idhu Nalla Tharunam",
+      "composer": "Ramalinga Swamigal",
+      "language": "Tamil"
+    },
+    {
+      "name": "Guru Charanam Bhajare",
+      "composer": "Walajapet Venkataramana Bhagavathar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Samakarardha Sariirini",
+      "composer": "Saint Gnanananda Teertha (Ogirala Veeraraghava Sarma)",
+      "language": "Telugu"
+    },
+    {
+      "name": "Shankarabharana Shayanudade",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Telugu"
+    },
+    {
+      "name": "Evvade",
+      "composer": "Kshetrayya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nene Jana",
+      "composer": "Kshetrayya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sunta Sepu/Intha Mohamemira",
+      "composer": "Kshetrayya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Maanini Vinave/Maaname Bhushanamu",
+      "composer": "Kshetrayya or Govindaswamy Ayya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Dari Joochu",
+      "composer": "Muvalur Sabhapathy Ayya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Indha Aasai Enna",
+      "composer": "Kshetrayya",
+      "language": "Tamil"
+    },
+    {
+      "name": "Kamabhanamo Raghu",
+      "composer": "unknown",
+      "language": "Telugu"
+    },
+    {
+      "name": "Mahalakshmi Jaganmatha",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Adiya Pada",
+      "composer": "Gopalakrishna Bharathi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Muthu Kumarayyane",
+      "composer": "Ramaswamy Sivan",
+      "language": "Tamil"
+    }
+  ],
+  "notable_features": "Melakarta number 29; 5th rāga of the 5th chakra Bāṇa; mnemonic name Bāṇa-Ma; shuddha madhyamam equivalent of Kalyāṇi (65th melakarta). Its notes under graha bhedam yield five other major melakarta rāgas: Kalyāṇi, Hanumatodi, Natabhairavi, Kharaharapriya, and Harikambhoji. The 7th graha bhedam produces a structure with both madhyamams and no panchamam, so it is not a valid melakarta. The rāga is noted for having a very large number of janya rāgas and for being one of the most popular and foundational scales in Carnatic music. It is also said that many compositions in this rāga exist by almost all composers. The source mentions 39 Nottu Svara compositions by Muthuswami Dikshitar based on Western major scale notes.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sankarabharanam"
+}

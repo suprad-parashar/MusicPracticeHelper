@@ -1,0 +1,77 @@
+{
+  "raga_name": "Dhenuka",
+  "other_names": [
+    "Dhunibinnashadjam"
+  ],
+  "melakarta_number": 9,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Netra",
+  "arohana": [
+    "S",
+    "R1",
+    "G2",
+    "M1",
+    "P",
+    "D1",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D1",
+    "P",
+    "M1",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Shanta",
+    "Karuna"
+  ],
+  "mood": "Dhenuka has a calm, devotional, and composed character, with a restrained brightness that suits prayerful and reflective moods. As a melakarta with a complete, symmetrical scale, it tends to feel orderly and grounded rather than highly ornate, evoking serenity, steadiness, and a gentle spiritual uplift. It can also carry a slightly plaintive, introspective shade because of its scale color, making it suitable for contemplative listening and devotional expression.",
+  "description": "Dhenuka is the 9th melakarta rāgam in the 72-melakarta system of Carnatic music. It is the 3rd rāgam in the 2nd chakra, Netra, with mnemonic name Netra-Go and mnemonic phrase sa ri ga ma pa dha ni. Its scale is S R1 G2 M1 P D1 N3 S / S N3 D1 P M1 G2 R1 S. In the Muthuswami Dikshitar school it is called Dhunibinnashadjam. As a melakarta, it is a sampoorna rāgam with all seven notes in both ascent and descent. It is the shuddha madhyamam equivalent of Shubhapantuvarali, the 45th melakarta. The raga is also known from the older asampurna melakarta tradition, where Dhunibinnashadjam is listed as the 9th melakarta in Venkatamakhin's original scheme. Dhenuka has a few janya rāgams associated with it, though the source does not list them individually. Its notes under graha bhedam yield three other melakarta rāgams: Shanmukhapriya, Chitrambari, and Shoolini.",
+  "time_of_day": "",
+  "gamaka_usage": "As a melakarta scale, Dhenuka is generally rendered with clear, well-defined swaras rather than heavy oscillation. Sa, Pa, and the upper Sa are typically held steady as structural anchors. R1 and D1 are usually approached with gentle kampita or light jaru depending on phrase context, while G2 and N3 may take modest oscillation to bring out the raga color. M1 is normally stable and plain. Because the scale is complete and symmetrical, gamakas should not obscure the identity of the swaras; the raga’s character comes more from phrase choice and controlled ornamentation than from extreme gamaka density. Compared with closely related ragas, Dhenuka’s treatment is more restrained and direct, avoiding excessive embellishment that could blur its melakarta identity.",
+  "hindustani_equivalent": "Ahir Bhairav",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Teliyaleru Rama",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Chidhambareshwaram",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Raavayya Rama",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Kamadhenukam Ashraye",
+      "composer": "Shri Anandhanadha Sadhguru",
+      "language": ""
+    },
+    {
+      "name": "Karunai Kadale",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta #9; chakra 2 (Netra), 3rd rāgam in that chakra. Mnemonic name: Netra-Go. Mnemonic phrase: sa ri ga ma pa dha ni. Called Dhunibinnashadjam in the Muthuswami Dikshitar school. Shuddha madhyamam equivalent of Shubhapantuvarali (45th melakarta). Graha bhedam on Dhenuka yields Shanmukhapriya, Chitrambari, and Shoolini. The source notes that it has a few janya rāgams associated with it, but does not enumerate them.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dhenuka_(raga)"
+}

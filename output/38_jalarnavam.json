@@ -1,0 +1,72 @@
+{
+  "raga_name": "Jalarnavam",
+  "other_names": [
+    "Jaganmohanam",
+    "Jalārṇavam"
+  ],
+  "melakarta_number": 38,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Rishi",
+  "arohana": [
+    "S",
+    "R1",
+    "G1",
+    "M2",
+    "P",
+    "D1",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D1",
+    "P",
+    "M2",
+    "G1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Jalarnavam has a grave, inward, and slightly austere melodic personality, with a contemplative stillness arising from its shuddha rishabham, shuddha gandharam, prati madhyamam, and shuddha dhaivatham. The raga can evoke a sense of vastness and depth—apt for its name meaning 'ocean'—suggesting meditative quiet, devotional introspection, and a subtle wonder. Its color is not overtly bright or romantic; rather, it suits reflective, serious, and spiritually tinged expression.",
+  "description": "Jalarnavam is a Carnatic melakarta raga, the 38th in the 72 melakarta system. It is the 2nd raga in the 7th chakra, Rishi, and its mnemonic name is Rishi-Sri; the mnemonic phrase is sa ra ga mi pa dha ni. The name Jalarnavam means 'the ocean'. It is also called Jaganmohanam in the Muthuswami Dikshitar school of Carnatic music. Its scale is sampurna in both ascent and descent: S R1 G1 M2 P D1 N2 S / S N2 D1 P M2 G1 R1 S, using shuddha rishabham, shuddha gandharam, prati madhyamam, shuddha dhaivatham, and kaisiki nishadham. As a melakarta, it contains all seven swaras in both directions by definition. It is the prati madhyamam equivalent of Ratnangi, the 2nd melakarta. Jalarnavam has only a minor janya raga associated with it. In graha bhedam, it yields no other melakarta raga, like all six ragas in the Rishi chakra; the others mentioned are Salagam, Jhalavarali, Navaneetam, Pavani, and Raghupriya. These ragas are noted for having a gap of three notes between G1 and M2, a feature stated not to occur in any other melakarta by definition.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The available sources do not give a codified gamaka lakshana for Jalarnavam, but its vivadi melakarta structure strongly suggests careful, weighty handling rather than plain scalar execution. R1 and especially G1 need delicate treatment so the close lower tetrachord does not sound harsh or flattened; these swaras are best approached with controlled kampita or subtle nokku rather than being struck too bluntly. The leap-like span from G1 to M2 is a defining color of the raga and should be negotiated with sensitivity, often using a gentle connecting jaru or a measured emphasis on M2 as a bright but serious pivot. D1 and N2 in the upper tetrachord can take mild oscillation, particularly in descent, while S and P function as comparatively steady nyasa points. Because Jalarnavam is a vivadi melakarta, overuse of plain-note scalar runs can make it sound skeletal; the raga benefits from restrained oscillation, curved phrase endings, and linking slides that preserve its grave, oceanic depth. Compared with smoother non-vivadi ragas, Jalarnavam demands more precision in intonation and more nuanced gamaka on the sensitive swaras R1, G1, D1, and N2.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Sri Vidhya Rajagopalam",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Kanaka mayura",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Maheswari kavuma uma",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "unknown"
+    },
+    {
+      "name": "Asai Kondane Akhilandeswari",
+      "composer": "unknown",
+      "language": "unknown"
+    }
+  ],
+  "notable_features": "Called Jaganmohanam in the Muthuswami Dikshitar school. The name Jalarnavam means 'the ocean'. It is the prati madhyamam equivalent of Ratnangi. Graha bhedam on Jalarnavam does not yield any other melakarta raga. It belongs to the Rishi chakra, whose six ragas are stated to uniquely contain a three-note gap between G1 and M2. It has only a minor janya raga associated with it."
+}

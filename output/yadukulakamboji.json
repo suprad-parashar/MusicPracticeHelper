@@ -1,0 +1,273 @@
+{
+  "raga_name": "Yadukulakamboji",
+  "other_names": [
+    "Yadukulakambodi",
+    "Yadukulakamboji",
+    "Yadukulakambhoji",
+    "Yadukulakambhodi"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 28,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M1",
+    "P",
+    "D2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna"
+  ],
+  "mood": "Yadukulakamboji has a gentle, devotional, and emotionally tender character. Its pentatonic ascent gives it a clean, uncluttered lift, while the fuller descent adds warmth and expressive depth. The raga often evokes calm reverence, a sense of surrender, and a soft pathos that can feel nostalgic or plaintive without becoming heavy. It suits devotional and reflective settings, especially when a serene, graceful, and slightly yearning emotional color is desired.",
+  "description": "Yadukulakamboji is a janya rāgam of the 28th melakarta Harikambhoji. It is an asymmetric audava-sampurna scale: the ascent is pentatonic and omits gandharam and nishadam, while the descent is sampurna in effect with G3 and N2 appearing. The source text describes it as a combination of the pentatonic scale Shuddha Saveri and the sampurna raga scale Harikambhoji. It is also spelled Yadukulakamboji or Yadukulakambhodi. The raga is widely used for compositions, especially devotional kritis, svarajatis, varnams, padams, and thillanas. The text lists a very large number of compositions in this raga by major composers including Shyama Shastri, Tyagaraja, Muthuswami Dikshitar, Swathi Thirunal, Papanasam Sivan, Purandara Dasa, and others. The raga is closely related in scale-feel to Shuddha Saveri in ascent, and the text also notes similarity with Kedaragaula, which substitutes N2 in ascent in place of D2. The page does not mention a specific inventor or chakra. The raga is a well-established concert and pedagogical raga, especially valued for its expressive descent and devotional repertoire.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The ascent is typically rendered with a clean, relatively plain treatment of S, R2, M1, P, and D2, since the scale is pentatonic upward and avoids gandharam and nishadam there. In descent, G3 and N2 are important and are given expressive oscillation and slides, especially the G3–R2 connection and the N2–D2–P phrases. The raga’s identity depends strongly on the descent, so G3 should not be treated too flatly; it is usually approached with a gentle kampita or jaru from M1 and resolved into R2. D2 is also handled with care, often with a smooth slide into P or N2. Compared with Bhairavi-like handling, this raga is lighter and more straightforward in the ascent, but the descent must retain the Harikambhoji color through the use of G3 and N2. The source text does not specify detailed gamaka rules beyond the scale, so this is inferred from standard treatment of the raga’s structure.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Kāmākṣhī Padayugamu Sthiramaninē",
+      "composer": "Shyama Shastri",
+      "language": ""
+    },
+    {
+      "name": "Sarojakshiro Na Sami",
+      "composer": "Vadivelu",
+      "language": ""
+    },
+    {
+      "name": "Hecharikaga Rara He Ramachandra",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Adi Kadu Bhajana",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Adavaramella",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Daya Seyavayya",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Enthanuchu Saririnthunu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Chelimini Jalajakshu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Nee Dayache Rama",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Etavuna Nerchitivo",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Pahi Ramachandra Raghava",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Sri Rama Jayarama",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Divakara Tanujam",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Abhayambikayai Ashvarudhayai",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Tyagarajam Bhajare",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Ikshvaku Kula",
+      "composer": "Bhadrachala Ramadasu",
+      "language": ""
+    },
+    {
+      "name": "Pahimam Sri Ramayante",
+      "composer": "Bhadrachala Ramadasu",
+      "language": ""
+    },
+    {
+      "name": "Mohanamayi",
+      "composer": "Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Sami Ninne",
+      "composer": "Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Nilappuri Kuzhalale",
+      "composer": "Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Bhujaga Shayino",
+      "composer": "Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Ninnu Sevincha",
+      "composer": "Subbaraya Sastri",
+      "language": ""
+    },
+    {
+      "name": "Parthasarathini Sevimpani",
+      "composer": "Subbarama Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Swami Mukhya Prana",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Paramakripa Sagari Pahi Parameshvari",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Kaalai Thookki Nindradum",
+      "composer": "Marimutthu Pillai",
+      "language": ""
+    },
+    {
+      "name": "Anagha Shambho",
+      "composer": "R. Ramachandran Nair (Thulaseevanam)",
+      "language": ""
+    },
+    {
+      "name": "Kama Nishudanam Bhavaye",
+      "composer": "R. Ramachandran Nair (Thulaseevanam)",
+      "language": ""
+    },
+    {
+      "name": "Sharade Pahimam",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Ninnu Basi",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Padmanabham Bhajeham",
+      "composer": "Maharaja Jayachamarajendra Wadiyar",
+      "language": ""
+    },
+    {
+      "name": "Kumaran Thal Panindhen",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Gomathi Thaye",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Lalithe Mam Pahi Daya",
+      "composer": "Sri Chengalvaraya Sastri",
+      "language": ""
+    },
+    {
+      "name": "Thondar Anju",
+      "composer": "Thirugnanasambandar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Yarendru Raghavanai",
+      "composer": "Arunachalakavi",
+      "language": ""
+    },
+    {
+      "name": "Kamalakshi",
+      "composer": "Veena Kuppayyar",
+      "language": ""
+    },
+    {
+      "name": "Ninne Nammithi",
+      "composer": "Chitravina Ravikiran",
+      "language": ""
+    },
+    {
+      "name": "Upamugana",
+      "composer": "Sarangapani",
+      "language": ""
+    },
+    {
+      "name": "Tamarasaksha",
+      "composer": "Muvalur Sabhapathy Ayya or Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "E Mataladina",
+      "composer": "Muvalur Sabhapathy Ayya or Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Thillana",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": ""
+    },
+    {
+      "name": "Sundaran Sher",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Karuna Cheyvan Enthu",
+      "composer": "Irayimman Thampi",
+      "language": "Malayalam"
+    }
+  ],
+  "notable_features": "Janya of Harikambhoji (28). Audava-sampurna structure: ascent omits G and N, descent includes G3 and N2. The text explicitly compares it to Shuddha Saveri in ascent and notes similarity to Kedaragaula, which uses N2 in ascent instead of D2. It is a highly composition-rich raga with many kritis, svarajatis, varnams, padams, javalis, a thillana, and devotional pieces. The source also notes that it is a combination of Shuddha Saveri and Harikambhoji. No film songs are listed in the provided content.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yadukulakamboji"
+}

@@ -1,0 +1,98 @@
+{
+  "raga_name": "Hamsanadam",
+  "other_names": [
+    "Hamsanādam"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 60,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M2",
+    "P",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "P",
+    "M2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Hamsanadam has a bright, serene, and uplifting mood. Its pentatonic symmetry gives it a clean, open, and airy feel, often evoking calm joy, devotional uplift, and a sense of graceful wonder. The raga can feel soothing and expansive rather than heavy or sorrowful, making it suitable for contemplative as well as celebratory expression.",
+  "description": "Hamsanadam is a Carnatic rāgam, pronounced hamsanādam, and is currently sung as a symmetric pentatonic audava scale. It is a janya rāgam derived from the 60th melakarta, Neetimati. In its modern form it omits gandharam and dhaivatam, using only S, R2, M2, P, and N3 in both ascent and descent. An earlier form of the scale included D3 in both directions, making it a shadava structure with vakra descent: arohana S R2 M2 P D3 N3 S and avarohana S N3 D3 N3 P M2 R2 S. The raga is notable for graha bhedam relationships: shifting the tonic yields Gambhiranata, Neela, and Bhupalam. It has several popular compositions and is a well-known concert raga despite its relatively compact scale.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The source does not specify detailed gamaka rules, but in practice the raga’s identity rests on clean handling of the five core swaras. R2 and N3 are typically given light oscillation or gentle kampita, while M2 and P are often held more steadily to preserve the raga’s bright, transparent character. In the older form, D3 appears as a passing/zig-zag note in vakra descent and would be treated with a slide-like jaru between P and N3 rather than as a heavily oscillated resting note. Because the scale is compact and symmetric, excessive gamaka can blur its identity; phrases should remain crisp and well-shaped.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Kalyana Rama",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Bantureethi Koluvu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Neeye Paramukham",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Kripanidhe",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Paasa Vendume",
+      "composer": "Dandapani Desikar",
+      "language": ""
+    },
+    {
+      "name": "Bharama Ee Baluni",
+      "composer": "G N Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Dasha Shata Dala",
+      "composer": "G N Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Ezhiludai Hamsanaadham",
+      "composer": "Thanjavur Sankara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Vishwa Prakashunaku",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Paramananda Varada",
+      "composer": "Meesu Krishna Iyer",
+      "language": ""
+    }
+  ],
+  "notable_features": "Derived from the 60th melakarta Neetimati. Modern usage is audava (5-note) and symmetric; earlier usage included D3, making it shadava with vakra descent. Graha bhedam on Hamsanadam yields three pentatonic ragas: Gambhiranata, Neela, and Bhupalam. The raga has a small but popular concert repertoire.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hamsanadam"
+}

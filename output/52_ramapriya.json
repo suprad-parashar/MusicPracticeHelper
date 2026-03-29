@@ -1,0 +1,118 @@
+{
+  "raga_name": "Ramapriya",
+  "other_names": [
+    "Rāmapriya",
+    "Ramāmanōhari",
+    "Ramamanohari"
+  ],
+  "melakarta_number": 52,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Brahma",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "M2",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M2",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Shanta",
+    "Karuna"
+  ],
+  "mood": "Ramapriya has a serious, inward, and devotional emotional color. Its combination of shuddha rishabham with prati madhyamam gives it a restrained intensity rather than overt brightness, creating a contemplative atmosphere suited to prayer, reflection, and dignified expression. The raga can suggest quiet devotion, spiritual yearning, and a gentle pathos, making it effective for meditative or reverential settings rather than exuberant celebration.",
+  "description": "Ramapriya is a Carnatic melakarta raga, the 52nd in the 72 melakarta system. It is the 4th raga in the 9th chakra, Brahma, with mnemonic name Brahma-Bhu and mnemonic phrase 'sa ra gu mi pa dhi ni'. Its scale is sampurna in both ascent and descent: S R1 G3 M2 P D2 N2 S / S N2 D2 P M2 G3 R1 S. The swaras used are shuddha rishabham, antara gandharam, prati madhyamam, chathusruthi dhaivatham, and kaisiki nishadham, along with shadjam and panchamam. In the Muthuswami Dikshitar school it is called Ramamanohari. Ramapriya is the prati madhyamam equivalent of Chakravakam, the 16th melakarta. It has a few minor janya ragas associated with it. Theoretical analysis noted in the source states that graha bhedam on any of its six non-shadja swaras does not yield another melakarta raga, because the resulting scales do not conform to melakarta rules.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "As a melakarta with a straight sampurna scale, Ramapriya permits clear scalar movement, but its identity is best preserved through measured gamaka rather than plain-note rendering throughout. R1 and N2 typically benefit from gentle kampita or nuanced intonation to avoid a dry scalar feel, while G3 and M2 can be given controlled oscillation or slight glide treatment to bring out the raga’s weight and prati-madhyama color. P is generally a stable resting tone, and D2 may be approached with mild slide from P or resolved carefully toward N2. Because the raga is not vakra and not bhashanga, excessive ornamental distortion or foreign-note shading should be avoided. The overall gamaka approach is dignified, moderate, and bhava-oriented, emphasizing clarity of the melakarta structure while preserving a contemplative, devotional tone.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Chalamu Jese",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Rama Bhaktha Hanumantha",
+      "composer": "Amrutha Venkatesh",
+      "language": ""
+    },
+    {
+      "name": "Bare Raghuvamsha",
+      "composer": "",
+      "language": ""
+    },
+    {
+      "name": "Saamodam Paripaalaya",
+      "composer": "Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Mahadevamanisham",
+      "composer": "Mangalampalli Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Smaramyaham Sada Rahum",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Shringhara Shakthyayudhadhara",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Matangi Sri Rajarajeshwari",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Korinavara Mosagu",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sandehamunu Deerpavayya",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Sri Rajarajeshwari",
+      "composer": "Ponniah Pillai of the Tanjore Quartet",
+      "language": ""
+    },
+    {
+      "name": "Mangala Vinayakane",
+      "composer": "Periyasaamy Thooran",
+      "language": ""
+    },
+    {
+      "name": "Sami Sadha",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    }
+  ],
+  "notable_features": "In the Muthuswami Dikshitar school, this raga is known as Ramamanohari. It belongs to the 9th chakra Brahma and is the 4th raga in that chakra. Mnemonic name: Brahma-Bhu; mnemonic phrase: sa ra gu mi pa dhi ni. It is the prati madhyamam counterpart of Chakravakam (melakarta 16). According to the source, graha bhedam performed on any of the six swaras from Ri to Ni does not produce another valid melakarta raga. The source also notes that Ramapriya has only a few minor janya ragas."
+}

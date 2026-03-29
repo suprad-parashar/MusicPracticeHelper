@@ -1,0 +1,238 @@
+{
+  "raga_name": "Ahiri",
+  "other_names": [
+    "Āhiri"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 14,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R1",
+    "M1",
+    "G3",
+    "M1",
+    "P",
+    "D1",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D1",
+    "P",
+    "M1",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": true,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "R1",
+    "G3",
+    "D1",
+    "N2"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Karuna",
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Ahiri has a deeply compassionate, plaintive, and introspective mood. It is associated foremost with karuna rasa, so it tends to evoke tenderness, empathy, and a gentle sense of sorrow rather than agitation. Because it is also considered an early-morning scale, it can feel quiet, reflective, and spiritually inward, like a prayerful dawn atmosphere. The raga is difficult to master, but when rendered well it feels rewarding and emotionally rich, with subtle shades that can move the listener toward devotion and calm contemplation.",
+  "description": "Ahiri is an ancient Carnatic janya rāgam associated primarily with the 14th melakarta Vakulabharanam, though it has also been associated with the 8th melakarta Hanumatodi. It is a sampurna rāgam in the sense that it uses all seven swaras, but it is classified as a janya because of its vakra (zig-zag) prayogas and bhashanga usage. The source notes that it is mentioned in Sangita Makarandha and Sangita samayasara, indicating its antiquity. Several arohana-avarohaṇa forms are given due to foreign-note usage: S R1 M1 G3 M1 P D1 N2 S, and also S R1 S G3 M1 P D1 N2 S, with avarohaṇa S N2 D1 P M1 G3 R1 S. It is described as synonymous with karuna rasa and as an early-morning scale. The raga is noted to have subtle srutis, and its notes Ri, Ga, Dha and Ni are treated as differing from the parent scale. It is a difficult raga to master but rewarding in effect. The text also implies a strong bhashanga character and a close relationship to the parent melakarta scale through altered note usage.",
+  "time_of_day": "early morning",
+  "gamaka_usage": "Ahiri is rendered with very subtle srutis and delicate ornamentation rather than heavy, overt gamakas. The text specifically notes that Ri, Ga, Dha and Ni are different from the parent scale and that the raga is considered to have a lot of subtle srutis, so these swaras are typically approached with nuanced oscillation and microtonal shading. The vakra prayogas require careful jaru-like movement through the zig-zag phrases, especially in the ascent where S–R1–M1–G3–M1–P is characteristic. G3 and N2 are not treated as plain, rigid notes; they are usually colored gently, while S and P tend to remain comparatively stable as structural anchors. Because the raga is difficult to master, precise intonation and restrained gamaka are essential; over-ornamentation would obscure its plaintive character. It is also described as a gamaka-vārika raktirāgam with many subtle shrutis, so the gamaka treatment is expressive but controlled, with emphasis on delicate kampita and smooth transitions rather than forceful oscillation.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Challare Ramachandrunipai (Sompaina Manasutho)",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Etula Kaapaaduvo",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Adaya Sri Raghuvara",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Poola Paanpu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Veeksheham Katha",
+      "composer": "Narayana Teertha",
+      "language": ""
+    },
+    {
+      "name": "Jaya Jaya Durge",
+      "composer": "Narayana Teertha",
+      "language": ""
+    },
+    {
+      "name": "Mayamma Anine",
+      "composer": "Syama Sastri",
+      "language": ""
+    },
+    {
+      "name": "Sri Kamalaambaa Jayathi",
+      "composer": "Muthuswamy Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kusumaakara Vimaanarudaam",
+      "composer": "Muthuswamy Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Panimathi Mukhi Bale",
+      "composer": "Swathi Thirunal Rama Varma",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Parama Purusha Nanu",
+      "composer": "Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Pannagendra Shaya",
+      "composer": "Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Virahampu Vedaaya",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Entha Mohamo",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Ennallu Nedanundeno",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Oorilen",
+      "composer": "Subhashini Parthasarathy",
+      "language": ""
+    },
+    {
+      "name": "Ethinay Nallamma",
+      "composer": "Balakrishnan",
+      "language": ""
+    },
+    {
+      "name": "Ninne Kori-Ata Tala Varnam",
+      "composer": "Tharangambadi Panchanada Iyer",
+      "language": ""
+    },
+    {
+      "name": "Dheenarakshaka",
+      "composer": "Tanjore Quartet",
+      "language": ""
+    },
+    {
+      "name": "Kathitha Samayepi",
+      "composer": "Jayadeva",
+      "language": ""
+    },
+    {
+      "name": "Mosamaye",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Enthatathella",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "E Riti Vegintune",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Samayamide Annai",
+      "composer": "Chembai Vaidyanatha Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Anbagavanthu",
+      "composer": "Arunagirinathar",
+      "language": ""
+    },
+    {
+      "name": "Nadithedi",
+      "composer": "Arunagirinathar",
+      "language": ""
+    },
+    {
+      "name": "Adhirunkazhal",
+      "composer": "Arunagirinathar",
+      "language": ""
+    },
+    {
+      "name": "Aankudal",
+      "composer": "Arunagirinathar",
+      "language": ""
+    },
+    {
+      "name": "Arindene Unnai",
+      "composer": "Arasi (Rajee Krishnan)",
+      "language": ""
+    },
+    {
+      "name": "Paingottu Malar",
+      "composer": "Thirugnanasambandar",
+      "language": ""
+    },
+    {
+      "name": "Aavi Nee Amudham Neeye",
+      "composer": "Kannadasan",
+      "language": ""
+    },
+    {
+      "name": "Abhayamo",
+      "composer": "unknown",
+      "language": ""
+    },
+    {
+      "name": "Adhiviravil En Munne",
+      "composer": "H H Maharanyam Sri Sri Muralidhara Swamiji",
+      "language": ""
+    },
+    {
+      "name": "Ay Chand Teri Chandni Ki Kasam",
+      "composer": "Ismail Darbar",
+      "language": "Hindi"
+    },
+    {
+      "name": "Pazhanthamil",
+      "composer": "",
+      "language": "Tamil"
+    },
+    {
+      "name": "chempakappoonkattile",
+      "composer": "",
+      "language": "Malayalam"
+    }
+  ],
+  "notable_features": "Ancient rāgam mentioned in Sangita Makarandha and Sangita samayasara. Classified as a janya rāgam because of vakra swaras and bhashanga prayogas, despite being sampurna in note count. Associated with the 14th melakarta Vakulabharanam, though also linked in some traditions to the 8th melakarta Hanumatodi. The raga is explicitly described as synonymous with karuna rasa and as an early-morning scale. It is said to use foreign notes relative to the parent scale, with Ri, Ga, Dha and Ni treated as differing from the parent. The text also notes that it has a lot of subtle srutis and is difficult to master but rewarding. It is described as a gamaka-vārika raktirāgam and is used in kṛtis, operas, dramas, and dance forms.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ahiri"
+}

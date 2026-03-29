@@ -1,0 +1,54 @@
+{
+  "raga_name": "Gavambhodi",
+  "other_names": [
+    "Gavambodhi",
+    "Geervani",
+    "Girvani",
+    "Geervāṇi",
+    "Girvāṇi"
+  ],
+  "melakarta_number": 43,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Veda",
+  "arohana": [
+    "S",
+    "R1",
+    "G2",
+    "M2",
+    "P",
+    "D1",
+    "N1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N1",
+    "D1",
+    "P",
+    "M2",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Karuna",
+    "Bhakti",
+    "Shanta"
+  ],
+  "mood": "Gavambhodi evokes a grave, inward, and somewhat austere emotional atmosphere. The combination of shuddha rishabha, sadharana gandhara, prati madhyama, shuddha dhaivata, and shuddha nishada gives it a shaded, contemplative color rather than an extroverted brilliance. It can feel meditative and devotional, with a quiet undercurrent of yearning and pathos. The raga suits introspection, prayerful expression, and serious melodic exploration, creating an impression of stillness, restraint, and spiritual depth.",
+  "description": "Gavambhodi is the 43rd melakarta raga in the Carnatic system. It is a sampurna melakarta, containing all seven swaras in both ascent and descent: S R1 G2 M2 P D1 N1 S / S N1 D1 P M2 G2 R1 S. It belongs to the 8th chakra, Veda. The raga is also known as Gavambodhi, and in the Muthuswami Dikshitar school it is called Geervani or Girvani. The name Gavambodhi has been glossed as meaning 'the teacher of the cows.' As a melakarta, it serves as a parent scale for derived janya ragas. Its swara material includes vivadi-associated positions, giving it a distinctive serious and somewhat austere melodic personality.",
+  "time_of_day": "",
+  "gamaka_usage": "Gavambhodi should not be rendered as a bare scalar pattern despite being a sampurna melakarta. Its identity depends on careful handling of the vivadi-flavored swaras R1, G2, D1, and N1. R1 is delicate and is best given a controlled kampita or a slightly curved approach from S rather than a hard, plain intonation. G2 can also take gentle oscillation, often heard in relation to R1 and resolving toward M2; the R1–G2 region needs especially precise intonation because of the close spacing. M2 is comparatively steadier and can function as a point of repose, while P remains a firm nyasa-like anchor. In the upper tetrachord, D1 and N1 are usually treated with restraint, with subtle kampita and curved descent rather than flat, prolonged emphasis; phrases like N1 D1 P and D1 P are more convincing when shaped with slight jaru. Jaru and smooth connecting movements help preserve the raga's introspective color, especially in descent from N1 to D1 to P and from G2 to R1 to S. Excessively plain rendering can make the scale sound skeletal, while overdone brigas may blur the raga's serious character; measured oscillation, precise intonation, and restrained slides are therefore central. Compared with brighter prati-madhyama melas, Gavambhodi relies more on shaded gamaka treatment than on overt brilliance.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [],
+  "notable_features": "Melakarta 43 in the 8th chakra Veda; a sampurna parent raga in Carnatic music. It is also known as Gavambodhi, and in the Muthuswami Dikshitar school as Geervani or Girvani. It uses the swara set R1 G2 M2 D1 N1 along with S and P, giving it a vivadi-flavored tonal color. Graha bhedam on Gavambhodi yields Hatakambari. As a melakarta, it has all seven notes in both arohana and avrohana and is non-vakra in the scale provided."
+}

@@ -1,0 +1,50 @@
+{
+  "raga_name": "Rageshree",
+  "other_names": [
+    "Rag Rageshree",
+    "Rageshri"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 29,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G3",
+    "M1",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "pentatonic in aroha, hexatonic in avaroha",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shringara",
+    "Bhakti",
+    "Shanta"
+  ],
+  "mood": "Rageshree has a light, romantic, and graceful mood. It evokes tenderness, charm, and affectionate longing, with a soft evening-like sweetness rather than deep pathos or dramatic intensity. The raga feels lilting and elegant, often suggesting delicate beauty, gentle love, and a calm, pleasing emotional glow.",
+  "description": "Rageshree is a raga in Indian classical music that is popular in both Carnatic music and Hindustani music. The source text identifies it as belonging to the Khamaj thaat in Hindustani classification. It is described as pentatonic in the आरोह (ascending movement) and hexatonic in the अवरोह (descending movement). A key distinguishing feature noted is that Rageshree uses Shuddha Gandhar, whereas the related raga Bageshree uses Komal Gandhar. The raga is associated with a light romantic character. No Carnatic-specific parent melakarta is stated in the source, and no composer or pedagogical lineage is given in the provided content.",
+  "time_of_day": "evening",
+  "gamaka_usage": "The source does not explicitly describe gamakas, but from the scale and character the raga is likely rendered with gentle, flowing ornamentation rather than heavy oscillation. G3 (shuddha gandhar) is the defining note and should be clearly articulated, often with a soft glide into M1 or from R2 in descent. N2 and D2 in the upper and middle register are typically treated smoothly, with light jaru-like transitions supporting the romantic mood. P and S are generally stable anchor notes. Because the raga is light and lyrical, excessive kampita on the swaras would be avoided; instead, subtle meend and delicate phrasing would preserve its graceful, romantic identity. In practice, the descent may emphasize smooth phrases such as N2 D2 P M1 G3 R2 S, with restrained oscillation and a clean, unforced touch on the key swaras.",
+  "hindustani_equivalent": "Rageshree",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [],
+  "notable_features": "The raga is explicitly said to be popular in both Carnatic and Hindustani music. It is from the Khamaj thaat in Hindustani classification. The main distinction from Bageshree is the use of Shuddha Gandhar instead of Komal Gandhar. The source also notes that it is pentatonic in ascent and hexatonic in descent. No compositions are listed in the provided text. In Carnatic terms, the scale fits under parent melakarta 29 (Shankarabharanam) by note content, though the source does not explicitly state this.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rageshree"
+}

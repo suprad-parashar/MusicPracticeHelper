@@ -1,0 +1,250 @@
+{
+  "raga_name": "Hindolam",
+  "other_names": [
+    "Hindōḷaṃ",
+    "Hindola",
+    "Malkauns",
+    "Malkosh"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 20,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G2",
+    "M1",
+    "D1",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D1",
+    "M1",
+    "G2",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Hindolam has a beautiful, soothing, and deeply calming mood. Its pentatonic symmetry gives it a poised, balanced character that feels meditative and inward-looking, often evoking serenity, devotion, and quiet joy. Listeners may experience a sense of stillness, gentle uplift, and contemplative sweetness, making it especially effective for reflective or devotional settings and for improvisation in concerts.",
+  "description": "Hindolam is a symmetric audava rāgam in Carnatic music, using only five notes in both ascent and descent and omitting rishabham and panchamam. Its scale is S G2 M1 D1 N2 S / S N2 D1 M1 G2 S. The raga uses sadharana gandharam, shuddha madhyamam, shuddha dhaivatam, and kaisiki nishadam. It is not a melakarta because it lacks all seven swaras. The commonly accepted parent is Natabhairavi (20th melakarta), though some associate it with Hanumatodi (8th melakarta), since it can be derived from either by dropping R and P. Hindolam is widely regarded as beautiful and soothing, and its symmetry makes it highly suitable for improvisation, which is why it is popular in concerts. The text also notes that shades of Hindolam and Mohanam can sometimes be traced in Chinese and East Asian music because of the pentatonic structure. Its Hindustani equivalent is Malkauns (or Malkosh), and it is explicitly not the same as Hindustani Hindol.",
+  "time_of_day": "night",
+  "gamaka_usage": "Hindolam is generally rendered with restrained, graceful gamakas rather than heavy ornamentation. G2, D1, and N2 are the main notes that take gentle oscillation or soft kampita, often approached and left with smooth jaru-like slides to preserve the raga’s meditative color. M1 is comparatively steadier and acts as an anchor in phrases. Because R and P are absent, prayogas should avoid any accidental suggestion of those swaras; the raga’s identity depends on clean, flowing movement between G2–M1–D1–N2. The gamaka treatment is usually rounded and elegant, with emphasis on smooth transitions and subtle oscillation rather than forceful brigas. Compared with more heavily gamaka-driven ragas, Hindolam sounds cleaner, calmer, and more serene.",
+  "hindustani_equivalent": "Malkauns (Malkosh)",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Sāmajavaragamanā",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Manasulōni Marmamulu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Gōvardhana Giridhāri",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kaanada Raja Pandaricha",
+      "composer": "Namdev",
+      "language": ""
+    },
+    {
+      "name": "Madhukara Vritti",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Yaare Rangana",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Avanavana Kayva",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Dasa Dasara Maneya",
+      "composer": "Kanakadasa",
+      "language": ""
+    },
+    {
+      "name": "Guru Purandara Dasare",
+      "composer": "Vijaya Dasa",
+      "language": ""
+    },
+    {
+      "name": "Uma Kathyayani",
+      "composer": "Vijaya Dasa",
+      "language": ""
+    },
+    {
+      "name": "Hari Sarvothama Vayu Jeevothama",
+      "composer": "Kamalesha Vittala Dasu",
+      "language": ""
+    },
+    {
+      "name": "Gōvardhana Girīśam Smarāmi",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Neerajakshi Kamakshi",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Saraswathi Vidhiyuvathi",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Padmanābha Pāhi",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Mā Ramanan",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Sāmagāna Lōlane",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Kalpaka Mātā Kanindharul",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Thirupparam Kundra Velā",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Nambikettavar Evarayyā",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Sadanandamayi Chinmayi",
+      "composer": "Oothukadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Mamavatu Sri Saraswati",
+      "composer": "Mysore Vasudevacharya",
+      "language": ""
+    },
+    {
+      "name": "Chintayami Jagadamba",
+      "composer": "Jayachamarajendra Wodeyar",
+      "language": ""
+    },
+    {
+      "name": "Dēva Dēvaṃ Bhajē",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Konḍalalō Nelakonna",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kēshava Narayana Krishna",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Garuda Gamana",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Narayana Ni Namame",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Antayu Neeve Haripundarikaksha",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nigama Nigama Nigamandha",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kattedura Vaikunthamu",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ramanakku Mannan Mudi",
+      "composer": "Arunachala Kavi",
+      "language": ""
+    },
+    {
+      "name": "Mal Marugan",
+      "composer": "Thanjavur Shankara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sakala Kala Vani",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Sami Ninne",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": ""
+    },
+    {
+      "name": "Chalamu Seya",
+      "composer": "Tiger Varadachariar",
+      "language": ""
+    },
+    {
+      "name": "Manchi Panadira",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Shri Rama",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Kalaimagale",
+      "composer": "Chitravina N. Ravikiran",
+      "language": ""
+    }
+  ],
+  "notable_features": "Audava-audava pentatonic raga; symmetric ascent and descent; commonly accepted as a janya of Natabhairavi (20th melakarta), though some attribute it to Hanumatodi (8th melakarta). It can be derived from either by omitting R and P. It is popular for improvisation because of its symmetry. Graha bhedam on Hindolam yields four other major pentatonic ragas: Mohanam, Shuddha Saveri, Udayaravichandrika (Shuddha Dhanyasi), and Madhyamavati. The text also notes scale-shade similarities with Chinese and East Asian music. Hindolam is not the same as Hindustani Hindol; its Hindustani equivalent is Malkauns/Malkosh.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hindolam"
+}

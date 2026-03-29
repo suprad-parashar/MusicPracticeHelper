@@ -1,0 +1,315 @@
+{
+  "raga_name": "Kedāragowla",
+  "other_names": [
+    "Kedaragaula",
+    "Kedaragowla"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 28,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M1",
+    "P",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Kedāragowla carries a calm, devotional, and auspicious morning feeling. Its pentatonic ascent gives a clean, open, and prayerful lift, while the fuller descent adds grace, warmth, and emotional depth. The raga tends to evoke stillness, tenderness, and dignified devotion, with a gentle freshness rather than intense drama or pathos.",
+  "description": "Kedāragowla is a janya rāgam derived from the 28th melakarta Harikambhoji. It is sometimes spelled Kedaragaula or Kedaragowla. The raga is an asymmetric audava-sampurna structure: the ascent omits gandharam and dhaivatam, while the descent is complete with G3 and D2. Its scale is often described as combining the pentatonic feel of Madhyamavati in the ascent with the fuller Harikambhoji descent. The rāgam is traditionally associated with the morning and is valued for its serene, auspicious, and devotional character. It has a substantial repertoire across major composers and is used in kritis, varnams, javalis, padams, tillanas, and darus. The source also notes related scale-feel with Madhyamavati and Yadhukula kambhoji.",
+  "time_of_day": "morning",
+  "gamaka_usage": "Kedāragowla is shaped more by characteristic phrases than by heavy oscillation. The ascent is relatively plain and stable, with S, R2, M1, P, and N2 often rendered cleanly to preserve the raga's open, pentatonic lift. In the descent, G3 is an important color note and is usually approached gently from M1, often with a soft slide rather than a hard attack. N2 and D2 may carry mild kampita or delicate oscillation, but the gamaka weight is generally restrained compared with more heavily ornamented ragas. R2 and M1 function as anchor swaras and are typically held with clarity. Smooth jaru-like movement in the avarohana helps define the raga's grace, and the descent carries much of its expressive identity.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Tulasi Bilva Mallikadi",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Raghunandana",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Dharmathma Nannippudu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ma Ramachandruniki",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ramuni Maravakave",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Siggumaali",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vanaja Nayanudani",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Lali Lalayya Lali",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Varija Nayana",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "O Jagannaatha",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Karunaajaladhi",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Venugaanaloluni",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Paraakela Nannu",
+      "composer": "Shyama Shastri",
+      "language": ""
+    },
+    {
+      "name": "Neelakantham Bhajeham",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Nilotpalambikayai Namaste",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Balambikayaha Tava Bhakthoham",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Abhayamba Nayaka Vara Dayaka",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Abhayambikayaha Anyam Najane",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Koluvudi Bhakthi",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Ethadu O Ramudu",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Aadaramma Paadaramma",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Suvi Suvi",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Madhavunaku Mangalam",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Veekshithoham",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Taavaka Naamaani",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Deva Maamayi",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Jalajanabha Mamava",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Saraguna Paalimpa",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": ""
+    },
+    {
+      "name": "Thandhani Karattai",
+      "composer": "Manachanallur Giridharan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Emi gavalene manasa",
+      "composer": "Gnanananda Teertha (Ogirala Veera Raghava Sarma)",
+      "language": ""
+    },
+    {
+      "name": "Samikku Sari Evvare",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Sangeetha Trimurthigalai",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Aananda Natamidum Padan",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Natanam Sheyyum Padanar",
+      "composer": "Ramaswami Sivan",
+      "language": ""
+    },
+    {
+      "name": "Gaanakala Viduni",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Anda Rama Soundariyam",
+      "composer": "Arunachala Kavi",
+      "language": ""
+    },
+    {
+      "name": "Vittu Vidada Seethaiyai",
+      "composer": "Arunachala Kavi",
+      "language": ""
+    },
+    {
+      "name": "Deva Vidhyadhiraja",
+      "composer": "Thulaseevanam (R. Ramachandran Nair)",
+      "language": ""
+    },
+    {
+      "name": "Jaya Jaya Gajamukha Laavanyasaara",
+      "composer": "Kumaramangalam Vid. Srinivasaraghavan",
+      "language": ""
+    },
+    {
+      "name": "Era Tagunatara",
+      "composer": "Dharmapuri Subbarayar",
+      "language": ""
+    },
+    {
+      "name": "Uri Varemi Jesedere",
+      "composer": "Dharmapuri Subbarayar",
+      "language": ""
+    },
+    {
+      "name": "Ayyo Vibhudu",
+      "composer": "Dharmapuri Subbarayar",
+      "language": ""
+    },
+    {
+      "name": "Kopametula",
+      "composer": "Pattabhiramayya",
+      "language": ""
+    },
+    {
+      "name": "Kalakannadu",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": ""
+    },
+    {
+      "name": "Bhamaro",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Walajapet Venkataramana Bhagavathar",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Natyacharya Guru Late Sri S Aravindan",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Bokka Kumaraswamy",
+      "language": ""
+    },
+    {
+      "name": "Sami Dayajuda",
+      "composer": "Tiruvottriyur Tyagayyar",
+      "language": ""
+    },
+    {
+      "name": "Viriboni Nee Pai",
+      "composer": "Dharmapuri Subbarayar",
+      "language": ""
+    },
+    {
+      "name": "Sami Neeye Gathi",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Palumaru Ninne Padi",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Vedalera Vayyarulu",
+      "composer": "Devulapalli Krishnasastri",
+      "language": ""
+    }
+  ],
+  "notable_features": "Kedāragowla is a janya of Harikambhoji (28). It is an audava-sampurna scale: ascent uses S R2 M1 P N2 S, while descent uses S N2 D2 P M1 G3 R2 S. The source explicitly notes that it combines the pentatonic scale Madhyamavati with the sampurna Harikambhoji scale. It is a morning rāgam. Scale similarity is noted with Madhyamavati (same ascent) and Yadhukula kambhoji (related scale-feel).",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kedaragaula"
+}

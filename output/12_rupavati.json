@@ -1,0 +1,72 @@
+{
+  "raga_name": "Rupavati",
+  "other_names": [
+    "Rūpavati",
+    "Rupavati (12th melakarta)"
+  ],
+  "melakarta_number": 12,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Netra",
+  "arohana": [
+    "S",
+    "R1",
+    "G2",
+    "M1",
+    "P",
+    "D3",
+    "N3",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N3",
+    "D3",
+    "P",
+    "M1",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Rupavati has a bright, graceful, and pleasing character, with a sense of elegance suggested by its very name meaning “the beautiful one.” As a melakarta scale, it feels complete and balanced rather than highly dramatic, lending itself to calm appreciation, devotional uplift, and a refined, composed emotional space. It can evoke a serene, aesthetically pleasing atmosphere suitable for contemplative listening and devotional expression.",
+  "description": "Rupavati is the 12th melakarta rāgam in the 72-melakarta system and belongs to the 2nd chakra, Netra. Its mnemonic name is Netra-Sha and its mnemonic phrase is sa ra gi ma pa dhu nu. The scale uses shuddha rishabham, sadharana gandharam, shuddha madhyamam, shatsruthi dhaivatham, and kakali nishadham, making it the shuddha madhyamam equivalent of Divyamani, the 48th melakarta. In the older Venkatamakhin asampurna tradition, Rupavati is also the original name of the 12th melakarta, but there it appears as a svarantara-shadava form with a different scale outline. The raga is noted as one of the few ragas given the same name by the Muthuswami Dikshitar school. Rupavati’s notes, when used for graha bhedam, do not yield any melakarta rāgam. It has a few minor janya ragams associated with it.",
+  "time_of_day": "",
+  "gamaka_usage": "The source does not specify detailed gamaka treatment for Rupavati, so only general melakarta practice can be inferred. The raga’s defining swaras are best rendered with clean, stable intonation to preserve its plain scalar identity: S, P, and often M1 are typically held steady, while R1, G2, D3, and N3 may take light kampita or gentle oscillation as needed for expressive phrasing. Because it is a straightforward sampurna melakarta without vakra movement or anya swaras, excessive gamaka or heavy oscillation would obscure its scale identity; smooth jaru-like transitions between adjacent notes are appropriate, especially in phrases linking M1-P-D3-N3 and N3-D3-P-M1. Compared with more gamaka-rich janya ragas, Rupavati is likely to sound clearer and more scalar, with ornamentation used sparingly and tastefully.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Ne Morabettite",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Sri Krishnam Bhajare",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Naal Aaguthe",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Palayamam Sree Parvatha Nandini",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta #12; 6th rāgam in the 2nd chakra Netra; mnemonic phrase sa ra gi ma pa dhu nu; shuddha madhyamam equivalent of Divyamani (#48). In the asampurna (Venkatamakhin) tradition, Rupavati is the original name of the 12th melakarta, but with svarantara-shadava structure: arohana S R1 M1 P S S and avarohana S N3 D3 N3 P M1 G2 S. Graha bhedam on Rupavati does not yield any melakarta rāgam. The text notes that it is one of the few ragas given the same name by the Muthuswami Dikshitar school.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rupavati"
+}

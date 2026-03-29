@@ -1,0 +1,63 @@
+{
+  "raga_name": "Kamas",
+  "other_names": [
+    "Kāmas",
+    "Kamas (raga)"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 28,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "M1",
+    "G3",
+    "M1",
+    "P",
+    "D2",
+    "N2",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "janya",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Shringara"
+  ],
+  "mood": "Kamas is generally felt as a gentle, graceful, and pleasing raga with a soft lyrical charm. It evokes tenderness, devotion, and aesthetic beauty, often creating an intimate and refined atmosphere rather than dramatic intensity. The raga can suggest quiet romance, serene contemplation, and a devotional sweetness that makes it suitable for expressive, ornamented melodic lines.",
+  "description": "Kamas is a Carnatic janya raga associated with grace, sweetness, and lyrical appeal. It is commonly treated as a derivative of Harikambhoji (melakarta 28), and its phraseology gives it a distinctive, attractive character. The raga is well known for its elegant melodic movement and for supporting compositions that combine devotion with beauty of expression. The name is also rendered as Kāmas, and the Wikipedia disambiguation page points to the raga entry as Kamas (raga). The available source material here does not provide historical origin details, but the raga is clearly recognized in the Carnatic tradition and is used in compositions such as svarajatis and varnams.",
+  "time_of_day": "",
+  "gamaka_usage": "Kamas is shaped more by phrase and ornament than by a plain scalar outline. The raga typically uses gentle kampita and delicate oscillation on G3 and N2, with smooth jaru-like movement into and out of M1 and P. R2 is usually handled lightly as a connecting note rather than a heavily stressed resting tone. D2 and N2 are often approached with graceful slides in descent, and the characteristic vakra movement around M1-G3-M1 helps define the raga identity. Compared with more straightforward Harikambhoji-derived ragas, Kamas depends on nuanced prayogas and soft gamaka treatment to preserve its sweet, romantic, and devotional flavor.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Sambhasivaayana",
+      "composer": "unknown",
+      "language": "unknown"
+    },
+    {
+      "name": "Samiyai Alaittuvadi",
+      "composer": "unknown",
+      "language": "unknown"
+    }
+  ],
+  "notable_features": "Kamas is a janya raga of Harikambhoji (melakarta 28). Its scale is vakra in practice, with a characteristic phrase-based identity rather than a strictly linear scale. It is associated with graceful, devotional, and romantic expression, and is used in forms such as svarajatis and varnams. The available snippets specifically mention a swarajathi, 'Sambhasivaayana', and a varnam, 'Samiyai Alaittuvadi', in raga Kamas.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kamas"
+}

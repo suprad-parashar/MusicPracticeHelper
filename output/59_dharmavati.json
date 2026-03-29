@@ -1,0 +1,116 @@
+{
+  "raga_name": "Dharmavati",
+  "other_names": [
+    "Dhaamavati"
+  ],
+  "melakarta_number": 59,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Disi",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M2",
+    "P",
+    "D2",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M2",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Shanta"
+  ],
+  "mood": "Dharmavati has a poised, luminous and emotionally rich character. Its prati madhyama color gives it a modern, slightly yearning brightness, while the presence of sadharana gandharam adds depth and tenderness. The raga can evoke devotion, introspection and gentle pathos, making it suitable for contemplative, prayerful and emotionally expressive music. It suggests a serene but not detached atmosphere—more like inward reflection touched by longing and dignity.",
+  "description": "Dharmavati is a Carnatic raga and the 59th melakarta in the 72 melakarta system. It is the 5th raga in the 10th chakra, Disi. Its mnemonic name is Disi-Ma and its mnemonic phrase is sa ri gi mi pa dhi nu. In the Muthuswami Dikshitar school it is called Dhaamavati. As a melakarta, it is by definition a sampurna raga, containing all seven notes in both ascent and descent. Its scale is S R2 G2 M2 P D2 N3 S / S N3 D2 P M2 G2 R2 S, using chathusruthi rishabham, sadharana gandharam, prati madhyamam, chathusruthi dhaivatham and kakali nishadham. It is the prati madhyamam equivalent of Gourimanohari, the 23rd melakarta. Madhuvanti is stated to be the nearest Hindustani music scale to Dharmavati. The raga was introduced in Hindustani music in vocal style for the first time by the late Pandit Samaresh Chawdhury, a disciple of Pandit Ravi Shankar. Dharmavati has several janya ragas, of which Madhuvanti, Ranjani, Sri Tyagaraja and Vijayanagari are noted as popular in concerts.",
+  "time_of_day": "In modern Carnatic practice, Dharmavati is not bound to a strict time-of-day convention and may be performed at any time.",
+  "gamaka_usage": "Dharmavati admits both scalar movement and gamaka-rich handling, but its identity depends on preserving the Carnatic treatment of its swaras rather than rendering it as a plain scale. G2 (sadharana gandharam) is one of the key expressive notes and is typically given a soft kampita or approached through a glide from R2 or M2; it should not be rendered too flat for long. M2 is the defining color note of the raga and often receives emphasis as a nyasa or pivot swara, usually handled with a measured, polished touch rather than heavy oscillation. N3 is another important melodic color and can take a gentle kampita, especially in descending or cadential phrases. R2 and D2 may be lightly oscillated or linked through jaru in flowing phrases, while P generally functions as a stable resting point. Characteristic movement is smooth and linear—phrases such as S R2 G2 M2, M2 P D2 N3 S and S N3 D2 P M2 G2 R2 S bring out the melakarta form clearly. Because the scale is close to Hindustani Madhuvanti territory, performers take care to use Carnatic gamaka grammar and phrase architecture so that Dharmavati retains its own bhava and does not collapse into a merely scalar or Hindustani-sounding rendition.",
+  "hindustani_equivalent": "Madhuvanti",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Madhuvanti",
+    "Ranjani",
+    "Sri Tyagaraja",
+    "Vijayanagari"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Parandhamavati Jayathi",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Ramachandrasya",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Dharmave Jayavemba",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Mangambuthi Hanumantha",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Amba Brovave",
+      "composer": "Bidaram Krishnappa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Surapala Sannuthe",
+      "composer": "Veena Venkatagiriyappa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Ododi Vandhen Kanna",
+      "composer": "Ambujam Krishna",
+      "language": "Tamil"
+    },
+    {
+      "name": "Janaki Ramana",
+      "composer": "Ambujam Krishna",
+      "language": "Tamil"
+    },
+    {
+      "name": "Bhajana Seyada Rada",
+      "composer": "Mysore Vasudevachar",
+      "language": "Kannada"
+    },
+    {
+      "name": "Vashama Nee",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vinayakunnadeva",
+      "composer": "Dr. Lalgudi Jayaraman",
+      "language": "Tamil"
+    },
+    {
+      "name": "Mullai Oorntha",
+      "composer": "Raleigh Rajan",
+      "language": "Tamil"
+    }
+  ],
+  "notable_features": "Dharmavati is the 59th melakarta and the 5th raga in the 10th chakra Disi. Mnemonic name: Disi-Ma; mnemonic phrase: sa ri gi mi pa dhi nu. It is known as Dhaamavati in the Muthuswami Dikshitar school. It is the prati madhyamam equivalent of Gourimanohari (23rd melakarta). Through graha bhedam, Dharmavati yields two other melakarta ragas: Chakravakam and Sarasangi. Notable film composers including T. G. Lingappa, M. S. Viswanathan, Ilaiyaraja and A. R. Rahman have used the scale of Dharmavati in film music. Songs mentioned include 'kanasalli bandavanyare' (Shruti seridaga), 'Meendum Meedum Vaa' (Vikram), 'Andhela Ravamidhi' (Swarna Kamalam), 'Vaanaville' (Ramana), 'Nataraaja paadaalu' (Aalaapana), and 'Ottagathai Kattiko' from the 1993 Tamil film Gentleman."
+}

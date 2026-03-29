@@ -1,0 +1,506 @@
+{
+  "raga_name": "Kalyani",
+  "other_names": [
+    "Mechakalyani",
+    "Kalyan",
+    "Yaman"
+  ],
+  "melakarta_number": 65,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Rudra",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M2",
+    "P",
+    "D2",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M2",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Kalyani has a grand, luminous, and auspicious emotional character. It evokes a sense of well-being, expansiveness, and spiritual brightness, which is why it is prominently heard in South Indian weddings and often chosen near the beginning of concerts. To a listener, it can feel elevating and serene at once: majestic without harshness, devotional without excessive melancholy, and radiant in a way that suggests blessing, celebration, and inner poise. Its wide scope for elaboration also gives it a contemplative and wonder-filled quality, making it suitable for both stately musical exploration and emotionally uplifting expression.",
+  "description": "Kalyani is the 65th melakarta ragam in Carnatic music and is one of the major ragams of the tradition, often grouped with Sankarabharanam, Todi, and Kharaharapriya as a principal raga for elaboration and exploration. It is also called Mechakalyani. The word 'Kalyani' means 'she who causes auspicious things,' and the raga is considered highly auspicious; it is prominently played in South Indian weddings and is often performed at the beginning of concerts. Kalyani is the prati madhyama equivalent of Sankarabharanam, the 29th melakarta, and its Western equivalent is the Lydian mode. In Hindustani music it was called Kalyan and is now more popularly called Yaman. It is the 5th ragam in the 11th chakra, Rudra, with mnemonic name Rudra-Ma and mnemonic phrase 'sa ri gu mi pa dhi (or di) nu'. The swaras used are shadjam, chatushūruti rishabam, antara gandharam, prati madhyamam, panchamam, chatushruti dhaivatam, and kakali nishadam. It is a sampurna raga, containing all seven notes in both ascent and descent. The source notes that Kalyani was the first prati madhyama raga ever discovered and that it was obtained by the process of graha bhedam or modal shift of tonic of the ancient Shadja Grama. Kalyani has great scope for elaborate alapana. It is very prominent among the public and is significant in the melakarta chart as a raga sung with all higher notes. Historically, Yaman/Aiman is said not to be an ancient raga; it is first mentioned in literature in the late 16th century, by which time it was already very popular. The Sahasras contains 45 dhrupad song-texts for Kalyan and five for Iman-Kalyan. According to Venkatamakhin (1620), Kalyan was a favourite melody to the Arabs, and Pundarika included Yaman among his 'Persian' ragas. Kalyani is often described as the 'queen of ragas' because of its breadth, prestige, and ability to support everything from beginner pedagogical pieces to weighty kritis, ragam-tanam-pallavi, padams, and javalis.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "Kalyani supports extensive and elaborate alapana and is a gamaka-rich rakti raga despite its symmetric sampurna scale. The raga should not be rendered as a plain Lydian scale; its identity comes from characteristic oscillation and curved handling of key swaras, especially G3, M2, N3, and D2. M2 is the defining color of the raga and is often approached with grace from G3 or touched in flowing phrases such as G3 M2 P and N3 D2 P M2 G3. R2 and G3 typically take kampita or gentle nokku-based treatment rather than being left dry; G3 in particular helps establish the raga’s classical weight. N3 is often given a delicate oscillated or leaning treatment in descent and in phrases resolving to Sa, while D2 is usually shaped in relation to N3 and Pa rather than struck too starkly. Jaru movement between adjacent notes and curved prayogas are important, especially around the upper tetrachord and in phrases descending from the tara sthayi. Sa and Pa function as relatively steady nyasa/anchor swaras, but an important lakshana caution is that one should not dwell excessively on Pa or alternate too frequently between Sa and Pa, as over-emphasis on these structural notes can dilute Kalyani’s distinctive personality. The raga’s grandeur emerges through sustained phrases, kampita on the melodic swaras, and elegant glides that highlight the prati madhyama sheen. Compared with scalar or lighter Kalyan-type renderings, Carnatic Kalyani generally demands more gamaka depth and more explicit melodic shaping around M2 and N3.",
+  "hindustani_equivalent": "Yaman",
+  "western_equivalent": "Lydian mode",
+  "popular_janya_ragas": [
+    "Hamir Kalyani",
+    "Mohanakalyani",
+    "Amritha Kalyani",
+    "Saranga",
+    "Nada Kalyani",
+    "Sunadavinodini",
+    "Yamunakalyani"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Vanajakshiro",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": ""
+    },
+    {
+      "name": "Satura Kamini",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Nīvē Gathiyanī",
+      "composer": "Syama Sastri",
+      "language": ""
+    },
+    {
+      "name": "Vanajakshi Ninne Kori",
+      "composer": "Pallavi Gopala Iyer",
+      "language": ""
+    },
+    {
+      "name": "Unnaiyanri Veraar",
+      "composer": "Dr. Lalgudi Jayaraman",
+      "language": ""
+    },
+    {
+      "name": "Nanmugaye Nee",
+      "composer": "Delhi V. Krishnamurthy",
+      "language": ""
+    },
+    {
+      "name": "Sudati Ninne",
+      "composer": "Ponniah Pillai",
+      "language": ""
+    },
+    {
+      "name": "Nidhi Chāla Sukhamā",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Ē Tāvunnarā",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Sundari Nī Divya",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Ammā Rāvammā",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Sandehamu Elara",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Bhajana Seyave",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Nammi Vacchina",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Rāmā Nīvādukonduvō",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Shivē Pāhimām",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Taramā Nī Mahima",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Endukō Nī Manasu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Īsha Pāhimām",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Vāsudēvayani",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Ganapathē Mahāmathē",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kumbhēshvarāya Namastē",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Srī Mangalāmbikē",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kāmākshīm Kalyānīm Bhajarē",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Abhayāmbā Jagadambā",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Śrī Madhurāmbikē",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kamalāmbāṃ Bhajarē",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Bhajarē Re Chittha",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Shiva Kāmeshwarīm Chinthayēham",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kantimati Karunamrta",
+      "composer": "Subbarama Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Parāmugam Yēnammā",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Himādri Suthē Pāhimaṃ",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Birāna Varālichi",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Dēvī Nannu Brovavammā",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Srī Kāmākshī Kāvavē",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Thalli Ninnu Nēra Nammi",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ninnuvina Gathi Gana",
+      "composer": "Subbaraya Sastri",
+      "language": ""
+    },
+    {
+      "name": "Vina Anyayamu",
+      "composer": "Subbaraya Sastri",
+      "language": ""
+    },
+    {
+      "name": "Adrisutavara",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Pankaja lōcana",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Pahimaṃ Śrī Vāgīśvari",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Paripahimamayi",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Sarasa Suvadana",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Sevesyanandureswara",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Madhava Hridhi",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Geetha Rasike Sugunalaye",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Bala Sarasa",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Sarasija Bhava Jaye",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Nee Sari Sati",
+      "composer": "Ponniah Pillai",
+      "language": ""
+    },
+    {
+      "name": "Nannu Brovamani Cheppave",
+      "composer": "Bhadrachala Ramadasu",
+      "language": ""
+    },
+    {
+      "name": "Bhajare Sri Ramam",
+      "composer": "Bhadrachala Ramadasu",
+      "language": ""
+    },
+    {
+      "name": "Kathaya Kathaya",
+      "composer": "Narayana Teertha",
+      "language": ""
+    },
+    {
+      "name": "Adinadu Eppadiyo",
+      "composer": "Muthu Thandavar",
+      "language": ""
+    },
+    {
+      "name": "Kallu Sakkare KoLLiro",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Kelano Hari Talano",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Nambi Kettavarillavo Rangayya",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Anjikinyatakayya",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Dayamado Ranga",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Saranambe Vani",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Kailasapathe Mam Pahi",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Shrimadadi Thyagaraja",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Tiliyado Ninnata",
+      "composer": "Kalluru Subbannacharya (Vyasa Vitthala Dasa)",
+      "language": ""
+    },
+    {
+      "name": "Unnai Allāl",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Devī Srī Mīnalochanī",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Vāyu Kumāran",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Kanindharul Purindhāl",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Sundarēshwaranē",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Tēril Ērinān",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Venkataramanā Pankaja",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Annai Un Adiyinai",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Chidambaram Ena Manam",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Needu Charana Pankaja",
+      "composer": "Pallavi Gopala Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sadānandamē",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Mahātripurasundarī",
+      "composer": "Jayachamarajendra Wodeyar",
+      "language": ""
+    },
+    {
+      "name": "Birana Brova Ide",
+      "composer": "Tarangambadi Panchanada Iyer",
+      "language": ""
+    },
+    {
+      "name": "Kinthu Cheyvu Njaninnaho",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Gaddari Vagala/Iddari Sanduna",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Vemarucherukuna/Na Manasu Vantidhe",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Endhu Dachukondu",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Soyagamuna",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Thaiyale Unnai",
+      "composer": "Subbarama Iyer",
+      "language": ""
+    },
+    {
+      "name": "Edhai Kandu Nee",
+      "composer": "Subbarama Iyer",
+      "language": ""
+    },
+    {
+      "name": "Chittike Vesithe",
+      "composer": "Sarangapani",
+      "language": ""
+    },
+    {
+      "name": "Ellam Ariven",
+      "composer": "Kavi Kunjara Bharati",
+      "language": ""
+    },
+    {
+      "name": "Parengum Parthalum",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Virahani",
+      "composer": "Sitarama Sharma",
+      "language": ""
+    },
+    {
+      "name": "Entati Kuluke",
+      "composer": "Dharmapuri Subbarayar",
+      "language": ""
+    },
+    {
+      "name": "Thaya Ragamalika Tillana",
+      "composer": "M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Kayou Shri Gowri",
+      "composer": "",
+      "language": ""
+    }
+  ],
+  "notable_features": "Kalyani is the prati madhyama equivalent of Sankarabharanam (melakarta 29). It is the 5th ragam in the 11th chakra Rudra; mnemonic name: Rudra-Ma; mnemonic phrase: 'sa ri gu mi pa dhi (or di) nu'. It is said to be the first prati madhyama raga discovered. It was obtained by graha bhedam or modal shift of tonic of the ancient Shadja Grama. When its notes are shifted using graha bhedam, it yields five other major melakarta ragams: Hanumatodi, Sankarabharanam, Natabhairavi, Kharaharapriya, and Harikambhoji. It has many janya ragams, among which Hamir Kalyani, Mohanakalyani, Amritha Kalyani, Saranga, Nada Kalyani, Sunadavinodini, and Yamunakalyani are especially popular. It is often performed at the beginning of concerts because it is considered auspicious. The source also notes that the track 'Kalaivaniye' in the film Sindhu Bhairavi is sung in Kalyani without an avarohanam. It is widely regarded as one of the 'major' ragas of Carnatic music and is often called the 'queen of ragas' because of its versatility, prestige, and immense scope for manodharma."
+}

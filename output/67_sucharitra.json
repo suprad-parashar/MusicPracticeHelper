@@ -1,0 +1,71 @@
+{
+  "raga_name": "Sucharitra",
+  "other_names": [
+    "Santāna manjari",
+    "Santana manjari"
+  ],
+  "melakarta_number": 67,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Aditya",
+  "arohana": [
+    "S",
+    "R3",
+    "G3",
+    "M2",
+    "P",
+    "D1",
+    "N1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N1",
+    "D1",
+    "P",
+    "M2",
+    "G3",
+    "R3",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Shanta",
+    "Karuna"
+  ],
+  "mood": "Sucharitra has a stark, austere, and somewhat severe melodic personality. The combination of R3, G3, M2 with the low D1 and N1 gives it a tense, unusual color that can feel dry, introspective, and emotionally restrained rather than lush or immediately pleasing. Its effect is serious and meditative, with a faintly plaintive undercurrent. The raga can evoke the feeling of solitary reflection, intellectual concentration, or a quiet inward gaze rather than overt romance or festivity. Because it is rarely heard and carries an uncommon tonal color, it often leaves an impression of gravity, restraint, and contemplative stillness.",
+  "description": "Sucharitra is the 67th melakarta raga in Carnatic music and a parent (melakarta) scale in the 72-melakarta system. It is the 1st raga in the 12th chakra, Aditya, with mnemonic name Aditya-Pa and mnemonic phrase 'sa ru gu mi pa dha na'. Its scale is sampurna in both ascent and descent: S R3 G3 M2 P D1 N1 S / S N1 D1 P M2 G3 R3 S. The swaras used are shatsruthi rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and shuddha nishadham, along with shadjam and panchamam. It is considered an unattractive raga and is rarely performed. In the Muthuswami Dikshitar school, it is called Santāna manjari. Sucharitra is the prati madhyamam equivalent of Yagapriya, the 31st melakarta. As a melakarta, it is by definition a sampurna raga. The text also notes that it currently has no janya ragas associated with it. Under graha bhedam, shifting its notes does not yield any other melakarta raga.",
+  "time_of_day": "",
+  "gamaka_usage": "Sucharitra is not generally treated as a heavily ornamented rakti raga; its identity comes from the unusual scalar color and careful handling of its vivadi-rich intervals. The R3-G3 region should be approached with precision, since these adjacent upper variants can easily sound harsh or merely scalar if overdone. G3 can take a measured kampita, while R3 is usually touched with restraint and clarity rather than broad oscillation. M2 functions as an important point of repose and a bright pivot in phrases, often steadier than the surrounding swaras. In the lower tetrachord of the upper half, D1 and N1 are sensitive notes and benefit from controlled kampita or subtle nokku-like emphasis, helping bring out the raga's grave and plaintive color. P and S serve as the principal stable anchors. Jaru movements such as N1-D1-P and P-M2-G3 can be used gently, but excessive sliding may blur the raga's already delicate identity. Overall, the gamaka approach is best kept restrained, exact, and dignified: enough oscillation to animate D1, N1, and G3, but with clear intonation and phrase definition so the raga does not collapse into a bare scale or lose its austere character.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Harinamada araaginiyu",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Chintayami santatam",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Velu mayil",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Santana manjari",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    }
+  ],
+  "notable_features": "67th melakarta; 1st raga of the 12th chakra Aditya; mnemonic name Aditya-Pa; mnemonic phrase 'sa ru gu mi pa dha na'; prati madhyamam equivalent of Yagapriya (31st melakarta); considered unattractive and rarely performed; called Santāna manjari in the Muthuswami Dikshitar school and in the asampurna/Venkatamakhi tradition; currently has no janya ragas associated with it; graha bhedam does not produce any other melakarta raga."
+}

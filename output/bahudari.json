@@ -1,0 +1,104 @@
+{
+  "raga_name": "Bahudari",
+  "other_names": [
+    "Bahudhāri"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 28,
+  "inventor": "Tyagaraja Swamy",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G3",
+    "M1",
+    "P",
+    "D2",
+    "N2",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N2",
+    "P",
+    "M1",
+    "G3",
+    "S"
+  ],
+  "raga_type": "shadava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Shanta",
+    "Adbhuta"
+  ],
+  "mood": "Bahudari has a bright, lively, and delightful emotional character, yet it remains graceful and uncluttered because of the omission of rishabham. The raga feels open and direct, with a sweet devotional warmth that makes it especially effective for bhakti-oriented lyrics. At the same time, its clean scalar outline and pleasing melodic turns create a sense of freshness and gentle wonder, giving it a serene but uplifting atmosphere suitable for concert exposition and lyrical beauty.",
+  "description": "Bahudari is a derived Carnatic rāgam (janya rāgam) from the 28th melakarta, Harikambhoji. It is an asymmetric shadava-audava scale, meaning it has six notes in ascent and five notes in descent. The raga omits rishabham entirely and uses the swaras S, G3, M1, P, D2, and N2. Its structure is ārohaṇa S G3 M1 P D2 N2 S and avarohaṇa S N2 P M1 G3 S. The name is often understood as suggesting \"many paths,\" reflecting its versatile melodic possibilities. Bahudari is described as melodious, bright, and pleasing, and it is widely used in concerts for its attractive and devotional character. It is a janya of Harikambhoji and therefore not a melakarta. The provided sources do not mention a formal inventor beyond the note that it is created by Tyagaraja Swamy. The raga is well represented in composition literature across composers and languages, especially in devotional and concert repertoire.",
+  "time_of_day": "",
+  "gamaka_usage": "Bahudari is generally rendered with smooth, lyrical gamaka treatment rather than heavy oscillation. G3 is the most characteristic swara and is often given a gentle kampita or a soft slide into M1, helping preserve the raga’s sweetness. D2 and N2 may also be touched with subtle kampita or jaru-like movement, especially in phrases leading to the upper shadjam and in the descent. P and M1 are usually steadier anchor notes. The raga’s identity depends strongly on the clean omission of R, so phrases should avoid any rishabha-like inflection. Characteristic movements such as S–G3–M1 and S–N2–P–M1–G3–S should be sung with a flowing, melodic touch. Compared with more heavily gamaka-laden ragas, Bahudari should sound light, graceful, and restrained.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Brova Bharama",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Marakoti sundari",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Unnadiye gatiyendru",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Sadananda tandavam seyyum",
+      "composer": "Achutadasar",
+      "language": ""
+    },
+    {
+      "name": "Bhaja Manasa vighneswaram",
+      "composer": "Thulaseevanam",
+      "language": ""
+    },
+    {
+      "name": "Sinamadaiyade Seerividade",
+      "composer": "Dandapani Desikar",
+      "language": ""
+    },
+    {
+      "name": "Sakala Shanti Karamu Sarvesha",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Kamaladalayatha lochana",
+      "composer": "Dr M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Mahâ Venkateshwarâ",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Irabeku Hari Dasara",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Indu sairisiri",
+      "composer": "Kanakadasa",
+      "language": ""
+    }
+  ],
+  "notable_features": "Bahudari is a shadava-audava janya raga of Harikambhoji (28th melakarta). It is asymmetric and omits rishabham. The scale is S G3 M1 P D2 N2 S / S N2 P M1 G3 S. The name is sometimes interpreted as meaning \"many paths.\" It is concert-friendly and especially associated with the celebrated composition \"Brovabharama.\" No bhashanga usage, vivadi swaras, or vakra prayogas are mentioned in the source. The Wikipedia page lists it as a well-known janya raga with many compositions.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bahudari"
+}

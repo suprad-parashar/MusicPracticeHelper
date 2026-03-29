@@ -1,0 +1,156 @@
+{
+  "raga_name": "Salaga Bhairavi",
+  "other_names": [
+    "Sālaga Bhairavi",
+    "Salagabhairavi"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 22,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M1",
+    "P",
+    "D2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-sampurna",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna"
+  ],
+  "mood": "Salaga Bhairavi has a gentle, devotional, and somewhat plaintive emotional color. Its pentatonic ascent gives it a clean, open, and restrained feel, while the fuller descent adds depth and a touch of yearning. The raga can evoke calm devotion, quiet introspection, and a soft pathos, making it suitable for reflective and prayerful settings rather than overtly dramatic expression.",
+  "description": "Salaga Bhairavi is a janya rāgam derived from the 22nd melakarta, Kharaharapriya. It is an asymmetric scale that omits gandharam and nishadham in the ascent, and is described as an audava-sampurna rāgam. The text also notes that, according to the Muthuswami Dikshitar school, it is a shadava-sampoorna type derived from Kharaharapriya, and that in that school the scale uses sadharana gandharam in the ascent with a vakra prayoga of P D2 P. It is presented as a combination of the pentatonic Shuddha Saveri and the sampurna Kharaharapriya scale. A graha bhedam relationship is given: Dhanyasi can be derived from Salaga Bhairavi when sung from Rishabham to Rishabham. The raga has many compositions and is used in both devotional and concert contexts.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The source text does not give a full gamaka prescription, but the raga’s treatment is implied by its Kharaharapriya-derived character. In the standard form, R2 and M1 are the most stable swaras and can be prolonged without gamakam. G2 and N2 are handled with careful oscillation and slide-like movement in descent, while D2 is used clearly in the ascent and descent. In the Dikshitar-school variant, the vakra phrase P D2 P is important, and the gandharam is treated with a deliberate oscillatory approach rather than as a plain note. Compared with closely related ragas, the absence of G in the ascent and the restrained handling of the upper notes help preserve its distinct identity.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Padavini sadbhakti",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Elavatara mettu kontivi",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Tyagarajena samrakshitoham",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Dandini shri candikambe",
+      "composer": "Muthiah Bhagavatar",
+      "language": "unknown"
+    },
+    {
+      "name": "Shrikantha dayanidhe",
+      "composer": "Muthiah Bhagavatar",
+      "language": "unknown"
+    },
+    {
+      "name": "Samagana Lola",
+      "composer": "Veena Kuppayyar",
+      "language": "unknown"
+    },
+    {
+      "name": "Varalakshmi Neeye",
+      "composer": "Papanasam Sivan",
+      "language": "unknown"
+    },
+    {
+      "name": "Unnai Maravaamal",
+      "composer": "Vedayanagam Pillai",
+      "language": "unknown"
+    },
+    {
+      "name": "Kola Mayil Yerum",
+      "composer": "N S Chidambaram",
+      "language": "unknown"
+    },
+    {
+      "name": "Dashagresha",
+      "composer": "Madurai G S Mani",
+      "language": "unknown"
+    },
+    {
+      "name": "Kalinga-mardana nanda-gopa",
+      "composer": "Bangalore S Mukund",
+      "language": "unknown"
+    },
+    {
+      "name": "Nagarajam",
+      "composer": "Bangalore S Mukund",
+      "language": "unknown"
+    },
+    {
+      "name": "Shailaja-ramana",
+      "composer": "Bangalore S Mukund",
+      "language": "unknown"
+    },
+    {
+      "name": "Lalite sura-vinute",
+      "composer": "R Vishveshwaran",
+      "language": "unknown"
+    },
+    {
+      "name": "Namo namo Dasharathe",
+      "composer": "Spencer Venugopal",
+      "language": "unknown"
+    },
+    {
+      "name": "Pahi parama-guru raghavendraya bhakta-anugrahaya",
+      "composer": "R K Suryanarayana",
+      "language": "unknown"
+    },
+    {
+      "name": "Radha-ramana",
+      "composer": "E S Shankaranarayana Iyer",
+      "language": "unknown"
+    },
+    {
+      "name": "Saketa-rajakumara",
+      "composer": "R N Duraiswamy",
+      "language": "unknown"
+    },
+    {
+      "name": "Tunga-tira-virajam shri raghavendra gururajam",
+      "composer": "Kamalesha Vittaladasa",
+      "language": "unknown"
+    },
+    {
+      "name": "Nama vadami",
+      "composer": "Ganapathi Sachchidhananda",
+      "language": "unknown"
+    },
+    {
+      "name": "Tillana",
+      "composer": "Mysore Veena Doraiswamy Iyengar",
+      "language": "unknown"
+    }
+  ],
+  "notable_features": "Janya of Kharaharapriya (22nd melakarta). Audava-sampurna structure in the common form; Dikshitar school describes it as shadava-sampoorna. The ascent omits gandharam and nishadham. The scale is related to Shuddha Saveri in ascent and Kharaharapriya in descent. Dikshitar-school variant includes sadharana gandharam in ascent and vakra P D2 P usage. Graha bhedam from Rishabham to Rishabham yields Dhanyasi.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Salaga_Bhairavi"
+}

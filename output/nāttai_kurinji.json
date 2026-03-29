@@ -1,0 +1,54 @@
+{
+  "raga_name": "Nāttai Kurinji",
+  "other_names": [
+    "Nattai Kurinji",
+    "Nattaikurinji",
+    "Nattakurinji"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 28,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M1",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Shringara",
+    "Karuna"
+  ],
+  "mood": "Nāttai Kurinji is a gentle, graceful, and auspicious raga with a soft devotional and compassionate glow. It evokes calm beauty, tenderness, and a composed intimacy, often feeling lyrical rather than dramatic. The raga can suggest quiet affection, reflective serenity, and a mild romantic sweetness, while also carrying a soothing, prayerful undertone that makes it suitable for reflective and devotional expression.",
+  "description": "Nāttai Kurinji is a janya raga derived from the 28th melakarta, Harikambhoji. It is commonly treated as an audava-sampurna raga, with a pentatonic ascent and a fuller descent. The raga is considered gentle and expressive, and sources describe it as evoking devotion and compassion. It is also regarded as auspicious to sing in the evenings, though some traditions note that it can be rendered at other times as well. Nāttai Kurinji is popular in Carnatic music and is known as a raktiraga, with scope for elaboration in both slow and medium tempos. It is especially well suited to tanam and to raga alapana. The raga is distinct from Kurinji despite the similarity in name, and its identity is shaped more by kalpana-based usage than by a large body of fixed compositions.",
+  "time_of_day": "evening",
+  "gamaka_usage": "Nāttai Kurinji is typically rendered with restrained, graceful gamaka treatment rather than heavy oscillation. The raga’s identity depends on smooth, rounded phrasing and gentle ornamentation. R2 and G3 are often touched with light kampita or subtle oscillatory movement, while M1 and P are usually held more steadily to anchor the phrase. D2 and N2 in the descent are commonly approached with soft jaru-like slides, helping the avarohana sound fluid and lyrical. The descent should be clearly articulated, since the raga’s character is strongly shaped by its full downward movement. Overly forceful kampita can make it sound closer to brighter or more forceful ragas; a controlled, elegant treatment preserves its devotional and compassionate mood.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [],
+  "notable_features": "This raga is a janya of Harikambhoji (melakarta 28). It is commonly described as an audava janya raga and is considered auspicious for evening singing. Rajan Parrikar notes that Natakurinji is a raktiraga, can be sung at all times, and is especially well suited for tanam and elaboration in slow and medium tempos. The raga is also described as having its scope defined largely by kalpana rather than a large fixed-kalpita repertoire. The provided web snippets indicate that it is popular in Carnatic music and relatively rare in Hindustani music.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nattakurinji"
+}

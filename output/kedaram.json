@@ -1,0 +1,119 @@
+{
+  "raga_name": "Kedaram",
+  "other_names": [
+    "Kēdāram"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 29,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "M1",
+    "G3",
+    "M1",
+    "P",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "vakra audava-shadava",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Kedaram has a serene, uplifting, and devotional mood. Its bright yet gentle contour gives a feeling of calm grace, auspiciousness, and quiet joy rather than intense pathos or drama. The raga often evokes temple imagery, reverence, and a composed, dignified beauty, making it suitable for devotional and reflective settings.",
+  "description": "Kedaram is a derived (janya) rāgam from Shankarabharanam, the 29th melakarta. It is an asymmetric scale classified as a vakra audava-shadava rāgam: the ascent has five notes with zig-zag movement, while the descent has six notes. Its scale omits dhaivatam entirely. The arohana is S M1 G3 M1 P N3 S and the avarohana is S N3 P M1 G3 R2 S. The raga uses shadjam, chatusruti rishabham, antara gandharam, shuddha madhyamam, panchamam, and kakali nishadam. The source notes that Kedaram is similar to Natbehag of Hindustani classical music, while the Hindustani Kedar is different and belongs to Kalyan thaat. Kedaram has been used by many composers and is a well-established concert and devotional raga.",
+  "time_of_day": "",
+  "gamaka_usage": "Kedaram is shaped more by characteristic prayogas than by heavy scalar rendering. The vakra ascent S–M1–G3–M1–P–N3–S makes the M1–G3–M1 turn especially important; M1 is often treated as a central, gently oscillated note, with a smooth return from G3 back to M1. G3 is usually approached with a soft slide or kampita-like touch rather than a stark, plain hold. R2 in the descent is typically introduced smoothly from G3, and the descent S–N3–P–M1–G3–R2–S favors rounded, connected phrases. P and N3 function as relatively stable anchor notes, while D is completely absent and should not be implied in gamaka treatment. The raga’s identity depends on its phrase contours and the delicate handling of M1 and G3, rather than on broad oscillation across all swaras.",
+  "hindustani_equivalent": "Natbehag",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Rama Neepai",
+      "composer": "Saint Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Marache Vadana Rama",
+      "composer": "Saint Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ananda Natana Prakasham",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Ambikayah Abhayambikayah",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Chidhambara Natarajam",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Chala Ninne",
+      "composer": "Tiger Varadachariar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Bhajana Seyave O Manasa",
+      "composer": "Anai Ayya brothers",
+      "language": "Telugu"
+    },
+    {
+      "name": "Bhajare Sri Ramam",
+      "composer": "Bhadrachala Ramadasu",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rare Ramanulamta",
+      "composer": "Sri Bhakta Gnanananda Teertha (Sri Ogirala Veera Raghava Sarma)",
+      "language": "Telugu"
+    },
+    {
+      "name": "Hari Narayana Enu Manave",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Simharoopanaada",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Krishna Ena Baarade",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Thyagaraja Gurum Ashraye",
+      "composer": "M. D. Ramanathan",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Valachi Vacchi",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Telugu"
+    }
+  ],
+  "notable_features": "Kedaram is a vakra audava-shadava janya of Shankarabharanam (29th melakarta). It is asymmetric and omits dhaivatam completely. The scale is S M1 G3 M1 P N3 S / S N3 P M1 G3 R2 S. The raga is related to Natbehag in Hindustani music, but not to Hindustani Kedar. The source does not mention graha bhedam, prati madhyama equivalent, or specific pedagogical role.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kedaram"
+}

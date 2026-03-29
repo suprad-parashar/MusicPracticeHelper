@@ -1,0 +1,70 @@
+{
+  "raga_name": "Devagandhari",
+  "other_names": [
+    "Devagāndhāri",
+    "Devagandhāri"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 29,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M1",
+    "P",
+    "D2",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N3",
+    "D2",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-vakra-sampurna",
+  "is_vakra": true,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "N2"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Veera",
+    "Shanta"
+  ],
+  "mood": "Devagandhari has a prayerful, supplicatory mood with a heroic undertone. It feels devotional and earnest rather than ornate, evoking a seeker’s longing for the divine, a sense of humble appeal, and a quiet inner strength. The raga suits morning hours and can suggest a calm, dignified atmosphere with a restrained but uplifting emotional arc.",
+  "description": "Devagandhari is a rare, little-known, ancient janya raga in Carnatic music, derived from Shankarabharanam (melakarta 29). It is an audava-vakra-sampurna raga: the आरोhaṇa uses five notes, while the avarohaṇa is complete and zig-zag in motion. The basic scale given is S R2 M1 P D2 S / S N3 D2 N2 D2 P M1 G3 R2 S. The raga is sometimes bhashanga because it may include the kaishika nishadam (N2) as an anya swara. It is closely related to Arabhi in scale outline, but differs in treatment: Devagandhari is rendered with gamakas and vilambita kala prayogas, and is characterized by elongated G3 (deergha gandharam). Certain prayogas use N2, especially phrases like S N3 D N2 and D P. The text notes that historically the raga had three forms, and the less ornamented type is described here. It is also present in the Sikh tradition and appears in the Guru Granth Sahib, where it is the 21st raga in the sequence, spanning pages 527 to 537. In Sikh usage it is associated with prayerful supplication and a heroic effect, and was used primarily by Guru Arjan; 47 hymns are said to be composed in it, including three by Guru Tegh Bahadar and six by Guru Ram Das.",
+  "time_of_day": "morning hours",
+  "gamaka_usage": "Devagandhari is sung with prominent gamakas and vilambita kala prayogas, so notes are often stretched and ornamented rather than rendered plainly. G3 is specifically described as deergha (elongated), making it a key expressive note. The raga may use the anya N2 in certain prayogas, especially S N3 D N2 and D P, so the nishada treatment is flexible and phrase-dependent. R2 and M1 are the more stable notes in the scale outline, while the overall identity depends on graceful oscillation and slow, weighty phrasing. Compared with Arabhi, the same basic note set is handled with more ornamentation and a more devotional, expansive gait.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Maravakara",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Koluvaiyunnade",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sharadhe",
+      "composer": "unknown",
+      "language": "unknown"
+    }
+  ],
+  "notable_features": "Not to be confused with Karnataka Devagandhari, which is a janya of Kharaharapriya. In Sikh tradition, Devagandhari is the 21st raga in Guru Granth Sahib and is associated with 10 pages (527–537). It is described there as having a prayerful supplication and heroic effect. The raga is said to have three historical forms; the less ornamented form is the one described in the source. It belongs to the Bilawal thaat in Sikh classification, though some relate it to Bilawal with Asavari ang. The source also gives Sikh-style structural labels: Jaati Audava–sampurna, Timing second pehar, Aroh Sa Re Ma Pa Dha Sa, Avroh Sa Ni Dha Pa, Ma Pa, Dha Ni Dha Pa, Ma Ga Re Sa, Pakar Dha Ni Dha Pa, Ma Ga, Sa Re Ma, Ga Sa Re Ga Sa, Vadi Ma, Samvadi Sa.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Devagandhari"
+}

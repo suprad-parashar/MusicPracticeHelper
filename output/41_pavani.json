@@ -1,0 +1,69 @@
+{
+  "raga_name": "Pavani",
+  "other_names": [
+    "Pāvani",
+    "Kumbhini"
+  ],
+  "melakarta_number": 41,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "Venkatamakhin (melakarta scheme); also known as Kumbhini in the Muthuswami Dikshitar school",
+  "chakra": "Rishi",
+  "arohana": [
+    "S",
+    "R1",
+    "G1",
+    "M2",
+    "P",
+    "D2",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M2",
+    "G1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Pavani carries a purified, austere, and luminous emotional color, fitting its meaning 'the purifier.' Its combination of R1 and G1 with prati madhyamam gives it a serious, inward, and slightly rarefied atmosphere rather than an overtly romantic or playful one. The raga can suggest spiritual cleansing, contemplation, and a sense of sacred intensity. To a listener, it may feel meditative and dignified, with an unusual brightness from N3 balanced by the gravity of the lower swaras. It suits reflective, devotional, and intellectually engaging musical settings.",
+  "description": "Pavani is a Carnatic melakarta raga, the 41st in the 72 melakarta system. The name is pronounced pāvani and means 'the purifier.' In the Muthuswami Dikshitar school, it is known as Kumbhini. It is the 5th raga in the 7th chakra, Rishi, with mnemonic name Rishi-Ma and mnemonic phrase 'sa ra ga mi pa dhi nu.' Its scale is sampurna, containing all seven swaras in both ascent and descent: S R1 G1 M2 P D2 N3 S / S N3 D2 P M2 G1 R1 S. The swaras used are shuddha rishabham, shuddha gandharam, prati madhyamam, chathusruthi dhaivatham, and kakali nishadham, along with shadjam and panchamam. Pavani is the prati madhyamam equivalent of Manavati, the 5th melakarta. A janya raga associated with it is Chandrajyoti, in which Tyagaraja composed a couple of songs. The raga's graha bhedam does not yield any other melakarta. This is explained by the characteristic three-note gap between G1 and M2, a feature shared by the Rishi chakra ragas; under melakarta rules, such shifts produce only invalid scales.",
+  "time_of_day": "early morning",
+  "gamaka_usage": "As a melakarta with the vivadi combination R1-G1 and the sharp contrast of M2, Pavani is best handled with careful, weighty gamaka treatment rather than plain scalar rendering. The lower swaras R1 and G1 need delicate but precise handling, typically with restrained kampita or subtle oscillation, so that the vivadi color is heard clearly without becoming harsh. These two swaras should not be rendered too flatly or too heavily shaken; their intonation must remain exact. The movement from G1 to M2 is especially important: the wide interval can be approached with a measured jaru or a clearly articulated leap, and M2 should emerge with brightness and firmness as a point of contrast after the dense lower tetrachord. P is generally a stable nyasa-like resting point, while D2 is usually treated more plainly, with moderate ornamentation. N3 can take a mild emphasis or light kampita when approaching the upper shadjam, and the N3-S ascent benefits from a smooth upward glide. Descending phrases through N3 D2 P and P M2 G1 R1 should preserve the raga's gravity and avoid overly decorative brigas that can blur the vivadi identity. In general, Pavani demands controlled gamakas, measured slides, and a dignified gait; excessive plain-note scalar singing makes it sound skeletal, while excessive ornamentation can obscure its rare melodic personality.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Chandrajyoti"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Sachidanandamaya",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Anjaade",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Jaya Dhanada Sakha",
+      "composer": "M. Balamuralikrishna",
+      "language": "Sanskrit"
+    }
+  ],
+  "notable_features": "Meaning of the name: 'the purifier.' Mnemonic name: Rishi-Ma. Mnemonic phrase: 'sa ra ga mi pa dhi nu.' It is the 5th raga in the 7th chakra Rishi. It uses the vivadi swara set R1 and G1. Pavani's graha bhedam does not produce any other valid melakarta. The explanation given is that the Rishi chakra ragas have a three-note gap between G1 and M2, and no other swara pair in melakarta rules has such a gap, so graha bhedam leads only to invalid scales. In the Dikshitar school, the raga is called Kumbhini. It is the prati madhyamam counterpart of Manavati. Available snippet evidence also associates the raga with auspicious early-morning rendering."
+}

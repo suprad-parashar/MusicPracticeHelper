@@ -1,0 +1,70 @@
+{
+  "raga_name": "Dhavalambari",
+  "other_names": [
+    "Dhavaḻāmbari",
+    "Dhavaḻāngam",
+    "Dhavaḻāngi",
+    "Dhavaangam",
+    "Dhavaangi"
+  ],
+  "melakarta_number": 49,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Brahma",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "M2",
+    "P",
+    "D1",
+    "N1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N1",
+    "D1",
+    "P",
+    "M2",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Shanta"
+  ],
+  "mood": "Dhavalambari has a grave, inward, and somewhat austere melodic personality. The presence of shuddha rishabham, shuddha dhaivatham, and the vivadi shuddha nishadham against prati madhyamam gives it a restrained, meditative color rather than a bright or extroverted one. It can suggest devotional introspection, quiet solemnity, and a touch of yearning or pathos. Listeners often experience it as serious and contemplative, with a rarefied stillness; it suits prayerful, reflective settings more than festive or exuberant expression.",
+  "description": "Dhavalambari is a melakarta rāgam in Carnatic music and is the 49th melakarta in the 72 melakarta system. It is the 1st rāgam in the 9th chakra, Brahma, with the mnemonic name Brahma-Pa and mnemonic phrase 'sa ra gu mi pa dha na'. In the Muthuswami Dikshitar school, it is called Dhavaḻāngam or Dhavaḻāngi, also seen in transliteration as Dhavaangam or Dhavaangi. Its scale is sampurna in both ascent and descent: S R1 G3 M2 P D1 N1 S / S N1 D1 P M2 G3 R1 S. The swaras used are shuddha rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and shuddha nishadham, along with shadjam and panchamam. As a melakarta, it contains all seven notes in both directions and has the same notes in ascent and descent. It is the prati madhyamam equivalent of Gayakapriya, the 13th melakarta. Dhavalambari is a comparatively rare melakarta in concert practice, but it has attracted compositions from Muthuswami Dikshitar, Koteeswara Iyer, and Dr. M. Balamuralikrishna. Theoretical analysis noted in the sources states that shifting its notes through graha bhedam does not yield any other melakarta rāgam.",
+  "time_of_day": "",
+  "gamaka_usage": "Dhavalambari should not be rendered as a bare scalar prati-madhyama melakarta; its identity depends on careful handling of the vivadi material, especially N1. The distinguishing feature repeatedly noted in source material is the vivadi N1, which sets it apart from Pantuvarali-like scalar impressions. N1 therefore needs delicate, well-centered intonation and is best treated with restrained kampita or a soft approach from D1 rather than a harsh, exposed plain note. R1 and D1 also benefit from measured oscillation, giving the raga gravity and preventing a dry linear effect. G3 can be given a controlled emphasis, while M2 functions as a bright but steady pivot and should generally be handled with moderation rather than excessive shaking. P and S serve as stable nyasa points. Descending contours such as N1-D1-P and P-M2-G3-R1-S are important, often linked with gentle jaru; similarly, M2-G3-R1 and D1-N1->S need precise spacing so the vivadi color remains clear without sounding abrasive. Since the scale is straight and non-vakra, raga bhava comes less from unusual phrase architecture and more from intonation, weight distribution, and nuanced kampita on the sensitive swaras.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Karvaya kanda",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Srivani pustaka pani",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Sringaradi",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    }
+  ],
+  "notable_features": "49th melakarta; first rāgam of the 9th chakra Brahma; mnemonic name Brahma-Pa; mnemonic phrase 'sa ra gu mi pa dha na'; called Dhavaḻāngam or Dhavaḻāngi in the Muthuswami Dikshitar school, also transliterated as Dhavaangam or Dhavaangi; prati madhyamam equivalent of Gayakapriya (13th melakarta); a comparatively rare melakarta in performance; the vivadi N1 is a key distinguishing feature and helps separate its melodic color from Pantuvarali-like impressions; has a few minor janya ragams; graha bhedam on this scale yields no other melakarta rāgam."
+}

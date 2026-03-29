@@ -1,0 +1,100 @@
+{
+  "raga_name": "Revagupti",
+  "other_names": [
+    "Rēvagupti",
+    "Reva gupti",
+    "revagupthi",
+    "revagupthy"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 15,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "P",
+    "D1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "D1",
+    "P",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Revagupti has a calm, morning freshness with a simple, symmetrical contour that feels clean, serene, and lightly devotional. Its pentatonic structure gives it an uncluttered, meditative quality, often evoking quiet optimism, gentle prayer, and a sense of stillness at dawn. Because it avoids madhyamam and nishadam, the raga sounds open and airy rather than tense or dramatic, making it suitable for peaceful contemplation and soft auspiciousness.",
+  "description": "Revagupti is a symmetric audava-audava janya rāgam in Carnatic music, meaning it is a pentatonic derived scale with five notes in both ascent and descent. It is a morning rāgam. The scale omits madhyamam and nishādham entirely, using shadjam, shuddha rishabham, antara gandharam, panchamam, and shuddha dhaivatam. Its ārohaṇa-avarohaṇa is S R1 G3 P D1 S and S D1 P G3 R1 S. It is considered a janya rāgam of Mayamalavagowla, the 15th melakarta, though it can also be derived from five other melakarta rāgams by dropping both madhyamam and nishādham. The similar scales in Hindustani music are Rewa and Bibhas. The raga is closely related in scale-similarity discussions to Bhupalam, Bhauli, and Karnataka Shuddha Saveri, differing from them by specific note choices or added notes. It is a compact, pedagogically approachable raga because of its symmetry and limited note set. The raga is regarded as auspicious and is often associated with early morning singing.",
+  "time_of_day": "morning",
+  "gamaka_usage": "Revagupti is generally rendered with restrained, light gamaka treatment rather than heavy oscillation. R1 and D1 can take gentle kampita or subtle oscillation, especially in phrases that linger on the note, while G3 and P are usually approached more plainly and held steady to preserve the raga's clean pentatonic identity. Smooth jaru-like transitions between S–R1–G3 and P–D1–S help maintain its airy, balanced character. Because the raga is symmetrical and sparse, excessive gamaka can obscure its outline; the characteristic color comes from clear prayogas and delicate ornamentation rather than elaborate oscillation. Compared with more heavily gamaka-driven ragas, Revagupti should sound direct, serene, and uncluttered.",
+  "hindustani_equivalent": "Rewa / Bibhas",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Gopalaka Pahimam",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Rama Rama Pahi Rama",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Griha bala memi",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Sada vinata sadare",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sharavana bhava guruguham",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Ni vera ganidhi",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Purushottamuda",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Aravinda Malarkanna",
+      "composer": "Seetha Raman",
+      "language": ""
+    },
+    {
+      "name": "Swayam Varenyam",
+      "composer": "Pallavi Subbayya Bhagavathar",
+      "language": ""
+    },
+    {
+      "name": "Shri Ganeshwara",
+      "composer": "N. Ravikiran",
+      "language": ""
+    }
+  ],
+  "notable_features": "Revagupti is a janya of Mayamalavagowla (15th melakarta) and can also be derived from five other melakarta ragas by omitting madhyamam and nishadam. It is a symmetric audava-audava scale with no madhyamam or nishadam. The raga is a morning raga and is considered auspicious for early morning singing. Its closest scale relatives mentioned are Bhupalam (differs only by gandharam), Bhauli (adds nishadam in descent), and Karnataka Shuddha Saveri (uses M1 instead of G3).",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Revagupti"
+}

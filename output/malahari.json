@@ -1,0 +1,108 @@
+{
+  "raga_name": "Malahari",
+  "other_names": [],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 15,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R1",
+    "M1",
+    "P",
+    "D1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "D1",
+    "P",
+    "M1",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "audava-shadava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [
+    "G3"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Malahari has a gentle, morning-like serenity that feels calm, fresh, and lightly devotional. Its character suggests the quiet of early daybreak and the soothing atmosphere of the rainy season, making it evoke peace, innocence, and a soft sense of reverence. Because it is often used for beginners’ geethas, it also carries a simple, clear, and pedagogically friendly mood that feels approachable and unforced.",
+  "description": "Malahari is a Carnatic janya raga traditionally associated with the 15th melakarta Mayamalavagowla, though the text notes that because it omits nishadha it can also be derived theoretically from Gayakapriya (13th) or Vakulabharanam (14th). It is an asymmetric audava-shadava raga, with five notes in ascent and six in descent. The arohana is S R1 M1 P D1 S and the avarohana is S D1 P M1 G3 R1 S. It is described as a morning raga that brings calmness and is associated with the rainy season. In Carnatic pedagogy it is especially important as a beginner raga for geethas, typically taught after swara exercises in Mayamalavagowla. Many geethas in this raga were composed by Purandara Dasa. The scale is closely related to Karnataka Shuddha Saveri in ascent, differing by the presence of gandhara in descent. The raga is a common teaching raga and a classic example of an asymmetric janya with a simple, devotional, and soothing profile.",
+  "time_of_day": "morning",
+  "gamaka_usage": "The source does not give explicit gamaka rules, but the scale suggests a relatively plain, beginner-friendly treatment. R1, M1, and D1 are the core structural notes and are typically rendered with light, controlled gamaka rather than heavy oscillation. G3 appears only in avarohana and functions as the characteristic descent note, usually approached by a smooth jaru from M1 into G3 and then to R1. Since the raga is used for elementary geethas, phrases are generally kept clear and stable, with less ornate kampita than in heavier ragas. The absence of nishadha and the simple audava-shadava structure favor clean phrase-based singing over elaborate oscillatory treatment.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Shri Gananaatha",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Kundha Gowra Gowrivara",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Padumanaabha Paramapurusha",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Keraya Neeranu Kerege Challi",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Vigneshwaram Bhajare",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Pancha Matanga Mukha",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Evvarevvarivaado",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Shri Mahaganapathe",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Dasasreshtam",
+      "composer": "T. N. Seshagopalan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sharanambitade",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vara Siddhi Vinayaka",
+      "composer": "Dr. Sripada Pinakapani",
+      "language": "Telugu"
+    },
+    {
+      "name": "Shri Raghupungava",
+      "composer": "Gopikrishnan AJ",
+      "language": "Sanskrit"
+    }
+  ],
+  "notable_features": "Audava-shadava asymmetric scale; traditionally a janya of Mayamalavagowla (15), though theoretically derivable from Gayakapriya (13) or Vakulabharanam (14) because it omits nishadha. Used extensively for beginner geethas in Carnatic training. Associated with morning and rainy-season mood. Scale similarity: Karnataka Shuddha Saveri matches the ascending scale of Malahari, but without the descending G3. Many geethas in this raga are by Purandara Dasa.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Malahari"
+}

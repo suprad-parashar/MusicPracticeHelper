@@ -1,0 +1,67 @@
+{
+  "raga_name": "Tanarupi",
+  "other_names": [
+    "Tanukeerti",
+    "Tānarūpi"
+  ],
+  "melakarta_number": 6,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Indu",
+  "arohana": [
+    "S",
+    "R1",
+    "G1",
+    "M1",
+    "P",
+    "D3",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D3",
+    "P",
+    "M1",
+    "G1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Tanarupi has a calm, composed, and dignified mood with a gentle devotional undertone. Its scale feels bright yet restrained, with a sense of clarity and balance rather than dramatic tension. The raga can evoke peaceful contemplation, inner steadiness, and a solemn, prayerful atmosphere, making it suitable for reflective listening and devotional settings.",
+  "description": "Tanarupi is the 6th melakarta rāgam in the 72-melakarta system and belongs to the 1st chakra, Indu. Its name is explained as meaning “the one that embodies tanam.” The mnemonic name is Indu-Sha and the mnemonic phrase is sa ra ga ma pa dhu nu. The scale uses shuddha rishabham, shuddha gandharam, shuddha madhyamam, shatsruthi dhaivatham, and kakali nishadham, making it a sampoorna rāgam with all seven notes in both ascent and descent. It is the shuddha madhyamam equivalent of Raghupriya, the 42nd melakarta. In the Muthuswami Dikshitar school it is called Tanukeerti. The asampurna melakarta version Tanukeerti is described as audava-vakra-sampurna, with a 5-note ascent and zig-zag descent, but the same note material. Tanarupi has no janya rāgams associated with it. Graha bhedam on Tanarupi yields no other melakarta rāgam.",
+  "time_of_day": "",
+  "gamaka_usage": "The source does not give detailed gamaka prescriptions for Tanarupi, but as a melakarta with only shuddha R1 and G1 and the higher D3/N3, it is generally treated with clear, measured intonation rather than heavy oscillation. The swaras are typically rendered in a straightforward sampoorna framework, with smooth jaru between adjacent notes and careful emphasis on the structural notes S, M1, P, D3, and N3. Because the raga is not bhashanga and does not use vakra prayogas in the melakarta form, gamaka treatment is expected to be relatively simple and stable compared with more ornament-heavy ragas. In practice, any kampita is usually restrained, with R1 and G1 approached cleanly and D3/N3 held with precision rather than broad oscillation.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Va velava va",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sri Ramam sada bajeham",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Chidambara natarajamurthim",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    }
+  ],
+  "notable_features": "Tanarupi is the 6th melakarta and the 6th rāgam in the Indu chakra. Its mnemonic phrase is sa ra ga ma pa dhu nu. It is the shuddha madhyamam equivalent of Raghupriya (42nd melakarta). The asampurna equivalent Tanukeerti is audava-vakra-sampurna with arohana S R1 M1 P N3 S and avarohaṇa S N3 D3 N3 P M1 G1 R1 S. Tanarupi has no janya rāgams. Graha bhedam on this raga yields no other melakarta rāgam.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tanarupi"
+}

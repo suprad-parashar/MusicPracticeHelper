@@ -1,0 +1,59 @@
+{
+  "raga_name": "Bhimsen",
+  "other_names": [
+    "Bhimsen (raga)"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 11,
+  "inventor": "Mahesh Mahadev",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G2",
+    "M1",
+    "P",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M1",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "audava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Shanta"
+  ],
+  "mood": "Bhimsen has a devotional, serene, and uplifting character. Its pentatonic ascent gives it a direct, open, and uncluttered feel, while the fuller descent adds a sense of completion and repose. The raga can evoke reverence, calm confidence, and a gentle heroic dignity, making it suitable for devotional and contemplative expression rather than intense pathos or agitation.",
+  "description": "Bhimsen is a rāgam in both Carnatic and Hindustani music, created by composer Mahesh Mahadev and named after Bharat Ratna Pandit Bhimsen Joshi. It is identified as a janya raga of the 11th melakarta, Kokilapriya, in the 72-melakarta system. The source describes it as an asampoorna/asymmetric scale with no rishabham or dhaivatam in the आरोhaṇa, making it audava-sampurna: pentatonic ascending and sampurna-like descending. The scale uses S, G2, M1, P, N3 in ascent and adds R1 and D2 in descent. Mahesh Mahadev introduced the raga to Indian classical music by composing two Hindustani bandishes. The raga is thus a modern creation with cross-genre relevance, and its naming explicitly honors Bhimsen Joshi.",
+  "time_of_day": "",
+  "gamaka_usage": "The source does not specify detailed gamaka prayoga, but from the scale structure the raga would typically treat S, P, and M1 as relatively stable anchor notes, with G2 and N3 carrying gentle oscillation or slides to shape the phrase. In the descent, R1 and D2 are introduced only in avarohaṇa and are likely handled with careful jaru-like movement rather than heavy emphasis, since the raga is asymmetric and the ascent omits them entirely. The raga’s identity depends on preserving the pentatonic ascent cleanly and avoiding over-ornamentation that would blur the audava character. Compared with closely related pentatonic-sampurna janyas, the descent should sound fuller and more expansive, but still controlled.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Giridhar Gopal Shyam",
+      "composer": "Mahesh Mahadev",
+      "language": "Hindi"
+    },
+    {
+      "name": "Man ke Mandir Ayore",
+      "composer": "Mahesh Mahadev",
+      "language": "Hindi"
+    }
+  ],
+  "notable_features": "Janya of melakarta 11 (Kokilapriya). Audava-sampurna structure: ascent omits R and D, descent includes R1 and D2. The source explicitly says Mahesh Mahadev created the raga and introduced it through two Hindustani bandishes. The raga is named after Bhimsen Joshi, with the name explained as combining 'BHIM' and 'SEN' from Bhimsen Joshi and Miaya Tansen. It is described as an asampoorna/asymmetric raga.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bhimsen_(raga)"
+}

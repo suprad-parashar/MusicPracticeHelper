@@ -1,0 +1,51 @@
+{
+  "raga_name": "Raghupriya",
+  "other_names": [
+    "Ravikriya"
+  ],
+  "melakarta_number": 42,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Rishi",
+  "arohana": [
+    "S",
+    "R1",
+    "G1",
+    "M2",
+    "P",
+    "D3",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D3",
+    "P",
+    "M2",
+    "G1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Adbhuta",
+    "Shanta"
+  ],
+  "mood": "Raghupriya has a striking and uncommon emotional color created by its vivadi swaras and prati madhyama. Its sound can feel austere, intense, and inward-looking, often suggesting a blend of devotional seriousness, poignancy, and wonder. The raga may evoke a contemplative atmosphere rather than easy sweetness, giving the listener a sense of spiritual tension resolving into calm. It suits reflective, meditative, and intellectually engaging musical treatment, where unusual tonal shades create both emotional depth and a sense of rare beauty.",
+  "description": "Raghupriya is the 42nd melakarta raga in the Carnatic system and therefore a janaka (parent) raga. It belongs to the Rishi chakra and is the 6th raga in that chakra. As a melakarta, it contains all seven swaras in both ascent and descent and is a sampurna raga, with the scale S R1 G1 M2 P D3 N3 S / S N3 D3 P M2 G1 R1 S. Since it follows the straight ascending and descending order of notes, it is not vakra. The swara set includes the vivadi combination R1-G1, giving the raga a rare and distinctive tonal identity. In the Muthuswami Dikshitar school, this raga is known as Ravikriya. The name Raghupriya means 'the one dear to Raghu'. It is also the prati madhyama equivalent of Tanaroopi, the 6th melakarta. As a melakarta, it serves as a theoretical and compositional basis for derived ragas, though specific janyas are not identified in the provided snippets.",
+  "time_of_day": "",
+  "gamaka_usage": "Because Raghupriya contains vivadi swaras, especially the close R1-G1 cluster, gamaka handling must be careful and precise. R1 and G1 are best treated with controlled kampita or subtle oscillation rather than broad, careless shaking, so that their identity remains clear and the raga does not blur into neighboring melas. The R1-G1 region especially demands clean intonation and measured handling, since over-sliding can obscure the vivadi character. M2 can take a gentle emphasis and often acts as an important point of color contrast against the lower vivadi region. P is generally a stable resting note, and D3-N3 may be rendered with measured glide or light oscillation depending on phrase context. Overall, the raga benefits from deliberate phrase architecture, restrained ornamentation, and clarity of swara placement; gamakas should highlight its unusual scalar personality without smudging the note identities.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [],
+  "notable_features": "Raghupriya is a melakarta (janaka) raga with a complete seven-note scale in both ascent and descent. It is non-vakra in the given scale form and uses vivadi swaras, notably the R1-G1 combination, which gives it a rare and challenging melodic personality. It belongs to the Rishi chakra and is the 6th raga in that chakra. In the Muthuswami Dikshitar school it is called Ravikriya. It is the prati madhyama equivalent of Tanaroopi (6th melakarta). According to the provided source, graha bhedam on Raghupriya does not yield another melakarta raga, like the other ragas in the Rishi chakra. No specific time association, Hindustani equivalent, Western equivalent, or confirmed compositions are established in the provided snippets."
+}

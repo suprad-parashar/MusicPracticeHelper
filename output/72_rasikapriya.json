@@ -1,0 +1,80 @@
+{
+  "raga_name": "Rasikapriya",
+  "other_names": [
+    "Rasamanjari"
+  ],
+  "melakarta_number": 72,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "Venkatamakhin (melakarta scheme formalization)",
+  "chakra": "Aditya",
+  "arohana": [
+    "S",
+    "R3",
+    "G3",
+    "M2",
+    "P",
+    "D3",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D3",
+    "P",
+    "M2",
+    "G3",
+    "R3",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Adbhuta",
+    "Veera"
+  ],
+  "mood": "Rasikapriya has a bright, sharp, highly charged melodic personality. As the final melakarta with the intense combination of R3 and D3 along with prati madhyamam, it can sound brilliant, striking, and intellectually stimulating rather than soft or reposeful. The raga evokes a sense of brilliance, tension, and wonder, suiting moments of grandeur, bold exploration, and dramatic musical architecture. Its mood can feel radiant and forceful, with an edge of excitement that appeals to listeners who enjoy vivid, high-energy melodic color.",
+  "description": "Rasikapriya is a Carnatic melakarta raga and the 72nd and last raga in the 72 melakarta system. In the Muthuswami Dikshitar school it is called Rasamanjari. It is the 6th raga in the 12th chakra, Aditya. Its mnemonic name is Aditya-Sha and its mnemonic phrase is 'sa ru gu mi pa dhu nu'. The scale is sampurna in both ascent and descent: S R3 G3 M2 P D3 N3 S / S N3 D3 P M2 G3 R3 S. The swaras used are shatsruthi rishabham, antara gandharam, prati madhyamam, shatsruthi dhaivatham, and kakali nishadham, along with shadjam and panchamam. As a melakarta, it contains all seven notes in both directions. Rasikapriya traces its theoretical place to the melakarta classification system codified by Venkatamakhin in the 17th century. It is the prati madhyamam equivalent of Chalanata, the 36th melakarta. Rasikapriya has a few minor janya ragas associated with it. In graha bhedam, shifting its notes yields two other major melakarta ragas: Mayamalavagowla and Simhendramadhyamam. This gives it theoretical importance within the melakarta framework.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "Rasikapriya is generally handled with precise, controlled gamaka treatment because of its vivadi swara content, especially R3 and D3. The raga’s identity is preserved best through clear intonation of the direct sampurna scale rather than through heavy, wide oscillations. R3 and G3 are often approached carefully as a close pair, with light kampita or subtle nokku rather than excessive shaking; similarly D3 and N3 need exact placement so the upper tetrachord retains its brilliance without sounding harsh. M2 contributes a sharp prati-madhyama color and is usually rendered cleanly, sometimes with a mild oscillation or glide from G3, while P and S act as stable nyasa points and are comparatively plain. Jaru phrases such as N3-D3-P and M2-G3-R3-S can be used, but the movement remains largely straightforward and scalar, in keeping with melakarta lakshana. Over-ornamentation can blur the raga toward neighboring vivadi melas, so musicians typically favor measured kampita, crisp note delineation, and balanced slides over dense gamaka-laden treatment.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Arul seyya",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Pavana tanaya pAlayamAm",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sringara rasamanjarim",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Paripahi pahi",
+      "composer": "Kuttikkunhi Thangachi",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Veena gana priye varnam",
+      "composer": "Chandrapothar (B. Sasikumar)",
+      "language": "unknown"
+    },
+    {
+      "name": "Rajatha Sabha Nayakane",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Tamil"
+    }
+  ],
+  "notable_features": "Rasikapriya is the last melakarta in the canonical 72-melakarta scheme. It belongs to the 12th chakra Aditya and is identified by the mnemonic Aditya-Sha. It is theoretically significant because graha bhedam on this scale yields Mayamalavagowla and Simhendramadhyamam. It is also known as Rasamanjari in the Muthuswami Dikshitar school. The raga has a few minor janya ragas. Because it employs R3 and D3, it includes vivadi swara positions. It is the prati madhyama counterpart of Chalanata (36th melakarta)."
+}

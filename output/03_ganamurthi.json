@@ -1,0 +1,70 @@
+{
+  "raga_name": "Ganamurthi",
+  "other_names": [
+    "Gānamūrti",
+    "Ganamurti",
+    "Ganamoorthi",
+    "Gānasāmavarāḷi",
+    "Ganasamavarali"
+  ],
+  "melakarta_number": 3,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Indu",
+  "arohana": [
+    "S",
+    "R1",
+    "G1",
+    "M1",
+    "P",
+    "D1",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D1",
+    "P",
+    "M1",
+    "G1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Shanta"
+  ],
+  "mood": "Ganamurthi, as a melakarta with the close and tense pairing of R1 and G1 along with D1 and the bright N3, suggests a serious, inward, and somewhat austere emotional world. It can evoke devotional intensity, quiet contemplation, and a touch of plaintive gravity rather than lightness or romance. The raga may feel meditative and weighty, suited to reflective or spiritually oriented expression, where the listener experiences a blend of calmness, reverence, and subtle emotional tension.",
+  "description": "Ganamurthi is the 3rd melakarta raga in the Carnatic music system and is one of the janaka (parent) ragas listed in the standard 72-melakarta scheme organized through the Katapayadi system. It is the 3rd raga in the 1st chakra, Indu. As a melakarta, it is a sampurna raga, containing all seven swaras in both ascent and descent. Its scale is S R1 G1 M1 P D1 N3 S / S N3 D1 P M1 G1 R1 S. In Carnatic theory, melakarta ragas are also called asraya ragas or janaka ragas, meaning parent or shelter-giving ragas from which janya ragas may be derived. Ganamurthi is also known as Ganasamavarali in the Muthuswami Dikshitar school of Carnatic music. From its swara content, it includes vivadi swaras, especially the R1-G1 combination, giving it a distinctive and somewhat rare melodic color. As a melakarta, it is theoretically important within the complete 72-scale system discussed in Carnatic musicology.",
+  "time_of_day": "",
+  "gamaka_usage": "As a melakarta with vivadi content, Ganamurthi benefits from careful gamaka handling rather than plain scalar rendering. R1 and G1 should generally be treated with delicate oscillation or nuanced kampita to avoid a harsh or skeletal effect; their close placement makes intonation especially important. The R1-G1 zone is the most sensitive area of the raga and should not be rendered too bluntly or with excessive force. D1 may also take a restrained kampita or a gentle upward approach from P, while N3 can be approached with mild emphasis as a bright upper leading tone before the upper shadja. M1 and P are comparatively steadier nyasa-like anchors that stabilize the raga’s identity amid the vivadi tension. Jaru phrases between adjacent swaras, especially in descent such as N3-D1-P and M1-G1-R1, can soften the vivadi edges and make the raga sound musical rather than merely scalar. Because Ganamurthi is close in structure to other early vivadi melakartas, precise intonation and controlled ornamentation are essential; overly plain rendering can make it sound dry and theoretical, while measured kampita and subtle slides bring out its devotional seriousness and weight.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Ganamoorthe Sri Krishna",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Pahi Jagadiswara",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Brihadiswara Rakshatuma",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    }
+  ],
+  "notable_features": "Ganamurthi is a melakarta (janaka) raga, number 3 in the 72-melakarta system. It is heptatonic in both ascent and descent, hence sampurna. It is not vakra in the given scale form. It uses vivadi swaras, notably the R1-G1 combination. It is explicitly listed among the janaka ragas in Carnatic music. It belongs to the 1st chakra, Indu. In the Muthuswami Dikshitar school, this raga is referred to as Ganasamavarali. As a melakarta, it serves as a theoretical parent for derived janya ragas, though none are mentioned in the provided content."
+}

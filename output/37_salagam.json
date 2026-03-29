@@ -1,0 +1,50 @@
+{
+  "raga_name": "Salagam",
+  "other_names": [
+    "Sālagam"
+  ],
+  "melakarta_number": 37,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Rishi",
+  "arohana": [
+    "S",
+    "R1",
+    "G1",
+    "M2",
+    "P",
+    "D1",
+    "N1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N1",
+    "D1",
+    "P",
+    "M2",
+    "G1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna"
+  ],
+  "mood": "Salagam projects a grave, inward, and austere emotional atmosphere. Its vivadi swara structure and prati madhyama color give it a tense yet meditative quality, often suggesting spiritual concentration rather than overt sweetness. The listener may experience a sense of stillness, devotional seriousness, and restrained poignancy, with an undercurrent of introspection. It suits contemplative, weighty expression and can evoke the feeling of early-morning inwardness or solemn prayer.",
+  "description": "Salagam (pronounced Sālagam) is a Carnatic melakarta raga and the 37th melakarta in the 72-melakarta system. It is a sampurna janaka raga, containing all seven swaras in both ascent and descent: S R1 G1 M2 P D1 N1 S / S N1 D1 P M2 G1 R1 S. It belongs to the 7th chakra, Rishi, and is the first raga in that chakra. Salagam is the prati madhyama equivalent of Kanakangi, the 1st melakarta. As a melakarta, it serves as a parent scale for derived janya ragas, though it is not among the most frequently heard melakartas in mainstream concert practice. Its identity is shaped not merely by its scalar form but by the careful handling of its vivadi swaras and the serious melodic personality that emerges from them.",
+  "time_of_day": "morning",
+  "gamaka_usage": "Salagam requires highly disciplined gamaka handling because of its vivadi structure, especially the close R1-G1 and D1-N1 groupings. These swaras should be intoned with great precision so that the raga does not collapse into an indistinct chromatic effect. R1 and G1 are typically rendered with controlled kampita or delicate oscillation rather than flat delivery; the oscillation must be narrow and well-centered, preserving the identity of each swara. Similarly, D1 and N1 benefit from careful, weighty treatment, often with restrained kampita and subtle linking motion. M2 is an important color-bearing swara and may be approached through a gentle glide from G1 or held with measured steadiness to highlight the prati madhyama flavor. P functions as a stable anchoring note and can serve as a point of repose amid the tension of the vivadi clusters. Jaru between adjacent swaras may be used sparingly to connect phrases, but excessive sweeping slides can blur the raga’s delicate intonational profile. In general, Salagam favors deliberate, weighty phrases, precise oscillations, and restrained ornamentation over fast scalar passages; compared with more common melakartas, its gamakas must be more carefully calibrated to preserve clarity and raga bhava.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [],
+  "notable_features": "Salagam is a melakarta (parent) raga in Carnatic music and therefore a janaka/asraya raga. It is heptatonic in both ascent and descent and belongs to the 7th chakra, Rishi, as its first member. It is the prati madhyama equivalent of Kanakangi, the 1st melakarta; conversely, Kanakangi is the shuddha madhyama equivalent of Salagam. Since it contains the vivadi combinations R1-G1 and D1-N1, it uses vivadi swaras and demands especially careful intonation. Available sources note that Salagam has only a minor janya presence and is not widely represented by famous mainstream compositions in the cited material."
+}

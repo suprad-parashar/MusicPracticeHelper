@@ -1,0 +1,331 @@
+{
+  "raga_name": "Kamavardhani",
+  "other_names": [
+    "Kamavardhini",
+    "Pantuvarali",
+    "Pantuvarāḷi",
+    "Kashiramakriya",
+    "Kāshirāmakriya"
+  ],
+  "melakarta_number": 51,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Brahma",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "M2",
+    "P",
+    "D1",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D1",
+    "P",
+    "M2",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Adbhuta",
+    "Shanta"
+  ],
+  "mood": "Kamavardhani carries an intense, serious, and contemplative emotional color. It is deeply devotional, often evoking spiritual yearning, surrender, austerity, and inward prayer. The prati madhyamam lends the raga a luminous tension and mystical flavor, so the experience can feel at once pleading, majestic, and transcendent. Listeners often perceive it as meditative yet emotionally charged, suitable for profound introspection, solemn worship, and expansive alapana that suggests dawn-like stillness moving toward revelation.",
+  "description": "Kamavardhani, also spelled Kamavardhini, is a Carnatic raga and the 51st melakarta in the 72 melakarta system. It is also referred to as Pantuvarali, and in the Muthuswami Dikshitar school it is called Kashiramakriya. It is a very popular raga with musicians and is often sung at the beginning of a concert. It is the 3rd raga in the 9th chakra, Brahma, with mnemonic name Brahma-Go and mnemonic phrase 'sa ra gu mi pa dha nu'. Its scale is sampurna, containing all seven swaras in both ascent and descent: shuddha rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kakali nishadham along with shadjam and panchamam. Kamavardhani differs from the 15th melakarta Mayamalavagowla only in the madhyamam, and is the prati madhyamam equivalent of Mayamalavagowla. It has a few minor janya ragas. In Hindustani music, its equivalent is given as the Poorvi thaat/Puriya Dhanashree. The raga's notes, when shifted using graha bhedam, yield Kanakangi, the 1st melakarta. It tends to sound similar to, and is often mistaken for, Purvikalyani. Additional sources describe it as a serious, contemplative raga with a distinctly mystical flavor and considerable scope for elaborate alapana.",
+  "time_of_day": "morning to afternoon",
+  "gamaka_usage": "Kamavardhani is not a plain scalar raga; its identity emerges through weighty, sustained, and highly expressive gamaka treatment. R1 and D1 are typically rendered with strong kampita/oscillatory handling and are rarely left dry in important phrases. G3 is a key nyasa and identity-bearing swara, often approached with curved movement from R1 and linked sensitively to M2. M2 is the defining pivot that separates the raga from Mayamalavagowla; it must be given clear prominence and intonational precision, often with a lingering emphasis or a smooth jaru into or out of adjacent swaras. N3 is also an important color note, usually handled with intensity rather than as a flat scalar step, especially in upper-register phrases leading to >S. P serves as a comparatively steady anchoring swara, offering repose amid the raga's tension-filled contours. Jaru phrases between adjacent notes and elongated, curved prayogas are central to its rakti; the raga responds especially well to expansive alapana because the swaras admit deep oscillation and sustained emotional shading. Care is needed to preserve the distinct Kamavardhani color and not let phrases drift toward Purvikalyani; the handling of M2 and the overall grave, austere gamaka profile are crucial in maintaining that distinction.",
+  "hindustani_equivalent": "Poorvi thaat/Puriya Dhanashree",
+  "western_equivalent": "1 b2 3 #4 5 b6 7",
+  "popular_janya_ragas": [
+    "Deepakam",
+    "Bhogavasanta",
+    "Gamakapriya",
+    "Mandari"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Guruvina Gulaamanaaguva Tanaka",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Harinama Jihveyolirabeku",
+      "composer": "Vyasatirtha",
+      "language": ""
+    },
+    {
+      "name": "Vitalayya Vitalayya",
+      "composer": "Jagannatha Dasa",
+      "language": ""
+    },
+    {
+      "name": "Ramanujare Namo",
+      "composer": "Kanakadasa",
+      "language": ""
+    },
+    {
+      "name": "Raghuvara Nannu",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Shambo Mahadeva",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Saramegani",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Appa Rama Bhakthi",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Shobhane",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Choodare Chelulara",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Vadera Daivamu",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Andundaka Ne",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Sundarathara Dheham",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Parama Pavana Gunashali",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Ninne Nera Nammi",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Naradamuni Vedalina",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Shiva Shiva Shiva Enarada",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Ennaganu Rama Bhajana",
+      "composer": "Bhadrachala Ramadasu",
+      "language": ""
+    },
+    {
+      "name": "Ramanatham Bhajeham",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Visalaksheem Visweseem",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Senapathe Palayamam",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sri Sundararajam",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Ucchishta Ganapathau",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Ninnarul Iyambalaagumo",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Amba Manam Kaninthu",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Adiya Padhathai",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Nee Allavo",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Neeye Pedai Mukham",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Sarasaksha Paripalaya Maamayi",
+      "composer": "Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Paripalaya Sarasiruha",
+      "composer": "Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Matanga Tanayayi Mangalam",
+      "composer": "Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Nagashayanam",
+      "composer": "Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Saroruhaasana",
+      "composer": "Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Magalahārathide Nēku",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Mahitâtma Sevite",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Kamurugayya",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Ituvanti",
+      "composer": "Tiruvottriyur Tyagayyar",
+      "language": ""
+    },
+    {
+      "name": "Engum Niraindha Paramporule",
+      "composer": "Madurai Sri N Krishnan",
+      "language": ""
+    },
+    {
+      "name": "Varamulicchuta",
+      "composer": "Nallan Chakravarthy Murthy",
+      "language": ""
+    },
+    {
+      "name": "Sharanam Tava",
+      "composer": "Mangalampalli Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Shankari Ninne",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Kunjitha Padhathai",
+      "composer": "Gopalakrishna Bharathi",
+      "language": ""
+    },
+    {
+      "name": "Edhukkindha Sadalam",
+      "composer": "Gopalakrishna Bharathi",
+      "language": ""
+    },
+    {
+      "name": "Thenpuliyur Sivakami Nesa",
+      "composer": "Gopalakrishna Bharathi",
+      "language": ""
+    },
+    {
+      "name": "Nirupama Sundarakara",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Manruladum Paraman",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Sonnadhai Kel Kanna",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Shivananda Kamavardhani",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Alli Undidalaam",
+      "composer": "Pudukode K.S. Krishnamurthi",
+      "language": ""
+    },
+    {
+      "name": "Adarkulle",
+      "composer": "Subbarama Iyer",
+      "language": ""
+    },
+    {
+      "name": "Netru Varen Endru",
+      "composer": "Subbarama Iyer",
+      "language": ""
+    },
+    {
+      "name": "Niddirayil",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Vaddante",
+      "composer": "Govindaswamy Ayya",
+      "language": ""
+    },
+    {
+      "name": "Inchu Boni",
+      "composer": "Sarangapani",
+      "language": ""
+    }
+  ],
+  "notable_features": "Pronunciation and script variants are given in Telugu, Kannada, Tamil, and Devanagari forms. It is especially popular in concerts and is often presented early in a performance. Mnemonic name: Brahma-Go; mnemonic phrase: sa ra gu mi pa dha nu. The swaras used are shuddha rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kakali nishadham. It is the prati madhyamam counterpart of Mayamalavagowla. Through graha bhedam, its notes yield Kanakangi, the 1st melakarta. It is often mistaken for Purvikalyani. The text mentions that it has a few minor janya ragas, but does not list them. Additional sources mention Deepakam, Bhogavasanta, Gamakapriya, and Mandari as janya ragas. It is noted for its serious, contemplative, mystical character and for offering substantial scope for alapana."
+}

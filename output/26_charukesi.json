@@ -1,0 +1,187 @@
+{
+  "raga_name": "Charukesi",
+  "other_names": [
+    "Tarangini"
+  ],
+  "melakarta_number": 26,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Bana",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M1",
+    "P",
+    "D1",
+    "N2",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N2",
+    "D1",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Shanta"
+  ],
+  "mood": "Charukesi has a poignant, devotional, and emotionally touching character. It often evokes a sense of tender longing, quiet sorrow, and inward reflection, yet it remains graceful and immediately recognizable. The raga can feel prayerful and contemplative, suiting devotional settings as well as music that seeks to express pathos with elegance rather than heaviness. It is also described as suitable for singing at all times, giving it a broad, balanced emotional appeal.",
+  "description": "Charukesi is the 26th melakarta rāgam in the 72-melakarta system and belongs to the 5th chakra, Bana, with mnemonic name Bana-Sri and mnemonic phrase sa ri gu ma pa dha ni. In the Muthuswami Dikshitar school it is called Tarangini. It is a sampoorna rāgam with all seven swaras in both ascent and descent, and is the shuddha madhyamam equivalent of Rishabhapriya (melakarta 62). Its scale corresponds to the Aeolian dominant / Mixolydian b6 type in Western theoretical terms. The raga is widely used in devotional music and is generally easy to identify by ear. The source notes that only a few minor janya rāgams are associated with Charukesi. It has notable graha bhedam relationships: shifting the tonic yields Vachaspati, Natakapriya, and Gourimanohari. The raga is also popular in Hindustani music and has inspired many film songs and modern adaptations across languages. The text mentions that some renderings of Muthuswami Dikshitar's Maye Tvam Yahi are sung with a higher shatshruthi rishabham than the original chathushruthi rishabham. It is often appreciated for its close-to-the-heart, prayerful quality and its ability to convey emotion with clarity and elegance.",
+  "time_of_day": "any time",
+  "gamaka_usage": "Charukesi is typically rendered with smooth, expressive gamakas that support its poignant devotional mood. R2 and G3 are usually given gentle oscillation and connected by graceful slides, while M1 and P are comparatively steadier anchor notes. D1 and N2 are often handled with light kampita or jaru to preserve the raga's plaintive color. S and P are generally held cleanly as structural points, while the characteristic color comes from the soft inflection around R2-G3 and D1-N2. Because the raga is sampurna and not vakra, its identity depends more on characteristic phrase-shapes and emotive oscillation than on zig-zag scale motion. Compared with closely related major ragas, Charukesi’s treatment tends to be softer and more lyrical, avoiding overly forceful stress on any note.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "Aeolian dominant / Mixolydian b6",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Adamodi Galade",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Karunai Varumo",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Enna Thavam Seidheno",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Kripaya Palaya",
+      "composer": "Maharaja Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Jamuna Kinare",
+      "composer": "Maharaja Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Karunanidhan",
+      "composer": "Maharaja Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Onde Mandalli",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Barayya Venkataramana",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Samanyavalla Srihariya Seve",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Innum En Manam",
+      "composer": "Lalgudi Jayaraman",
+      "language": ""
+    },
+    {
+      "name": "Andarilo Ranga",
+      "composer": "Nallan Chakravarthy Murthy",
+      "language": ""
+    },
+    {
+      "name": "Palayamam Parameswari",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Maye Tvam Yahi",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Neere Torele",
+      "composer": "Vadiraja Tirtha",
+      "language": ""
+    },
+    {
+      "name": "Alokaye Sri Balakrishnam",
+      "composer": "Narayana Teertha",
+      "language": ""
+    },
+    {
+      "name": "Aayiram Aayiram",
+      "composer": "Ambujam Krishna",
+      "language": ""
+    },
+    {
+      "name": "Paradevim Upasmahe",
+      "composer": "M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Thunai Neeye Kumara",
+      "composer": "M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Innum Enna Sodhanai",
+      "composer": "Shuddhananda Bharati",
+      "language": ""
+    },
+    {
+      "name": "Mayil Meedu Viraindodi",
+      "composer": "Calcutta Gurumoorthy",
+      "language": ""
+    },
+    {
+      "name": "Mayileri Oyilai",
+      "composer": "Arasi (Rajee Krishnan)",
+      "language": ""
+    },
+    {
+      "name": "Saketha Rama",
+      "composer": "Chowdiah",
+      "language": ""
+    },
+    {
+      "name": "Neethan Appa",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Maharajapuram Santhanam",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Dr. G. Baby Sreeram",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Dr. Kollam G. S. Balamurali",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta 26; 2nd rāgam in the 5th chakra Bana; mnemonic name Bana-Sri; called Tarangini in the Dikshitar school; shuddha madhyamam equivalent of Rishabhapriya (62nd melakarta); equivalent to an Aeolian dominant / Mixolydian b6 scale; used in devotional music; described as poignant and easy to identify; graha bhedam from Charukesi yields Vachaspati, Natakapriya, and Gourimanohari; some modern and film-song adaptations exist in multiple languages; the text notes a variant rendering of Maye Tvam Yahi with higher shatshruthi rishabham in popular practice.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Charukesi"
+}

@@ -1,0 +1,78 @@
+{
+  "raga_name": "Namanarayani",
+  "other_names": [
+    "Nāmanārāyaṇi",
+    "Namadeshi",
+    "Nāmadēshi"
+  ],
+  "melakarta_number": 50,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Brahma",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "M2",
+    "P",
+    "D1",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D1",
+    "P",
+    "M2",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Shanta",
+    "Adbhuta"
+  ],
+  "mood": "Namanarayani has a poised, contemplative, and devotional melodic personality. Its scale suggests a serious but not harsh emotional color, giving the listener a feeling of inward prayer, quiet dignity, and reflective calm. The presence of shuddha rishabham and shuddha dhaivatham lends gravity, while the prati madhyamam adds a subtle brightness and wonder. The raga can evoke a serene temple atmosphere, meditative devotion, and a sense of refined spiritual introspection rather than overt drama.",
+  "description": "Namanarayani is a Carnatic melakarta raga and the 50th melakarta in the 72 melakarta system. It is known as Namadeshi in the Muthuswami Dikshitar school of Carnatic music. It is the 2nd raga in the 9th chakra, Brahma, with the mnemonic name Brahma-Sri and mnemonic phrase 'sa ra gu mi pa dha ni'. Its scale is sampurna in both ascent and descent: S R1 G3 M2 P D1 N2 S / S N2 D1 P M2 G3 R1 S. The swaras used are shuddha rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kaisiki nishadham, along with shadjam and panchamam. It is the prati madhyamam equivalent of Vakulabharanam, the 14th melakarta. As a melakarta, it is by definition a parent scale and has a few minor janya ragas associated with it. Graha bhedam on this raga does not yield another melakarta raga. Though theoretically complete and symmetrical, it is a relatively rare melakarta in concert practice and is more often encountered in pedagogic, classificatory, or specialist compositional contexts than as a mainstream elaboration raga.",
+  "time_of_day": "",
+  "gamaka_usage": "As a melakarta with a straight sampurna scale, Namanarayani permits direct scalar movement, but a merely plain-note rendering can make it sound skeletal or drift toward nearby prati-madhyama melas. Its identity is better brought out through measured classical gamaka. R1 and D1, being the more delicate swaras in the scale, are handled with care and usually with restrained kampita or a slightly weighted intonation rather than aggressive shaking. G3 and N2 can take tasteful kampita to supply melodic color and emotional depth. M2 is an important color-bearing swara and is often sustained with controlled emphasis, giving the raga its distinct prati-madhyama sheen; it should not be over-slid in a way that blurs its pitch. P and S function as stable nyasa points. In descent, smooth jaru-like connections such as N2-D1-P and M2-G3-R1 are natural and help preserve continuity, while ascent is generally clearer and more linear: S R1 G3 M2 P D1 N2 >S. Because the scale is symmetrical and uncommon, gamakas should clarify rather than obscure the swara-sthana-s: moderate kampita on R1, G3, N2, and occasionally D1; steady treatment of S and P; and controlled sustain on M2 are especially effective. No special bhashanga handling is involved, and over-ornamentation is best avoided.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Paga Seya Thaguna",
+      "composer": "Walajapet Venkataramana Bhagavathar",
+      "language": ""
+    },
+    {
+      "name": "En maname",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Narmada kaveri",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Mahadeva pahimam",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Namanarayana ananyarha",
+      "composer": "Sriman N.Ch.Krishnamacharyulu",
+      "language": ""
+    }
+  ],
+  "notable_features": "Called Namadeshi in the Muthuswami Dikshitar school. It is the 2nd raga in the 9th chakra Brahma. Mnemonic name: Brahma-Sri. Mnemonic phrase: sa ra gu mi pa dha ni. It has a few minor janya ragas. Graha bhedam on this raga does not yield any other melakarta raga. It is the prati madhyamam counterpart of Vakulabharanam (melakarta 14). It is a relatively rare melakarta in practical concert usage despite its complete sampurna structure."
+}

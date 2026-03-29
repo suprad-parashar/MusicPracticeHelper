@@ -1,0 +1,112 @@
+{
+  "raga_name": "Mohanakalyani",
+  "other_names": [
+    "Mohanakalyani rāgam",
+    "Mohanakalyani ragam"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 65,
+  "inventor": "Swati Tirunal Maharaja",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "P",
+    "D2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M2",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta",
+    "Shringara"
+  ],
+  "mood": "Mohanakalyani has a bright, graceful, and uplifting mood that blends the sweetness of Mohanam with the expansive, luminous color of Kalyani. The ascent feels open and buoyant, creating a sense of freshness, optimism, and gentle joy, while the descent adds a more expansive, devotional radiance. It can evoke serene happiness, light romantic charm, and a contemplative, prayerful atmosphere, making it suitable for pieces that feel elegant, soothing, and spiritually elevated.",
+  "description": "Mohanakalyani is a janya rāgam derived from the 65th melakarta, Mechakalyani. It is an asymmetric audava-sampurna scale: the ascent is pentatonic and omits madhyamam and nishādham, while the descent is sampurna with prati madhyamam and kakali nishādham. The rāgam is described as a combination of the pentatonic Mohanam and the melakarta scale Kalyani. It is also considered the prati madhyamam equivalent of Bilahari, which is a janya of the 29th melakarta Dheerashankarabharanam. The raga is believed to have been invented by Swati Tirunal Maharaja. In Hindustani music, its equivalent is Bhoop Kalyan or Shuddha Kalyan, associated with the Kalyan thaat and similarly combining Bhoop and Kalyan elements. The scale used is S R2 G3 P D2 S / S N3 D2 P M2 G3 R2 S. The raga is popular for compositions and has a clear linkage to Mohanam in the ascent and Kalyani in the descent.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The source text does not explicitly describe gamakas, but the raga’s structure implies a clean, graceful treatment of the ascent with S, R2, G3, P, and D2 often rendered in a relatively direct, flowing manner, since the arohana is pentatonic and omits madhyamam and nishadam. In the descent, M2 and N3 should be handled with more expressive oscillation and glide, especially around G3–M2 and N3–D2, to bring out the Kalyani flavor. R2 and G3 are likely to be gently gamaka-laden rather than starkly flat, while P is typically stable. The raga’s identity depends on preserving the Mohanam-like ascent and the Kalyani-like descent, so over-emphasizing madhyamam in ascent or flattening the descent too much would weaken its character.",
+  "hindustani_equivalent": "Bhoop Kalyan or Shuddha Kalyan",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Sangeetha Samrajya Sancharini",
+      "composer": "Bengaluru Ramamurthy Rao",
+      "language": ""
+    },
+    {
+      "name": "Seve Srikantham",
+      "composer": "Swati Tirunal Maharaja",
+      "language": ""
+    },
+    {
+      "name": "Siddhi Vinayakam Seveham",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Bhuvaneshwariya",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Sri Dharma Shastharam",
+      "composer": "Thulaseevanam R. Ramachandran Nair",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Lalgudi Jayaraman",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Aadinaye Kanna",
+      "composer": "Ambujam Krishna",
+      "language": ""
+    },
+    {
+      "name": "En Thai Nee Irukka",
+      "composer": "Ambujam Krishna",
+      "language": ""
+    },
+    {
+      "name": "Thamadham Thaggadhaiyya",
+      "composer": "Lalgudi Gopala Iyer",
+      "language": ""
+    },
+    {
+      "name": "Hariya Bhajane Mado",
+      "composer": "Vadiraja Tirtha",
+      "language": ""
+    },
+    {
+      "name": "Baro Murari",
+      "composer": "Vadiraja Tirtha",
+      "language": ""
+    }
+  ],
+  "notable_features": "Mohanakalyani is a combination of Mohanam and Kalyani. It is an audava-sampurna janya of Mechakalyani (65th melakarta). It is the prati madhyamam equivalent of Bilahari, whose parent is the 29th melakarta Dheerashankarabharanam. The raga’s ascent matches Mohanam exactly, while the descent introduces M2 and N3, giving it a Kalyani-like brightness. The text explicitly notes the scale similarity with Mohanam and Bilahari. Believed to have been invented by Swati Tirunal Maharaja.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohanakalyani"
+}

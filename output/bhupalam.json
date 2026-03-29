@@ -1,0 +1,97 @@
+{
+  "raga_name": "Bhupalam",
+  "other_names": [
+    "Bhoopalam"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 45,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R1",
+    "G2",
+    "P",
+    "D1",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "D1",
+    "P",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Bhupalam has an auspicious, serene, and devotional character. It is commonly associated with the calm freshness of morning and evokes a sense of purity, prayerfulness, and gentle uplift. The raga can feel simple yet dignified, suitable for chanting, ritual contexts, and folk-like expressions, creating an atmosphere of peace, reverence, and quiet optimism.",
+  "description": "Bhupalam (pronounced bhūpalam) is a pentatonic janya rāgam in Carnatic music, also written as Bhoopalam. It is an audava rāgam with a symmetric scale that omits madhyamam and nishādham in both ascent and descent. The scale is considered auspicious and is traditionally rendered as a morning rāgam. In Tamil music it is called Puranirmai pann, and some thevarams are set to this scale. It is also used for chanting slokas, folk songs, Kathakali music, and other rituals. The raga is considered a janya of Shubhapantuvarali, the 45th melakarta, though the text notes it can also be derived from five other melakartas by dropping both madhyamam and nishādham. Its Hindustani equivalent is Bhupal Todi. Related theoretical notes include graha bhedam yielding Gambhiranata and Hamsanadam, and scale-similarity comparisons with Revagupti, Bhauli, and Karnataka Shuddha Saveri.",
+  "time_of_day": "morning",
+  "gamaka_usage": "Bhupalam is generally rendered with a clean, restrained gamaka profile because of its pentatonic structure and devotional, open character. R1 and D1 are typically approached with gentle oscillation or short slides rather than heavy kampita, while G2 is the most characteristic note and is often given a measured kampita or jaru-based touch to establish the raga's identity. P is usually held steady as an anchor. The absence of M and N contributes to the raga's uncluttered, spacious feel, so excessive ornamentation is avoided. Compared with similar ragas, the treatment of G2 is especially important: Bhupalam uses sadharana gandharam, unlike Revagupti's brighter G3, so the gandharam should retain its softer Carnatic shading.",
+  "hindustani_equivalent": "Bhupal Todi",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Sadhu Vibhatam (Padavarnam)",
+      "composer": "Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Nijadasanam Prathi",
+      "composer": "Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Annai Janaki",
+      "composer": "Arunachala Kavi",
+      "language": ""
+    },
+    {
+      "name": "Sadachaleshwaram",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Deena Janavana",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Gopalaka Pahimam",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Kshanameva Ganya Manye",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Kadamba Vana Vasini",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Mannum Imaya Malai",
+      "composer": "Bharathiyar",
+      "language": ""
+    }
+  ],
+  "notable_features": "Bhupalam is an auspicious audava-audava raga with no madhyamam or nishādham. It is used for slokas, folk songs, Kathakali, and ritual contexts, and is identified in Tamil tradition as Puranirmai pann. Graha bhedam on Bhupalam yields Gambhiranata and Hamsanadam. The raga is said to be derivable from Shubhapantuvarali (45th melakarta), though the text also notes derivation from five other melakartas by omitting M and N. Scale-similarity notes: Revagupti differs only by G3 instead of G2; Bhauli adds N3 in descent; Karnataka Shuddha Saveri replaces G2 with M1. The text also mentions that Samajendra by Swati Tirunal is actually in Bowli, which was historically called Bhupalam in the Travancore region.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bhupalam"
+}

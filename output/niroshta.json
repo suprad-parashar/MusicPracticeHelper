@@ -1,0 +1,73 @@
+{
+  "raga_name": "Niroshta",
+  "other_names": [
+    "Niroṣṭa"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 29,
+  "inventor": "Muthiah Bhagavatar",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "D2",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Niroshta has a pleasing, gentle, and aesthetically satisfying mood. Because it omits madhyamam and panchamam entirely, the raga feels airy, open, and uncluttered, with a clean pentatonic brightness that sounds serene and uplifting. The sound is calm and attractive rather than intense, and it can evoke simplicity, purity, quiet delight, and a contemplative devotional atmosphere.",
+  "description": "Niroshta is a derived Carnatic rāgam, classified as a symmetric pentatonic audava-audava scale. Its defining feature is the complete omission of madhyamam and panchamam, which is reflected in its name: 'without the lips,' referring to the inability to pronounce Ma and Pa without the lips touching. It is considered a janya rāgam of Shankarabharanam (29th melakarta), though it can also be derived from Kalyani by dropping both madhyamam and panchamam. The scale uses shadjam, chathusruthi rishabham, antara gandharam, chathusruthi dhaivatham, and kakali nishadham. The raga is described as very pleasing. Muthiah Bhagavatar is credited with creating this scale, inspired by the story of the King of Mysore who had a bee sting on his lip and could not sing the Ma and Pa syllables. The raga is related by scale similarity to Adbhut Kalyan in Hindustani music, and also shares note-sets conceptually with Mohanam and Hamsadhvani, though with different substitutions of panchamam, dhaivatam, and nishadam.",
+  "time_of_day": "",
+  "gamaka_usage": "The source text does not specify detailed gamaka rules, but given the pentatonic, non-vivadi structure, the raga is likely rendered with smooth, light ornamentation rather than heavy oscillation. R2 and G3 can be approached with gentle slides or small kampita, while D2 and N3 may be touched with subtle oscillation or jaru in phrases. S is stable and anchoring. Since Ma and Pa are absent, they are not used at all, and the raga’s identity depends on clean phrase movement between R2–G3 and D2–N3 without introducing extra notes. The overall treatment should preserve its open, simple, and pleasing character.",
+  "hindustani_equivalent": "Adbhut Kalyan",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Raja Raja Radhite",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "tanana dhirana",
+      "composer": "Madurai T. N. Seshagopalan",
+      "language": ""
+    },
+    {
+      "name": "Kanin Maniye",
+      "composer": "Tanjavur S. Kalyanaraman",
+      "language": ""
+    },
+    {
+      "name": "giri-putrika gaura-varni",
+      "composer": "Bangalore S Mukund",
+      "language": ""
+    },
+    {
+      "name": "jayati jayati jayashankara",
+      "composer": "Ashok R Madhav",
+      "language": ""
+    }
+  ],
+  "notable_features": "A symmetric audava-audava scale with no madhyamam or panchamam. The name 'Niroshta' explains the absence of Ma and Pa. It is credited to Muthiah Bhagavatar. It is a janya of Shankarabharanam (29th melakarta), and can also be derived from Kalyani by omitting M and P. Scale similarity is noted with Adbhut Kalyan, Mohanam, and Hamsadhvani. The text explicitly says Shankarabharanam is the major scale of Western music.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Niroshta"
+}

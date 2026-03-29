@@ -1,0 +1,111 @@
+{
+  "raga_name": "Kalyana Vasantham",
+  "other_names": [
+    "Kalyanavasantam",
+    "kalyanavasantham",
+    "Varamu"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 21,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G2",
+    "M1",
+    "D1",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D1",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Kalyana Vasantham has a bright, serene, and gently uplifting character. Its pentatonic ascent gives it a clean, open, and graceful feel, while the fuller descent adds a sense of completion and repose. The raga often evokes calm devotion, tender optimism, and a soft festive glow rather than intense pathos or drama. Because it combines the flavor of Chandrakauns with the structure of Keeravani, it can feel both meditative and emotionally rounded, suitable for reflective, devotional, and aesthetically pleasing moods.",
+  "description": "Kalyana Vasantham (also written as kalyanavasantham) is a janya rāgam derived from the 21st melakarta, Keeravani. It is an asymmetric audava-sampurna rāgam: the आरोhaṇa is pentatonic and omits rishabham and panchamam, while the avarohaṇa is sampurna in effect with panchamam and chatushruti rishabham appearing in descent. The scale is described as a combination of the Hindustani pentatonic Chandrakauns and the sampurna Keeravani scale. Its structure is S G2 M1 D1 N3 S / S N3 D1 P M1 G2 R2 S. The raga is noted for its scale similarity to Chandrakauns in ascent. The provided text lists several compositions in this raga, including tanavarnams and kritis by major composers. No explicit time-of-day, inventor, or chakra is given in the source.",
+  "time_of_day": "",
+  "gamaka_usage": "The source does not give detailed gamaka rules, but the scale implies a smooth, phrase-based treatment. G2, M1, D1, and N3 are the core melodic notes in ascent and are typically rendered with gentle oscillation and slides rather than hard attacks, while R2 and P appear in descent and should be handled carefully to preserve the raga’s Keeravani-derived color. Because the ascent omits R and P, phrases should avoid forcing those notes upward; instead, use flowing jaru-like movement through G2–M1–D1–N3. The descent can accommodate fuller kampita on G2 and R2, with P acting as a stabilizing bridge. Compared with similar pentatonic ragas, the raga’s identity depends on preserving the bright, clean ascent and the more complete descent.",
+  "hindustani_equivalent": "Chandrakauns (ascending similarity)",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Annalin Aanai",
+      "composer": "A. S. Panchapakesa Iyer",
+      "language": ""
+    },
+    {
+      "name": "Vinayaka",
+      "composer": "T. M. Thyagarajan",
+      "language": ""
+    },
+    {
+      "name": "Nadaloludai",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Kanulu Takani",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Saagarasuthaam Aaradhyaye",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Innudaya Baarade",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Sri Ranganatha Pahimam",
+      "composer": "Jayachamaraja Wodeyar",
+      "language": ""
+    },
+    {
+      "name": "Gaanamalinchi",
+      "composer": "M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Vaanin Mazhai Neeye",
+      "composer": "Bharathidasan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Deva Jagannatha",
+      "composer": "Gopalakrishna Bharathi",
+      "language": ""
+    },
+    {
+      "name": "Parashakthiye",
+      "composer": "Tara Natarajan",
+      "language": ""
+    },
+    {
+      "name": "Unnai Paadaadha",
+      "composer": "HH Maharanyam Sri Sri Muralidhara Swamiji",
+      "language": ""
+    }
+  ],
+  "notable_features": "Janya of Keeravani (21st melakarta). Audava-sampurna structure: ascent omits R and P, descent includes P and R2. The raga is said to combine the pentatonic Chandrakauns with Keeravani. Scale similarity noted with Chandrakauns: S G2 M1 D1 N3 S / S N3 D1 M1 G2 S. The source lists it as having several tanavarnams and kritis, but no additional theoretical details such as graha bhedam or prati madhyama equivalent are provided. Also referred to as Varamu in some sources."
+}

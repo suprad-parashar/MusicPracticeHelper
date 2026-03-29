@@ -1,0 +1,98 @@
+{
+  "raga_name": "Gourimanohari",
+  "other_names": [
+    "Gaurimanohari",
+    "Gourivelāvaḻi"
+  ],
+  "melakarta_number": 23,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Veda",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M1",
+    "P",
+    "D2",
+    "N3",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N3",
+    "D2",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna"
+  ],
+  "mood": "Gourimanohari has a calm, graceful, and emotionally balanced character. Its shuddha madhyamam and smooth sampurna scale give it a composed, dignified feel that can sound devotional and serene, yet also capable of gentle pathos and reflective tenderness. It often evokes a poised, inward-looking mood rather than intense drama, making it suitable for contemplative listening, prayerful settings, and lyrical expression with a soft, flowing emotional contour.",
+  "description": "Gourimanohari or Gaurimanohari is the 23rd melakarta rāgam in the 72-melakarta system. In the Muthuswami Dikshitar school, the corresponding 23rd melakarta is called Gourivelāvaḻi. It is the 5th rāgam in the 4th chakra, Veda, with mnemonic name Veda-Ma and mnemonic phrase sa ri gi ma pa dhi nu. Its scale is S R2 G2 M1 P D2 N3 S / S N3 D2 P M1 G2 R2 S. The notes are shadjam, chatushruti rishabham, sadharana gandharam, shuddha madhyamam, panchamam, chatushruti daivatam, and kakali nishadham. It is a sampurna rāgam and the shuddha madhyamam equivalent of Dharmavati (59th melakarta). The Western equivalent given is the melodic minor scale, and the Hindustani equivalent is Raag Patdeep. The raga has a few minor janya ragams associated with it. Graha bhedam on Gourimanohari yields three other major melakarta ragams: Vachaspati, Natakapriya, and Charukesi.",
+  "time_of_day": "",
+  "gamaka_usage": "The source text does not specify gamaka treatment directly, but as a melakarta with R2, G2, D2, and N3, the raga is typically rendered with smooth, well-controlled oscillations and slides rather than heavy kampita on every note. R2 and G2 are usually given gentle gamaka or jaru-based connection, M1 and P are generally held steady as structural anchors, and D2 and N3 are often approached with delicate oscillation or glide to preserve the raga’s soft, reflective color. The scale should sound fluid and balanced, avoiding harsh emphasis that would disturb its calm, melodic character.",
+  "hindustani_equivalent": "Raag Patdeep",
+  "western_equivalent": "melodic minor scale",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Guruleka Etuvanti",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kaumari Gowrivelavali",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Parashakthi Ishvari",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Varalakshmi Namostute",
+      "composer": "Mysore Vasudevacharya",
+      "language": ""
+    },
+    {
+      "name": "Sarasa Sama Mridu Pada",
+      "composer": "Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Brova Samayamide Ramayya",
+      "composer": "Karur Devudu Iyer",
+      "language": ""
+    },
+    {
+      "name": "Gangadhara Shiva",
+      "composer": "Sri Ganapathy Sachchidananda Swamiji",
+      "language": ""
+    },
+    {
+      "name": "Gauri Manohara",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Pazhamo Pazhamo",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta #23; 5th rāgam in the 4th chakra Veda; mnemonic name Veda-Ma; mnemonic phrase sa ri gi ma pa dhi nu. It is the shuddha madhyamam equivalent of Dharmavati (59th melakarta). Graha bhedam yields Vachaspati, Natakapriya, and Charukesi. The Muthuswami Dikshitar school uses the alternate name Gourivelāvaḻi for the same melakarta position. The text also notes a modern musical tribute, 'Shades of Blue: A Musical Tribute to Venmurasu,' as being considered a definition/exploration of the raga’s expressive range.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gourimanohari"
+}

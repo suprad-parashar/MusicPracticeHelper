@@ -1,0 +1,58 @@
+{
+  "raga_name": "Svadhya",
+  "other_names": [
+    "Svādhya"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 2,
+  "inventor": "Raleigh Rajan",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R1",
+    "M1",
+    "P",
+    "N2",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N2",
+    "D1",
+    "P",
+    "M1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "audava-shadava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Karuna",
+    "Shanta"
+  ],
+  "mood": "Svadhya evokes an inward, self-questioning emotional space: quiet sorrow, contemplation, and philosophical introspection. Its sound is reflective rather than dramatic, drawing the listener into a meditative stillness with a subtle ache. The presence of the distinctive dhaivatham in the descent gives the raga a more complex, slightly unsettled colour, so the mood feels like deep self-study, emotional honesty, and gentle pathos rather than overt lament.",
+  "description": "Svadhya is a janya rāgam derived from Ratnangi, the 2nd melakarta rāgam. It is classified as an audava-shadava rāgam, with five notes in the ascent and six in the descent. The scale uses shuddha rishabham, shuddha madhyamam, panchamam, shuddha dhaivatham, and kaisiki nishadham. The raga is associated with self-reflection and Karuṇa rasa. It was created by composer Raleigh Rajan in 2017. The source notes that Svadhya has a scale similarity with Revati in the arohana, but differs in the avarohaṇa, especially because of the presence of shuddha dhaivatham, which gives it a distinct and complex colour. The raga is presented as a modern Carnatic creation with a contemplative, philosophical character, and the available compositions in the raga include 'Maya- The Reflection of Self' and 'Ashtavakra Gita- Self Realization Musical', both by Raleigh Rajan.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "Explicit gamaka rules are not given in the source, but the raga’s structure suggests restrained ornamentation. R1 and M1 may be given gentle kampita or light oscillation, while P is best kept comparatively steady to preserve the austere contour. N2 and especially D1 in the descent should be articulated clearly, since D1 is the note that distinguishes the raga’s avarohaṇa from a Revati-like shape. Smooth jaru between M1–P–D1 and D1–P can help bring out the raga’s reflective colour, but heavy brigha would likely weaken its introspective mood. Overall, the gamaka treatment should remain delicate, controlled, and phrase-oriented rather than heavily ornamented.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Maya- The Reflection of Self",
+      "composer": "Raleigh Rajan",
+      "language": ""
+    },
+    {
+      "name": "Ashtavakra Gita- Self Realization Musical",
+      "composer": "Raleigh Rajan",
+      "language": ""
+    }
+  ],
+  "notable_features": "Janya of Ratnangi (melakarta 2). Audava-shadava structure. The source explicitly notes that the presence of shuddha dhaivatham in the avarohaṇa makes the raga more complex and gives it a different colour compared with Revati, which has a similar arohana. Created by Raleigh Rajan in 2017. The raga is associated with self-reflection and Karuna rasa.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Svadhya"
+}

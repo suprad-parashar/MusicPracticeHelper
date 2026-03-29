@@ -1,0 +1,78 @@
+{
+  "raga_name": "Ganamurti",
+  "other_names": [
+    "Gānamūrti",
+    "Gānasāmavarāḷi",
+    "Ganamoorti"
+  ],
+  "melakarta_number": 3,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Indu",
+  "arohana": [
+    "S",
+    "R1",
+    "G1",
+    "M1",
+    "P",
+    "D1",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D1",
+    "P",
+    "M1",
+    "G1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Shanta"
+  ],
+  "mood": "Ganamurti has a serene, devotional, and dignified mood, with an austere classical beauty that feels calm and spiritually uplifting. Its plain, tightly defined melakarta structure gives it a composed, stable character rather than one of intense drama, so it often evokes reverence, inner stillness, and a sense of musical purity. The raga suits contemplative listening and devotional expression, especially in settings where clarity and solemn grace are desired.",
+  "description": "Ganamurti (meaning 'the idol of music') is the 3rd melakarta rāgam in the 72-melakarta system. It belongs to the 1st chakra, Indu, with mnemonic name Indu-Go and mnemonic phrase 'sa ra ga ma pa dha nu'. Its swaras are shuddha rishabham, shuddha gandharam, shuddha madhyamam, shuddha dhaivatham, and kakali nishadham. As a melakarta, it is a sampoorna rāgam with all seven notes in both ascent and descent. It is the shuddha madhyamam equivalent of Jhalavarali, the 39th melakarta. In the Muthuswami Dikshitar school it is called Gānasāmavarāḷi. In the original Venkatamakhin asampurna melakarta scheme, Gānasāmavarāḷi is also the 3rd melakarta, but its ascent is shadava-sampurna: S R1 M1 P D1 N3 S / S N3 D1 P M1 G1 R1 S. The raga has minor janya ragas associated with it. The text also notes that shifting its notes by graha bhedam yields two other melakarta ragas: Vishwambari and Shamalangi.",
+  "time_of_day": "",
+  "gamaka_usage": "The provided text does not give explicit gamaka rules for Ganamurti. From its melakarta structure and note set, it is generally treated with clear, restrained intonation rather than heavy oscillation. R1, G1, D1, and N3 are typically rendered with careful kampita or light oscillatory treatment as needed for phrase identity, while M1 and P are usually held steady. Because the scale is compact and symmetrical, smooth jaru between adjacent swaras and clean landing on S and >S are important. Compared with more gamaka-rich ragas, Ganamurti is usually approached with precision and clarity so that its distinctive shuddha swaras remain well defined.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Gānamoorthe Sri Krishna",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Pāhi Jagadİswarā",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Telugu"
+    },
+    {
+      "name": "Brihadiswara Rakshatumam",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Palaya Govinda",
+      "composer": "Sri Ganapathi Sachchidananda Swamiji",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Maamathura",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    }
+  ],
+  "notable_features": "Melakarta #3; first chakra Indu; mnemonic name Indu-Go; mnemonic phrase sa ra ga ma pa dha nu. Shuddha madhyamam equivalent of Jhalavarali (#39). In the asampurna system, Gānasāmavarāḷi is shadava-sampurna with arohana S R1 M1 P D1 N3 S. Graha bhedam from Ganamurti yields Vishwambari and Shamalangi. The Muthuswami Dikshitar school name is Gānasāmavarāḷi.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ganamurti"
+}

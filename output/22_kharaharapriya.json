@@ -1,0 +1,292 @@
+{
+  "raga_name": "Kharaharapriya",
+  "other_names": [
+    "Harapriya"
+  ],
+  "melakarta_number": 22,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "Govindacharya standardized the present melakarta form; the name may originally have been Harapriya and was later adjusted to fit the Katapayadi formula.",
+  "chakra": "Veda",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M1",
+    "P",
+    "D2",
+    "N2",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Karuna",
+    "Bhakti",
+    "Shanta"
+  ],
+  "mood": "Kharaharapriya has a deeply plaintive, tender, and expansive emotional character. It evokes pathos, compassion, and a gentle inward-looking sadness rather than harsh grief. The raga often feels fluid and unhurried, creating a reflective atmosphere suited to devotion, longing, and emotional depth. Listeners may experience a sense of calm melancholy, warmth, and spaciousness, with imagery of quiet evening introspection or a serene devotional setting.",
+  "description": "Kharaharapriya is the 22nd melakarta rāga in the 72-melakarta system and the 4th rāga in the 4th chakra, Veda, with mnemonic name Veda-Bhu and mnemonic phrase sa ri gi ma pa dhi ni. It is a sampoorna rāgam with the scale S R2 G2 M1 P D2 N2 S / S N2 D2 P M1 G2 R2 S. The notes are chatushruti rishabham, sadharana gandharam, shuddha madhyamam, chatushruti dhaivatam, and kaisiki nishadam. It is the shuddha madhyamam equivalent of Hemavati, the 58th melakarta, and its prati madhyamam equivalent is Hemavati. The raga is known for its even spacing, versatility, and flexibility, allowing elaborate melodic improvisation and long ālāpanās. It is strongly associated with Karuna rasa and is typically rendered in slow, medium, or medium-fast tempo to bring out bhava. The name may have originally been Harapriya, with etymologies linking it to Shiva (Hara) or to Rama as the slayer of Khara. Saint Tyagaraja is credited with reviving and popularizing this ancient raga through many compositions. It has many janya ragas, including Abheri, Abhogi, Andolika, Brindavana Saranga, Kāpi, Madhyamavati, Mukhari, Reetigowla, Shree, Dhanashree, Udayaravichandrika, and Sriranjani. In graha bhedam, its notes yield five other major melakarta ragas: Kalyani, Hanumatodi, Natabhairavi, Shankarabharanam, and Harikambhoji.",
+  "time_of_day": "evening",
+  "gamaka_usage": "The raga permits several kinds of gamakas and is treated with a fluid, flexible approach. R2 and M1 can be held relatively steady without heavy oscillation, while G2, D2, and N2 are typically given gentle to moderate kampita and slide-based treatment to preserve the raga’s emotive depth. Jaru phrases and smooth transitions are important, especially in phrases moving through G2–M1, M1–P, and P–D2–N2. The raga’s even spacing allows gamakas to be used liberally, but they should remain graceful rather than forceful. Compared with more bhashanga or vakra ragas, Kharaharapriya’s gamaka treatment is more open and expansive, supporting long, flowing phrases and elaborate ālāpanā.",
+  "hindustani_equivalent": "Kafi thaat",
+  "western_equivalent": "Dorian mode",
+  "popular_janya_ragas": [
+    "Abheri",
+    "Abhogi",
+    "Andolika",
+    "Bhimplaas",
+    "Brindavana Saranga",
+    "Kāpi",
+    "Madhyamavati",
+    "Megh",
+    "Mukhari",
+    "Reetigowla",
+    "Shree",
+    "Dhanashree",
+    "Udayaravichandrika",
+    "Sriranjani"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Chakkani Rājamārgamu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Pakkala Nilabaḍi",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Mitri Bhāgyame",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rāmā nī Samānamevaru",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Naḍaci Naḍaci",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Peridi Ninnu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Chetulāra Shrungāramu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kori Sevimpa Rāre",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Pāhi Rāma Rāma Yanuchu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vidamu Seyave",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rāma Nīyada",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Satatam Thaavaka Pada Sevanam",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Chandamamanu",
+      "composer": "Kaiwara Narayana Thata",
+      "language": ""
+    },
+    {
+      "name": "Sundara Natarajam",
+      "composer": "Oothukadu Venkata Kavi",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Moovasai Konda Thirumal",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Senthil Andavan",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Srinivasa Tava Charanam",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Saraswathi Annaiye",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Janaki pathe",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Appan Avatharitha Kathamritham",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Ganapathiye Karunanidhiye",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Navasiddhi Petralum",
+      "composer": "Neelakanta Sivan",
+      "language": ""
+    },
+    {
+      "name": "Vidhi Illarku",
+      "composer": "Anai Ayya",
+      "language": ""
+    },
+    {
+      "name": "Sankalpam Ettido",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Kann Paaraiyya",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Gana Sudha Rasa",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Mayavidhai",
+      "composer": "Muthu Thandavar",
+      "language": ""
+    },
+    {
+      "name": "Karunajalarase Rama",
+      "composer": "K. C. Kesava Pillai",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Hariyennu Hariyennu",
+      "composer": "Purandara Dasaru",
+      "language": ""
+    },
+    {
+      "name": "Polithi Javvanamu",
+      "composer": "Purandara Dasaru",
+      "language": ""
+    },
+    {
+      "name": "Bharathi Deviya Nene",
+      "composer": "Purandara Dasaru",
+      "language": ""
+    },
+    {
+      "name": "Okkaparikokkapari",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nityapujalivigo",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sri Rama Nee Namam Emi Ruchira",
+      "composer": "Bhadrachala Ramadasu",
+      "language": ""
+    },
+    {
+      "name": "Nama Rasa Manave",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Meyyporul Kandu",
+      "composer": "Kudambai Siddhar",
+      "language": ""
+    },
+    {
+      "name": "Vevela Velpulalo",
+      "composer": "Nallan Chakravarthy Murthy",
+      "language": ""
+    },
+    {
+      "name": "Thyagarajaswami Guru Nee",
+      "composer": "Tiruvottriyur Tyagayyar",
+      "language": ""
+    },
+    {
+      "name": "Sami Nenarunchi",
+      "composer": "Mudicondan Venkatarama Iyer",
+      "language": ""
+    },
+    {
+      "name": "Ninnu Nera Nammithi",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Rama Eevela",
+      "composer": "Thenmadam Narasimhacharulu",
+      "language": ""
+    },
+    {
+      "name": "Mohamaginen",
+      "composer": "K. N. Dhandayudapani Pillai",
+      "language": ""
+    },
+    {
+      "name": "Shringhara Chathurane",
+      "composer": "Dwaraki Krishnaswamy",
+      "language": ""
+    },
+    {
+      "name": "Vasanidam Poi Solladi",
+      "composer": "Unknown Composer",
+      "language": ""
+    },
+    {
+      "name": "Jathiswaram",
+      "composer": "Veene Sheshanna",
+      "language": ""
+    }
+  ],
+  "notable_features": "It is the 4th rāga in the 4th chakra (Veda), with mnemonic phrase sa ri gi ma pa dhi ni. It is the shuddha madhyamam equivalent of Hemavati and the prati madhyamam equivalent relationship is explicitly noted. The raga is highly versatile because of its even swara spacing and broad gamaka freedom. It is one of the melakarta scales with a very large number of janya ragas. Graha bhedam on Kharaharapriya yields Kalyani, Hanumatodi, Natabhairavi, Shankarabharanam, and Harikambhoji. The text also notes that Tyagaraja revived this ancient raga in the 18th century. A film-song example cited is 'Arādhisuve madanāri' from Babhruvahana (1977), and M.S. Viswanathan used the raga in songs such as 'Maharajan Ullagai' and 'Maadhavi Ponmayilal'.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kharaharapriya"
+}

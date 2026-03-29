@@ -1,0 +1,54 @@
+{
+  "raga_name": "Thyagaraja Mangalam",
+  "other_names": [
+    "Tyagaraja Mangalam"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 23,
+  "inventor": "Mahesh Mahadev",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G2",
+    "M1",
+    "P",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Shanta"
+  ],
+  "mood": "This raga has a devotional, serene, and uplifting character. The pentatonic ascent gives it a clean, open, and prayerful feel, while the fuller descent adds a gentle sense of completion and repose. It can evoke reverence, calm gratitude, and a dignified celebratory mood, making it suitable for devotional or mangalam-like settings.",
+  "description": "Thyagaraja Mangalam is a modern Carnatic rāgam created by composer Mahesh Mahadev and named in honour of the Carnatic vocalist and musicologist T. M. Thyagarajan, with the title also reflecting a mangalam-like devotional intent. It is a janya raga of the 23rd melakarta, Gowri Manohari, in the 72-melakarta system. The rāgam is asymmetric and omits rishabham and dhaivatam in the ascending scale, giving it an audava-sampurna structure: S G2 M1 P N3 S in ascent and S N3 D2 P M1 G2 R2 S in descent. The source material notes that its Western equivalent is a jazz minor scale variant with the second and sixth notes omitted in ascent, and that there is no Hindustani equivalent. The only composition explicitly mentioned in this rāgam is the viruttam 'Dhyana Moolam'.",
+  "time_of_day": "",
+  "gamaka_usage": "The source does not give explicit gamaka rules, but the scale suggests a clean, phrase-based treatment. G2 and N3 are likely to be handled with gentle kampita or light oscillation to preserve the raga's devotional color, while M1 and P are typically steadier anchor notes. In descent, R2 and D2 are introduced only in the avarohaṇa and would naturally be touched with smooth jaru-like movement rather than heavy stress. Because the ascent omits R and D entirely, those notes should be avoided in upward phrases; the raga’s identity depends on maintaining the pentatonic ascent clearly and the fuller descent distinctly.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "Jazz minor scale with the second and sixth notes omitted in the ascending form",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Dhyana Moolam",
+      "composer": "",
+      "language": ""
+    }
+  ],
+  "notable_features": "Asymmetric audava-sampurna janya of Gowri Manohari (23rd melakarta). Ascending scale omits R and D; descending scale includes R2 and D2. The raga is a modern creation by Mahesh Mahadev and is named after T. M. Thyagarajan. The source explicitly says there is no equivalent rāgam in Hindustani music. Western comparison is given as a jazz minor scale variant. The composition listed is a viruttam rather than a kriti.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thyagaraja_Mangalam"
+}

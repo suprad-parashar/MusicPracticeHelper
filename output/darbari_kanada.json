@@ -1,0 +1,119 @@
+{
+  "raga_name": "Darbari Kanada",
+  "other_names": [
+    "Raga Darbari",
+    "Durbari",
+    "Durbarikanada",
+    "Shuddha Kanada",
+    "Raaga Kaanada"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 20,
+  "inventor": "Miyan Tansen",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "S",
+    "M1",
+    "P",
+    "D1",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "D1",
+    "N2",
+    "P",
+    "M1",
+    "P",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "ubhaya vakra sampurna",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Karuna",
+    "Shringara",
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Darbari Kanada is a grave, deeply expressive raga with a slow-burning emotional pull. It evokes sadness, longing, and a touch of romance, yet its dignity and breadth also create a majestic, contemplative atmosphere. The listener may feel as if they are in a royal court at night, surrounded by solemnity, emotional depth, and restrained beauty. Its lower-octave emphasis gives it a dark, weighty, introspective character rather than a bright or playful one.",
+  "description": "Darbari Kanada, also called Raga Darbari, is a janya ragam derived from the 20th melakarta Natabhairavi and belongs to the Kanada family. The text notes that it was believed to have been borrowed into Hindustani classical music by Miyan Tansen and that Mughal emperor Akbar was fond of it, which is reflected in the name Darbari, meaning 'court.' In Carnatic music it is described as an extremely melodious and emotionally powerful ubhaya vakra sampurna rāgam. Its scale uses chatusruti rishabham, sadharana gandharam, shuddha madhyamam, shuddha dhaivatham, and kaisiki nishadham. The raga is associated with sadness, longing, and romance, and is considered capable of producing extreme emotional impact. It is also known as Shuddha Kanada or pure Kanada, and is sometimes written as Durbari or Durbarikanada. The source also notes that in Hindustani music it is a grave raga performed deep into the night, with improvisation centered in the lower octave and with slow, elaborate meend and andolan preferred over light ornamentation.",
+  "time_of_day": "night",
+  "gamaka_usage": "The raga relies heavily on slow, weighty gamakas rather than quick ornamentation. In the Hindustani description, komal Ga and komal Dha are rendered with slow andolan, and the same gravity is carried into the Carnatic treatment through sustained, oscillated handling of G2 and D1. The Carnatic text implies a vakra, meandering treatment of phrases, with the characteristic return to S after G2 in ascent and the P-G2-R2-S descent. The note G2 is especially important and is typically not left plain; it is approached and released with a curved, expressive oscillation. R2 and M1 are the notes most naturally held steady, while the rest of the scale gains its identity through meend-like slides and gentle oscillations. Light murki or khatka-style ornamentation is avoided in favor of broad, grave gamaka.",
+  "hindustani_equivalent": "Darbari Kanada",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Chandra chuda shiva shankara parvati",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Govardhana Giridhara",
+      "composer": "Narayana Teertha",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Nee ninaindhal",
+      "composer": "Periyasaami Thooran",
+      "language": "Tamil"
+    },
+    {
+      "name": "Paadodhi Kanyakaam",
+      "composer": "Kalyani Varadarajan",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Devan ke pati Indra",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Hari Tum Haro",
+      "composer": "Mirabai",
+      "language": "Hindi"
+    },
+    {
+      "name": "Jaya Radha Madhava",
+      "composer": "Bhaktivinoda Thakur",
+      "language": "Bengali"
+    },
+    {
+      "name": "Rama Nama Bhajisidavage",
+      "composer": "Gopala Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Nindathi Chandanam-Ashtapadi",
+      "composer": "Jayadeva",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Prema Mudita",
+      "composer": "Sathya Sai Baba",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Thillana",
+      "composer": "Lalgudi Jayaraman",
+      "language": "unknown"
+    },
+    {
+      "name": "Thillana",
+      "composer": "S. Kalyanaraman",
+      "language": "unknown"
+    }
+  ],
+  "notable_features": "Derived from the 20th melakarta Natabhairavi. Classified as an ubhaya vakra sampurna rāgam. Strongly associated with the Kanada family and sometimes called Shuddha Kanada. In Hindustani music it is linked to the Asavari thaat, has vadi Re and samvadi Pa, and is traditionally rendered in the lower and middle octaves with deep night-time gravitas. The source emphasizes its emotional power and the importance of andolan on Ga and Dha. It is also noted as a difficult raga to master in Hindustani tradition. The text mentions that it is called raaga Kaanada in Yakshagana and that it is often written as Durbari or Durbarikanada.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Darbari_Kanada"
+}

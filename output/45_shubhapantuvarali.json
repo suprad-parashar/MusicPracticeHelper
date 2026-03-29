@@ -1,0 +1,112 @@
+{
+  "raga_name": "Shubhapantuvarali",
+  "other_names": [
+    "Subhapantuvarali",
+    "Shivapantuvarali"
+  ],
+  "melakarta_number": 45,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Vasu",
+  "arohana": [
+    "S",
+    "R1",
+    "G2",
+    "M2",
+    "P",
+    "D1",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D1",
+    "P",
+    "M2",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Karuna",
+    "Bhakti",
+    "Shanta"
+  ],
+  "mood": "Shubhapantuvarali has a deeply plaintive, intense, and emotionally charged character. It is widely associated with sorrow, yearning, and inward reflection, and can move a listener toward feelings of grief, supplication, and spiritual surrender. At the same time, its gravity can also create a meditative stillness after emotional release, making it suitable for earnest prayer, lament, and profound introspection. It often evokes the atmosphere of twilight-like inwardness or a solitary devotional appeal, where pain and devotion coexist.",
+  "description": "Shubhapantuvarali is a Carnatic raga meaning 'the auspicious moon'. It is the 45th melakarta raga in the 72 melakarta system and the 3rd raga in the 8th chakra, Vasu. Its mnemonic name is Vasu-Go and its mnemonic phrase is 'sa ra gi mi pa dha nu'. In the Muthuswami Dikshitar school it is called Shivapantuvarali. As a melakarta, it is by definition a sampurna raga, containing all seven notes in both ascent and descent. Its scale is S R1 G2 M2 P D1 N3 S / S N3 D1 P M2 G2 R1 S, employing shuddha rishabham, sadharana gandharam, prati madhyamam, panchamam, shuddha dhaivatham, and kakali nishadham. It is the prati madhyamam equivalent of Dhenuka, the 9th melakarta. In Hindustani music, its equivalent is Todi thaat. The raga is noted for its sad tonal quality and is usually used for sad songs by musicians. It also has a few minor janya ragas associated with it. Through graha bhedam, shifting its notes yields the melakarta raga Chalanata.",
+  "time_of_day": "morning (often associated with the Hindustani Todi time, though also performed at other times in Carnatic practice)",
+  "gamaka_usage": "Shubhapantuvarali depends heavily on gamaka for its identity and emotional force; plain scalar rendering weakens the raga considerably. The raga is generally treated with weighty, slow-moving ornamentation and curved phrases rather than dry note-by-note movement. R1 and G2 are especially sensitive and are usually rendered with pronounced kampita/oscillation, often approached in close relation so that the R1–G2 region carries much of the raga’s anguish and tension. D1 likewise takes a strong oscillated treatment, and N3 is often given an expressive, lingering kampita before resolving to >S or descending toward D1. M2 is a crucial color swara in this raga and should not be treated casually; it is often sustained with depth or reached through gentle jaru, helping establish the prati-madhyama brightness against the otherwise dark tonal canvas. P functions as a comparatively steady nyasa/resting point and can provide structural repose amid the intense oscillations on the other swaras. Jaru slides between N3-D1-P and M2-G2-R1 are important in evocative handling, and phrases gain power when the oscillations are broad and deliberate rather than brisk. In comparison with lighter ragas, Shubhapantuvarali requires more gravitas: the kampita on R1, G2, D1, and N3 should be substantial, while P remains relatively plain and stabilizing. The raga’s pathos emerges from sustained intonation, heavy gamaka, and careful handling of the R1-G2-M2 and D1-N3 zones.",
+  "hindustani_equivalent": "Todi (thaat)",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Ennalu Urake",
+      "composer": "Thyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ne Pogadakunte",
+      "composer": "Thyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sri Satyanarayanam",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Pasupatheeswaram",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Pahimaam Payoraasi",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Karamubatti",
+      "composer": "Nallan Chakravarthy Murthy",
+      "language": ""
+    },
+    {
+      "name": "Nee Samanamevaru",
+      "composer": "G. N. Balasubramaniam",
+      "language": "Telugu"
+    },
+    {
+      "name": "Inkevarunnaaru",
+      "composer": "G. N. Balasubramaniam",
+      "language": "Telugu"
+    },
+    {
+      "name": "Karunanu Nanu kApAdumu",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sri Lakshmi Ramana Narayana",
+      "composer": "Narayana Raju",
+      "language": ""
+    },
+    {
+      "name": "Velane Vere Gati",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Paripahimam Shri Dasarathe",
+      "composer": "Mysore Vasudevachariar",
+      "language": "Sanskrit"
+    }
+  ],
+  "notable_features": "Pronounced śubhapantuvarāḻi. Meaning given as 'the auspicious moon'. In the Muthuswami Dikshitar school, the raga is known as Shivapantuvarali. It is the 3rd raga in the 8th chakra Vasu. Mnemonic name: Vasu-Go. Mnemonic phrase: 'sa ra gi mi pa dha nu'. It is the prati madhyamam counterpart of Dhenuka (melakarta 9). Graha bhedam on this raga yields Chalanata. The raga is especially associated with sad songs. A Tamil film song explicitly mentioned as set in this raga is 'Vaigaraiyil' from the soundtrack of Payanangal Mudivathillai. The Hindustani equivalent is identified as Todi/thaat Todi, and some sources associate that family with a morning performance time."
+}

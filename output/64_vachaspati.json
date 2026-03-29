@@ -1,0 +1,173 @@
+{
+  "raga_name": "Vachaspati",
+  "other_names": [
+    "Vāchaspati",
+    "Bhushāvati",
+    "Bhushavathi",
+    "Bhooshavali"
+  ],
+  "melakarta_number": 64,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Rudra",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M2",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M2",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Shanta",
+    "Adbhuta",
+    "Shringara"
+  ],
+  "mood": "Vachaspati has a poised, bright, and dignified emotional color. Its prati madhyama gives it a luminous, expansive quality, while the kaisiki nishada softens the brilliance and lends a reflective, devotional warmth. The raga can feel contemplative yet uplifting, suitable for prayerful, meditative, and intellectually serene expression. It evokes the feeling of inward clarity, reverence, and a calm sense of wonder rather than overt drama. Descriptions of the raga also point to a gentle romantic-devotional blend and a soothing, stress-relieving quality, so it can suggest both inward meditation and tender emotional warmth.",
+  "description": "Vachaspati is a Carnatic melakarta raga meaning 'Lord of speech'. It is the 64th melakarta in the 72 melakarta system and the 4th raga in the 11th chakra, Rudra. Its mnemonic name is Rudra-Bhu and its mnemonic phrase is 'sa ri gu mi pa dhi ni'. It is a sampurna raga containing all seven swaras in both ascent and descent: S R2 G3 M2 P D2 N2 S / S N2 D2 P M2 G3 R2 S. The scale uses chathusruthi rishabham, antara gandharam, prati madhyamam, chathusruthi dhaivatham, and kaisiki nishadham. It is the prati madhyamam equivalent of Harikambhoji, the 28th melakarta. According to the Muthuswami Dikshitar school, it is known as Bhushāvati. The raga was also borrowed into Hindustani music, where it is described as a relatively recent import from Carnatic music and was adapted around the mid-20th century by musicians such as Ravi Shankar and Ali Akbar Khan. Vachaspati is said to be close to Kalyani, differing only in the nishadham. Though not said to have many compositions overall, many composers have contributed individual works in it. It has many janya ragas, of which Bhooshavali and Saraswathi are noted as popular. Through graha bhedam, Vachaspati yields three other major melakarta ragas: Charukesi, Gourimanohari, and Natakapriya. In Western music, it corresponds to the Acoustic scale.",
+  "time_of_day": "afternoon",
+  "gamaka_usage": "Vachaspati is not usually projected through excessively heavy or harsh gamaka; its identity emerges through measured, rakti-laden phraseology that balances the brightness of M2 with the softer color of N2. Shadja and panchama function as stable nyasa points. R2 and G3 are important carriers of melodic life and are commonly given kampita or gentle oscillatory treatment in phrases such as S R2 G3 and G3 R2 S. M2 is a key color note and should be intoned carefully and clearly, often approached smoothly from G3 or resolved to P; its handling must preserve the prati-madhyama sheen without making the raga sound like Kalyani. D2 can take a mild kampita or curved approach in ascent toward N2 or in descent back to P. N2 is especially crucial: it is usually rendered with a soft, delicate touch, often with slight oscillation or glide from D2, and must be clearly distinguished from N3 to avoid a Kalyani flavor. Jaru-based movement such as D2~N2~>S and >S N2 D2 P, as well as smooth linking of P M2 G3 R2, helps bring out the raga’s contemplative and devotional character. In descent, the R2 tends to retain importance as a resolving tone, and phrase-based handling is preferable to scalar plainness. Overall, gamakas in Vachaspati are graceful and controlled rather than dense, emphasizing melodic continuity, repose on S and P, and the characteristic contrast between the luminous M2 and the tender N2.",
+  "hindustani_equivalent": "Vachaspati",
+  "western_equivalent": "Acoustic scale",
+  "popular_janya_ragas": [
+    "Bhooshavali",
+    "Saraswathi"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Pahi Jaga Janani",
+      "composer": "Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Kantajoodumi",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Pariyachakama Mata",
+      "composer": "Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Abhirami Akila Buvana",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Parvathishwarena",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Bhushavathim Manju Bhashavathim",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Paraatparaa",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Sahasrakara Mandithe",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Ennaadu Ni Kripa",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Râjarâjeswari",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Shri Sachidananda Kandam",
+      "composer": "Meesu Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Ennathai Sonnalum",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Ihapara Sukha Dayaka",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Antharangamellam Ariyayo",
+      "composer": "Shuddhananda Bharati",
+      "language": ""
+    },
+    {
+      "name": "Nutintu Sadambuja",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Veru Thunai",
+      "composer": "Ramaswamy Sivan",
+      "language": ""
+    },
+    {
+      "name": "ADAda Manam ADum",
+      "composer": "Neela Ramamurthy",
+      "language": ""
+    },
+    {
+      "name": "dEvi JaganmOhini",
+      "composer": "Neela Ramamurthy",
+      "language": ""
+    },
+    {
+      "name": "shrIpatE Jaya",
+      "composer": "Thulaseevanam",
+      "language": ""
+    },
+    {
+      "name": "Pachai Nayaki Paksham Vaithu Endhan",
+      "composer": "D. Pattammal",
+      "language": ""
+    },
+    {
+      "name": "Vandana Monarinchithi",
+      "composer": "Tiger Varadachariar",
+      "language": ""
+    },
+    {
+      "name": "Velanidam Poi Solladi",
+      "composer": "T Sethuram",
+      "language": ""
+    },
+    {
+      "name": "Vachaspati",
+      "composer": "Nallan Chakravarthy Murthy",
+      "language": ""
+    }
+  ],
+  "notable_features": "Meaning: 'Lord of speech'. Pronounced Vāchaspati. It is the 4th raga in the 11th chakra Rudra. Mnemonic name: Rudra-Bhu. Mnemonic phrase: sa ri gu mi pa dhi ni. It is close to Kalyani (65th melakarta) and differs only in the nishadham. According to the Muthuswami Dikshitar school it is called Bhushāvati. It was borrowed into Hindustani music, where it is treated as a relatively recent Carnatic import adapted around the mid-20th century. Graha bhedam on Vachaspati yields Charukesi, Gourimanohari, and Natakapriya. A very famous janya raga of Vachaspati is Saraswathi, which is often used in film music."
+}

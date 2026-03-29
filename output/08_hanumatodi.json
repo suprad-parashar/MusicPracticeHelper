@@ -1,0 +1,665 @@
+{
+  "raga_name": "Hanumatodi",
+  "other_names": [
+    "Todi",
+    "Todi rāgam",
+    "Janatodi"
+  ],
+  "melakarta_number": 8,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Netra",
+  "arohana": [
+    "S",
+    "R1",
+    "G2",
+    "M1",
+    "P",
+    "D1",
+    "N2",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N2",
+    "D1",
+    "P",
+    "M1",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampoorna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna"
+  ],
+  "mood": "Hanumatodi, popularly called Todi, is a weighty, deeply expressive raga with a serious, introspective, and emotionally rich character. It is often associated with devotion and pathos, yet it also has a calm, meditative dignity that can feel profoundly soothing when rendered slowly. Because it is said to be sung largely in the lower register and is difficult to handle due to its complex prayogas and intonation, it creates an atmosphere of gravitas, yearning, and inward reflection rather than brightness or exuberance. It suits contemplative settings, devotional expression, and moments of emotional depth.",
+  "description": "Hanumatodi, more popularly known as Todi, is the 8th melakarta rāgam in the 72-melakarta system and is sung very often in concerts. It is called Janatodi in the Muthuswami Dikshitar school. It is the 2nd rāgam in the 2nd chakra, Netra, with mnemonic name Netra-Sri and mnemonic phrase sa ra gi ma pa dha ni. It is a sampoorna rāgam using shuddha rishabham, sadharana gandharam, shuddha madhyamam, shuddha dhaivatham and kaisiki nishadham. The raga is described as difficult to perform because of its complexity in prayoga and intonation, and it is also noted for being sung in all lower notes. It is classified as a rakti raga, indicating high melodic content. Hanumatodi is the shuddha madhyamam equivalent of Bhavapriya (44th melakarta). Its Western equivalent is the Phrygian mode. It is distinct from Hindustani Todi; the Hindustani raga Todi corresponds to Carnatic Shubhapantuvarali, while Carnatic Todi corresponds in note content to Hindustani Bhairavi thaat but sounds very different because of gamaka treatment. The raga has many janya ragas, including Asaveri, Janatodi, Dhanyasi, Punnagavarali and Shuddha Seemanthini. It is also highly fertile for composition, with many kritis, varnams, padams, javalis and other forms composed in it by major composers.",
+  "time_of_day": "",
+  "gamaka_usage": "The raga depends heavily on nuanced gamaka and precise intonation. The source emphasizes that its flavour comes from complex prayoga rather than plain scalar movement. In practice, the lower register is especially important, and the raga is typically rendered with weight and depth. R1 and M1 are the most stable swaras and can be prolonged without gamakam. G2, D1 and N2 require careful handling with oscillation and phrase-based treatment; G2 in particular is central to the raga’s identity and is shaped through oscillation and slides rather than being left plain. The characteristic Carnatic Todi treatment differs from Bhairavi-like handling by avoiding the Bhairavi-style use of D2 and by relying on the specific Todi phraseology and gamaka contour. The overall effect is one of slow, deliberate, richly ornamented phrases with strong emphasis on the raga’s lower octave identity.",
+  "hindustani_equivalent": "Bhairavi thaat",
+  "western_equivalent": "Phrygian mode",
+  "popular_janya_ragas": [
+    "Asaveri",
+    "Janatodi",
+    "Dhanyasi",
+    "Punnagavarali",
+    "Shuddha Seemanthini"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Thāye Yashoda",
+      "composer": "Oottukkadu Venkata Kavi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Era Na Pai",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sami Ninne",
+      "composer": "Kothavasal Venkatarama Iyer",
+      "language": ""
+    },
+    {
+      "name": "Danike Tagu Janara",
+      "composer": "Shivanandam of the Tanjore Quartet",
+      "language": ""
+    },
+    {
+      "name": "Dani Sati Poti Ledura",
+      "composer": "Shivanandam of the Tanjore Quartet",
+      "language": ""
+    },
+    {
+      "name": "Mohalahiri Konden Swami",
+      "composer": "Shivanandam of the Tanjore Quartet",
+      "language": ""
+    },
+    {
+      "name": "Roopamu Joochi",
+      "composer": "Tiruvarur Ramaswami Pillai or Muthuswami Dikshitar or Ramaswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kanakāngi",
+      "composer": "Pallavi Gopal Iyer",
+      "language": ""
+    },
+    {
+      "name": "Amba Naadu",
+      "composer": "Pallavi Gopal Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sarigani Dani",
+      "composer": "Ramaswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Daani Samajendra",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Saridisavasa",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Karuna Katakshi",
+      "composer": "Annaswami Shastri",
+      "language": ""
+    },
+    {
+      "name": "Meenākshi Needu",
+      "composer": "Gnanananda Teertha (Ogirala Veera Raghava Sarma)",
+      "language": ""
+    },
+    {
+      "name": "Na Samini",
+      "composer": "Nallan Chakravarthy Murthy",
+      "language": ""
+    },
+    {
+      "name": "Kadhanu Variki",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Karuna Joodavamma",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Dachukovalena",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Thappi Brathiki",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Brindavana Lola",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Emani Mataditivo",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Evaru Teliya Poyyeru",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Enduku Dayaradhu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Koti Nadulu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Munnu Ravana",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Varidhi Neeku",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Proddupoyenu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Emi Jesithe",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Dasarathi Nee Runamu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Ninnu Vina Sukhamu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Nee Daya Raavale",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Hariyanu Vari",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Re Manasa",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Aragimpave",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Raju Vedale",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Rukalu Padi",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Endu Daginado",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Chesinadella",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Ne Morabettite",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Kanna Thalli Neevu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Koluvamaregada",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Nee Vanti Daivamu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Vedalenu Kodandapani",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Gathi Neevani",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Sarasijanābha Murāre",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Japatha Japatha",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Deva Deva Mām Pālaya",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Mandara Dhara",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Pankajāksha Tava Sevam",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Samodam Kalayami",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Pankajākshanam Ramesan",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Shri Krishnam Bhaja Mānasa",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Dākshāyani",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Vedāranyeshvarāya Namaste",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Rāmāchandrāya Namaste",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Pālayamām Brihadeeshwari",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Shri Subramanyomām Rakshathu",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Mahāganapathim Vande",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kamalāmbike Āshritha Kalpalathike",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kangalidyātako",
+      "composer": "Sripadaraja",
+      "language": ""
+    },
+    {
+      "name": "Jatādhara",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Anjanānandām Bōdhi Chandra",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Uruhādha Manam",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Venugāna Ramanā",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Enu Dhanyalo Lakumi",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Banda Nodi Govinda",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Ninna Nodi Dhanyanadeno",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Sharadeye Karuna Varidhi",
+      "composer": "Vijaya Dasa",
+      "language": ""
+    },
+    {
+      "name": "Vazhi Maraithirukudhe",
+      "composer": "Gopalakrishna Bharati",
+      "language": ""
+    },
+    {
+      "name": "Gajananam Ganapathim",
+      "composer": "Jayachamarajendra Wodeyar",
+      "language": ""
+    },
+    {
+      "name": "Gajanana Yanuchu",
+      "composer": "Chinnikrishna Dasar",
+      "language": ""
+    },
+    {
+      "name": "Gajavadana Sammoditha",
+      "composer": "Kumara Ettendra",
+      "language": ""
+    },
+    {
+      "name": "Kārthikeya Gangeya",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Sadashiva Bhajaname",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Thanigai Valar",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Undu Kuladeiva Raman",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Kunram Kudi Konda",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Kadaikkan Nokki",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Ellam Sivan Seyal",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Thamatham Yen Swami",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Meenalochani Amba",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Sri Venkatesham Varam",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": ""
+    },
+    {
+      "name": "Amba Nannu Brovave",
+      "composer": "Anai Ayya",
+      "language": ""
+    },
+    {
+      "name": "Paradevathe Nin Pada Bhajanam",
+      "composer": "Irayimman Thampi",
+      "language": ""
+    },
+    {
+      "name": "Alaya Vidudal",
+      "composer": "Ambujam Krishna",
+      "language": ""
+    },
+    {
+      "name": "Gathi Neeye Endru",
+      "composer": "Ambujam Krishna",
+      "language": ""
+    },
+    {
+      "name": "Ananda Natesha",
+      "composer": "Ramaswami Sivan",
+      "language": ""
+    },
+    {
+      "name": "Sri Kamakshi Varadayaki",
+      "composer": "Spencer Venugopal",
+      "language": ""
+    },
+    {
+      "name": "Kāmākshi Sada",
+      "composer": "Gnanananda Teertha (Ogirala Veera Raghava Sarma)",
+      "language": ""
+    },
+    {
+      "name": "Anjaneyam Upasmahe",
+      "composer": "Bellary M. Sheshagiri Acharya",
+      "language": ""
+    },
+    {
+      "name": "Ninne Namminanu",
+      "composer": "Shyama Shastri",
+      "language": ""
+    },
+    {
+      "name": "Emani Migula",
+      "composer": "Shyama Shastri",
+      "language": ""
+    },
+    {
+      "name": "Karunanidhi Ilalo",
+      "composer": "Shyama Shastri",
+      "language": ""
+    },
+    {
+      "name": "Rave Himagiri Kumari",
+      "composer": "Shyama Shastri",
+      "language": ""
+    },
+    {
+      "name": "Notru Suvargam",
+      "composer": "Andal",
+      "language": ""
+    },
+    {
+      "name": "Kali Theera",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sudha Nidhe Mamava Sadha",
+      "composer": "Balamurali Krishna",
+      "language": ""
+    },
+    {
+      "name": "Mama Nini",
+      "composer": "Balamurali Krishna",
+      "language": ""
+    },
+    {
+      "name": "Balimi Yela",
+      "composer": "Pattabhiramayya",
+      "language": ""
+    },
+    {
+      "name": "Emi Balkeney",
+      "composer": "Dhuddu Seetharama Sastry",
+      "language": ""
+    },
+    {
+      "name": "Mosa Jese",
+      "composer": "Chinnaiah of the Tanjore Quartet",
+      "language": ""
+    },
+    {
+      "name": "Poosadharamu",
+      "composer": "Govindaswamy Ayya",
+      "language": ""
+    },
+    {
+      "name": "Yaar Poi Solluvaar",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Ella Arumaigalum",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Anname Naalum Nirnayame",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Anname Naan Enna Seiven",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Maname ennaalum",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Mannanaar Valai",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Nee Illaamal Vereyundo",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Pacchilande Marappadunda",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Thirukkanmaaleeshvarar",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Vaaraaro Vandhu",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Chaitanya Vigrahame",
+      "composer": "Ghanam Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Kanyanivu Seyu",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Ennitikani",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Sudhinamayane",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Mane Mayile",
+      "composer": "Subbarama Iyer",
+      "language": ""
+    },
+    {
+      "name": "Endu Pizha Gynan",
+      "composer": "unknown",
+      "language": ""
+    },
+    {
+      "name": "Sugreva Narasimha",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Mama Kuleswaram",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta #8; 2nd rāgam in the 2nd chakra Netra; mnemonic name Netra-Sri; mnemonic phrase sa ra gi ma pa dha ni. Shuddha madhyamam equivalent of Bhavapriya (44th melakarta). Western equivalent: Phrygian mode. In Muthuswami Dikshitar school it is called Janatodi. It is a rakti raga and is especially known for its complexity in prayoga and intonation. It is sung very often in concerts and has a very large body of compositions. Its notes, when shifted by graha bhedam, yield five other major melakarta ragas: Kalyani, Shankarabharanam, Natabhairavi, Kharaharapriya and Harikambhoji. The raga is distinct from Hindustani Todi; Carnatic Todi corresponds to Hindustani Bhairavi thaat in note content, but the two sound very different because of gamaka usage.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hanumatodi"
+}

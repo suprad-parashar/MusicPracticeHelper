@@ -1,0 +1,64 @@
+{
+  "raga_name": "Nattai",
+  "other_names": [
+    "Nata",
+    "Nāṭa",
+    "Nattai"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 36,
+  "inventor": "",
+  "chakra": "Ritu",
+  "arohana": [
+    "S",
+    "R3",
+    "G3",
+    "M1",
+    "P",
+    "D3",
+    "N3",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N3",
+    "P",
+    "M1",
+    "G3",
+    "M1",
+    "R3",
+    "S"
+  ],
+  "raga_type": "janya",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Veera"
+  ],
+  "mood": "Nattai is an auspicious, bright, and forceful raga that creates a sense of ceremonial uplift and forward motion. It is often felt as majestic and alert rather than soft or languid, making it especially effective at the start of a concert. The mood can suggest devotion, confidence, and a clean, radiant energy, with an undercurrent of solemnity and dignity.",
+  "description": "Nattai, also known as Nata or Nāṭa, is a janya rāgam derived from the 36th melakarta, Chalanata. It is considered an auspicious raga and is commonly sung in the early part of a concert, where its bright and commanding character helps establish a strong opening atmosphere. The scale is asymmetric, with a vakra descent that gives it a distinctive melodic identity. In Carnatic practice, Nattai is valued for its grandeur and its ability to project a festive, devotional, and stately mood. It is also associated with the 6th chakra, Ritu, in the chakra classification mentioned in the snippets.",
+  "time_of_day": "morning",
+  "gamaka_usage": "Nattai is rendered with a strong, majestic gamaka profile. The raga typically emphasizes kampita and oscillatory treatment on R and G, with M also taking a prominent, weighty role in phrases. D and N are usually approached with clear, firm intonation rather than excessive ornamentation, helping preserve the raga's bright and authoritative character. The descent is vakra, and the characteristic prayoga S N3 P M1 G3 M1 R3 S is important; the repeated M1 and the glide back through G3 and R3 are key to its identity. Compared with smoother ragas, Nattai tolerates a more forceful, open style, but the gamakas should remain crisp and regal rather than languid. The upper notes are often delivered with a ringing, declarative quality, while the lower phrases are anchored by strong kampita on R3 and G3.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Jagadanandakaraka",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Amari Kabari",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    }
+  ],
+  "notable_features": "Nattai is a popular concert-opening raga and is regarded as auspicious. It is a janya of Chalanata (melakarta 36) and has the scale S R3 G3 M1 P D3 N3 S / S N3 P M1 G3 M1 R3 S. The raga is vakra in descent. The snippets also place it in the 6th chakra, Ritu. It is often discussed alongside Chala Nattai and Gambheera Nattai in comparative pedagogy.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nata_(raga)"
+}

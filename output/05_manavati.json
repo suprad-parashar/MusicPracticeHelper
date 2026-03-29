@@ -1,0 +1,83 @@
+{
+  "raga_name": "Manavati",
+  "other_names": [
+    "Manōranjani",
+    "Manoranjani",
+    "Mānavati"
+  ],
+  "melakarta_number": 5,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Indu",
+  "arohana": [
+    "S",
+    "R1",
+    "G1",
+    "M1",
+    "P",
+    "D2",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M1",
+    "G1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Bhakti",
+    "Shanta"
+  ],
+  "mood": "Manavati has a bright, composed, and devotional character, with a clear and orderly melodic contour that feels stable and uplifting. Because it is a complete melakarta with no vakra movement, it tends to project a straightforward, dignified serenity rather than intense pathos or romance. The raga can evoke a calm, prayerful atmosphere and a sense of inner poise, making it suitable for contemplative listening and devotional expression.",
+  "description": "Manavati is the 5th melakarta rāgam in the 72-melakarta system and belongs to the 1st chakra, Indu; its mnemonic name is Indu-Ma and the mnemonic phrase is sa ra ga ma pa dhi nu. Its scale is S R1 G1 M1 P D2 N3 S / S N3 D2 P M1 G1 R1 S, using shuddha rishabham, shuddha gandharam, shuddha madhyamam, chatushruti dhaivatham, and kakali nishadham. As a melakarta, it is a sampoorna rāgam with all seven notes in both directions. It is the shuddha madhyamam equivalent of Pāvani, the 41st melakarta. In the Muthuswami Dikshitar school, the 5th melakarta is called Manōranjani, and the asampurna version has the same notes but a different arohana: S R1 M1 P D2 N3 S / S N3 D2 P M1 G1 R1 S, making it shadava-sampurna. The raga has minor janya ragas associated with it. A notable theoretical feature is that Manavati’s notes, when shifted by graha bhedam, yield Kantamani. The name is glossed in some sources as meaning \"the bride,\" and the raga is regarded as a foundational scale in Carnatic music with a graceful, melodic quality.",
+  "time_of_day": "",
+  "gamaka_usage": "As a melakarta with a plain, complete scalar structure, Manavati is generally rendered with relatively direct prayogas rather than heavy vakra ornamentation. R1, G1, D2, and N3 are the characteristic swaras and are typically given gentle kampita or subtle oscillation to bring out the raga’s vivadi color, while M1 and P are usually held steady. The ascent and descent should remain clean and symmetrical, with smooth jaru between adjacent notes where needed. Because the source does not specify special gamaka rules, the safest treatment is restrained ornamentation that preserves the raga’s straightforward melakarta identity and avoids excessive gamaka that would obscure its scale.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Evarito ne delpudu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nijabhaktim",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sri Hanumantam",
+      "composer": "Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Atu karadani",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Balambika",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Bhaja Bhaja Manasa",
+      "composer": "Sri PB Shrirangachari",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta #5; 1st chakra Indu; mnemonic name Indu-Ma; mnemonic phrase sa ra ga ma pa dhi nu; shuddha madhyamam equivalent of 41st melakarta Pāvani; in the Muthuswami Dikshitar school the corresponding 5th melakarta is called Manōranjani; asampurna form is shadava-sampurna with arohana S R1 M1 P D2 N3 S; graha bhedam from Manavati yields Kantamani; uses vivadi swaras R1 and G1; the name is sometimes explained as meaning \"the bride.\"",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Manavati"
+}

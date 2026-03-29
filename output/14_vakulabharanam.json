@@ -1,0 +1,101 @@
+{
+  "raga_name": "Vakulabharanam",
+  "other_names": [
+    "Dhātivasantabhairavi",
+    "Vātivasantabhairavi"
+  ],
+  "melakarta_number": 14,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Agni",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "M1",
+    "P",
+    "D1",
+    "N2",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N2",
+    "D1",
+    "P",
+    "M1",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Vakulabharanam has a calm, composed, and devotional character. Its shuddha rishabham, antara gandharam, shuddha madhyamam, shuddha dhaivatam, and kaisiki nishadam create a bright but restrained color that feels orderly and dignified rather than intensely emotional. The raga can evoke serenity, reverence, and a gentle inward devotion, making it suitable for contemplative and prayerful settings. Because it is a melakarta with a complete scale, it also has a balanced, expansive feel that supports both calm reflection and structured melodic elaboration.",
+  "description": "Vakulabharanam is the 14th melakarta rāgam in the 72-melakarta system. It is the 2nd rāgam in the 3rd chakra, Agni, with mnemonic name Agni-Sri and mnemonic phrase sa ri ga ma pa dha ni. Its scale is S R1 G3 M1 P D1 N2 S / S N2 D1 P M1 G3 R1 S, using shuddha rishabham, antara gandharam, shuddha madhyamam, shuddha dhaivatam, and kaisiki nishadham. As a melakarta, it is sampoorna in both ascent and descent. It is the shuddha madhyamam equivalent of Nāmanārāyaṇi, the 50th melakarta. In the Muthuswami Dikshitar school it is known as Dhātivasantabhairavi or Vātivasantabhairavi. The asampurna melakarta form Vātivasantabhairavi uses the same notes but with vakra descent: S N2 D1 M1 G3 M1 P M1 G3 R1 S. The raga has minor janya ragas associated with it, and Vasantabhairavi is mentioned as one heard occasionally in concerts. Vakulabharanam’s notes under graha bhedam yield Keeravani, Hemavati, and Kosalam. It corresponds to the Western Phrygian dominant scale and the Hindustani equivalent is raga basant mukhari.",
+  "time_of_day": "",
+  "gamaka_usage": "The source does not give detailed gamaka rules for Vakulabharanam, but as a melakarta with shuddha rishabham and antara gandharam, the raga is generally rendered with smooth, measured oscillations and clear phrase-based treatment rather than heavy ornamentation. R1 and D1 are typically handled with light kampita or gentle janta-style emphasis in melodic movement, while G3 and N2 are important color tones that should be articulated cleanly. M1 and P are usually steadier anchor notes. In the asampurna form, the vakra descent requires careful jaru-like movement through M1 and G3, giving the raga a more winding contour than the straight melakarta version.",
+  "hindustani_equivalent": "Basant Mukhari",
+  "western_equivalent": "Phrygian dominant scale",
+  "popular_janya_ragas": [
+    "Vasantabhairavi",
+    "Surya",
+    "Srothoswini"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Gowrinatham",
+      "composer": "Oottukkadu Venkata Kavi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Ye ramuni nammitino",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Prasanna Venkateshwaram",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Nambinen ayya",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Rama namamai",
+      "composer": "Mysore Vasudevachar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "KumĀruni valenu kĀvavĒ",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Telugu"
+    },
+    {
+      "name": "Saadhu tada",
+      "composer": "Maharaja Swati Tirunal of Travancore",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Paripaahimaam siddhivinayaka",
+      "composer": "Mysuru Maharaja Jayachamarajendra Wodeyar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Koniyada Tarama",
+      "composer": "Karur Dakshinamurthy",
+      "language": "Telugu"
+    }
+  ],
+  "notable_features": "Melakarta #14; 2nd rāgam in the 3rd chakra Agni; mnemonic name Agni-Sri; shuddha madhyamam equivalent of Nāmanārāyaṇi (50th melakarta). Asampurna counterpart is Vātivasantabhairavi with vakra descent. Graha bhedam from Vakulabharanam yields Keeravani, Hemavati, and Kosalam. The text also notes a minor janya called Surya/Srothoswini with scale S G3 M1 D1 N2 S / S N2 D1 M1 G3 S.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vakulabharanam"
+}

@@ -1,0 +1,150 @@
+{
+  "raga_name": "Kathanakuthuhalam",
+  "other_names": [
+    "kathanakuthoohalam",
+    "kathanakuthuhala",
+    "kadanakuthuhalam",
+    "kadanakuthoohalam"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 29,
+  "inventor": "Patnam Subramania Iyer",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M1",
+    "D2",
+    "N3",
+    "G3",
+    "P",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "shadava-sampurna",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Adbhuta",
+    "Veera",
+    "Bhakti"
+  ],
+  "mood": "Kathanakuthuhalam has a bright, lively, and engaging character, with a sense of curiosity and uplift that makes it feel animated and story-like. The scale’s unusual ordering gives it a playful, sparkling energy that can suggest wonder, delight, and dramatic movement rather than deep pathos. It suits compositions that aim to captivate the listener, and its concert use often brings a fresh, attractive, and spirited atmosphere.",
+  "description": "Kathanakuthuhalam, also spelled kathanakuthoohalam or kathanakuthuhala, is a Carnatic raga credited to Patnam Subramania Iyer, who is said to have invented it. The raga is known from the famous kriti Raghuvamsha Sudhambudhi by Patnam Subramania Iyer. Its structure is asymmetric and vakra, with the arohana S R2 M1 D2 N3 G3 P S and avarohana S N3 D2 P M1 G3 R2 S. It is commonly treated as a janya of Melakarta 29, Shankarabharanam. The scale uses chatushruti rishabham, shuddha madhyamam, chatushruti dhaivatam, kakali nishadam, antara gandharam, and panchamam. The raga has attracted a notable body of compositions, including kritis, varnams, thillanas, and a jathiswaram. It is a modern raga in the sense of being formally introduced by a named composer rather than being an ancient traditional scale.",
+  "time_of_day": "",
+  "gamaka_usage": "The raga’s vakra structure suggests that gamakas and phrase-based treatment are essential to its identity rather than plain scalar rendering. R2 and M1 are generally handled with relative steadiness compared with the more expressive notes G3, D2, and N3, which are shaped with slides and oscillatory movement to bring out the raga’s lively contour. The zig-zag ascent S R2 M1 D2 N3 G3 P requires careful janta/jaru phrasing so that the unusual turn through N3–G3–P is clearly articulated. In descent, the line S N3 D2 P M1 G3 R2 S should be rendered with smooth glides, especially around G3 to R2, to preserve the raga’s characteristic color. Compared with more straightforward sampurna ragas, the identity here depends strongly on phrase order and ornamented transitions.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Raghuvamsha Sudhambudhi",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Neeve Rakshakudani",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Sharanagatha Vatsale",
+      "composer": "Calcutta Krishnamurthy",
+      "language": ""
+    },
+    {
+      "name": "Kuvalayakshi",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Mangala Varadayaki",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Kathanakuthuhala Ragapriye",
+      "composer": "Venkatrama Iyer",
+      "language": ""
+    },
+    {
+      "name": "Giripriyam",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Kadhanum Kannanum",
+      "composer": "Brazil Dr. Subramanyam",
+      "language": ""
+    },
+    {
+      "name": "Kathanakutuhala Priya Hasini",
+      "composer": "Nagpur Srinivasan",
+      "language": ""
+    },
+    {
+      "name": "Mohana Krishna",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Gopala Nandana",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Neekela Dayaradhu",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Ganam Pozhivan",
+      "composer": "N. S. Chidambaram",
+      "language": ""
+    },
+    {
+      "name": "Vandeham Shive",
+      "composer": "Jayachamarajendra Wadiyar",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Dr. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Dr. TV Gopalakrishnan",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Dr. Lalgudi Jayaraman",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Sri M. D. Ramanathan",
+      "language": ""
+    },
+    {
+      "name": "Jathiswaram",
+      "composer": "",
+      "language": ""
+    }
+  ],
+  "notable_features": "The raga is credited to Patnam Subramania Iyer as its inventor. It is explicitly given with the scale S R2 M1 D2 N3 G3 P S / S N3 D2 P M1 G3 R2 S. The source lists a substantial set of compositions in this raga, including a famous kriti, several varnams, thillanas, and a jathiswaram. It is commonly described as a janya of Melakarta 29 (Shankarabharanam). The raga’s unusual vakra ascent makes it pedagogically useful for phrase recognition and for demonstrating how a raga identity can be defined by movement rather than by a simple linear scale.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kathanakuthuhalam"
+}

@@ -1,0 +1,182 @@
+{
+  "raga_name": "Shree",
+  "other_names": [
+    "Sri",
+    "Sreeraga",
+    "Shri ragam",
+    "Shri ragam"
+  ],
+  "melakarta_number": 22,
+  "is_melakarta": true,
+  "parent_raga": 22,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M1",
+    "P",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "P",
+    "M1",
+    "R2",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-vakra-sampurna",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Shree is an ancient, highly auspicious raga with a serene, devotional, and dignified emotional color. Its pentatonic ascent and graceful vakra descent create a feeling of calm reverence, inner stillness, and sacredness, making it suitable for devotional contemplation and solemn beauty. The raga can feel both gentle and weighty: soothing enough for prayerful introspection, yet noble enough for grand classical elaboration.",
+  "description": "Shree is an ancient Carnatic raga, also written as Sri or Sreeraga, and is considered highly auspicious. It is the asampurna melakarta equivalent of Kharaharapriya (22nd melakarta) and is the last of the five Ghana ragams of Carnatic music. The raga is asymmetric, with no gandharam or dhaivatam in the arohana, and is classified as audava-vakra-sampurna: the ascent is pentatonic while the descent is sampurna in practice through vakra prayogas. The source notes that Carnatic Shree takes the lower madhyamam as its madhyama and is not related to the Hindustani raga Shree. It is a popular raga with a very large compositional tradition, especially in devotional and classical repertoire. Related scale comparisons in the source mention Madhyamavati as sharing the same ascent, and Manirangu as a closely related scale with gandharam in descent.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The raga’s identity depends strongly on gamaka and phraseology rather than plain scalar movement. R2 is a key note and is often rendered with oscillation; G2 appears only in the descent and is handled in vakra phrases such as R2 G2 R2, with the gandharam approached and released through rishabham. The source emphasizes the zig-zag descent, and the characteristic treatment of the notes should preserve the raga’s solemn, auspicious flavor. Compared with simpler pentatonic ragas, the descent must not sound straight or generic; the curved prayogas and the controlled use of G2 are essential to its identity.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Sami ninnekori",
+      "composer": "Karur Devudu Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Mayanai",
+      "composer": "Andal",
+      "language": "Tamil"
+    },
+    {
+      "name": "Endaro Mahanubhavulu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nama Kumusumamula",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Yuktamu Gaadhu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sri Varalakshmi",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sri Muladhara Chakra Vinayaka",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sri Kamalambike",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sri Abhayamba",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sri Vishvanatham Bhaje",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Tyagaraja Mahadhvajaaroha",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Kameshvarena Samrakshitoham",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Karuna Judu Ninnu",
+      "composer": "Shyama Shastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vanajasana Vinuta",
+      "composer": "Subbaraya Shastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Bhavayami Nanda",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Reena Madadritha",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Vande Vasudevam",
+      "composer": "Annamacharya",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Dinamu Dwadasi Nedu",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "O! Pavanatmaja O! Ghanuda",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Bandanene Ranga",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Adi Varahana",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Mangalam Arul",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Ramam Bhajatha Manuja",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Annaiye",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Karuna Cheyvan Enthu",
+      "composer": "Irayimman Thampi",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Mahaganapathe",
+      "composer": "R N Doraiswamy",
+      "language": ""
+    }
+  ],
+  "notable_features": "Shree is the last of the five Ghana ragams. It is an asampurna melakarta equivalent of Kharaharapriya (22nd melakarta). The ascent matches Madhyamavati, while the descent is more elaborate and vakra; Manirangu is noted as a related raga because it shares the same ascent but includes G2 in descent. The raga is considered highly auspicious and has a very large and important compositional corpus. The source explicitly notes that it is not related to the Hindustani raga Shree.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shree_%28Carnatic_raga%29"
+}

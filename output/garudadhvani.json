@@ -1,0 +1,94 @@
+{
+  "raga_name": "Garudadhvani",
+  "other_names": [
+    "Garudadhwani"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 29,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M1",
+    "P",
+    "D2",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "D2",
+    "P",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Garudadhvani has a bright, uplifting, and cleanly articulated character. Its ascent is complete and expansive, while the descent is concise and pentatonic, giving it a sense of forward motion, clarity, and elegance. The raga can feel devotional and auspicious, yet also light and energetic, especially when rendered in faster tempo where it can suggest a Western-like sheen. It tends to evoke confidence, freshness, and a graceful, prayerful joy rather than deep pathos or intense drama.",
+  "description": "Garudadhvani or Garudadhwani is a janya rāgam derived from the 29th melakarta, Shankarabharanam. It is an asymmetric scale and a combination of the sampurna scale Shankarabharanam and the pentatonic scale Mohanam. Its structure omits madhyamam and nishādham in the descending scale, making it a sampurna-audava rāgam. The raga is noted for its clean, straightforward melodic movement and for having shades of Western music when played at fast pace. It is related to Mohanam by sharing the same descending scale, and Bilahari is mentioned as a related raga with the ascent and descent interchanged. The raga is also described as acquiring extra sheen when rendered with more plain notes and relatively fewer gamakas. No inventor, chakra, or time-of-day specification is given in the source.",
+  "time_of_day": "",
+  "gamaka_usage": "Garudadhvani is generally rendered with restrained gamaka treatment. The source specifically notes that it acquires extra sheen when it takes more plain notes and relatively less gamakas, so the raga’s identity is often best preserved through clean, direct swara placement rather than heavy oscillation. Rishabam (R2), gāndhāram (G3), madhyamam (M1), dhaivatam (D2), and nishādham (N3) in the ascent are typically articulated clearly, while the descent is especially uncluttered because it omits M1 and N3. The descent S-D2-P-G3-R2-S should be smooth and concise, with minimal ornamentation. Compared with gamaka-rich ragas, Garudadhvani favors plain notes, light touches, and graceful transitions over kampita-heavy treatment.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Anandasagara",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Tatvameruga",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Garudavahana",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sri Bhavam Chinmayam Vande",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Rajarajeswari",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Emi Neramu",
+      "composer": "Karur Dakshinamurthy",
+      "language": "Telugu"
+    },
+    {
+      "name": "Tillana",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "unknown"
+    },
+    {
+      "name": "Varnam",
+      "composer": "Lalgudi Jayaraman",
+      "language": "unknown"
+    },
+    {
+      "name": "Nottuswara",
+      "composer": "Neyveli Santhanagopalan",
+      "language": "unknown"
+    }
+  ],
+  "notable_features": "Janya of Shankarabharanam (29th melakarta). Asymmetric sampurna-audava structure. Descending scale omits M1 and N3, using only S D2 P G3 R2 S. The raga is described as a combination of Shankarabharanam and Mohanam. It acquires extra sheen when rendered with plain notes and relatively less gamaka. Related scale comparison: Mohanam matches Garudadhvani’s descent; Bilahari has the ascent and descent interchanged. There is no Hindustani raga called Garudadhvani.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Garudadhvani"
+}

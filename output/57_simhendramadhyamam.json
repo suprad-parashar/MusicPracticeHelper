@@ -1,0 +1,153 @@
+{
+  "raga_name": "Simhendramadhyamam",
+  "other_names": [
+    "Sumadyuti",
+    "Simendramadhyamam",
+    "Simhendra Madhyamam"
+  ],
+  "melakarta_number": 57,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Disi",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M2",
+    "P",
+    "D1",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D1",
+    "P",
+    "M2",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Karuna",
+    "Bhakti",
+    "Adbhuta",
+    "Shanta",
+    "Veera"
+  ],
+  "mood": "Simhendramadhyamam has a grand, regal, meditative, bold, and striking personality. It creates an atmosphere of deep inward reflection charged with emotional intensity: the listener may feel yearning, spiritual fervor, awe, and a darkly luminous majesty. Its contour can suggest pathos and devotion, yet it is not merely plaintive; there is also a powerful, kingly firmness and contemplative stillness in it. In expansive treatment it evokes the image of something majestic and mysterious unfolding slowly, with flashes of brilliance in the upper register and a grave, searching depth in the lower and middle octaves.",
+  "description": "Simhendramadhyamam is a Carnatic melakarta raga and the 57th melakarta in the 72-melakarta system. In the Muthuswami Dikshitar school it is called Sumadyuti. It is the 3rd raga in the 10th chakra, Disi, with mnemonic name Disi-Go and mnemonic phrase 'sa ri gi mi pa dha nu'. Its scale is S R2 G2 M2 P D1 N3 S / S N3 D1 P M2 G2 R2 S. The swaras used are chatushruti rishabham, sadharana gandharam, prati madhyamam, shuddha daivatam, and kakali nishadham, along with shadjam and panchamam. As a melakarta, it is by definition a sampurna raga with all seven notes in both ascent and descent. It is the prati madhyamam equivalent of Kiranavali (also known as Keeravani), the 21st melakarta. It is also equivalent to the Hungarian Minor or Gypsy Minor scale in Western music. The raga is said to have been borrowed into Hindustani music from Carnatic music. Simhendramadhyamam has a few minor janya ragas, including Vijaya Saraswati, a scale first used by Muthiah Bhagavatar, and Urmika. Through graha bhedam, its notes yield two other melakarta ragas: Mayamalavagowla and Rasikapriya. It is widely regarded as a weighty and rakti-bearing raga capable of elaborate alapana, tanam, and pallavi treatment, and is admired for its passionate appeal and strongly etched melodic identity.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "Simhendramadhyamam is not handled as a plain scalar melakarta; its identity emerges through weighty, rakti-laden gamaka treatment. G2 and D1 are especially important for establishing the raga’s dark, intense color and are typically rendered with pronounced kampita/oscillation rather than as flat notes. R2 is usually not left bare for long; it is often approached in relation to G2 and can carry a measured oscillation, especially in phrases that dwell on the poorvanga. M2 is a major color-bearing swara and is often sustained with weight, sometimes reached through a glide from G2 or moving onward with force toward P. N3 is bright and tense, frequently emphasized in ascent toward the upper shadja and in descending phrases such as N3-D1-P; it should sound luminous rather than casual. P and S function as comparatively stable nyasa points. Jaru movements and curved phraseology are important around M2-P-D1, D1-N3-S, and S-N3-D1-P, and the upper-octave region can be given striking emphasis, with the tara sthayi Rishabha receiving notable weight in elaboration. The raga should be unfolded with gravitas and continuity of gamaka so that it remains distinct from Keeravani: the prati madhyamam must be clearly colored, and the handling of G2, M2, D1, and N3 should project a regal, meditative, and emotionally charged bhava rather than a dry heptatonic outline.",
+  "hindustani_equivalent": "Simhendra Madhyamam (borrowed into Hindustani music)",
+  "western_equivalent": "Hungarian Minor Scale (Gypsy Minor Scale)",
+  "popular_janya_ragas": [
+    "Vijaya Saraswati",
+    "Urmika"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Needu Charanamule",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Natajana Paripala Ghana",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kamakshi Kamakoti Peetha Vaasini",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Neelachala Natham Bhajeham",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Shaileshvaram Bhajare",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Pamarajanapalini",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Ashaindhadum Mayil Ondru",
+      "composer": "Oottukkadu Venkata Kavi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Ninne Nammithi Nayya",
+      "composer": "Mysore Vasudevacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Innum orutharam",
+      "composer": "Muthu Thandavar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Ayyappa",
+      "composer": "K. J. Yesudas",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Unnai Allal Vere Gathi",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Rama Rama Guna Seema",
+      "composer": "Swathi Thirunal Rama Varma",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Marakata Simhasana",
+      "composer": "M. Balamuralikrishna",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Ihaparamennum",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Pazhani Appan",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "En Manam Usalada",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Nin Charana Malare",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Baje Koruno Sure",
+      "composer": "Rabindranath Tagore",
+      "language": "Bengali"
+    },
+    {
+      "name": "Paradesi Megh Jao Re fire",
+      "composer": "Kazi Nazrul Islam",
+      "language": "Bengali"
+    }
+  ],
+  "notable_features": "Called Sumadyuti in the Muthuswami Dikshitar school, and Dikshitar compositions in this raga are noted as carrying the raga mudra Sumadyuti. It is the 3rd raga in the 10th chakra Disi. Mnemonic name: Disi-Go; mnemonic phrase: sa ri gi mi pa dha nu. It is said to have been borrowed into Hindustani music from Carnatic music. Graha bhedam on Simhendramadhyamam yields Mayamalavagowla and Rasikapriya. Vijaya Saraswati is specifically noted as a scale first used by Muthiah Bhagavatar. The raga is often described as regal, meditative, bold, and striking, and is considered suitable for expansive, weighty concert treatment including RTP."
+}

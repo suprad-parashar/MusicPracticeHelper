@@ -1,0 +1,116 @@
+{
+  "raga_name": "Natabhairavi",
+  "other_names": [
+    "Naṭabhairavi",
+    "Nārīrītigowla"
+  ],
+  "melakarta_number": 20,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Veda",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M1",
+    "P",
+    "D1",
+    "N2",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N2",
+    "D1",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampoorna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna"
+  ],
+  "mood": "Natabhairavi has a grave, expansive, and dignified emotional color. It is described as inciting feelings of grandeur and devotion, so the listener experiences reverence, inner stillness, and a solemn devotional uplift rather than lightness or playfulness. The raga can also carry a gentle pathos, giving it a contemplative, prayerful, and emotionally deep character.",
+  "description": "Natabhairavi is the 20th melakarta rāgam in the 72-melakarta system. It is the shuddha madhyamam equivalent of Shanmukhapriya (melakarta 56) and corresponds to the Natural minor scale (Aeolian mode) in Western music. In Hindustani music it corresponds to Asavari thaat. It is the 2nd rāgam in the 4th chakra, Veda, with mnemonic name Veda-Sri and mnemonic phrase sa ri gi ma pa dha ni. The scale is sampoorna, using all seven swaras in both ascent and descent. In the Muthuswami Dikshitar school, this melakarta is known as Nārīrītigowla. The raga is noted for its grandeur and devotion, but it has not found as much prominence in concerts as Kalyani, Todi, Sankarabharanam, or Kharaharapriya. Its notes and general prayoga are said to resemble Shanmukhapriya except for madhyamam, and it can be confused with Shanmukhapriya if the phrase from panchamam to gandharam is emphasized.",
+  "time_of_day": "",
+  "gamaka_usage": "Natabhairavi is generally treated in a relatively direct, scalar manner because it is a sampoorna melakarta with no vakra prayoga in its standard form. The source material does not prescribe a special gamaka scheme, but the raga is best brought out with clear emphasis on R2, G2, D1, and N2, using smooth jaru between adjacent notes and restrained oscillation rather than heavy kampita on every swara. M1 and P are typically stable anchor notes. The phraseology around P to G2 is important, since the text notes that Natabhairavi can resemble Shanmukhapriya if that region is handled in a certain way; thus, careful phrase choice matters more than elaborate gamaka density. Overall, the gamaka treatment should preserve the raga's sober, dignified minor-mode color.",
+  "hindustani_equivalent": "Asavari thaat",
+  "western_equivalent": "Natural minor scale (Aeolian mode)",
+  "popular_janya_ragas": [
+    "Bhairavi",
+    "Nagagandhari",
+    "Saramati",
+    "Jaunpuri",
+    "Hindolam",
+    "Darbari Kanada",
+    "Jayanthasree"
+  ],
+  "notable_compositions": [
+    {
+      "name": "śrī vallī devasenā pate",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Parulaseva",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": ""
+    },
+    {
+      "name": "Nee Padamulanu",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Ananda Sudhanndhiram",
+      "composer": "Shuddhananda Bharati",
+      "language": ""
+    },
+    {
+      "name": "Nalina Nayani",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Amboruha Padame",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Nee Padamule",
+      "composer": "Padmacharan",
+      "language": ""
+    },
+    {
+      "name": "Ee Narajenmam",
+      "composer": "Yadla Ramadasa",
+      "language": ""
+    },
+    {
+      "name": "Raghuvaram Raghavam",
+      "composer": "V. V. Srivatsa",
+      "language": ""
+    },
+    {
+      "name": "Śrī Nīlotpalanāyike",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Nīlotpalāmbām Bhajare",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta #20; 4th chakra Veda; mnemonic name Veda-Sri; mnemonic phrase sa ri gi ma pa dha ni. Shuddha madhyamam equivalent of Shanmukhapriya (#56). In the Muthuswami Dikshitar school it is called Nārīrītigowla. Graha bhedam on Natabhairavi yields five other major melakarta ragas: Kalyani, Sankarabharanam, Hanumatodi, Kharaharapriya, and Harikambhoji. The text also notes that Natabhairavi is less commonly featured as a main concert raga than Kalyani, Todi, Sankarabharanam, and Kharaharapriya. Its standard form is sampoorna and non-vakra, while the asampurna version Nārīrītigowla uses vakra prayoga in both ascent and descent.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Natabhairavi"
+}

@@ -1,0 +1,95 @@
+{
+  "raga_name": "Ranjani",
+  "other_names": [
+    "Ranjini"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 59,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M2",
+    "D2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "M2",
+    "G2",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "N3"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Ranjani has a bright, pleasing, and attractive mood that feels immediately agreeable to the ear. Its pentatonic symmetry and omission of panchamam create a light, open, and graceful atmosphere, often evoking contentment, gentle devotion, and a sense of wonder at its simplicity. It suits ragamalikas, slokams, vrittams, and light popular songs, and can feel soothing yet sparkling rather than deeply heavy or tragic.",
+  "description": "Ranjani is a Carnatic janya raga derived from the 59th melakarta, Dharmavati. It is an asymmetric pentatonic scale, classified as audava-audava, with panchamam omitted from the parent scale and an additional kakali nishadam appearing in the avarohana in place of the sadharana rishabham. The raga is noted as pleasing and has become more popular in the last 50 years. It is commonly used in ragamalikas, slokams, vrittams, and light popular songs. A distinctive catch phrase associated with the raga is S R2 G2 S, S N3 D2 S, with N3 and D2 in the lower octave. The source emphasizes its asymmetrical use of notes as the reason for its pleasing character.",
+  "time_of_day": "",
+  "gamaka_usage": "The raga is treated with a light, graceful gamaka style rather than heavy oscillation. R2 and G2 are typically handled with gentle kampita and smooth jaru-like movement into and out of phrases, while M2 and D2 are usually sustained clearly to preserve the pentatonic outline. N3 in the descent is a characteristic note and should be touched distinctly, often with a soft glide from upper S into N3 and then to D2. The catch phrase S R2 G2 S and S N3 D2 S suggests phrase-based treatment more than continuous oscillation. Compared with closely related pleasing pentatonic ragas, the absence of P gives the raga a more open, floating feel, and the anya nishadam in descent must be handled carefully so it sounds idiomatic rather than foreign.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Durmargachara",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Kaadiruvenu Naanu",
+      "composer": "Ambujam Krishna",
+      "language": "Kannada"
+    },
+    {
+      "name": "Ranjani Niranjani",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Amboruha Padhame Ranjani Raga Varnam",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Parama Pavana",
+      "composer": "Meesu Krishna Iyer",
+      "language": ""
+    },
+    {
+      "name": "Dattatreya Trimurti",
+      "composer": "Ganapathi Sachchidananda",
+      "language": ""
+    },
+    {
+      "name": "Ranjani Mala",
+      "composer": "Tanjavur Shankara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Pranamaamyaham",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Sadhaa Saaranga Nayane",
+      "composer": "H. Yoganarasimhan",
+      "language": "Aadhi"
+    }
+  ],
+  "notable_features": "Janya of Dharmavati (59th melakarta). Asymmetric audava-audava structure. Panchamam is removed from the parent scale. Uses kakali nishadam (N3) only in avarohana, making it bhashanga. Popularity has increased over the last 50 years. Frequently used in ragamalikas, slokams, vrittams, and light songs. Unique catch phrase: S R2 G2 S, S N3 D2 S (with N3 and D2 in the lower octave).",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ranjani"
+}

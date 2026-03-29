@@ -1,0 +1,404 @@
+{
+  "raga_name": "Madhyamavati",
+  "other_names": [
+    "madhyamāvati",
+    "Madhyamavathi",
+    "Madhyamavati rāgam"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 22,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M1",
+    "P",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "P",
+    "M1",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Madhyamavati has a calm, auspicious, and uplifting character. It is strongly associated with devotional closure, so it often leaves the listener with a sense of peace, completion, and blessing. The raga feels spacious and balanced because of its even note spacing and pentatonic simplicity, making it suitable for elaboration without tension. It evokes images of serenity, prayer, and a dignified festive calm, and is especially apt for the concluding moments of a concert or for music meant to feel propitious and reassuring.",
+  "description": "Madhyamavati is a janya rāga of the 22nd melakarta Kharaharapriya, though the text notes that it can also be derived from Charukesi, Natabhairavi, or Harikambhoji by omitting both gandharam and dhaivatam. It is an audava (pentatonic) rāga with a symmetric ascent and descent, using only S, R2, M1, P, and N2. The scale is described as especially auspicious, and in Carnatic concert practice it is commonly used to conclude performances, either as the final song or as the rāga in which the ending of the last song is rendered. The raga is also noted for being suitable for elaboration and exploration because of its even spacing of notes. Its notes correspond to the first three notes of the cycle of fifths (S, P, R2) and fourths (S, M1, N2).",
+  "time_of_day": "",
+  "gamaka_usage": "The source does not give detailed gamaka prescriptions, but the raga’s pentatonic symmetry and even spacing suggest smooth, restrained ornamentation rather than heavy oscillation. R2 is typically treated as a gently ornamented note, M1 and P are usually held steady as structural pillars, and N2 may receive light kampita or a soft slide into upper S. Because the raga lacks gandharam and dhaivatam, phrases should remain clean and direct, with jaru-like transitions between the available notes rather than dense gamaka clusters. Compared with closely related ragas such as Manirangu or Kedaragaula, Madhyamavati is more straightforward and less colored by extra descending notes.",
+  "hindustani_equivalent": "Madhumad Sarang",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Vinayakuni",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Adigi Sukhamu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Deva Sri Tapastirtha",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nagumomu Galavaani",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rama Katha Sudha",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Alakalalla",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nadupai",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Evaririchara Sara",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Venkatesha Ninnu Sevimpa",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nalina Lochana",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rama Namam Bhajare",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rama Samayamu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sharanu Sharananuchu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sri Rama Jaya Rama",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Mucchata Bhrahma",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Dharma Samvardhini",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Maha Tripurasundari Mamava Jagadishvari",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sri Rajarajeshvarim",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Pannaga Shayana Padmanabha",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Palinchu Kamakshi",
+      "composer": "Shyama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kamakshi Loka Sakshini",
+      "composer": "Shyama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Brihannnayaki Nannu Brova",
+      "composer": "Shyama Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kosalendra Mamavamita",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Bhavaye Padmanabham Iha",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sarasamukha Sarasijanabha",
+      "composer": "Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Parthasarathy Nannu",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ramabhirama",
+      "composer": "Mysore Vasudevachar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Marulu Madikonde",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Makutake Mangalam",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Ellanu balle",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Kande Kande Rajara",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Indu Nanenu Sukrutava",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Enu Pelali Thangi",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Bandu Nintiha Nodi",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Shiva Darushana",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Tolu Tolu Ranga",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Bhagyada Lakshmi Baaramma",
+      "composer": "Purandara Dasaru",
+      "language": "Kannada"
+    },
+    {
+      "name": "Sundara Nanda Kumara",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Shankari Shri Rajarajeshwari",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Peshade Pongaladi",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Aadathu Asangaathu Vaa Kanna",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Vinnavimpave",
+      "composer": "Saahaji Maharaj",
+      "language": ""
+    },
+    {
+      "name": "Eshtu Sahasavantha",
+      "composer": "Vadiraja Tirtha",
+      "language": ""
+    },
+    {
+      "name": "Sevakanelo naanu",
+      "composer": "Vadiraja Tirtha",
+      "language": ""
+    },
+    {
+      "name": "Baro Guru Raghavendra",
+      "composer": "Shreesha Vittala Dasaru",
+      "language": ""
+    },
+    {
+      "name": "Edurarai Guruve",
+      "composer": "Vyasatirtha",
+      "language": ""
+    },
+    {
+      "name": "Ninna Olumeinda",
+      "composer": "Vijaya Dasa",
+      "language": ""
+    },
+    {
+      "name": "Vyasa Badari Nivasa",
+      "composer": "Vijaya Dasa",
+      "language": ""
+    },
+    {
+      "name": "Dasanagu Visheshanagu",
+      "composer": "Kanaka Dasa",
+      "language": ""
+    },
+    {
+      "name": "Nyayiru Kayathu",
+      "composer": "Poet Kayamanar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sri Ramani Jaya Tribhuvana",
+      "composer": "Guru Mahipati Dasa",
+      "language": ""
+    },
+    {
+      "name": "Sharavanabhava Guhane",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Kanna Katharul",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Karpagame Kan",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Akhilanda Nayaka",
+      "composer": "Thulasivanam",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sri Chamundeswarim Bhajeham Santatam",
+      "composer": "Jayachamarajendra Wodeyar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Vidachi sukhimpave",
+      "composer": "Saint Gnanananda Teertha (Ogirala Veera Raghava Sarma)",
+      "language": "Telugu"
+    },
+    {
+      "name": "Devi parvati",
+      "composer": "Saint Gnanananda Teertha (Ogirala Veera Raghava Sarma)",
+      "language": "Telugu"
+    },
+    {
+      "name": "Marali Marali Jayamangalam",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Adivo Alladivo",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Choodaramma Satulala",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Alara Chanchala",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Santoshi Mata",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Shri Parameshwaram Chinmaya tava",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Shri Rama Jaya Bhuma",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Shrimat Tripurasundari Amba",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Bhajamahe Shri Tripurasundari",
+      "composer": "Hari Sundareswara Sharma",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Radha Vadhana",
+      "composer": "Jayadeva",
+      "language": ""
+    },
+    {
+      "name": "Muruga Enadharuyire",
+      "composer": "Periyasaamy Thooran",
+      "language": ""
+    },
+    {
+      "name": "Saraguna Nannela",
+      "composer": "Tiruvottriyur Tyagayyar",
+      "language": ""
+    },
+    {
+      "name": "Shiva Perumane",
+      "composer": "Tiger Varadachariar",
+      "language": ""
+    }
+  ],
+  "notable_features": "Madhyamavati is a janya of Kharaharapriya (22nd melakarta), and the text notes that it can also be derived from Charukesi, Natabhairavi, or Harikambhoji by dropping gandharam and dhaivatam. It is a symmetric pentatonic rāga with no G or D. It is considered highly auspicious and is traditionally used to end Carnatic concerts. The raga is said to be very suitable for elaboration because of its even spacing. Graha bhedam on Madhyamavati yields four major pentatonic rāgas: Mohanam, Hindolam, Shuddha Saveri, and Udayaravichandrika (Shuddha Dhanyasi). Related scale-similarity notes mention Kedaragaula, Manirangu, Revati, Brindavana Sāranga, Andolika, and Nagagandhari.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Madhyamavati"
+}

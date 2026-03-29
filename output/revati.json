@@ -1,0 +1,144 @@
+{
+  "raga_name": "Revati",
+  "other_names": [
+    "Revatī",
+    "Revathi"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 2,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R1",
+    "M1",
+    "P",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "P",
+    "M1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Karuna",
+    "Bhakti",
+    "Shanta"
+  ],
+  "mood": "Revati has a serene, plaintive, and devotional mood. Its pentatonic structure gives it a simple, uncluttered, almost meditative character, often evoking tenderness, pathos, and quiet surrender. The raga can feel like a gentle prayer or a reflective twilight landscape, suitable for contemplative and devotional settings. Because it is also associated with Vedic chanting, it carries an austere sacredness rather than exuberance.",
+  "description": "Revati is a rāgam in Carnatic music and is classified as an audava rāgam, meaning it uses a pentatonic scale. It is a janya rāgam, as it does not employ all seven swaras. Its scale is S R1 M1 P N2 S in ascent and the same notes in descent, giving it a symmetrical and straightforward structure. The raga is considered a janya of Ratnangi, the 2nd melakarta, though it can also be derived from several other melakartas by omitting gandharam and dhaivatam. Revati is closely associated with devotional and contemplative expression, and is noted for its use in Vedic chanting. It is also linked by graha bhedam to Shivaranjani and Sunadavinodini. In comparison with Madhyamavati, Revati uses R1 instead of R2, giving it a more plaintive and introspective color. In Hindustani music it closely resembles Bairagi Bhairav, and in Western/Japanese contexts it is associated with the Insen scale.",
+  "time_of_day": "",
+  "gamaka_usage": "Revati is generally rendered with restrained gamaka treatment, emphasizing its austere and devotional character. R1 is typically approached with a gentle kampita or subtle oscillation rather than a heavy flourish, while M1 and P are usually held steady and flat to preserve the raga’s simplicity. N2 may take a light oscillatory touch or a smooth jaru into the upper shadjam, but it should not be overdecorated. The raga’s identity depends on clear, unambiguous phrasing of S–R1–M1–P–N2 and the descent >S–N2–P–M1–R1–S; excessive gamaka can blur it toward related pentatonic ragas. Compared with Madhyamavati, the lower R1 in Revati gives a more plaintive color, and the gamakas should reinforce that softer, more introspective feel.",
+  "hindustani_equivalent": "Bairagi Bhairav",
+  "western_equivalent": "Insen scale",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Mohana Vamshi",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Jagannatha Anatharakshaka",
+      "composer": "Subba Rao",
+      "language": ""
+    },
+    {
+      "name": "Nanati Baduku",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Akati Velala",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Dhavalagangeya Gangadhara",
+      "composer": "Vadiraja Tirtha",
+      "language": ""
+    },
+    {
+      "name": "Parvati Bhagavathi",
+      "composer": "R. K. Padmanabha",
+      "language": ""
+    },
+    {
+      "name": "Rogaharane Krupasagara",
+      "composer": "Jagannatha Dasa",
+      "language": ""
+    },
+    {
+      "name": "Siri Ramana",
+      "composer": "Jagannatha Dasa",
+      "language": ""
+    },
+    {
+      "name": "Venkatesha Stavaraja",
+      "composer": "Jagannatha Dasa",
+      "language": ""
+    },
+    {
+      "name": "Mahadeva Shiva Shambho",
+      "composer": "Thanjavur Sankara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Sri Hare Janardhana",
+      "composer": "Puthucode Krishnamurthy",
+      "language": ""
+    },
+    {
+      "name": "Bho Shambho",
+      "composer": "Swami Dayananda Saraswati",
+      "language": ""
+    },
+    {
+      "name": "Navaratna Bhushanalankrte",
+      "composer": "Kollegal R Subramanian",
+      "language": ""
+    },
+    {
+      "name": "Vâni Vēna Pâni",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Janani Janani",
+      "composer": "Cuddalore Subramaiam",
+      "language": ""
+    },
+    {
+      "name": "Mayiladum Mayilaiyin",
+      "composer": "GN Rajagopal",
+      "language": "Tamil"
+    },
+    {
+      "name": "Mangala Dayini",
+      "composer": "Adiseshayyar",
+      "language": ""
+    },
+    {
+      "name": "Petra Thai",
+      "composer": "Ramalinga Vallalar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Tillana",
+      "composer": "Lalgudi Jayaraman",
+      "language": ""
+    }
+  ],
+  "notable_features": "Revati is a pentatonic janya rāgam with no gandharam or dhaivatam. It is considered a janya of Ratnangi (melakarta 2), though it can also be derived from several other melakartas by omitting G and D. Its notes can be used in graha bhedam to obtain Shivaranjani and Sunadavinodini. The raga is also noted for its use in Vedic chanting. The text explicitly compares it to Madhyamavati, which substitutes R2 for Revati’s R1.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Revati"
+}

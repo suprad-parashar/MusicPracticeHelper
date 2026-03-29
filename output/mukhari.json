@@ -1,0 +1,299 @@
+{
+  "raga_name": "Mukhari",
+  "other_names": [
+    "Mukhāri",
+    "Mukhaari"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 22,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M1",
+    "P",
+    "N2",
+    "D2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D1",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "shadava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "D2"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna"
+  ],
+  "mood": "Mukhari has a grave, reflective, and deeply emotive character. It is often heard as sorrowful and introspective, yet it also carries a strong devotional serenity. The raga can evoke a sense of quiet lament, tender prayer, and inward contemplation, making it suitable for moments of emotional depth, surrender, and stillness. Its beauty lies in how sadness is softened by devotion and calm, so the listener may feel both pathos and peace at once.",
+  "description": "Mukhari is a well-known and colourful janya rāga of Kharaharapriya (22nd melakarta). It is described as a strong raga with great emotive appeal, often spoken of as sorrowful and introspective, though it also effectively exudes bhakti and shanta. It is allied to ragas such as Huseni, Bhairavi, Salagabhairavi, Kokilavarali and Maanji. The raga is especially effective in very slow tempo, where each note and gamaka can be clearly enunciated, though crisper renditions are also appreciated. Its scale is asymmetric in practice: arohana S R2 M1 P N2 D2 S and avarohana S N2 D1 P M1 G2 R2 S. The notes include Sadja, Chatusruti Rishabha, Shuddha Madhyama, Panchama, Chatusruti Dhaivata in ascent, Shuddha Dhaivata in descent, and Kaisiki Nishada, with Sadharana Gandhara appearing only in avarohana. Important phrases include SRM G, RS with emphasis on Madhyama, and PDSR with emphasis on Rishabha. It is a special raga with rich melodic possibilities and requires precise swara placement to avoid drifting into neighbouring ragas. The raga is also associated with a number of well-known compositions across composers and languages, and is especially valued for its expressive depth in devotional and pathos-laden contexts.",
+  "time_of_day": "morning",
+  "gamaka_usage": "Mukhari demands very precise swara positions and gamakas. The notes must be enunciated clearly, especially in slow tempo, and the raga gains much of its identity from careful phrase-by-phrase treatment rather than from a merely scalar rendering. Rishabha and madhyama are important anchor notes, with the phrase SRM G highlighting madhyama and PDSR highlighting rishabha. Gandhara appears only in the descent and must be handled carefully so the raga does not drift into neighbouring ragas. By implication, R2 and M1 are the most stable notes, while G2, N2, and the dhaivata notes require controlled oscillation and careful phrase-based treatment. D2 is used in ascent as an anya-swara-like ascent note, while D1 is used in descent; this contrast must be articulated cleanly. Compared with allied ragas, the gamaka and phrase treatment is what preserves Mukhari’s identity.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Sivakama Sundari",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sangeeta Shastra",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Entani Ne",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Emani Ne",
+      "composer": "Subbaraya Shastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Arivar Yaar",
+      "composer": "Arunachala Kavi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Endraikku Shiva Krupai",
+      "composer": "Neelakanta Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Era Napai",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Era Napai",
+      "composer": "Pallavi Doraiswamy Iyer",
+      "language": ""
+    },
+    {
+      "name": "Ninnukori",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Madhirakshi",
+      "composer": "Veena Kuppayyar",
+      "language": ""
+    },
+    {
+      "name": "Madhirakshi",
+      "composer": "Tiruvottriyur Tyagayyar",
+      "language": ""
+    },
+    {
+      "name": "Indu Enage Govinda",
+      "composer": "Raghavendra Swami",
+      "language": ""
+    },
+    {
+      "name": "Palisemma Muddu Sharade",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Chitta Shuddhi Illadava",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Brahma Kadigina Padamu",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Pahimaam Rathnachala",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Govindarajam Upasmahe",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Ekamranathaya Namaste",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Entaninne",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Ksheenamai",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Karubaru Cheyuvaru",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Elavatara",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Chintistunnade",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Indukayi Tanuvunu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Sarasiruhanana",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Sangeeta Shastra",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Talachi Nantane",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Muripemu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Endraikku Siva Krupai",
+      "composer": "Neelakanta Sivan",
+      "language": ""
+    },
+    {
+      "name": "Siva Gurunathanai",
+      "composer": "Kumara Ettendra",
+      "language": ""
+    },
+    {
+      "name": "Emani Ne",
+      "composer": "Subbaraya Sastri",
+      "language": ""
+    },
+    {
+      "name": "Ososi Namadi",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Akkaraleni Kapuramaye",
+      "composer": "Kshetrayya",
+      "language": ""
+    },
+    {
+      "name": "Na Moralanu Vini",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Emandune Muddu Balamani",
+      "composer": "Dharmapuri Subbarayar",
+      "language": ""
+    },
+    {
+      "name": "Dasaratha Rama",
+      "composer": "Bhadrachala Ramadasu",
+      "language": ""
+    },
+    {
+      "name": "Sivakama Sundari",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Sharanam Ayyappa",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Krishnam Kalaya",
+      "composer": "Narayana Teertha",
+      "language": ""
+    },
+    {
+      "name": "Palimpavamma",
+      "composer": "Syama Sastri",
+      "language": ""
+    },
+    {
+      "name": "Vadasiyadi Kinchidapi",
+      "composer": "Jayadeva",
+      "language": ""
+    },
+    {
+      "name": "Epudu Kripa Galguno",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Bhavathi Vishwasome",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Pahi Sada",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Adimalar Irathanne",
+      "composer": "Irayimman Thampi",
+      "language": ""
+    },
+    {
+      "name": "Arivar Yaar",
+      "composer": "Arunachala Kavi",
+      "language": ""
+    },
+    {
+      "name": "Jalamiga Valadura",
+      "composer": "unknown composer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Anandam Anandam Anandame",
+      "composer": "",
+      "language": "Tamil"
+    },
+    {
+      "name": "Jalamiga Valadhura",
+      "composer": "unknown composer",
+      "language": "Telugu"
+    }
+  ],
+  "notable_features": "Janya rāga of Kharaharapriya (22nd melakarta). The text explicitly calls it a strong raga with sorrowful, introspective, devotional, and shanta qualities. Allied ragas include Huseni, Bhairavi, Salagabhairavi, Kokilavarali and Maanji. The source highlights the need for precise swara positions to avoid drifting into neighbouring ragas. Important phraseology includes SRM G and PDSR. The raga is said to have many melodic possibilities. The source also notes a special wedding-context piece, Anandam Anandam Anandame, played by the orchestra immediately after the mangalsutra is tied, evoking mixed happiness and sorrow. Jalamiga Valadhura is described as a very rare, short swarajati in Telugu by an unknown composer.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mukhari"
+}

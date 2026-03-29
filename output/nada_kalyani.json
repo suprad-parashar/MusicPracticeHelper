@@ -1,0 +1,55 @@
+{
+  "raga_name": "Nada Kalyani",
+  "other_names": [
+    "Nada Kalyan"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 65,
+  "inventor": "Mahesh Mahadev",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M2",
+    "P",
+    "N3",
+    "Ṡ"
+  ],
+  "avrohana": [
+    "Ṡ",
+    "N3",
+    "D2",
+    "P",
+    "M2",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Nada Kalyani has a bright, uplifting, and expansive mood. Its pentatonic ascent gives it a clean, open, and graceful feel, while the fuller descent adds warmth and completeness. Because it is derived from Kalyani, it carries an auspicious, devotional, and serene character, but with a slightly modern and novel sheen due to its asymmetric structure. The raga can evoke calm devotion, gentle joy, and a sense of wonder, making it suitable for reflective and spiritually elevated listening.",
+  "description": "Nada Kalyani is a Carnatic janya raga derived from the 65th melakarta, Mechakalyani (Kalyani). It was created by composer Mahesh Mahadev, who is noted in the source as having created many ragas. The raga is asymmetric and audava-sampurna: the आरोहणम् omits gandharam and dhaivatam, while the avarohanam is sampurna in the sense of using the full descending contour with G3 and D2. The scale is S R2 M2 P N3 S in ascent and S N3 D2 P M2 G3 R2 S in descent. It is described as equivalent to the Western Lydian mode, with the third and sixth notes omitted in the ascending scale. In Hindustani music it is called Nada Kalyan. The only composition explicitly mentioned in this raga is 'Achyutam Keshavam' by Mahesh Mahadev, sung by Priyadarshini.",
+  "time_of_day": "",
+  "gamaka_usage": "The source does not specify gamakas, but the raga’s structure suggests a relatively smooth treatment of the ascent, with S, R2, M2, P, and N3 rendered cleanly and prominently. The omitted G3 and D2 in आरोहणम् should not be stressed in ascent, while the descent should bring them in with gentle slides and light oscillation, especially around M2–G3–R2 and N3–D2–P. As a Kalyani-derived raga, M2 and N3 can be given a bright, sustained emphasis, with graceful jaru phrases linking the notes rather than heavy kampita on the pentatonic ascent.",
+  "hindustani_equivalent": "Nada Kalyan",
+  "western_equivalent": "Lydian mode",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Achyutam Keshavam",
+      "composer": "Mahesh Mahadev",
+      "language": ""
+    }
+  ],
+  "notable_features": "Janya of Mechakalyani (65th melakarta). Audava-sampurna structure. Asymmetric scale with omitted G3 and D2 in ascent. Equivalent to the Western Lydian mode, but with the third and sixth omitted in the ascending phrase. Named Nada Kalyan in Hindustani music. Created by Mahesh Mahadev.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nada_Kalyani"
+}

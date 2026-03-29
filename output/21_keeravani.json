@@ -1,0 +1,173 @@
+{
+  "raga_name": "Keeravani",
+  "other_names": [
+    "Kiraṇāval̥i",
+    "Kiranavali"
+  ],
+  "melakarta_number": 21,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Veda",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M1",
+    "P",
+    "D1",
+    "N3",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N3",
+    "D1",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna"
+  ],
+  "mood": "Keeravani carries a plaintive yet serene and deeply expressive mood. It evokes devotion, introspection, and a gentle sense of longing or pathos, while also retaining an elegant, composed, and nocturnal calm. The raga often feels contemplative and emotionally rich, with a harmonic-minor-like color that can suggest solemnity, tenderness, and quiet drama.",
+  "description": "Keeravani is the 21st melakarta rāgam in the 72-melakarta system and the 3rd rāgam in the 4th chakra, Veda. Its mnemonic name is Veda-Go and the mnemonic phrase is sa ri gi ma pa dha nu. The scale is sampoorna, using all seven notes in both ascent and descent: S R2 G2 M1 P D1 N3 S and S N3 D1 P M1 G2 R2 S. It uses chathusruthi rishabha, sadharana gandhara, shuddha madhyama, panchama, shuddha dhaivatha, and kakali nishadha. Keeravani is the shuddha madhyamam equivalent of Simhendramadhyamam, the 57th melakarta. It is also known in the Muthuswami Dikshitar school as Kiraṇāval̥i. The rāgam is popular in western music as the harmonic minor scale, and the source notes that it is said to have been borrowed into Hindustani music from Carnatic music. Keeravani has many janya rāgams associated with it, including Kalyanavasantam, Chandrakouns, Sāmapriya, and Vasantamanohari. Its notes, when shifted by graha bhedam, yield Hemavati, Vakulabharanam, and Kosalam.",
+  "time_of_day": "night",
+  "gamaka_usage": "As a melakarta, Keeravani is generally rendered with clear, well-defined swaras rather than heavy oscillation on every note. R2 and G2 are important and are typically given gentle kampita or nuanced slides, with G2 especially shaped carefully in phrases like S R2 G2 M1 and M1 G2 R2 S. D1 and N3 are also handled with controlled gamaka and smooth jaru transitions, especially in the descent N3 D1 P M1 G2 R2 S. M1 and P are usually held steady as anchor notes. The raga’s identity depends on the precise handling of the minor-third-like G2 and the leading-tone-like N3, so these notes should not be rendered too flat or too heavily oscillated in a way that blurs the scale’s harmonic-minor flavor.",
+  "hindustani_equivalent": "Kirwani",
+  "western_equivalent": "Harmonic minor scale",
+  "popular_janya_ragas": [
+    "Kalyanavasantam",
+    "Chandrakouns",
+    "Sāmapriya",
+    "Vasantamanohari"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Pancha Bhoota Kiranaavalim",
+      "composer": "Muthuswamy Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Kaligiyunte",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Eti Yochanalu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Paraku Neekelara",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ambavani nannu",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Balasarasa Murali",
+      "composer": "Oottukkadu Venkata Kavi",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Bhavaye Saarasanabham",
+      "composer": "Swathi Thirunal Rama Varma",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Bhaktha Palana Seya",
+      "composer": "Ponniah Pillai of the Tanjore Quartet",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Tatva Jivatvam",
+      "composer": "Sadasiva Brahmendra",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Devi neeye thunai",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "NA puNyamu gAdA IshA",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sarvaparadhava",
+      "composer": "Purandara Dasaru",
+      "language": "Kannada"
+    },
+    {
+      "name": "nijamuga rAma nI pAdamula nitya nammina nnau brOvumu",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": "Telugu"
+    },
+    {
+      "name": "varamulosagi brOcuTa nI karudA jagadAdhara",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Innamum Sandeha Padalamo",
+      "composer": "Gopalakrishna Bharathi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Vinayagane vinaitheerpavane",
+      "composer": "Ulundhoorpettai Shanmugam",
+      "language": "Tamil"
+    },
+    {
+      "name": "NI caraNAmbujamunu neranammiti nIrajAkSi",
+      "composer": "G. N. Balasubramaniam",
+      "language": "Telugu"
+    },
+    {
+      "name": "Karunakarane Shivashankarane",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Mahadeshwara Ashtadashanama",
+      "composer": "Mahesh Mahadev",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sri Dakshinamurthim",
+      "composer": "M. Balamuralikrishna",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Bhavaye Saadaram",
+      "composer": "Thulaseevanam (R. Ramachandran Nair)",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Vaananai mathi soodiya",
+      "composer": "Appar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Unnai nambinen aiya",
+      "composer": "Muthu Thandavar",
+      "language": "Tamil"
+    }
+  ],
+  "notable_features": "Melakarta #21; chakra Veda; mnemonic name Veda-Go; mnemonic phrase sa ri gi ma pa dha nu. It is the shuddha madhyamam equivalent of Simhendramadhyamam (#57). The Muthuswami Dikshitar school names the 21st melakarta as Kiraṇāval̥i. Graha bhedam from Keeravani yields Hemavati, Vakulabharanam, and Kosalam. The raga is widely recognized for its harmonic minor resemblance and has many janya ragas, with Kalyanavasantam specifically noted as a popular janya.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Keeravani"
+}

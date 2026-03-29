@@ -1,0 +1,64 @@
+{
+  "raga_name": "Bhairavi",
+  "other_names": [
+    "Bhairavi (Carnatic)"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 20,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M1",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D1",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "janya",
+  "is_vakra": false,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "D1"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Shanta"
+  ],
+  "mood": "Bhairavi is a deeply expansive and highly expressive raga with a broad emotional range. It can convey devotion, tenderness, pathos, and serene nobility, often evoking a mature, weighty feeling rather than light ornamentation. The raga is especially effective for long elaboration and can move the listener through introspective calm, devotional surrender, and poignant emotional depth. It is often suited to the later hours of the day, when its rich phrases feel reflective and dignified.",
+  "description": "Bhairavi is an ancient and very popular janya raga in Carnatic music, said to have been prevalent for about 1500 years. Though structurally sampoorna, it is not a melakarta because it is a bhashanga raga that uses two dhaivathams: chatushruti dhaivatham (D2) in the ascent and shuddha dhaivatham (D1) in the descent and in phrases such as P D N D P. It is derived from the 20th melakarta Natabhairavi. The raga has two commonly cited scalar forms: S R2 G2 M1 P D2 N2 S / S N2 D1 P M1 G2 R2 S, and a vakra variant S G2 R2 G2 M1 P D2 N2 S / S N2 D1 P M1 G2 R2 S. Bhairavi is one of the most important concert ragas, with enormous scope for improvisation in all three sthayis, especially the upper madhya and tara sthayis. It is well suited to thanam, kanakku, sarvalaghu swaras, and ragam-thanam-pallavi. Syama Sastri's Kamakshi Swarajathi is noted for using every note of the raga as a graha swaram. The raga is distinguished from Kharaharapriya by the phrase S G R G and by gamaka treatment on G ending in R, and from Mukhari by the use of P D2 N2 S and S G2 R2 G2 M1. It is also related by similarity of murchana and anya-swara usage to Manji, Mukhari, and Huseni. Hindustani Bhairavi is very different from the Carnatic raga and corresponds more closely to Carnatic Thodi in aroha-avaroha terms.",
+  "time_of_day": "later hours of the day",
+  "gamaka_usage": "Gamaka treatment is central to Bhairavi’s identity. R2 and M1 can be prolonged without gamaka, but G2 is typically handled with oscillation and slides, often in conjunction with R2. In ascent, G2 is held together with R2 and may be rendered with short or wide oscillation, as in S G R G M; the gamaka on G should resolve into R rather than resting on G. In descent, phrases like M P G R are used, with G2 sliding down from M1 and oscillating. The nishada is an important jeeva swara and may be rendered with varying degrees of gamaka depending on whether D2 or D1 is in use. D2 is characteristic in the ascent phrase P D2 N2 S, while D1 is used in descent and in P D N D P. The deft handling of G2, N2, D2, and D1 gives the raga its distinctive flavour. Compared with Kharaharapriya, Bhairavi’s S G R G phrase and the tendency for gamaka to end on R are essential; unlike some allied ragas, G should not be allowed to settle plainly on itself in the same way.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Viriboni",
+      "composer": "Pacchimiriam Adiyappa",
+      "language": ""
+    },
+    {
+      "name": "Kamakshi Swarajathi",
+      "composer": "Syama Sastri",
+      "language": "Telugu"
+    }
+  ],
+  "notable_features": "Bhairavi is one of the most popular concert ragas and has near-infinite compositional repertoire. It can be elaborated beautifully in all three sthayis, especially upper madhya and tara sthayis. It is a bhashanga raga with both D2 and D1 in different directions/phrases. The raga lacks vakra sancharas in its common form, making both brighas and slower phrases effective. It is especially suitable for thanam, kanakku, sarvalaghu swaras, and RTP. Syama Sastri’s Kamakshi Swarajathi is highlighted as using every note as a graha swaram. The raga is distinguished from Kharaharapriya and Mukhari by characteristic phrases and gamaka handling. It is one of the oldest ragas, and the text notes that there are hundreds of compositions in it.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bhairavi"
+}

@@ -1,0 +1,77 @@
+{
+  "raga_name": "Jhankaradhvani",
+  "other_names": [
+    "Jhankaradhwani",
+    "Jhankārabhramari"
+  ],
+  "melakarta_number": 19,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Veda",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M1",
+    "P",
+    "D1",
+    "N1",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N1",
+    "D1",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Jhankaradhvani has a calm, devotional, and composed character. As a melakarta with a straightforward sampurna scale, it tends to feel balanced and orderly rather than highly dramatic. The shuddha madhyamam and the relatively soft contour give it a serene, reflective quality that suits prayerful or contemplative settings, with an undercurrent of gentle auspiciousness.",
+  "description": "Jhankaradhvani, also spelled Jhankaradhwani, is the 19th melakarta rāgam in the 72-melakarta system. In the Muthuswami Dikshitar school it is known as Jhankārabhramari. It is the 1st rāgam in the 4th chakra, Veda, with mnemonic name Veda-Pa and mnemonic phrase sa ri gi ma pa dha na. Its standard scale is S R2 G2 M1 P D1 N1 S / S N1 D1 P M1 G2 R2 S, making it a sampoorna melakarta. It is the shuddha madhyamam equivalent of Shamalangi (55th melakarta). In the older asampurna melakarta tradition of Venkatamakhin, the same scale is treated with vakra prayoga: S R2 G2 M1 P D1 N1 D1 P D1 S / S N1 D1 P M1 G2 R2 G2 R2 S. The raga has a few minor janya ragas associated with it. Graha bhedam on Jhankaradhvani yields Ratnangi and Gamanashrama. Compositions mentioned in this raga include works by Thyagaraja, Koteeswara Iyer, Dr. M. Balamuralikrishna, and Muthuswami Dikshitar.",
+  "time_of_day": "",
+  "gamaka_usage": "As a plain melakarta, Jhankaradhvani is best approached with relatively restrained gamaka treatment compared with more ornate janya ragas. The source text does not specify detailed gamaka rules, but by inference the stable scale tones R2, G2, M1, D1, and N1 are rendered cleanly with light oscillation where stylistically appropriate. Since it is not described as vakra in the standard form, phrases should remain direct and scalar, avoiding heavy kampita that would obscure the raga’s straightforward identity. In the asampurna version, the zig-zag prayogas imply more phrase-based handling, but the core note set remains the same.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Phanipati sayee",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Varam tharum",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Jhasha Kethana Pitaram",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Himachala kumarim bhaja",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "jhankAradhvani rAgA sannutE shankari pAlaya candramukhI",
+      "composer": "C. Rangiah",
+      "language": "Telugu"
+    }
+  ],
+  "notable_features": "Melakarta #19; first rāgam in chakra 4 (Veda); mnemonic name Veda-Pa; phrase sa ri gi ma pa dha na. Shuddha madhyamam equivalent of Shamalangi (#55). In the asampurna melakarta tradition it is called Jhankārabhramari and uses vakra prayoga. Graha bhedam yields Ratnangi and Gamanashrama. The text notes that it has a few minor janya ragams, but does not name them.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jhankaradhvani"
+}

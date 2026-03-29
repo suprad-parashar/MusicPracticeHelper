@@ -1,0 +1,227 @@
+{
+  "raga_name": "Harikambhoji",
+  "other_names": [
+    "Harikāmbhōji",
+    "Harikedāragowla",
+    "Sempaalai pann"
+  ],
+  "melakarta_number": 28,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Bana",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M1",
+    "P",
+    "D2",
+    "N2",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampoorna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Harikambhoji has a smooth, balanced, and melodious character with a calm, reassuring warmth. It tends to feel open and unforced rather than intensely dramatic, making it suitable for devotional and lyrical expression. The raga can evoke a gentle sense of contentment, grace, and serenity, with a dignified classical poise that supports both contemplative and pleasing musical moods.",
+  "description": "Harikambhoji is the 28th melakarta rāgam in the 72-melakarta system and the 4th rāgam in the 5th chakra, Bana. Its mnemonic name is Bana-Bhu and its mnemonic phrase is sa ri ga ma pa dha ni sa. The scale is the shuddha madhyamam equivalent of Vachaspati (64th melakarta). Historically, the Wikipedia text links it to ancient Tamil music: the pentatonic Mullaipann evolved into the seven-note Sempaalai by adding ma and ni, and Sempaalai pann is said to correspond to Harikambhoji. It is also identified as the Carnatic equivalent of Hindustani Khamaj thaat and the Western Mixolydian mode. Harikambhoji has many janya ragas, with Kambhoji being the most famous and frequently sung; Mohanam is also noted as a janya. The raga is theoretically significant because graha bhedam on its notes yields five other major melakarta ragas: Kalyani, Sankarabharanam, Natabhairavi, Kharaharapriya, and Hanumatodi. The text also notes that in the Muthuswami Dikshitar school it is known as Harikedāragowla. Additional modern references describe Harikambhoji as one of the ancient ragas with roots in folk tradition, reinforcing its long-standing place in Carnatic music.",
+  "time_of_day": "morning",
+  "gamaka_usage": "Harikambhoji is generally rendered with smooth, flowing ornamentation rather than heavy vakra effects. As a plain sampoorna melakarta, it supports clear, balanced prayogas with relatively stable S, P, and M1. The rishabha (R2), gandhara (G3), dhaivata (D2), and nishada (N2) are typically given gentle Carnatic gamaka treatment—often subtle kampita or light oscillation—so the raga retains its warm, rounded character. The gandhara and nishada especially benefit from soft oscillation or slide-like movement, while the madhyama and panchama are usually held steady. Compared with more heavily ornamented janyas such as Kambhoji, Harikambhoji itself is less dependent on complex zig-zag phrases and more on clean, well-shaped scalar movement.",
+  "hindustani_equivalent": "Khamaj",
+  "western_equivalent": "Mixolydian mode",
+  "popular_janya_ragas": [
+    "Kambhoji",
+    "Mohanam",
+    "Andolika",
+    "Kamas",
+    "Pashupatipriya",
+    "Kedaragaula",
+    "Natakurinji",
+    "Navarasa kannada",
+    "Sahana",
+    "Senchuruti",
+    "Surutti",
+    "Yadukula kambhoji",
+    "Kuntalavarali"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Raama Nannu Brova",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Entha Raani Thana",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Enduku Nirdhaya",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Laali Laaliyani",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Oka Maata",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Undedi Raamudu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Chanithodi",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Raaraa Phanishayana",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vallagadana",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Dinamani Vamsha",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vinataa Suta",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Enadhu Manam Kavalai",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Paamaalaikkinai Undo",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Kamala Paadha Malairnai",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Shankara Dayaakara",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Paadhamalar Thunaiye",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Muruga Tirumal Maruga",
+      "composer": "Thanjavur Sankara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Neeye En Gathi",
+      "composer": "Koteeswara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Paarka Paarka",
+      "composer": "Gopalakrishna Bharathi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Saketha Nagara Natha",
+      "composer": "Mysore Sadashiva Rao",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Jayathu Kodanda Rama",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Ithadokade Sarveshwarudu",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Annita Bhagyavanthuda",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Indariki Abhayamu",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Manjunigar Kuntala",
+      "composer": "Annamalai Reddiyar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Karomi Smaranam Shashaankavadanam",
+      "composer": "Ashok R Madhav",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Vandaadum Solai",
+      "composer": "Kalki Krishnamurthy",
+      "language": "Tamil"
+    },
+    {
+      "name": "Venkatachala Ramana",
+      "composer": "Kaiwara Amara Nareyana",
+      "language": "Kannada"
+    },
+    {
+      "name": "Smara Manasa",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Rama Na Moralincara",
+      "composer": "Walajapet Venkataramana Bhagavathar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Thiruvaai Malarndhu",
+      "composer": "Madurai R. Muralidaran",
+      "language": "Tamil"
+    },
+    {
+      "name": "Vaadamela",
+      "composer": "Nallan Chakravarthy Murthy",
+      "language": "Telugu"
+    }
+  ],
+  "notable_features": "Harikambhoji is a sampoorna melakarta with all seven swaras in both ascent and descent. It is the shuddha madhyamam equivalent of Vachaspati (64th melakarta). The raga is historically linked to ancient Tamil Sempaalai and is considered the Carnatic counterpart of Hindustani Khamaj and the Western Mixolydian mode. It is the 4th rāgam in the 5th chakra Bana, with mnemonic name Bana-Bhu. Graha bhedam on Harikambhoji yields Kalyani, Sankarabharanam, Natabhairavi, Kharaharapriya, and Hanumatodi. Its janya ragas include the famous Kambhoji and Mohanam, and the text also lists Kuntalavarali as a janya with scale S M1 P D2 N2 D2 S / S N2 D2 P M1 S. Modern references also describe it as an ancient raga with roots in folk tradition.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Harikambhoji"
+}

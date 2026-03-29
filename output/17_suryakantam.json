@@ -1,0 +1,90 @@
+{
+  "raga_name": "Suryakantam",
+  "other_names": [
+    "Sooryakantam",
+    "Chāyāvati",
+    "Chayavathi",
+    "Chayavathi"
+  ],
+  "melakarta_number": 17,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Agni",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "M1",
+    "P",
+    "D2",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Veera",
+    "Adbhuta"
+  ],
+  "mood": "Suryakantam has a bright, radiant, and uplifting character, with a clear and open melodic contour that feels expansive, dignified, and orderly. Its complete, symmetrical scale gives it a sense of steadiness and clarity, so the emotional effect is more one of calm optimism, auspiciousness, and luminous poise than deep yearning or pathos. It suits devotional and contemplative expression well, while also carrying a subtle brilliance and freshness that makes it feel noble and sunlit.",
+  "description": "Suryakantam, also spelled Sooryakantam, is the 17th melakarta rāgam in the 72-melakarta system of Carnatic music. In the Muthuswami Dikshitar school it is known as Chāyāvati. It belongs to the 3rd chakra, Agni, and its mnemonic name is Agni-Ma with the phrase sa ra gu ma pa dhi nu. It is a sampūrṇa scale with the notes shuddha rishabham, antara gandharam, shuddha madhyamam, panchamam, chathusruthi dhaivatham, and kakali nishadham. It is the shuddha madhyamam equivalent of Gamanashrama, the 53rd melakarta. In the older asampurna melakarta tradition of Venkatamakhin, Chāyāvati is also the 17th melakarta, but the ascending scale omits panchamam: S R1 G3 M1 D2 N3 S. The raga has several janya rāgams, with Vasantha, Sowrashtram, and Bhairavam noted as popular concert derivatives. Graha bhedam on Suryakantam yields the melakarta rāgams Senavati and Latangi.",
+  "time_of_day": "",
+  "gamaka_usage": "As a plain melakarta scale, Suryakantam is generally rendered with relatively straightforward, well-defined swaras rather than heavy vakra ornamentation. R1, G3, D2, and N3 are typically given light to moderate oscillation or graceful slides as needed in phrases, while M1 and P are usually held more steadily. Because the scale is symmetrical and non-bhashanga, the raga’s identity comes more from clean phraseology and the characteristic ascent-descent than from special foreign-note handling. Compared with vakra or heavily gamaka-driven ragas, Suryakantam is expected to sound more direct and scalar, with gamakas used tastefully to enliven the notes rather than obscure the scale.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Vasantha",
+    "Sowrashtram",
+    "Bhairavam"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Ranga Manege Baro",
+      "composer": "Sripadaraja",
+      "language": ""
+    },
+    {
+      "name": "Muddumomu elagu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Chayavathim",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Takkuvemi manaku",
+      "composer": "Bhadrachala Ramadasu",
+      "language": ""
+    },
+    {
+      "name": "Sri Sambasivaiyya",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Kanavo ninaivo",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta #17; chakra 3 (Agni); mnemonic name Agni-Ma; mnemonic phrase sa ra gu ma pa dhi nu. It is the shuddha madhyamam equivalent of Gamanashrama (#53). In the asampurna melakarta system, Chāyāvati uses the same notes but omits panchamam in the arohana. Graha bhedam from Suryakantam yields Senavati and Latangi. Popular janya ragas associated with it include Vasantha, Sowrashtram, and Bhairavam.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Suryakantam"
+}

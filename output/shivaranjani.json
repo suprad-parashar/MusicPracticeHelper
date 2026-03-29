@@ -1,0 +1,103 @@
+{
+  "raga_name": "Shivaranjani",
+  "other_names": [
+    "Sivaranjani"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 64,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M2",
+    "D2",
+    "P",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "D2",
+    "M2",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna"
+  ],
+  "mood": "Shivaranjani has a serene, devotional, and gently uplifting mood, but it is also strongly capable of expressing pathos and tender melancholy. Its pentatonic core gives it a simple, open, and accessible emotional space, while the vakra movement in the Carnatic form adds a graceful, slightly meandering quality. It can evoke calm reflection, prayerful devotion, soft contemplative joy, and at times a plaintive, heart-touching sadness rather than intense drama. The raga suits intimate, meditative settings and can also carry a light, lyrical sweetness in compositions and film music.",
+  "description": "Shivaranjani or Sivaranjani is a musical scale used in Indian classical music, with distinct Hindustani and Carnatic forms. In Carnatic music it is a janya raga derived from the 64th melakarta, Vachaspati. It is classified as audava-audava, meaning it has five notes in both ascent and descent. The Carnatic scale is vakra in prayoga, with zig-zag note phrases rather than a strictly linear movement. The scale uses shadjam, chatushruti rishabham, antara gandharam, prati madhyamam, chatushruti dhaivatam, panchamam, and kaisiki nishadam in the specific pattern given. The raga is related theoretically to other pentatonic scales through graha bhedam: shifting the tonic yields Sunadavinodini and Revati. The page also notes scale similarities with Mohanam, Pahadi, and Abhogi in the broader comparative discussion. Popular compositions in this raga include devotional and lyrical pieces by Papanasam Sivan, Madurai R. Muralidaran, and others. The Hindustani Shivaranjani is different and belongs to Kaafi thaat; the Carnatic Shivaranjani is the borrowed Carnatic form described here. It is especially valued for bhakti-laden and karuna-inflected expression, and is often chosen for songs of prayer, surrender, and emotional depth.",
+  "time_of_day": "night",
+  "gamaka_usage": "The source text does not give a detailed gamaka prescription, but the scale is explicitly vakra, so phrases should be rendered with smooth zig-zag movement rather than straight scalar runs. In practice, the raga is best approached with gentle oscillation and connected slides between R2, G3, M2, D2, P, and N2, preserving the pentatonic clarity. Because the scale is derived and relatively bright, the swaras are typically treated with light gamaka and graceful janta/jaru movement rather than heavy kampita. The vakra prayoga itself is an important part of the raga’s identity, so linear, plain-note rendering would understate its character. The descent often benefits from soft jaru-like connections, especially around D2-P-D2 and M2-G3-R2, while the notes are generally kept clean and unforced; the raga’s emotional effect comes more from phrase shape and contour than from heavy oscillation. Compared with more gamaka-heavy ragas, Shivaranjani is usually sung with restrained ornamentation and a plaintive, flowing touch.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Kurai ondrum illai",
+      "composer": "Rajaji",
+      "language": ""
+    },
+    {
+      "name": "Andavan Ambe",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Antaryami Alasithi Solasithi",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Yamanelli Kanenendu",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Aluvudyatako Rangayya",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Va Velava",
+      "composer": "M D Ramanathan",
+      "language": ""
+    },
+    {
+      "name": "Majhi Dev Puja",
+      "composer": "",
+      "language": "Marathi"
+    },
+    {
+      "name": "Andavan anbe",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Tarunamidaya dayai",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Maha Tripura Sundari Varnam",
+      "composer": "Madurai R. Muralidaran",
+      "language": ""
+    }
+  ],
+  "notable_features": "Carnatic Shivaranjani is a janya of the 64th melakarta Vachaspati. It is audava-audava and vakra. Graha bhedam on Shivaranjani yields two other pentatonic ragas: Sunadavinodini and Revati. The page also mentions that the traditional Marathi abhang Majhi Dev Puja has a popularized version in this raga. The raga is discussed alongside Mohanam, Pahadi, and Abhogi in scale-similarity comparisons. The text explicitly distinguishes the Carnatic and Hindustani Shivaranjani scales. It is also noted in external snippets as a raga associated with pathos, bhakti, and karuna, and is commonly rendered in late evening or midnight contexts in Hindustani usage, though that timing pertains to the Hindustani form rather than the Carnatic one.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shivaranjani"
+}

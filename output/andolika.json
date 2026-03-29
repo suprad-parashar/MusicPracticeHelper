@@ -1,0 +1,82 @@
+{
+  "raga_name": "Andolika",
+  "other_names": [
+    "Andholika"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 22,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M1",
+    "P",
+    "N2",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N2",
+    "D2",
+    "M1",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Andolika has a gentle, lilting, and soothing character, with a soft devotional warmth rather than intense drama. Its pentatonic ascent and compact descent create a calm, graceful emotional space that feels serene and lightly contemplative. The raga can evoke tenderness, quiet joy, nostalgic sweetness, and a devotional inwardness, making it suitable for reflective singing and elegant melodic elaboration.",
+  "description": "Andolika is a Carnatic janya raga, also written as Andholika, derived from the 22nd melakarta Kharaharapriya. It is an asymmetric audava-audava raga with five notes in both ascent and descent. Its arohana is S R2 M1 P N2 S and avarohana is S N2 D2 M1 R2 S. The descent is panchama-varjam, replacing panchamam with chatushruti dhaivatam in the avarohana. The text notes that because gandharam is omitted, the scale can also be viewed as a janya of the 28th melakarta Harikambhoji, though the Kharaharapriya association is more commonly preferred because of historical ordering. The raga is related by scale similarity to Madhyamavati and Kedaragaula. It has been used for several varnams and kritis, and its structure gives it a clean, compact melodic identity. Web snippets describe it as gentle, meditative, timeless, nostalgic, and soaked in devotion, and it is especially associated with Tyagaraja's Raga Sudha Rasa, which helped establish its identity in concert practice.",
+  "time_of_day": "morning",
+  "gamaka_usage": "Andolika is generally rendered with restrained, graceful gamaka treatment rather than heavy oscillation. R2 and N2 may take light kampita or gentle stress, but they should not be over-ornamented. M1 and P function as relatively stable anchor notes, giving the raga its clean pentatonic outline. D2 in the descent is a key characteristic note and is usually articulated clearly, often approached by a smooth jaru from N2 or used in a soft glide into M1. The phrases should preserve the raga's lilting, meditative quality; excessive gamaka on every note can obscure its identity. Compared with more heavily gamaka-laden ragas, Andolika benefits from crisp phrase boundaries and elegant, flowing prayogas such as S R2 M1 P N2 S and S N2 D2 M1 R2 S.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Mahishasura",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Needayarada",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Thirumal Maruga",
+      "composer": "Lalgudi Jayaraman",
+      "language": ""
+    },
+    {
+      "name": "Raga Sudha Rasa",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Sevikka Vendumayya",
+      "composer": "Muthu Thandavar",
+      "language": ""
+    },
+    {
+      "name": "Adimalarina Sharanam",
+      "composer": "Puthucode Krishnamurthy",
+      "language": ""
+    },
+    {
+      "name": "Vajreshi Mathe",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    }
+  ],
+  "notable_features": "Audava-audava asymmetric janya of Kharaharapriya (22nd melakarta). The avarohana is panchama-varjam, using D2 instead of P in descent. The text explicitly notes an alternate theoretical association with Harikambhoji (28th melakarta) because gandharam is omitted. Scale-similarity relations are given with Madhyamavati and Kedaragaula. Web snippets also note that Tyagaraja's Raga Sudha Rasa was important in popularizing the raga, and that Andolika is sometimes discussed as a South Indian raga adopted into Hindustani music under the name Raag Andolika. The listed compositions are all set to Adi talam, though tala is not attached to each item in the source text individually.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Andolika"
+}

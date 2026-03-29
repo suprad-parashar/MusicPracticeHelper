@@ -1,0 +1,56 @@
+{
+  "raga_name": "Mahathi",
+  "other_names": [
+    "Mahati"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 34,
+  "inventor": "M. Balamuralikrishna",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G3",
+    "P",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "P",
+    "G3",
+    "S"
+  ],
+  "raga_type": "tetratonic (chaturswara), symmetric janya",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Mahathi has a bright, compact, and uplifting character, with a clean and symmetrical four-note contour that feels direct and uncluttered. Its omission of rishabham, madhyamam, and dhaivatam gives it a crisp, open sound, often creating a sense of freshness, poise, and lightness. The raga can evoke devotional serenity as well as a striking, novel musical curiosity because of its unusual tetratonic structure.",
+  "description": "Mahathi (also written Mahati) is a Carnatic raga created by M. Balamuralikrishna. It is a symmetric tetratonic scale (chaturswara rāgam) with no rishabham, madhyamam, or dhaivatam in either ascent or descent. The scale is given as S G3 P N2 S and S N2 P G3 S. The source text classifies it as a janya of the 34th melakarta Vagadhishvari; it also notes alternative classifications as a janya of 14th Vakulabharanam or 28th Harikambhoji in some systems. The raga has no equivalent in Hindustani music and no direct Western equivalent is given. Two compositions are mentioned in this raga: 'Mahaneeya Madhura' by M. Balamuralikrishna, and 'Adhisaya Ragam' from the film Apoorva Ragangal, composed by M. S. Viswanathan and sung by K. J. Yesudas. The raga is notable for being a rare, self-contained four-note creation and for its pedagogical and compositional interest as a modern raga innovation.",
+  "time_of_day": "",
+  "gamaka_usage": "Because Mahathi is a compact tetratonic raga, its gamaka treatment is generally restrained and highly focused. G3 is the principal melodic anchor and is typically handled with gentle oscillation or nuanced kampita/janta-style emphasis rather than heavy ornamentation. N2 may also receive light oscillation or a smooth slide into and out of P, while S and P are usually kept comparatively steady as structural pillars. The raga’s identity depends on clear, clean phrase shapes such as S-G3-P-N2-S and the reverse, so excessive gamaka on the omitted swaras is not relevant; the absence of R, M, and D makes the phrases sound stark and distinctive. Jaru-like glides between G3-P and P-N2 help preserve its flowing character, but the overall treatment should remain simple and uncluttered.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Mahaneeya Madhura",
+      "composer": "M. Balamuralikrishna",
+      "language": "Telugu"
+    },
+    {
+      "name": "Adhisaya Ragam",
+      "composer": "M. S. Viswanathan",
+      "language": "Tamil"
+    }
+  ],
+  "notable_features": "A modern raga created by M. Balamuralikrishna; tetratonic/chaturswara structure; symmetric arohana-avarohaṇa; classified in the source as a janya of melakarta 34 Vagadhishvari, with alternate source classification as janya of 14 Vakulabharanam or 28 Harikambhoji; no Hindustani or Western equivalent stated; useful as a rare example of a four-note Carnatic raga.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mahathi"
+}

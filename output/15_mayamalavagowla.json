@@ -1,0 +1,285 @@
+{
+  "raga_name": "Mayamalavagowla",
+  "other_names": [
+    "Māyāmāḻavagauḻa",
+    "Malavagowla",
+    "Māyāmālavagowla",
+    "Māyāmālavagauḻa"
+  ],
+  "melakarta_number": 15,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Agni",
+  "arohana": [
+    "S",
+    "R1",
+    "G3",
+    "M1",
+    "P",
+    "D1",
+    "N3",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N3",
+    "D1",
+    "P",
+    "M1",
+    "G3",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Karuna",
+    "Bhakti"
+  ],
+  "mood": "This is an auspicious, deeply soothing raga with a calm, balanced, and reflective emotional color. It tends to evoke peace, gentle devotion, and a touch of pathos, making the listener feel settled, inward-looking, and emotionally purified rather than agitated. Its character suits early morning and dawn-like settings, where it can suggest freshness, prayer, and quiet contemplation.",
+  "description": "Mayamalavagowla is the 15th melakarta raga in Venkatamakhin's melakarta system and is one of the most important foundational ragas in Carnatic music. Originally known simply as Malavagowla, the prefix \"maya\" was added after the advent of the 72-mela scheme. Its number 15 is assigned through the Katapayadi sankhya system. It is the 3rd raga in the 3rd chakra, Agni, with mnemonic name Agni-Go and mnemonic phrase sa ra gu ma pa dha nu. It is a sampurna raga with all seven swaras in both ascent and descent, and it is the shuddha madhyamam equivalent of Kamavardhini (Pantuvarali), the 51st melakarta. The raga is ancient and highly rakti in nature, with strong melodic appeal. It is also described as a sarva svara gamaka varika rakti raga. It is especially significant pedagogically: all basic swara exercises such as Sarali, Jantai, Dhaattu, and related beginner lessons are traditionally set in this raga, a practice associated with Purandara Dasa's systematization of Carnatic teaching. The first mini-songs (geetam) after basic exercises are often set to Malahari, a janya of this raga. It has many janya ragas, including Bowli, Jaganmohini, Gowla, Gowlipantu, Lalita, Nadanamakriya, Revagupti, Saveri, and Malahari. It corresponds to Bhairav in Hindustani music. The raga is also a murchana karaka mela because graha bhedam on madhyamam and rishabham yields Simhendramadhyamam and Rasikapriya respectively. It is a morning raga, especially suited to the first prātaḥ-sandhyā-kālam (dawn).",
+  "time_of_day": "morning",
+  "gamaka_usage": "The gamaka treatment is distinctive and central to the raga's identity. Unlike Shankarabharanam, where the G-M relationship is more direct, in Mayamalavagowla the gandharam is typically oscillated in phrases like M,G M,G M,G while madhyamam is held steady. There is no bold M-P gamaka as in Shankarabharanam. Rishabham and dhaivatam are also usually rendered with oscillation in relation to shadjam and panchamam respectively, so the stable notes are mainly S, M, and P. The nishadam may occasionally be held flat before resolving upward to S for expressive effect. In practice, the raga depends on careful kampita on G, R, D, and controlled jaru-like movement between neighboring notes, while avoiding a heavy, linear treatment that would weaken its characteristic sweetness and symmetry.",
+  "hindustani_equivalent": "Bhairav",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Bowli",
+    "Jaganmohini",
+    "Gowla",
+    "Gowlipantu",
+    "Lalita",
+    "Nadanamakriya",
+    "Revagupti",
+    "Saveri",
+    "Malahari"
+  ],
+  "notable_compositions": [
+    {
+      "name": "śrī rājarājēśvari",
+      "composer": "Unknown Composer",
+      "language": ""
+    },
+    {
+      "name": "Om Pranava Vimala",
+      "composer": "Koranadu Natesa Pillai",
+      "language": ""
+    },
+    {
+      "name": "Tulasī-daḻamulacē Saṃtōṣamuga",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Mēru-samāna-dhira",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rakṣimpavē",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Dēvī Śrī tulasammā",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vidulaku Mrokkeda",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Dēva Dēva Kalayāmi",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Kailāsa nilaya dayāsāgara",
+      "composer": "Mahesh Mahadev",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Māyātīta Svarūpiṇi",
+      "composer": "Ponniah Pillai",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Śrīnāthādi Guruguho jayati",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Nīlothpalāmbikāyāha",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Śyāmalāmbikē pāhi māṃ",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Ādi Kondār",
+      "composer": "Muthu Thandavar",
+      "language": ""
+    },
+    {
+      "name": "ādityaṃ dēvādi-dēvaṃ akhilāṇḍa-nāthaṃ āśrayē",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Dina-maṇi-vaṃśa dīna-janāvana",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Hara mṛtyuñjaya ambikā-nāyaka hari kamalāsana",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Sarasija-nābha",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Avadh sukhdāyi bājē badhāyī ratan simhāsan par",
+      "composer": "Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Sivaloka Nathanai",
+      "composer": "Gopalakrishna Bharathi",
+      "language": ""
+    },
+    {
+      "name": "Natanam Adinar Ayyan",
+      "composer": "Gopalakrishna Bharathi",
+      "language": ""
+    },
+    {
+      "name": "Ambā yuvati jaganmātē akhila-janani dayānidhē",
+      "composer": "Ashok R Madhav",
+      "language": ""
+    },
+    {
+      "name": "Bhaja rē mānasa vraja-bālaṃ",
+      "composer": "H Yoganarasimhan",
+      "language": ""
+    },
+    {
+      "name": "Caraṇaṃ śaraṇaṃ ayyappā",
+      "composer": "Ganapati Sacchidananda",
+      "language": ""
+    },
+    {
+      "name": "Cintayāmi santataṃ",
+      "composer": "G Sampath",
+      "language": ""
+    },
+    {
+      "name": "Cintayehaṃ jānaki-kāntaṃ santataṃ cintitārtha",
+      "composer": "Mysore Vasudevacharya",
+      "language": ""
+    },
+    {
+      "name": "Daśaratha-nandana",
+      "composer": "Mysore Vasudevacharya",
+      "language": ""
+    },
+    {
+      "name": "Daasoham Tava Daasoham",
+      "composer": "Jagannatha Dasa",
+      "language": ""
+    },
+    {
+      "name": "Dēva-dēveśa",
+      "composer": "R K Suryanarayana",
+      "language": ""
+    },
+    {
+      "name": "Dēva-dēvōttama",
+      "composer": "Govindacharya",
+      "language": ""
+    },
+    {
+      "name": "Manamirangadha Irwiva",
+      "composer": "Swarna Venkatesa Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Dēvi kāmākṣi para-śiva-dēhārtha",
+      "composer": "Ogirala Viraraghava Sharma",
+      "language": ""
+    },
+    {
+      "name": "Durgā lakṣmi sarasvati",
+      "composer": "Lalita Venkataraman",
+      "language": ""
+    },
+    {
+      "name": "Samayamide(Javali)",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Kāmākṣīṃ kamalākṣīṃ",
+      "composer": "R K Padmanabha",
+      "language": ""
+    },
+    {
+      "name": "Jaya jagadisha hare",
+      "composer": "Jayadeva",
+      "language": ""
+    },
+    {
+      "name": "Krpakari shankari karunakari kapalishvari",
+      "composer": "Rukmini Ramani",
+      "language": ""
+    },
+    {
+      "name": "Mantra svarupam",
+      "composer": "Bangalore S Mukund",
+      "language": ""
+    },
+    {
+      "name": "Kshira jaladhi niketana",
+      "composer": "Pallavur Mani Iyer",
+      "language": ""
+    },
+    {
+      "name": "Kshira sagara shayana raksha shara nivasini",
+      "composer": "Jayachamaraja Wodeyar",
+      "language": ""
+    },
+    {
+      "name": "Maya mohini maheshvari",
+      "composer": "Mangalam Ganapati",
+      "language": ""
+    },
+    {
+      "name": "Kaladevathe Saraswathi",
+      "composer": "V. Dakshinamoorthy",
+      "language": ""
+    },
+    {
+      "name": "Thondi Sariya Mayire(Thiruppugazh)",
+      "composer": "Arunagirinathar",
+      "language": ""
+    },
+    {
+      "name": "guri tappaka pūjiṃcitini",
+      "composer": "Nallan Chakravarthy Murthy",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta #15; 3rd chakra Agni; mnemonic name Agni-Go; mnemonic phrase sa ra gu ma pa dha nu. Shuddha madhyamam equivalent of Kamavardhini (Pantuvarali, #51). Ancient, highly auspicious, and a foundational teaching raga for beginners. It eschews vivadi swaras and has uniform spacing and symmetry, which makes it easy to learn. It is a murchana karaka mela: graha bhedam on madhyamam gives Simhendramadhyamam and on rishabham gives Rasikapriya. It has many janya ragas. The text also notes that Muthuswami Dikshitar's first composition is in this raga and mentions his gouḻānta kritis on Goddess Nilothpalamba, one of which is in Mayamalavagowla.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mayamalavagowla"
+}

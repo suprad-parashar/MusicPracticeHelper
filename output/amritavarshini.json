@@ -1,0 +1,205 @@
+{
+  "raga_name": "Amritavarshini",
+  "other_names": [
+    "Amr̥tavarṣiṇi",
+    "Amruthavarshini",
+    "Amruthavarshini"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 66,
+  "inventor": "Muthuswami Dikshitar",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G3",
+    "M2",
+    "P",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "P",
+    "M2",
+    "G3",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Amritavarshini has a bright, uplifting, and refreshing mood, with a clear pentatonic openness that feels buoyant and expansive. Its sound often suggests a gentle shower of nectar or rain, creating an atmosphere of hope, delight, and auspiciousness. Because of its association with rain and the famous belief that it can bring showers, it can evoke wonder and a sense of the miraculous, while also carrying a devotional sweetness in concert and temple settings.",
+  "description": "Amritavarshini is a popular janya rāgam in Carnatic music, created in the early nineteenth century by Muthuswami Dikshitar. It is an audava (pentatonic) symmetric scale using only five notes: shadjam, antara gandharam, prati madhyamam, panchamam, and kakali nishadam. The rāgam is popularly associated with rain; its name comes from Sanskrit amrita (nectar) and varshini (one who causes a shower or rain). A well-known tradition says that Dikshitar brought rain at Ettayapuram, Tamil Nadu, by singing his composition Aanandaamrutakarshini amrutavarshini. It is generally considered a janya rāgam of Chitrambari, the 66th melakarta, though it can also be derived by omitting rishabham and dhaivatam from other melakartas such as Kalyani, Gamanashrama, or Vishwambari. The text also notes that another scale with the same name exists but is less practiced, associated with the 39th melakarta Jhalavarali. Because of its symmetry and pentatonic structure, the rāgam lends itself to extensive elaboration and is used in both classical and film music. It has a distinct, pleasing, and accessible melodic identity, and is especially known for its bright, rain-laden, nectar-like character.",
+  "time_of_day": "evening",
+  "gamaka_usage": "The rāgam is built on a very stable pentatonic framework, so the swaras are generally rendered with clean, well-defined intonation rather than heavy oscillation. S, P, and the upper shadjam are typically held steady. G3 and N3 may take light, graceful gamaka or gentle slides to give the rāgam its sweetness, while M2 is also treated clearly and prominently as a structural anchor. Because the scale omits R and D, phrases tend to move directly between S–G3 and P–N3 with smooth jaru-like transitions, producing a flowing, airy feel. The overall treatment is more transparent and less ornament-dense than in vakra or bhashanga ragas, and the gamakas should preserve the rāgam’s bright, crystalline character rather than obscure the pentatonic outline.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Anandamrithakarshini",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Ennai Nee Maravadhe",
+      "composer": "Dandapani Desikar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sarasiruhanayane",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vani Parama Kalyani",
+      "composer": "Vadiraja Tirtha",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Eesabeku Iddu",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Aanandaamrutakarshini amrutavarshini",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Himagiri Kumari",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Aadi Varuvai Guhane",
+      "composer": "Punitasri",
+      "language": "Tamil"
+    },
+    {
+      "name": "Siddhi Nayakena",
+      "composer": "M. Balamuralikrishna",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sthirata Nahi Nahi Re",
+      "composer": "Sadashiva Brahmendra",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Aadinateppadiyo Nadanam",
+      "composer": "anonymous",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sudhamayee Sudhanidi",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Amrithavarshini Taye",
+      "composer": "Thanjavur Shankara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Anni Mantramuli Inde Avahinchenu",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Oru dalam matram",
+      "composer": "M G Radhakrishnan",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Manam pon Manam",
+      "composer": "Raveendran",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Aashadham padumbol",
+      "composer": "Raveendran",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Neela lohita hitakarini",
+      "composer": "Ilayaraja",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Devi ni en pon veena nadam",
+      "composer": "Raveendran",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Vilikkatirunnalum virunninettum",
+      "composer": "G. Devarajan",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Sharatkala megham",
+      "composer": "Raveendran",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Kasturi Gandhikal",
+      "composer": "G. Devarajan",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Aadi parashakti",
+      "composer": "G. Devarajan",
+      "language": "Malayalam"
+    },
+    {
+      "name": "Cheluveya andada mogake",
+      "composer": "Rajan–Nagendra",
+      "language": "Kannada"
+    },
+    {
+      "name": "Naguve snehada haadu",
+      "composer": "Vijaya Bhaskar",
+      "language": "Kannada"
+    },
+    {
+      "name": "Chaitrada kusumanjali",
+      "composer": "Ramesh Naidu",
+      "language": "Kannada"
+    },
+    {
+      "name": "Devaru beseda premada hara",
+      "composer": "Hamsalekha",
+      "language": "Kannada"
+    },
+    {
+      "name": "Virahe Thavarihe",
+      "composer": "Hamsalekha",
+      "language": "Kannada"
+    },
+    {
+      "name": "Aanati neeyara hara",
+      "composer": "K.V. Mahadevan",
+      "language": "Telugu"
+    },
+    {
+      "name": "Jeevana vahini",
+      "composer": "M.M. Keeravani",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kurisenu Virijallule",
+      "composer": "Ilaiyaraaja",
+      "language": "Telugu"
+    }
+  ],
+  "notable_features": "Created in the early nineteenth century by Muthuswami Dikshitar. Believed to bring rain; the famous anecdote is that Dikshitar sang Aanandaamrutakarshini amrutavarshini at Ettayapuram and rain fell. It is a symmetric audava-audava rāgam with no rishabham or dhaivatam. Considered a janya of Chitrambari (66th melakarta), though derivable from other melakartas by omitting R and D. Graha bhedam from Amritavarshini yields Karnataka Shuddha Saveri. Scale-similar ragas mentioned are Hamsadhvani and Gambhiranata. Another less-practiced scale with the same name is associated with Jhalavarali (39th melakarta).",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amritavarshini"
+}

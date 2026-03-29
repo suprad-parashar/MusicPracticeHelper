@@ -1,0 +1,181 @@
+{
+  "raga_name": "Shanmukhapriya",
+  "other_names": [
+    "Shanmukapriya",
+    "Chāmaram",
+    "Chamaram",
+    "Shamugapriya",
+    "Sanmukhapriya"
+  ],
+  "melakarta_number": 56,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Disi",
+  "arohana": [
+    "S",
+    "R2",
+    "G2",
+    "M2",
+    "P",
+    "D1",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D1",
+    "P",
+    "M2",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Karuna",
+    "Adbhuta",
+    "Veera"
+  ],
+  "mood": "Shanmukhapriya has a deeply devotional and emotionally charged character, often evoking reverence, yearning, and spiritual intensity. It is especially associated with bhakti, and listeners may experience it as prayerful, inward, and moving, sometimes rising into a sense of wonder or heroic uplift. The raga can suggest the image of ardent supplication before a deity, particularly Murugan or Shiva, while also carrying a radiant, majestic force in expansive treatment. Its prati madhyama color combined with the softer D1 and N2 gives it a searching, poignant hue, so the emotional experience can move between tender pleading, meditative absorption, and dramatic spiritual exaltation.",
+  "description": "Shanmukhapriya is a melakarta ragam in Carnatic music and the 56th melakarta in the 72 melakarta system. It is the 2nd ragam in the 10th chakra, Disi, with mnemonic name Disi-Sri and mnemonic phrase 'sa ri gi mi pa dha ni'. In the Muthuswami Dikshitar school it is called Chāmaram. Its scale is sampurna, containing all seven notes in both ascent and descent: S R2 G2 M2 P D1 N2 S / S N2 D1 P M2 G2 R2 S. The swaras used are chatushruti rishabham, sadharana gandharam, prati madhyamam, shuddha dhaivatam and kaisiki nishadam. It is the prati madhyamam equivalent of Natabhairavi, the 20th melakarta. It is said to have been borrowed into Hindustani music from Carnatic music. Many compositions on Lord Murugan and Lord Shiva are based on this raga. It has a few minor janya ragams associated with it. The raga is widely valued for its splendorous melodic appeal and for its strong capacity to evoke bhakti rasa in both composed and improvisational music.",
+  "time_of_day": "",
+  "gamaka_usage": "As a melakarta with a symmetrical sampurna scale, Shanmukhapriya permits broad, elaborate treatment, but its identity depends strongly on gamaka-rich handling rather than plain scalar movement. G2 is a major jeeva swara and is rarely left bare; it is typically rendered with kampita and curved intonation in phrases such as R2-G2-M2 and M2-G2-R2-S. N2 also carries strong emotive weight and is often oscillated or approached with a glide from D1, especially in upper-register phrases like P-D1-N2-S and S-N2-D1-P. D1, because of its delicate position against M2 and N2, is usually treated with care—more shaded and caressed than struck harshly—and often appears in jaru-linked movement with P and N2. M2 is an important color-bearing note: it may be sustained, gently oscillated, or used as a pivot in phrases connecting G2 and P, helping bring out the raga’s prati-madhyama brightness. R2 is generally lighter than G2 in weight but participates in characteristic kampita-laden phrases leading into G2. P and S function as stable nyasa points and provide repose amid the more oscillated treatment of the softer swaras. Jaru phrases between adjacent notes, especially around G2-M2, P-D1-N2, and the descent N2-D1-P, are effective in bringing out the raga’s devotional and dramatic personality. Although straight scalar passages are possible because the raga is sampurna and non-vakra, a flat rendering can make it sound skeletal; the raga comes alive when G2, N2, and D1 are given nuanced oscillation and when M2 is used as a luminous anchor. Careful gamaka treatment also helps distinguish it from other prati-madhyama ragas with scalar similarity in isolated phrases.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "Hungarian Gypsy scale",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Vaddane Vaaru",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Marivere Dikkevarayya",
+      "composer": "Patnam Subramania Iyer",
+      "language": ""
+    },
+    {
+      "name": "Parvati Nayakane",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Sharavanabhava Enum",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Andavane Unnai",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Kannanai Pani Maname",
+      "composer": "Papanasam Sivan",
+      "language": ""
+    },
+    {
+      "name": "Abhimaanamutho Nannubrovaradha",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Yake Bagila Hakiruvi",
+      "composer": "Vadiraja Tirtha",
+      "language": ""
+    },
+    {
+      "name": "Mooru Namagala",
+      "composer": "Gopala Dasa",
+      "language": ""
+    },
+    {
+      "name": "Hoo beke Parimalada",
+      "composer": "Vidyaprasanna Teertha",
+      "language": "Kannada"
+    },
+    {
+      "name": "Kotta bhagyave sako",
+      "composer": "Vidyaprasanna Teertha",
+      "language": "Kannada"
+    },
+    {
+      "name": "Januma Janumadali",
+      "composer": "Vidyaprasanna Teertha",
+      "language": "Kannada"
+    },
+    {
+      "name": "Valli Nayakane",
+      "composer": "Muthiah Bhagavatar",
+      "language": ""
+    },
+    {
+      "name": "Vilayada idu nerama",
+      "composer": "T. N. Bala",
+      "language": ""
+    },
+    {
+      "name": "Sada tava pAda sannidhim",
+      "composer": "M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Omkara Pranava",
+      "composer": "M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Stava Vârdita Vikramà",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Mamava Karunaya",
+      "composer": "Swathi Thirunal Rama Varma",
+      "language": ""
+    },
+    {
+      "name": "Bhavasagaram",
+      "composer": "Gopalakrishna Bharathi",
+      "language": ""
+    },
+    {
+      "name": "Thandhai Thai Irundhal",
+      "composer": "Gopalakrishna Bharathi",
+      "language": ""
+    },
+    {
+      "name": "Siddhi Vinayakam",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Mahasuram Ketumaham",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sadashraye",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Ekamreshanayakim",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Muthai tharu pathi",
+      "composer": "Arunagirinathar",
+      "language": ""
+    }
+  ],
+  "notable_features": "It is the 56th melakarta and the prati madhyamam counterpart of Natabhairavi (20). In the Muthuswami Dikshitar school, the raga is known as Chāmaram, and the compositions Siddhi Vinayakam, Mahasuram Ketumaham, Sadashraye and Ekamreshanayakim contain that school-specific raga mudra. Mahasuram Ketumaham is disputed by some as being a disciple’s composition rather than Muthuswami Dikshitar’s. Through graha bhedam, Shanmukhapriya yields three other major melakarta ragams: Shoolini, Dhenuka and Chitrambari. It is said to have been borrowed into Hindustani music from Carnatic music. A janya scale mentioned in the source is Sumanesharanjani / Samudrapriya / Madhukauns with ascent S G2 M2 P N2 S and descent S N2 P M2 G2 S. The raga is especially associated with compositions on Lord Murugan and Lord Shiva and is often noted for its strong bhakti appeal."
+}

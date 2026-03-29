@@ -1,0 +1,251 @@
+{
+  "raga_name": "Surutti",
+  "other_names": [
+    "Suruti",
+    "Surutti ragam"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 28,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R2",
+    "M1",
+    "P",
+    "N2",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "P",
+    "M1",
+    "R2",
+    "S"
+  ],
+  "raga_type": "vakra janya",
+  "is_vakra": true,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "G3"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Shanta"
+  ],
+  "mood": "Surutti has a devotional, serene, and gently auspicious mood. Its zig-zag movement gives it a graceful, slightly ornate character rather than a plain scalar feel, so it often evokes reverence, calm joy, and a soft festive warmth. The raga suits compositions of prayer, benediction, and contemplative devotion, with an emotional color that is soothing and dignified rather than intense or dramatic.",
+  "description": "Surutti is a janya rāgam of the 28th melakarta Harikambhoji. Subbarama Dikshitar classifies it as a bhashanga raga, and it is explicitly described as a vakra raga with seven notes in the arohana and nine in the avarohana. Its parent scale is equivalent to the Khamaj thaat of Hindustani music, and in the Muthuswami Dikshitar school its janaka raga is known as Harikedāragowla. The raga’s note-set is said to be equivalent to the Western Mixolydian mode, though the note order is zig-zag. The scale uses chatushruti rishabham, shuddha madhyamam, panchamam, chatushruti daivatam, kaishiki nishadham, and in descent also antara gandharam. It is a well-known concert and composition raga with a large body of kritis, padams, javalis, varnams, and tillanas across many composers and languages.",
+  "time_of_day": "",
+  "gamaka_usage": "Surutti is rendered with characteristic curved, phrase-based prayogas rather than straight scalar runs. The raga’s identity depends strongly on its vakra movement, especially the descent S N2 D2 P M1 G3 P M1 R2 S, where G3 is a bhashanga note and is typically touched within the phrase rather than held as a plain sustained note. N2 and D2 are important phrase notes in both ascent and descent, and the repeated N2 in the arohana suggests a looping, janta-like treatment. R2 and M1 are generally stable anchor notes, while the melodic color comes from gentle oscillation and glide between phrase points. Compared with plainer Harikambhoji-derived ragas, Surutti is less about heavy kampita on every swara and more about elegant jaru, turns, and curved cadences that preserve its devotional, graceful character.",
+  "hindustani_equivalent": "Khamaj",
+  "western_equivalent": "Mixolydian mode",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Sri Venkatesa Girisham",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Angarakam Ashrayamyaham",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Balakuchambike",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Govindarajaya Namaste",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Balasubrahmanyam Bhajeham",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Sri Vanchanatham",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Lalitha Parameswari",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Geetarthamu",
+      "composer": "Tyagaraja Swami",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ramachandra Nee Daya",
+      "composer": "Tyagaraja Swami",
+      "language": "Telugu"
+    },
+    {
+      "name": "Pathiki Haaratheere Seethaapathiki",
+      "composer": "Tyagaraja Swami",
+      "language": "Telugu"
+    },
+    {
+      "name": "Paramukham Elara",
+      "composer": "Tyagaraja Swami",
+      "language": "Telugu"
+    },
+    {
+      "name": "Verevvare Gati",
+      "composer": "Tyagaraja Swami",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rama Deivama",
+      "composer": "Tyagaraja Swami",
+      "language": "Telugu"
+    },
+    {
+      "name": "Bhajana Parulakela",
+      "composer": "Tyagaraja Swami",
+      "language": "Telugu"
+    },
+    {
+      "name": "Thillai Ambalattanai",
+      "composer": "Gopalakrishna Bharathi",
+      "language": "Tamil"
+    },
+    {
+      "name": "Parvai Ondre Podhume",
+      "composer": "Oothukadu Venkatasubbaiyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Kathaya Kathaya Rasane",
+      "composer": "Oothukadu Venkatasubbaiyer",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Tillana",
+      "composer": "Oothukadu Venkatasubbaiyer",
+      "language": ""
+    },
+    {
+      "name": "Neelavarna Pahimam",
+      "composer": "Irayimman Thampi",
+      "language": ""
+    },
+    {
+      "name": "Vanga Kadal Kadaintha",
+      "composer": "Andal",
+      "language": ""
+    },
+    {
+      "name": "Kaana Venum",
+      "composer": "Arunachala Kavirayar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sivaperuman Kripai",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Haridra Kumkumapriye",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Shive Pahi",
+      "composer": "Mysore Vasudevachar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Tillana",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Tillana",
+      "composer": "Madurai Srinivasan",
+      "language": ""
+    },
+    {
+      "name": "Indendhu Vachitivira",
+      "composer": "Kshetrayya or Melattur Kashinathayya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kontegadu",
+      "composer": "Kshetrayya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Adikkadi Kaiyyai",
+      "composer": "Vaitheeshwaran Koil Subbarama Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Alarsara Parithapam - Jalajabandhu",
+      "composer": "Maharaja Swati Tirunal",
+      "language": "Manipravalam"
+    },
+    {
+      "name": "Mariyada Teliyakane",
+      "composer": "Patnam Subramanya Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vega Neevu",
+      "composer": "Poochi Srinivasa Iyengar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Manamalar Alithu",
+      "composer": "Thanjavur Shankara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Varemi",
+      "composer": "Dharmapuri Subbarayar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Mayaladi",
+      "composer": "Tachur Singarachari",
+      "language": "Telugu"
+    },
+    {
+      "name": "Entho Prema",
+      "composer": "Pallavi Gopala Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Samiyentani",
+      "composer": "Subbarama Dikshitar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sami Nee Todi",
+      "composer": "Pallavi Seshaiyyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Inthakante ghanamika ledu",
+      "composer": "Annamacharya",
+      "language": "Telugu"
+    }
+  ],
+  "notable_features": "Janya of Harikambhoji (28th melakarta). Classified by Subbarama Dikshitar as a bhashanga raga. Vakra structure with seven notes in arohana and nine in avarohana. Parent scale corresponds to Khamaj thaat in Hindustani music. Janaka raga in the Muthuswami Dikshitar school is Harikedāragowla. Western equivalent given as Mixolydian mode. The raga is widely used for compositions by major composers across Sanskrit, Telugu, Tamil, and Manipravalam. The source does not mention a specific time of day.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Surutti"
+}

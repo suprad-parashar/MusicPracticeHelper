@@ -1,0 +1,72 @@
+{
+  "raga_name": "Naganandini",
+  "other_names": [
+    "Nagābharanam"
+  ],
+  "melakarta_number": 30,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Bana",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M1",
+    "P",
+    "D3",
+    "N3",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N3",
+    "D3",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Naganandini has a poised, bright, and expansive character, with the clean symmetry of a complete melakarta scale. Its ascent and descent feel orderly and luminous, creating an atmosphere of serenity, devotion, and quiet majesty. The higher R2, G3, D3, and N3 lend it an uplifting, auspicious color rather than a plaintive or heavy one, so the raga often suggests inner steadiness, reverence, and a gentle sense of wonder.",
+  "description": "Naganandini is the 30th melakarta rāgam in the 72-melakarta system of Carnatic music. It is the 6th rāgam in the 5th chakra, Bana, with mnemonic name Bana-Sha and mnemonic phrase sa ri gu ma pa dhu nu. Its scale is S R2 G3 M1 P D3 N3 S / S N3 D3 P M1 G3 R2 S, using chathusruthi rishabham, antara gandharam, shuddha madhyamam, shatsruthi dhaivatham, and kakali nishadham. As a melakarta, it is a sampoorna rāgam with all seven notes in both ascent and descent. It is the shuddha madhyamam equivalent of Chitrambari, the 66th melakarta. In the Muthuswami Dikshitar school it is called Nagābharanam. The raga has a few minor janya ragas associated with it. Graha bhedam on Naganandini yields two other minor melakarta rāgams: Bhavapriya and Vagadheeshwari.",
+  "time_of_day": "",
+  "gamaka_usage": "The source text does not specify detailed gamaka prayogas, but as a melakarta with a straightforward sampoorna structure, the swaras are generally rendered with clear scalar movement and controlled ornamentation. R2, G3, D3, and N3 are typically handled with the characteristic Carnatic oscillatory treatment appropriate to their positions, while M1 and P are usually steadier anchor notes. Because the scale is clean and non-vakra, phrases tend to move smoothly by stepwise jaru-like transitions rather than heavy zig-zag ornamentation. Compared with ragas that use anya swaras or vakra phrases, Naganandini’s identity comes more from its exact swara set and the bright color of the higher notes than from special phrase-specific gamaka rules.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Nagabharanam",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Sattaleni dinamu",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Naa Yen Unnai",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Dakshayani rakshamam",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta #30; 6th rāgam in the 5th chakra Bana; mnemonic name Bana-Sha; mnemonic phrase sa ri gu ma pa dhu nu; called Nagābharanam in the Muthuswami Dikshitar school; shuddha madhyamam equivalent of Chitrambari (66th melakarta); graha bhedam yields Bhavapriya and Vagadheeshwari; has minor janya ragas associated with it.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Naganandini"
+}

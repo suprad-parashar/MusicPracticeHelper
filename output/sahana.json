@@ -1,0 +1,286 @@
+{
+  "raga_name": "Sahana",
+  "other_names": [
+    "Sahānā",
+    "Chahana",
+    "Shahana"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 28,
+  "inventor": "",
+  "chakra": "Bana",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M1",
+    "P",
+    "M1",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M1",
+    "G3",
+    "M1",
+    "R2",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "ubhaya vakra sampoorna",
+  "is_vakra": true,
+  "is_bhashanga": true,
+  "anya_swaras": [
+    "G3"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna",
+    "Shringara"
+  ],
+  "mood": "Sahana creates a soft, rakti-filled atmosphere of tenderness and repose. It feels devotional and surrendering, with a plaintive sweetness that can shade into gentle pathos, yet it remains graceful and soothing rather than heavy. The raga often evokes images of quiet prayer, emotional warmth, and intimate lyrical beauty; in some compositions it also carries a delicate romantic glow. Its curved phrases give it a distinctive, refined personality that is calm, emotionally rich, and immediately recognizable.",
+  "description": "Sahana is a popular janya raga of the 28th melakarta Harikambhoji. It is widely regarded as one of the crown jewels of Carnatic music and is described as a rakti raga par excellence. The raga is an Ubhaya Vakra sampoorna ragam: all seven notes are present, but both ascent and descent are zig-zag rather than linear. It is also described as a desiya raga, indicating that it evolved in practice and later entered formal theory. Sahana is closely associated with devotional and lyrical compositions, and many composers in the Carnatic tradition have created works in it. The raga is noted for its subtle emotional coloring and for its ability to portray unconditional surrender, tenderness, and calm beauty. It is also said to be another name for Goddess Lakshmi or Maa Durga in one source, and the word is glossed there as meaning 'pure and blissfully happy.'",
+  "time_of_day": "all times",
+  "gamaka_usage": "Sahana depends strongly on phrase-based gamaka treatment rather than plain scalar rendering. The main jeeva swaras are R2, G3, and N2, and these are handled with gentle kampita and nuanced oscillation. R2 is often approached and left with a soft glide, giving the raga its plaintive, yearning color. G3 is used sparingly as an anya swara and should not be overemphasized; when used, it is typically touched lightly within phrases such as R2 G3 M1 and M1 G3 M1 R2 G3 R2 S. M1 is prominent and often acts as a pivot in vakra prayogas. P is comparatively stable, while D2 and N2 are rendered with smooth jaru-like movement, especially in the phrase P M1 D2 N2 and the descent N2 S D2. The raga’s identity comes from these curved, ornamented phrases; flat scalar singing weakens it considerably. Compared with related ragas such as Malavi, Sahana shares the vakra contour but requires its own delicate oscillatory treatment and restrained use of G3.",
+  "hindustani_equivalent": "Sahana (upper-tetrachord-dominant Kanada-anga raga, allied with Bageshree and Bhimpalasi)",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Raghupate Rama Rakshasa Bhima",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sri Rama Sri Rama",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Ee Vasudha",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Giripai Nelakonna",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sari Evvare",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Dehi Tavapada Bhaktim",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Oorake Galguna",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Emana Dichevo",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nijamuga Nee Mahimalu",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vandanamu Raghunandana",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Rama Ika Nannu Brovara",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sri Panchanadheesham",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Evvaremi (Ata Tala Varnam)",
+      "composer": "Patnam Subramania Iyer",
+      "language": "Telugu"
+    },
+    {
+      "name": "Manamu Kavalannu",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Andhakasura Sudana",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Balumosa Mayyanura (Daruvarnam)",
+      "composer": "Muthiah Bhagavatar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Tharamu Gadhura",
+      "composer": "Mysore Vasudevachar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sri Kamalaambikaaya",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Abhayaambaayaam",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Ishaanaadhi Shivaakaara",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Jaya Jaya Raghurama",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Inkevarunnaaru nannu",
+      "composer": "Annaswami Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Vasudevaya Namo Namaste",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Kaliyugamuna Prathyaksha",
+      "composer": "Ponniah Pillai",
+      "language": "Telugu"
+    },
+    {
+      "name": "Saravana Bhava",
+      "composer": "Thanjavur Sankara Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Thillai Ambalatthanai",
+      "composer": "Gopalakrishna Bharati",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sri Vatapi Ganapathiye",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Chittam Irangadenayya",
+      "composer": "Papanasam Sivan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Karunimpa (Adi tala Varnam)",
+      "composer": "Tiruvottriyur Tyagayyar",
+      "language": "Telugu"
+    },
+    {
+      "name": "Entha Punyave Gopi",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Palisemma Muddu Sharade",
+      "composer": "Purandara Dasa",
+      "language": "Kannada"
+    },
+    {
+      "name": "Oho Kalame",
+      "composer": "Vedanayagam Pillai",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sari Evvare Ma Janaki",
+      "composer": "Tirupati Narayanaswami Naidu",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nannu Brova Ravera",
+      "composer": "Dhuddu Seetharama Sastry",
+      "language": "Telugu"
+    },
+    {
+      "name": "Tillana",
+      "composer": "Tirumakudalu Chowdiah",
+      "language": "Kannada"
+    },
+    {
+      "name": "Kamsaasura (Geetam)",
+      "composer": "Paidala Gurumurti Sastri",
+      "language": "Telugu"
+    },
+    {
+      "name": "Mora Topu/Meragadu Rammanave",
+      "composer": "Kshetrayya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Choodare",
+      "composer": "Kshetrayya",
+      "language": "Telugu"
+    },
+    {
+      "name": "Mogadochi",
+      "composer": "Sarangapani",
+      "language": "Telugu"
+    },
+    {
+      "name": "Veladi Eppativale",
+      "composer": "Cuddapah",
+      "language": "Telugu"
+    },
+    {
+      "name": "Inni Enna Pechu Irukkudhu",
+      "composer": "Subbarama Iyer",
+      "language": "Tamil"
+    },
+    {
+      "name": "Palakalum Unnai Thozhuvirgal",
+      "composer": "Arunagirinathar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Evaranu Nenu",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kavave Kanyakumari",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": "Telugu"
+    },
+    {
+      "name": "Riri Swaroditam",
+      "composer": "Ganapathi Sachchidananda",
+      "language": "Sanskrit"
+    }
+  ],
+  "notable_features": "The raga is a janya of Harikambhoji (28th melakarta) and is explicitly described as Ubhaya Vakra sampoorna. It is a desiya raga that entered theory from practice. The source states that it is bhashanga because G3 occurs sparingly. Its characteristic phrases are R2 G3 M1 P, P M1 D2 N2, N2 S D2, and G3 M1 R2. It has a close relationship to Malavi, which shares an identical vakra scale formation, and some relationship to Dwijawanthi/Jujavanti, though the gandhara usage differs. The Hindustani Sahana is noted separately as a Kanada-anga raga from Kafi thaat, allied with Bageshree and Bhimpalasi, with shuddha Dhaivat as an important resting note. The raga is widely used in both Carnatic and Tamil film music.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sahana"
+}

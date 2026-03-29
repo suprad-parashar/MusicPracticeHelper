@@ -1,0 +1,69 @@
+{
+  "raga_name": "Mararanjani",
+  "other_names": [
+    "Sharāvati",
+    "Sharavati"
+  ],
+  "melakarta_number": 25,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Bana",
+  "arohana": [
+    "S",
+    "R2",
+    "G3",
+    "M1",
+    "P",
+    "D1",
+    "N1",
+    "S"
+  ],
+  "avrohana": [
+    "S",
+    "N1",
+    "D1",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampoorna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Mararanjani has a calm, composed, and devotional character. Its scale creates a restrained and serene atmosphere, with a poised inwardness that suits reflective and prayerful expression. The raga tends to feel dignified and unforced rather than dramatic, evoking quiet devotion, balance, and a gentle sense of stillness.",
+  "description": "Mararanjani (pronounced māraranjani) is the 25th Melakarta rāgam in the 72-melakarta system of Carnatic music. In the Muthuswami Dikshitar school it is called Sharāvati. It is the 1st rāgam in the 5th chakra, Bana, with mnemonic name Bana-Pa and mnemonic phrase sa ri gu ma pa dha na. Its scale is sampoorna by definition, with all seven notes in both ascent and descent: S R2 G3 M1 P D1 N1 S and S N1 D1 P M1 G3 R2 S. It is the shuddha madhyamam equivalent of Kantamani, the 61st melakarta. The raga has a few minor janya ragas associated with it, including the better-known Janasammodini. A theoretical relationship noted in the source is that Mararanjani’s notes, when shifted by graha bhedam, yield Vanaspati, a minor melakarta rāgam.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The source does not specify detailed gamaka treatment, but as a melakarta with shuddha madhyamam and shuddha dhaivatham/nishadham, the raga is generally rendered with clear, well-defined swaras and smooth scalar movement. R2, G3, D1, and N1 are typically approached with gentle oscillation or light kampita as needed for melodic expression, while M1 and P are usually held more steadily. Because the scale is straight and sampoorna, jaru-based transitions between adjacent notes are natural, and there is no indication of vakra or anya-swara handling. Compared with more heavily gamaka-driven ragas, Mararanjani is likely to favor balanced, measured ornamentation rather than extreme oscillation.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [
+    "Janasammodini"
+  ],
+  "notable_compositions": [
+    {
+      "name": "Manasa sri raamuni",
+      "composer": "Thyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Sharavati",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Sanskrit"
+    },
+    {
+      "name": "Ramapathina",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    }
+  ],
+  "notable_features": "Melakarta number 25; 5th chakra Bana; mnemonic name Bana-Pa; mnemonic phrase sa ri gu ma pa dha na; shuddha madhyamam equivalent of Kantamani (61st melakarta); associated janya ragas include Janasammodini; graha bhedam from Mararanjani yields Vanaspati.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mararanjani"
+}

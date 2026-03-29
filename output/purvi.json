@@ -1,0 +1,54 @@
+{
+  "raga_name": "Purvi",
+  "other_names": [
+    "Poorvi",
+    "Pūrvī"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "N1",
+    "R2",
+    "G3",
+    "M2",
+    "P",
+    "D1",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D1",
+    "P",
+    "M2",
+    "G3",
+    "M2",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": true,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna",
+    "Shringara"
+  ],
+  "mood": "Purvi is deeply serious, quiet, and somewhat mystical, with an uncommon and contemplative character. It evokes stillness, inward reflection, and subtle longing, often feeling solemn and meditative rather than dramatic. The raga can also suggest tenderness and beauty, with an emotional world of restraint, dignity, devotion, and the ache of separation. Its atmosphere is often associated with the end of the day, when the mind turns inward and the landscape feels hushed and reflective.",
+  "description": "Purvi or Poorvi (IAST: Pūrvī) is a Hindustani classical raga that exemplifies the Poorvi thaat and is the main raga of that thaat. It is an old traditional raga said to have originated in the eastern part of India. Its ancient precursor, Purvagauda, had a scale similar to modern Bhairav (S r G m P d N). Purvi itself does not appear in the literature before the 16th century. It is uncommon in performances nowadays and is one of the 14 original compositions of the legend Tansen. The raga is associated with the 4th prahar of the day (3 pm–6 pm). The source also notes its vadi as Ga and samvadi as Ni. In the provided content, Purvi is presented in Hindustani rather than Carnatic context; no Carnatic melakarta parent is given in the text.",
+  "time_of_day": "afternoon",
+  "gamaka_usage": "Purvi uses the characteristic Poorvi-thaat inflections with restrained ornamentation. N1 and R2 are typically approached with delicate oscillation and meend-like slides, while G3 and M2 function as important resting tones and should be rendered with poise rather than excessive movement. P is comparatively stable. The ascent is phrase-led rather than a plain scalar climb, and the descent is especially characteristic in turns such as N3-D1-P and M2-G3-M2-G3-R2-S. Because the raga is serious and mystical, gamakas should remain subtle: gentle kampita on the important notes, smooth jaru between adjacent swaras, and nuanced emphasis on the core phrases rather than heavy, flamboyant ornamentation.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [],
+  "notable_features": "Purvi is the principal raga of the Poorvi thaat. It has vadi Ga and samvadi Ni. In the source, S and P are often avoided in the arohana, especially in fast taans, so the raga is shaped more by phrase than by a straight scale. It is described as uncommon in modern performance. The text also gives literary rasa descriptions from traditional raga texts, including imagery of a charming, beautiful, lotus-eyed woman at the end of the day, and another description of a splendid, white-clad figure served by all varnas. No Carnatic-specific compositions are mentioned in the provided content."
+}

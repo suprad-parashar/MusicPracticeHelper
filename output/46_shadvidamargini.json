@@ -1,0 +1,88 @@
+{
+  "raga_name": "Shadvidamargini",
+  "other_names": [
+    "Shaḍvidamārgini",
+    "Shadvidhamargini",
+    "Stavarājam"
+  ],
+  "melakarta_number": 46,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Vasu",
+  "arohana": [
+    "S",
+    "R1",
+    "G2",
+    "M2",
+    "P",
+    "D2",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D2",
+    "P",
+    "M2",
+    "G2",
+    "R1",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Bhakti",
+    "Shanta",
+    "Karuna"
+  ],
+  "mood": "Shadvidamargini has a serious, inward, and contemplative emotional color. Its combination of shuddha rishabham, sadharana gandharam, prati madhyamam, and kaisiki nishadham gives it a restrained and meditative feel, often suggesting devotion, introspection, and gentle pathos rather than overt brightness. It can evoke the atmosphere of quiet prayer, philosophical reflection, or a solemn temple setting, making it suitable for compositions of reverence and inner seeking.",
+  "description": "Shadvidamargini is a Carnatic raga and the 46th melakarta ragam in the 72 melakarta system. The name is glossed as 'the one with the path to six forms of knowledge.' In the Muthuswami Dikshitar school of Carnatic music, it is called Stavarājam. It is the 4th ragam in the 8th chakra, Vasu, with the mnemonic name Vasu-Bhu and mnemonic phrase 'sa ra gi mi pa dhi ni.' As a melakarta ragam, it is by definition a sampurna ragam, containing all seven notes in both ascent and descent in linear order. Its scale uses shuddha rishabham, sadharana gandharam, prati madhyamam, chathusruthi dhaivatham, and kaisiki nishadham. Shadvidamargini is the prati madhyamam equivalent of Natakapriya, the 10th melakarta. It has a few minor janya ragams associated with it, and through graha bhedam its notes can yield Nasikabhooshani.",
+  "time_of_day": "",
+  "gamaka_usage": "Though Shadvidamargini is a straight sampurna melakarta, it is not usually effective as a merely dry scalar pattern; its identity emerges through restrained, weighty gamaka treatment. R1 and G2 are important for establishing the raga’s grave color and are typically rendered with measured kampita rather than flat intonation, especially in phrases around S-R1-G2 and G2-R1-S. M2 is the key color-bearing swara of the raga and should be handled carefully, often with a gentle sustained emphasis or subtle oscillatory touch, avoiding overly bright or aggressive treatment. N2 in descent, particularly in phrases like >S-N2-D2 and N2-D2-P, benefits from soft kampita or a delicate slide toward D2, reinforcing the raga’s introspective quality. D2 is generally smoother in approach and is better linked to P or N2 through jaru-like movement than struck harshly. P functions as a stable nyasa point, while S is a natural point of repose. Because the raga is non-vakra and non-bhashanga, gamakas should support the linear flow of the scale and avoid phraseology suggestive of other prati-madhyama ragas. Excessive brigha-heavy handling can blur its identity; a measured, contemplative approach with clear intonation of R1-G2-M2 and the gentle use of N2 is more characteristic.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Jnanam Osaga Rada",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Stavarajadhinutha",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Madhurambam Bhajare",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Antaranga Bhakthi",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Haimavathim bhaja manasa",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Sharanam tava charanam",
+      "composer": "Bharani",
+      "language": ""
+    },
+    {
+      "name": "Geetham pada ugandha",
+      "composer": "Senarylia Shashtri",
+      "language": ""
+    }
+  ],
+  "notable_features": "46th melakarta; 4th ragam in the 8th chakra Vasu; mnemonic name Vasu-Bhu; mnemonic phrase 'sa ra gi mi pa dhi ni'; called Stavarājam in the Muthuswami Dikshitar school; prati madhyamam counterpart of Natakapriya (10th melakarta); graha bhedam on its notes yields Nasikabhooshani; has a few minor janya ragams."
+}
