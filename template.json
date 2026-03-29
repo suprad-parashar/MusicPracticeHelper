@@ -1,0 +1,43 @@
+{
+  "raga_name": "Kanakangi",
+  "other_names": [
+    "Kanakāmbari"
+  ],
+  "melakarta_number": 1,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Indu",
+  "arohana": ["S", "R1", "G1", "M1", "P", "D1", "N1", ">S"],
+  "avrohana": [">S", "N1", "D1", "P", "M1", "G1", "R1", "S"],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": ["Shanta", "Bhakti", "Karuna", "Shringara"], 
+  "mood": "Description of the raga's mood/rasa and comparison to common feelings and emotions.",
+  "description": "meaning the golden bodied one; often dubbed the shuddha scale owing to its swarasthanas; described as an austere Ragam",
+  "time_of_day": "Description of the best time of day to perform the raga. Morning, afternoon, evening, night, etc.",
+  "gamaka_usage": "Description of how gamakas are used in the raga. Which swaras are used for gamakas and how they are used, where to use strong or weak gamakas, etc.",
+  "hindustani_equivalent": "Description of the equivalent raga in Hindustani music. If no equivalent, default to unknown.",
+  "western_equivalent": "Description of the equivalent raga in Western music. If no equivalent, default to unknown.",
+  "popular_janya_ragas": [
+    "Karnataka shuddha saveri",
+    "Lavangi"
+  ],
+  "notable_compositions": [
+    {
+      "name": "kanakAmbari kAruNyAmRtalahari",
+      "composer": "Muthuswami Dikshitar",
+      "language": "Tamil"
+    },
+    {
+      "name": "Sri Gananatham Bhajamyaham",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    }
+  ],
+  "notable_features": "Its arohana-avarohana has all shuddha swaras. In the asampurna melakarta version (Kanakambari), it is an audava-sampurna raga with arohana S R₁ M₁ P D₁ S and avarohana S N₁ D₁ P M₁ G₁ R₁ S. Lavangi is noted as a recent addition to Carnatic music by Dr. M. Balamuralikrishna. Koteeswara Iyer's composition is part of his magnum opus Kanda Ganamutham, in which he composed a kriti in every melakarta raga. Sreesa Putraya is part of a series of compositions created by Dr. M. Balamuralikrishna in every Melakarta ragam. Sri Ganeswaram is from Janaka Raga Varna Manjari.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kanakangi"
+}
