@@ -4920,207 +4920,6 @@
     "notable_features": "It is the 3rd raga in the 7th chakra Rishi. Mnemonic name: Rishi-Go. Mnemonic phrase: sa ra ga mi pa dha nu. It is the prati madhyamam counterpart of Ganamoorti. In the Muthuswami Dikshitar school it is called Dhālivarāḻi / Dhalivarali. The prefix 'Jhala' is said to have been added to suit the katapayadi formula. Graha bhedam on Jhalavarali does not produce any other melakarta raga. It is one of the six ragas in the Rishi chakra—along with Salagam, Jalarnavam, Navaneetam, Pavani, and Raghupriya—that have a gap of three notes between G1 and M2; this is stated to be unique among melakartas."
   },
   {
-    "raga_id": "varali",
-    "raga_name": "Varali",
-    "other_names": [
-      "Varaali",
-      "Varāḷi",
-      "Varati"
-    ],
-    "melakarta_number": 39,
-    "is_melakarta": true,
-    "parent_raga": 39,
-    "inventor": "",
-    "chakra": "",
-    "arohana": [
-      "S",
-      "G1",
-      "R1",
-      "G1",
-      "M2",
-      "P",
-      "D1",
-      "N3",
-      ">S"
-    ],
-    "avrohana": [
-      ">S",
-      "N3",
-      "D1",
-      "P",
-      "M2",
-      "G1",
-      "R1",
-      "S"
-    ],
-    "raga_type": "vakra-sampurna-sampurna",
-    "is_vakra": true,
-    "is_bhashanga": false,
-    "anya_swaras": [],
-    "uses_vivadi_swaras": true,
-    "rasa": [
-      "Shanta",
-      "Bhakti",
-      "Karuna"
-    ],
-    "mood": "Varali has a grave, ancient, and deeply contemplative mood. Its vakra ascent and vivadi color give it a solemn, searching quality that can feel austere yet intensely devotional. The raga often evokes prayerful introspection, dignity, and a sense of emotional depth rather than overt brightness. It suits serious, meditative settings and is especially associated with compositions in praise of deities, so listeners often experience it as spiritually charged, reflective, and slightly haunting.",
-    "description": "Varali or Varaali is an ancient Carnatic rāgam, pronounced varāḷi, and is described in the source as either the 39th melakarta raga or as a janya of the 39th melakarta, Jhalavarali. In practice it is most often rendered as a vakra-sampurna-sampurna scale, with a zig-zag ascent despite being structurally complete. It is a vivadi rāgam and the 4th of the five Ghana rāgams, after Natta, Gaula, and Arabhi, with Shree as the fifth. Historically it was called Varati and is said to be more than 1300 years old, appearing in old musical texts such as Sangita Makarandha and Sangita Ratnakara. The scale uses shadjam, shuddha rishabham, shuddha gandharam, prati madhyamam, panchamam, shuddha dhaivatam, and kakali nishadham. The madhyamam is said to be slightly higher than the usual prati madhyamam and is called chyuta panchama madhyamam, also known as Varali madhyamam. The raga is strongly associated with devotional compositions, especially those in praise of Lord Ganesha and Lord Rama. A traditional belief says that Varali should not be taught directly from teacher to student, but learned by listening and self-study, as direct teaching may strain the relationship or cause ill effects. The source also notes that some believe the raga can be sung as S R1 G1, a phrase that appears in many compositions, including Kanakanaruchira.",
-    "time_of_day": "",
-    "gamaka_usage": "Varali requires careful gamaka treatment, especially because it is a vivadi raga with a distinctive vakra ascent. The notes R1 and G1 are central to its identity, and the phrase S G1 R1 G1 is characteristic; G1 is often oscillated and linked back to R1, rather than being treated as a plain, static note. The madhyamam is not a plain M2 in the ordinary sense but a slightly raised Varali madhyamam (chyuta panchama madhyamam), so it should be handled with special emphasis and subtle stress. The ascent often uses the zig-zag S G1 R1 G1 M2 rather than a straight linear climb, while the descent is smoother and more straightforward. Because of the raga’s ancient and weighty character, gamakas should be measured and dignified rather than overly brisk; the phraseology is more important than speed. The source specifically suggests that S R1 G1 is a valid and important phrase, and many compositions exploit this opening contour.",
-    "hindustani_equivalent": "unknown",
-    "western_equivalent": "unknown",
-    "popular_janya_ragas": [],
-    "notable_compositions": [
-      {
-        "name": "Kanakana ruchira",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Eti Janmam Idi",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Karuna Elagante",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Sri Rama Sri Rama Jitha Rama",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Sri Rama Jaya Rama",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Dharanu Nee Saridaivamu",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Indukemi",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Noremi Sri Rama",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Pahi Paramaathma",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Pahi Ramaa Ramana",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Vaddayunde",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Ee Menu Kaligina",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Bhavasannutha",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Marakathamani",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Ne Pogadakunte",
-        "composer": "Tyagaraja",
-        "language": "Telugu"
-      },
-      {
-        "name": "Mamava Meenakshi",
-        "composer": "Muthuswami Dikshitar",
-        "language": "Sanskrit"
-      },
-      {
-        "name": "Lambodaraya Namaste",
-        "composer": "Muthuswami Dikshitar",
-        "language": "Sanskrit"
-      },
-      {
-        "name": "Sheshachala Nayakam",
-        "composer": "Muthuswami Dikshitar",
-        "language": "Sanskrit"
-      },
-      {
-        "name": "Karunajudavamma",
-        "composer": "Shyama Shastri",
-        "language": "Telugu"
-      },
-      {
-        "name": "Kamakshi Bangaru",
-        "composer": "Shyama Shastri",
-        "language": "Telugu"
-      },
-      {
-        "name": "Intha prodayye",
-        "composer": "Kshetrayya",
-        "language": "Telugu"
-      },
-      {
-        "name": "Valapudacha",
-        "composer": "Kshetrayya",
-        "language": "Telugu"
-      },
-      {
-        "name": "Ka Vaa Vaa",
-        "composer": "Papanasam Sivan",
-        "language": "Tamil"
-      },
-      {
-        "name": "Dikku Verilai",
-        "composer": "Papanasam Sivan",
-        "language": "Tamil"
-      },
-      {
-        "name": "Valayunniha",
-        "composer": "Maharaja Swathi Thirunal",
-        "language": "Malayalam"
-      },
-      {
-        "name": "Mamava Padmanabha",
-        "composer": "Maharaja Swathi Thirunal",
-        "language": "Sanskrit"
-      },
-      {
-        "name": "Ille Vaikuntha namma Srilakshmi",
-        "composer": "Purandara Dasa",
-        "language": "Kannada"
-      },
-      {
-        "name": "Idhigo Bhadradri",
-        "composer": "Bhadrachala Ramadasu",
-        "language": "Telugu"
-      },
-      {
-        "name": "Aazhi Mazhai Kanna",
-        "composer": "Andal",
-        "language": ""
-      }
-    ],
-    "notable_features": "Varali is classified in the source both as a melakarta and as a janya of Jhalavarali, but its practical identity is the vakra-sampurna-sampurna form. It is the 39th mela and a vivadi raga. It is the 4th of the five Ghana ragas. Historically it was known as Varati and is cited in Sangita Makarandha and Sangita Ratnakara, indicating great antiquity. The madhyamam is a special raised form called chyuta panchama madhyamam or Varali madhyamam. A traditional belief says it should be learned by listening rather than direct instruction. Many compositions in the raga are devotional, especially to Lord Ganesha. The source also notes that some believe it can be sung as S R1 G1, and that this phrase appears in Kanakanaruchira. The source does not provide a specific graha bhedam relationship or time-of-day association.",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Varali"
-  },
-  {
     "raga_id": "navaneetam",
     "raga_name": "Navaneetam",
     "other_names": [
@@ -8431,36 +8230,42 @@
     "notable_features": "67th melakarta; 1st raga of the 12th chakra Aditya; mnemonic name Aditya-Pa; mnemonic phrase 'sa ru gu mi pa dha na'; prati madhyamam equivalent of Yagapriya (31st melakarta); considered unattractive and rarely performed; called Santāna manjari in the Muthuswami Dikshitar school and in the asampurna/Venkatamakhi tradition; currently has no janya ragas associated with it; graha bhedam does not produce any other melakarta raga."
   },
   {
-    "raga_id": "vasantha",
-    "raga_name": "Vasantha",
+    "raga_id": "jyotiswarupini",
+    "raga_name": "Jyoti swarupini",
     "other_names": [
-      "Vasantha",
-      "vasantā"
+      "Jyotiswarupini",
+      "Jyōtiswarūpini",
+      "Jyōtirāga",
+      "Joti",
+      "Jyōti"
     ],
     "melakarta_number": 68,
     "is_melakarta": true,
     "parent_raga": null,
     "inventor": "",
-    "chakra": "",
+    "chakra": "Aditya",
     "arohana": [
       "S",
+      "R3",
       "G3",
-      "M1",
-      "D2",
-      "N3",
+      "M2",
+      "P",
+      "D1",
+      "N2",
       ">S"
     ],
     "avrohana": [
       ">S",
-      "N3",
-      "D2",
-      "M1",
+      "N2",
+      "D1",
+      "P",
+      "M2",
       "G3",
-      "R1",
+      "R3",
       "S"
     ],
-    "raga_type": "vakra audava-shadava",
-    "is_vakra": true,
+    "raga_type": "sampurna",
+    "is_vakra": false,
     "is_bhashanga": false,
     "anya_swaras": [],
     "uses_vivadi_swaras": false,
@@ -8469,191 +8274,69 @@
       "Bhakti",
       "Adbhuta"
     ],
-    "mood": "Vasantha has a bright, graceful, and auspicious emotional color. It suggests freshness, gentle festivity, and serene joy rather than heavy intensity. Its evening suitability and traditional association with auspiciousness give it a calm yet uplifting presence, evoking the feeling of twilight beauty, temple ambience, and refined devotional warmth. The raga can also carry a sense of wonder and elegance in alapana, making the listener feel both inwardly peaceful and subtly exhilarated.",
-    "description": "Vasantha is a Carnatic janya raga. It is generally identified as a janya of Suryakantam, the 17th melakarta, though P. Subba Rao notes that a majority opinion places it under Mayamalavagowla, the 15th melakarta. It is an asymmetric, panchama-varja raga classified as vakra audava-shadava, with the scale S G3 M1 D2 N3 S in ascent and S N3 D2 M1 G3 R1 S in descent. The raga employs shadjam, shuddha rishabham, antara gandharam, shuddha madhyamam, chatusruti dhaivatam, and kakali nishadam. Some sources also mention an older view that Vasantha originally used D1 instead of D2. Vasantha is considered an auspicious raga, suitable especially for evening rendition, and is noted for having ample scope for alapana. It has been widely used by major composers and remains one of the most graceful and recognizable pentatonic-derived asymmetric ragas in Carnatic music. Lalitha is often cited as a closely related raga: Lalitha includes R1 in the ascent and uses D1 instead of the D2 of Vasantha.",
-    "time_of_day": "evening",
-    "gamaka_usage": "Vasantha is a highly phrase-driven raga whose identity depends more on curved prayogas than on plain scalar movement. Because it is panchama-varja and asymmetric, direct scale-wise handling can weaken its character. G3 and N3 are important melodic carriers and are typically rendered with kampita or gentle oscillatory treatment; M1 is a key resting and linking swara, often approached and left through smooth jaru movement. D2 is used with sensitivity and usually appears in characteristic arcs such as M D N S or S N D M rather than as a dry isolated note. R1 is a delicate descending swara, appearing only in avarohana-oriented phrases like M G R S, and should not be overemphasized or introduced in ascent. The raga benefits from gliding connections between N3-D2-M1 and M1-G3-R1-S, with vakra, rounded contours preserving its graceful identity. In alapana, elongated kampita on G3 and N3, measured use of D2, and soft descent into R1 help bring out its auspicious, elegant color. Compared with Lalitha, care must be taken to preserve Vasantha's D2 and to avoid introducing R1 in ascent.",
-    "hindustani_equivalent": "Girija",
+    "mood": "Jyoti swarupini has a bright, radiant, and uplifting character, with a sense of clarity and spiritual luminosity suggested by its very name. As a melakarta with a complete, symmetrical scale, it tends to evoke calm devotion and a dignified, contemplative serenity rather than intense pathos or agitation. The raga can suggest the imagery of light, inner awakening, and auspiciousness, making it suitable for reflective and devotional expression.",
+    "description": "Jyotiswarupini is the 68th melakarta rāgam in the 72-melakarta system of Carnatic music. It is the prati madhyamam equivalent of Ragavardhini, the 32nd melakarta. In the Muthuswami Dikshitar school it is also referred to as Jyōtirāga, Joti, or Jyōti. It is the 2nd rāgam in the 12th chakra, Aditya, with mnemonic name Aditya-Sri and mnemonic phrase sa ru gu mi pa dha ni. As a melakarta, it is a sampoorna rāgam with all seven notes in both ascent and descent. The notes used are shatsruthi rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kaisiki nishadham. The source notes that a few minor janya rāgams are associated with it, but does not list them. It is also noted that shifting its notes by graha bhedam does not yield any other melakarta rāgam.",
+    "time_of_day": "",
+    "gamaka_usage": "The source does not give explicit gamaka rules for Jyotiswarupini. As a melakarta with the scale S R3 G3 M2 P D1 N2 S / S N2 D1 P M2 G3 R3 S, the raga is generally rendered with smooth, well-connected prayogas rather than heavy oscillation. R3 and G3 are typically handled with controlled kampita or gentle jaru transitions to preserve the bright, sharp color of the scale, while M2 and P are usually steadier anchor notes. D1 and N2 may take light oscillation or slide-based treatment in phrases, but the raga’s identity depends more on clean scalar movement than on elaborate gamaka-heavy treatment. Compared with janya ragas, its gamaka profile is expected to be more straightforward and less phrase-specific.",
+    "hindustani_equivalent": "unknown",
     "western_equivalent": "unknown",
     "popular_janya_ragas": [],
     "notable_compositions": [
       {
-        "name": "Ninne Kori",
-        "composer": "Tecchur Singarachar",
-        "language": ""
-      },
-      {
-        "name": "Sannutangi",
-        "composer": "Muthiah Bhagavatar",
-        "language": ""
-      },
-      {
-        "name": "Shiva Mahasena",
-        "composer": "Muthiah Bhagavatar",
-        "language": ""
-      },
-      {
-        "name": "Jaya Mangalam",
-        "composer": "Muthiah Bhagavatar",
-        "language": ""
-      },
-      {
-        "name": "Dani Korikenu",
-        "composer": "Poochi Srinivasa Iyengar",
-        "language": ""
-      },
-      {
-        "name": "Seetamma Mayamma",
-        "composer": "Tyagaraja",
-        "language": ""
-      },
-      {
-        "name": "Etla Dorikitivo",
-        "composer": "Tyagaraja",
-        "language": ""
-      },
-      {
-        "name": "Brihadambikayai",
+        "name": "Rame Bharatha Palita",
         "composer": "Muthuswami Dikshitar",
         "language": ""
       },
       {
-        "name": "Hariharaputram",
+        "name": "Paramjyothismathi",
         "composer": "Muthuswami Dikshitar",
         "language": ""
       },
       {
-        "name": "Marakatha Lingam",
-        "composer": "Muthuswami Dikshitar",
+        "name": "Anandamayamanave",
+        "composer": "Walajapet Venkataramana Bhagavathar",
         "language": ""
       },
       {
-        "name": "Ramachandram Bhavayami",
-        "composer": "Muthuswami Dikshitar",
+        "name": "Gaanamrutha paanam",
+        "composer": "Koteeswara Iyer",
         "language": ""
       },
       {
-        "name": "Paramapurusha Jagadeeshwara",
-        "composer": "Swathi Thirunal",
+        "name": "Jyotiswaroopini Jaya",
+        "composer": "Periyasaamy Thooran",
         "language": ""
       },
       {
-        "name": "Ellam Sivan Seyal",
-        "composer": "Shuddhananda Bharati",
+        "name": "Sri Gayatri baktha durita",
+        "composer": "Dr. M. Balamuralikrishna",
         "language": ""
       },
       {
-        "name": "Malmaruga Shanmukha",
-        "composer": "Papanasam Sivan",
+        "name": "Adineepai",
+        "composer": "Koranadu Natesa Pillai",
+        "language": "Telugu"
+      },
+      {
+        "name": "Paramathma",
+        "composer": "Nallan Chakravarthy Murthy",
         "language": ""
       },
       {
-        "name": "Maadhayai Nidhi Ennum",
-        "composer": "Papanasam Sivan",
-        "language": ""
-      },
-      {
-        "name": "Natanam Adinar",
-        "composer": "Gopalakrishna Bharathi",
-        "language": ""
-      },
-      {
-        "name": "Kanden Kanden",
-        "composer": "Arunachala Kavi",
-        "language": ""
-      },
-      {
-        "name": "Neelamalar",
-        "composer": "Oothukkadu Venkata Kavi",
-        "language": ""
-      },
-      {
-        "name": "Ivandhaan Ivandhaane",
-        "composer": "Oothukkadu Venkata Kavi",
-        "language": ""
-      },
-      {
-        "name": "Pavana Kumaara",
-        "composer": "Oothukkadu Venkata Kavi",
-        "language": ""
-      },
-      {
-        "name": "Vita Samavara Jala",
-        "composer": "Oothukkadu Venkata Kavi",
-        "language": ""
-      },
-      {
-        "name": "Rajeswarim Sambhavaye",
-        "composer": "Ganapathi Sachchidananda Swamiji",
-        "language": ""
-      },
-      {
-        "name": "Thom Thomena",
-        "composer": "Kalyani Varadarajan",
-        "language": ""
-      },
-      {
-        "name": "Yoganrusimha Padambuja Brunga",
-        "composer": "Kalyani Varadarajan",
-        "language": ""
-      },
-      {
-        "name": "Kodu Bega Divyamathi",
-        "composer": "Purandara Dasa",
-        "language": ""
-      },
-      {
-        "name": "Dangurava Saariraryya",
-        "composer": "Purandara Dasa",
-        "language": ""
-      },
-      {
-        "name": "Rama Rama Rama Rama Rama Enniro Seetha",
-        "composer": "Purandara Dasa",
-        "language": ""
-      },
-      {
-        "name": "Palisenna Gopalakrishna",
-        "composer": "Jagannatha Dasa",
-        "language": ""
-      },
-      {
-        "name": "Vade Venkatadri Meeda",
-        "composer": "Annamacharya",
-        "language": ""
-      },
-      {
-        "name": "Shaila Suthe",
-        "composer": "Mysore Vasudevachar",
-        "language": ""
-      },
-      {
-        "name": "Devi Rame Mamava",
-        "composer": "Mysore Vasudevachar",
-        "language": ""
-      },
-      {
-        "name": "Gowri Sukumari",
-        "composer": "N.C.Krishnamacharyulu",
-        "language": ""
-      },
-      {
-        "name": "Manadhai Orumai",
-        "composer": "Chidambara Nataraja Deekshithar",
+        "name": "Nannu Brovu Kamakshi",
+        "composer": "Akkarai Sornalatha",
         "language": ""
       }
     ],
-    "notable_features": "Vasantha is a janya raga, not a melakarta. It is asymmetric, omits panchamam, and is specifically described as a vakra audava-shadava raga. It is considered auspicious and suitable for evening rendition. The source highlights a parentage dispute: it is commonly identified as a janya of Suryakantam (17), but P. Subba Rao reports that majority opinion derives it from Mayamalavagowla (15). Some also claim the raga originally used D1 instead of D2. Lalitha is noted as a closely similar raga; Lalitha includes R1 in ascent and uses D1 where Vasantha uses D2. Vasantha has ample scope for alapana. A cited Hindustani near-equivalent is Girija."
+    "notable_features": "Jyotiswarupini is the prati madhyamam equivalent of Ragavardhini (32nd melakarta). It belongs to the 12th chakra Aditya and carries the mnemonic phrase sa ru gu mi pa dha ni. The scale uses shatsruthi rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kaisiki nishadham. The raga is a melakarta, so it is inherently sampoorna. The article states that graha bhedam on this raga does not produce any other melakarta raga. In the Muthuswami Dikshitar school it is known by alternate names Jyōtirāga, Joti, and Jyōti.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jyoti_swarupini"
   },
   {
     "raga_id": "dhatuvardhani",
     "raga_name": "Dhatuvardhani",
     "other_names": [
       "Dhātuvardhani",
-      "Dhatuvardani",
-      "Dhautapanchamam",
-      "Dhatuvardhini",
-      "Dhathuvardhani"
+      "Dhautapanchamam"
     ],
     "melakarta_number": 69,
     "is_melakarta": true,
@@ -8671,7 +8354,7 @@
       ">S"
     ],
     "avrohana": [
-      ">S",
+      "S",
       "N3",
       "D1",
       "P",
@@ -8684,16 +8367,16 @@
     "is_vakra": false,
     "is_bhashanga": false,
     "anya_swaras": [],
-    "uses_vivadi_swaras": true,
+    "uses_vivadi_swaras": false,
     "rasa": [
-      "Adbhuta",
-      "Veera",
-      "Bhakti"
+      "Shanta",
+      "Bhakti",
+      "Adbhuta"
     ],
-    "mood": "Dhatuvardhani has a bright, sharp, and somewhat striking melodic personality because of its high R3–G3 combination, prati madhyamam, and the contrast created by shuddha dhaivatam. The raga can evoke a sense of brilliance and wonder, with an austere but energetic color rather than soft sweetness. It suggests alertness, intensity, and a dignified devotional fervor, making it suitable for compositions of weight and intellectual interest. Its atmosphere can feel radiant yet slightly tense, like a vivid sunrise with a metallic sheen, combining majesty with a subtle spiritual seriousness.",
-    "description": "Dhatuvardhani is a melakarta ragam in Carnatic music and is the 69th melakarta in the 72 melakarta system. It is known as Dhautapanchamam in the Muthuswami Dikshitar school. It is the 3rd ragam in the 12th chakra, Aditya, and its mnemonic name is Aditya-Go; the mnemonic phrase is 'sa ru gu mi pa dha nu'. Its scale is sampurna in both ascent and descent: S R3 G3 M2 P D1 N3 S / S N3 D1 P M2 G3 R3 S. The swaras used are shatsruthi rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kakali nishadham, along with shadjam and panchamam. As a melakarta, it contains all seven notes in both directions. Dhatuvardhani is the prati madhyamam equivalent of Gangeyabhushani, the 33rd melakarta. It has only a few minor janya ragams derived from it. In theoretical treatment, applying graha bhedam to Dhatuvardhani yields Gayakapriya, a minor melakarta ragam.",
-    "time_of_day": "No fixed time; in modern Carnatic practice, time-of-day assignment is generally not observed.",
-    "gamaka_usage": "The source material does not give a formal lakshana-style gamaka prescription, but the raga's melakarta structure and vivadi content imply a careful, precise treatment. R3 and G3, occurring in close succession, must be rendered distinctly so the vivadi edge is preserved and not smeared; they can take controlled kampita or subtle oscillation, but excessive shaking can blur the identity. M2 should be given a firm, bright emphasis to establish the prati-madhyama color clearly. P is generally a stable anchoring note, and S and P can function as important nyasa points. D1 is the most delicate swara in the scale because it contrasts strongly with the otherwise sharp upper tetrachord; it is best handled with restraint, often approached from P or moving toward N3 with measured intonation rather than struck too harshly. N3 can be highlighted in ascent as a leading tone to the upper shadjam. Jaru phrases such as P-D1-N3->S or >S-N3-D1-P can be effective when rendered cleanly, but the raga should not be reduced to plain scalar runs. Overall, Dhatuvardhani benefits from a weighty, exact, and slightly austere gamaka approach that preserves its crisp vivadi identity and the tension between the brilliant R3-G3-M2 region and the softer D1.",
+    "mood": "Dhatuvardhani has a bright, expansive, and dignified mood, with the clarity and symmetry of a full melakarta scale. Its shatsruti rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kakali nishadham give it a polished, slightly intense but orderly character that can feel uplifting and contemplative at once. It suits a listener seeking a composed, devotional, and somewhat majestic atmosphere rather than overt pathos or romance.",
+    "description": "Dhatuvardhani (pronounced Dhātuvardhani) is the 69th melakarta rāgam in the 72-melakarta system of Carnatic music. In the Muthuswami Dikshitar school it is called Dhautapanchamam. It is the 3rd rāgam in the 12th chakra, Aditya, with mnemonic name Aditya-Go and mnemonic phrase sa ru gu mi pa dha nu. Its scale is sampurna in both ascent and descent: S R3 G3 M2 P D1 N3 S / S N3 D1 P M2 G3 R3 S. The notes used are shatsruthi rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kakali nishadham. As a melakarta, it is a parent scale and the prati madhyamam equivalent of Gangeyabhushani, the 33rd melakarta. The text notes that a few minor janya ragams are associated with it, though no specific janyas are listed. In graha bhedam, shifting the shadjam yields Gayakapriya, a minor melakarta rāgam.",
+    "time_of_day": "unknown",
+    "gamaka_usage": "As a plain melakarta scale, Dhatuvardhani is generally rendered with a relatively direct, orderly treatment of swaras rather than heavy vakra ornamentation. The source does not specify special gamaka rules, but by melakarta convention R3, G3, D1, and N3 may be given light oscillation or phrase-based ornamentation depending on composition, while M2 and P are typically steadier anchor notes. Because the scale is symmetrical and non-bhashanga, the gamaka treatment is expected to remain within the scale without anya-swara inflections.",
     "hindustani_equivalent": "unknown",
     "western_equivalent": "unknown",
     "popular_janya_ragas": [],
@@ -8701,27 +8384,26 @@
       {
         "name": "Mathangi Marakathangi",
         "composer": "Muthuswami Dikshitar",
-        "language": "Sanskrit"
+        "language": ""
       },
       {
         "name": "Sukha Kara",
         "composer": "Koteeswara Iyer",
-        "language": "Tamil"
+        "language": ""
       },
       {
         "name": "Mahesham Bhavayami",
         "composer": "Dr. M. Balamuralikrishna",
-        "language": "Sanskrit"
+        "language": ""
       }
     ],
-    "notable_features": "69th melakarta; 3rd ragam in the 12th chakra Aditya. Mnemonic name: Aditya-Go. Mnemonic phrase: sa ru gu mi pa dha nu. Called Dhautapanchamam in the Muthuswami Dikshitar school. Its graha bhedam yields Gayakapriya. It is the prati madhyamam counterpart of Gangeyabhushani (33rd melakarta). It has only a few minor janya ragams derived from it."
+    "notable_features": "Melakarta #69; 3rd chakra position in Aditya chakra; mnemonic name Aditya-Go; mnemonic phrase sa ru gu mi pa dha nu; called Dhautapanchamam in the Muthuswami Dikshitar school; prati madhyamam equivalent of Gangeyabhushani (#33); graha bhedam from Dhatuvardhani yields Gayakapriya; a few minor janya ragams are associated with it, but the source does not enumerate them.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dhatuvardhani"
   },
   {
     "raga_id": "nasikabhushani",
     "raga_name": "Nasikabhushani",
     "other_names": [
-      "Nāsikābhūshaṇi",
-      "Nasikābhūṣaṇi",
       "Nāsāmaṇi"
     ],
     "melakarta_number": 70,
@@ -8740,7 +8422,7 @@
       ">S"
     ],
     "avrohana": [
-      ">S",
+      "S",
       "N2",
       "D2",
       "P",
@@ -8755,14 +8437,13 @@
     "anya_swaras": [],
     "uses_vivadi_swaras": false,
     "rasa": [
-      "Adbhuta",
-      "Veera",
+      "Shanta",
       "Bhakti"
     ],
-    "mood": "Nasikabhushani has a bright, striking and somewhat uncommon melodic color because of its R3–G3 and M2 combination. It can evoke a sense of brilliance, alertness and wonder, while still supporting devotional expression in composed music. The raga suggests a dignified, forward-moving energy rather than deep repose; it can feel intellectually stimulating, radiant and slightly austere, making it suitable for weighty yet vivid presentation.",
-    "description": "Nasikabhushani is a rāgam in Carnatic music and the 70th melakarta rāgam in the 72 melakarta system. In the Muthuswami Dikshitar school it is called Nāsāmaṇi. It is the 4th rāgam in the 12th chakra, Aditya, with the mnemonic name Aditya-Bhu and mnemonic phrase 'sa ru gu mi pa dhi ni'. Its scale is sampurna in both ascent and descent: S R3 G3 M2 P D2 N2 S / S N2 D2 P M2 G3 R3 S. The swaras used are shatsruthi rishabham, antara gandharam, prati madhyamam, chathusruthi dhaivatham and kaisiki nishadham, along with shadjam and panchamam. As a melakarta rāgam, it contains all seven notes in both directions. It is the prati madhyamam equivalent of Vagadheeswari, the 34th melakarta rāgam. Nasikabhushani has a couple of minor janya rāgams associated with it. In theoretical treatment, performing graha bhedam from its dhaivatham (D2) yields another minor melakarta rāgam, Shadvidamargini. In Western music, it corresponds to the Hungarian major scale.",
-    "time_of_day": "unknown",
-    "gamaka_usage": "The available sources do not give a codified gamaka lakshana for Nasikabhushani. From the scale structure and melakarta treatment, the raga is generally rendered with clear, precise intonation rather than heavy vakra-based ornamentation. The R3–G3 region is especially important and must be articulated carefully so the raga’s identity remains distinct; these swaras should not be blurred. M2 is a key color-bearing swara and is typically approached with smooth linkage from G3 or toward P, while N2 should be handled with care in the upper tetrachord so that the contrast with D2 and the ascent to upper S remains clear. Panchamam and shadjam function well as stable nyasa points. Janta, light kampita, and measured slides may be used, but excessive oscillation that obscures the direct sampurna outline is best avoided. Overall, the raga benefits from a bright, clean presentation with controlled gamaka, preserving the sharp scalar personality created by R3, G3, M2 and N2.",
+    "mood": "Nasikabhushani has a poised, complete, and balanced feel, with the bright color of prati madhyama giving it a clear, slightly luminous character. It tends to sound calm, dignified, and devotional rather than restless or dramatic. The full seven-note structure creates a sense of order and stability, so the raga often evokes serenity, composure, and an uplifting reflective space.",
+    "description": "Nasikabhushani is the 70th melakarta rāgam in the 72-melakarta system of Carnatic music. It is the 4th rāgam in the 12th chakra, Aditya, with mnemonic name Aditya-Bhu and mnemonic phrase sa ru gu mi pa dhi ni. Its scale is S R3 G3 M2 P D2 N2 S / S N2 D2 P M2 G3 R3 S, using shatsruthi rishabham, antara gandharam, prati madhyamam, chathusruthi dhaivatham, and kaisiki nishadham. As a melakarta, it is a sampoorna rāgam with all seven notes in both ascent and descent. It is the prati madhyamam equivalent of Vagadheeswari, the 34th melakarta. In the Muthuswami Dikshitar school it is called Nāsāmaṇi. The raga has a few minor janya rāgams associated with it. Graha bhedam from the dhaivatham (D2) yields Shadvidamargini. It corresponds to the Hungarian major scale in Western music.",
+    "time_of_day": "",
+    "gamaka_usage": "The source text does not give explicit gamaka prescriptions, but as a melakarta with a straightforward sampoorna structure, the swaras are generally rendered with smooth, connected prayogas rather than heavy vakra movement. R3, G3, D2, and N2 are typically handled with the characteristic Carnatic oscillatory treatment appropriate to their positions, while S and P are usually stable anchors and M2 is held clearly as the prati madhyama. The raga’s identity comes from clean scalar movement and the proper handling of the higher rishabha/gandhara and dhaivata/nishada rather than from unusual gamaka complexity.",
     "hindustani_equivalent": "unknown",
     "western_equivalent": "Hungarian major scale",
     "popular_janya_ragas": [],
@@ -8770,42 +8451,42 @@
       {
         "name": "Māravairī Ramanī",
         "composer": "Thyagaraja",
-        "language": "Telugu"
+        "language": ""
       },
       {
         "name": "Thandarul Ayyā",
         "composer": "Koteeswara Iyer",
-        "language": "Tamil"
+        "language": ""
       },
       {
         "name": "Shrī Ramā Saraswathī",
         "composer": "Muthuswami Dikshitar",
-        "language": "Sanskrit"
+        "language": ""
       },
       {
         "name": "Shrī Krishnō Mām Rakshathu",
         "composer": "Muthuswami Dikshitar",
-        "language": "Sanskrit"
+        "language": ""
       },
       {
         "name": "Adigalige Vandipe",
         "composer": "Vijaya Dasa",
-        "language": "Kannada"
+        "language": ""
       },
       {
         "name": "Ambikām Upāseham",
         "composer": "Dr. M. Balamuralikrishna",
-        "language": "Sanskrit"
+        "language": ""
       },
       {
         "name": "Thāye en Saraswathī",
         "composer": "Lalitha Dasa",
-        "language": "Tamil"
+        "language": ""
       },
       {
         "name": "Karipurārī Kāmārī",
         "composer": "Arunagirinathar",
-        "language": "Tamil"
+        "language": ""
       },
       {
         "name": "Paradēvī Shankarī",
@@ -8813,14 +8494,14 @@
         "language": ""
       }
     ],
-    "notable_features": "Also known as Nāsāmaṇi in the Muthuswami Dikshitar school and in the asampurna mela system. It is the 4th rāgam in the 12th chakra Aditya. Mnemonic name: Aditya-Bhu. Mnemonic phrase: sa ru gu mi pa dhi ni. It is the prati madhyamam equivalent of Vagadheeswari (34). Graha bhedam from dhaivatham (D2) yields Shadvidamargini. It has a couple of minor janya rāgams associated with it. Karipurārī Kāmārī is identified as a Thiruppugazh of Arunagirinathar set to tune by Neyveli Santhanagopalan. Paradēvī Shankarī is identified as a varnam by Nallan Chakravarthy Murthy."
+    "notable_features": "Melakarta #70; 4th rāgam in chakra 12 (Aditya); mnemonic phrase sa ru gu mi pa dhi ni; prati madhyama equivalent of Vagadheeswari (#34); called Nāsāmaṇi in the Muthuswami Dikshitar school; graha bhedam from D2 yields Shadvidamargini; associated with a few minor janya ragams; Western correspondence noted as Hungarian major scale.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nasikabhushani"
   },
   {
     "raga_id": "kosalam",
     "raga_name": "Kosalam",
     "other_names": [
-      "Kusumākaram",
-      "Kusumaakaram"
+      "Kusumākaram"
     ],
     "melakarta_number": 71,
     "is_melakarta": true,
@@ -8853,15 +8534,14 @@
     "anya_swaras": [],
     "uses_vivadi_swaras": false,
     "rasa": [
-      "Adbhuta",
-      "Veera",
+      "Shanta",
       "Bhakti",
-      "Shanta"
+      "Adbhuta"
     ],
-    "mood": "Kosalam has a bright, expansive and striking melodic personality owing to its sharp R3, G3 and prati madhyama. At the same time, available descriptions also associate it with devotion and serenity. The raga can therefore suggest radiance without harshness: a luminous, dignified, inwardly devotional atmosphere with a sense of wonder, confidence and calm spiritual poise. It often feels majestic yet composed, as though opening into a clear sunlit space that is both uplifting and contemplative.",
-    "description": "Kosalam (pronounced kōsalam) is a Carnatic melakarta raga and the 71st melakarta in the 72-melakarta system. It is the 5th raga in the 12th chakra, Aditya, and its mnemonic name is Aditya-Ma; the mnemonic phrase is 'sa ru gu mi pa dhi nu'. As a melakarta, it is by definition a sampurna raga, containing all seven swaras in both ascent and descent with the same notes in both directions. Its swaras are shatsruthi rishabham, antara gandharam, prati madhyamam, chathusruthi dhaivatham and kakali nishadham, along with shadjam and panchamam. Kosalam is the prati madhyamam equivalent of Shoolini, the 35th melakarta. In the Muthuswami Dikshitar school, it is called Kusumākaram. The raga has associated janya ragas. Theoretically, through graha bhedam, Kosalam yields three other melakarta ragas: Keeravani, Hemavati and Vakulabharanam.",
+    "mood": "Kosalam has a bright, expansive, and orderly feel, with the clarity of a complete melakarta scale. Its prati madhyama coloring gives it a slightly elevated, luminous tension, while the straight sampurna ascent and descent create balance, composure, and a sense of spaciousness. The raga can evoke devotion and serenity, along with a subtle sense of wonder because of its high-positioned scale and distinctive tonal color. It suits contemplative, majestic, and devotional settings, with an uplifting character rather than deep pathos.",
+    "description": "Kosalam (pronounced kōsalam) is the 71st melakarta rāgam in the 72-melakarta system of Carnatic music and is the prati madhyamam equivalent of Shoolini, the 35th melakarta. It is the 5th rāgam in the 12th chakra, Aditya, with mnemonic name Aditya-Ma and mnemonic phrase sa ru gu mi pa dhi nu. Its scale is sampoorna, with all seven notes in both ascent and descent: S R3 G3 M2 P D2 N3 S / S N3 D2 P M2 G3 R3 S. The notes are shatsruthi rishabham, antara gandharam, prati madhyamam, chathusruthi dhaivatham, and kakali nishadham. The raga is also known as Kusumākaram in the Muthuswami Dikshitar school. Kosalam has one janya rāgam associated with it, though none is named in the provided text. Its notes under graha bhedam yield three other melakarta rāgams: Keeravani, Hemavati, and Vakulabharanam. The text also mentions a few compositions set to this rāgam and notes that film songs such as 'Sundari Kannal' from Dalapathy and 'Paarthene' from Mookuthi Amman are based on Kosalam.",
     "time_of_day": "",
-    "gamaka_usage": "The available sources do not give a codified lakshana-style gamaka prescription for Kosalam, but its handling can be described from its scalar identity and swara structure. Since it is a direct sampurna melakarta with no vakra movement indicated, the raga accommodates clear linear sancharas in both ascent and descent. Its identity depends strongly on the bright placement of R3, G3, M2 and N3, so these notes must be rendered with precision and not blurred by excessive oscillation. R3 and G3, being closely placed and highly coloristic, are usually treated with controlled kampita or light nokku rather than broad, heavy oscillations; their distinction is crucial to preserving the raga's brilliance. M2 functions as a luminous pivot and can take a gentle kampita or be used as a linking note in smooth phrases. P is generally held steady as a point of repose. D2 and N3 may be connected with measured jaru in ascent or descent, especially in scalar passages, while maintaining the clean melakarta outline. Overall, Kosalam favors well-shaped, exact ornamentation over dense gamaka layering: too much oscillatory weight can obscure the raga's sharp, radiant contour, whereas restrained kampita, subtle slides and precise intonation bring out its majestic and devotional character.",
+    "gamaka_usage": "The source text does not explicitly describe gamakas for Kosalam. As a melakarta with a straight sampurna scale, the swaras are generally rendered with the standard Carnatic treatment for this note set: R3 and G3 are typically given gentle oscillation or connected by smooth jaru-like movement, M2 is held clearly as the prati madhyama anchor, and D2 and N3 are often approached with light gamaka or slides to preserve the raga's bright, expansive color. Because the scale is linear and non-vakra, gamaka usage is usually more about graceful continuity than heavy zig-zag ornamentation.",
     "hindustani_equivalent": "unknown",
     "western_equivalent": "unknown",
     "popular_janya_ragas": [],
@@ -8895,19 +8575,10 @@
         "name": "Ō ManasĀ muktiNi ganumu",
         "composer": "Dr. M. Balamuralikrishna",
         "language": ""
-      },
-      {
-        "name": "Sundari Kannal",
-        "composer": "",
-        "language": "Tamil"
-      },
-      {
-        "name": "Paarthene",
-        "composer": "Girishh Gopalakrishnan",
-        "language": "Tamil"
       }
     ],
-    "notable_features": "Pronunciation given as kōsalam. It is the prati madhyamam counterpart of Shoolini (35). In the Dikshitar school it is known as Kusumākaram. Graha bhedam on Kosalam yields Keeravani, Hemavati and Vakulabharanam. It belongs to the 12th chakra Aditya and is specifically the 5th raga in that chakra, with mnemonic name Aditya-Ma and mnemonic phrase 'sa ru gu mi pa dhi nu'. Some contemporary descriptions characterize the raga as flowing with devotion and serenity, complementing its bright melakarta structure."
+    "notable_features": "Kosalam is the 71st melakarta and the prati madhyama counterpart of Shoolini (35th melakarta). It belongs to the 12th chakra Aditya and uses the mnemonic phrase sa ru gu mi pa dhi nu. Graha bhedam on Kosalam yields Keeravani, Hemavati, and Vakulabharanam. The text states that it has one janya rāgam associated with it, but does not name it. It is also called Kusumākaram in the Muthuswami Dikshitar school. The page mentions film songs based on this raga: 'Sundari Kannal' from Dalapathy and 'Paarthene' from Mookuthi Amman.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kosalam"
   },
   {
     "raga_id": "rasikapriya",
@@ -8918,7 +8589,7 @@
     "melakarta_number": 72,
     "is_melakarta": true,
     "parent_raga": null,
-    "inventor": "Venkatamakhin (melakarta scheme formalization)",
+    "inventor": "",
     "chakra": "Aditya",
     "arohana": [
       "S",
@@ -8944,15 +8615,15 @@
     "is_vakra": false,
     "is_bhashanga": false,
     "anya_swaras": [],
-    "uses_vivadi_swaras": true,
+    "uses_vivadi_swaras": false,
     "rasa": [
       "Adbhuta",
       "Veera"
     ],
-    "mood": "Rasikapriya has a bright, sharp, highly charged melodic personality. As the final melakarta with the intense combination of R3 and D3 along with prati madhyamam, it can sound brilliant, striking, and intellectually stimulating rather than soft or reposeful. The raga evokes a sense of brilliance, tension, and wonder, suiting moments of grandeur, bold exploration, and dramatic musical architecture. Its mood can feel radiant and forceful, with an edge of excitement that appeals to listeners who enjoy vivid, high-energy melodic color.",
-    "description": "Rasikapriya is a Carnatic melakarta raga and the 72nd and last raga in the 72 melakarta system. In the Muthuswami Dikshitar school it is called Rasamanjari. It is the 6th raga in the 12th chakra, Aditya. Its mnemonic name is Aditya-Sha and its mnemonic phrase is 'sa ru gu mi pa dhu nu'. The scale is sampurna in both ascent and descent: S R3 G3 M2 P D3 N3 S / S N3 D3 P M2 G3 R3 S. The swaras used are shatsruthi rishabham, antara gandharam, prati madhyamam, shatsruthi dhaivatham, and kakali nishadham, along with shadjam and panchamam. As a melakarta, it contains all seven notes in both directions. Rasikapriya traces its theoretical place to the melakarta classification system codified by Venkatamakhin in the 17th century. It is the prati madhyamam equivalent of Chalanata, the 36th melakarta. Rasikapriya has a few minor janya ragas associated with it. In graha bhedam, shifting its notes yields two other major melakarta ragas: Mayamalavagowla and Simhendramadhyamam. This gives it theoretical importance within the melakarta framework.",
-    "time_of_day": "unknown",
-    "gamaka_usage": "Rasikapriya is generally handled with precise, controlled gamaka treatment because of its vivadi swara content, especially R3 and D3. The raga’s identity is preserved best through clear intonation of the direct sampurna scale rather than through heavy, wide oscillations. R3 and G3 are often approached carefully as a close pair, with light kampita or subtle nokku rather than excessive shaking; similarly D3 and N3 need exact placement so the upper tetrachord retains its brilliance without sounding harsh. M2 contributes a sharp prati-madhyama color and is usually rendered cleanly, sometimes with a mild oscillation or glide from G3, while P and S act as stable nyasa points and are comparatively plain. Jaru phrases such as N3-D3-P and M2-G3-R3-S can be used, but the movement remains largely straightforward and scalar, in keeping with melakarta lakshana. Over-ornamentation can blur the raga toward neighboring vivadi melas, so musicians typically favor measured kampita, crisp note delineation, and balanced slides over dense gamaka-laden treatment.",
+    "mood": "Rasikapriya has a bright, expansive, and climactic feel, with the polished brilliance of a late melakarta in its highest-practice स्वर forms. Its sound is bold, symmetrical, and intellectually satisfying, often evoking grandeur, completion, and uplift. Because it is the final melakarta, it can feel conclusive and पूर्ण, with a majestic, celebratory character rather than a soft or introspective one. The raga suits a listener who enjoys clarity, order, and a sense of musical culmination.",
+    "description": "Rasikapriya is the 72nd and last melakarta rāgam in the Carnatic 72-melakarta system. It is the 6th rāgam in the 12th chakra, Aditya, with mnemonic name Aditya-Sha and mnemonic phrase sa ru gu mi pa dhu nu. Its scale is sampoorna, using shatsruthi rishabham, antara gandharam, prati madhyamam, shatsruthi dhaivatham, and kakali nishadham: S R3 G3 M2 P D3 N3 S / S N3 D3 P M2 G3 R3 S. The raga is also known as Rasamanjari in the Muthuswami Dikshitar school. It is the prati madhyama equivalent of Chalanata, the 36th melakarta. The source notes that graha bhedam on Rasikapriya yields Mayamalavagowla and Simhendramadhyamam. It has a few minor janya ragas associated with it, though the provided text does not enumerate them.",
+    "time_of_day": "",
+    "gamaka_usage": "As a melakarta with the highest variants of R, G, D, and N, Rasikapriya is generally rendered with clear, well-defined intonation and controlled gamaka rather than heavy oscillation. R3, G3, D3, and N3 may take light kampita or subtle oscillatory treatment, but the oscillation should not blur their identity. M2 and P are usually held steady and serve as anchor notes. Jaru-like transitions between adjacent swaras can be used to preserve the scale’s linear, sampurna character. Because it is a parent scale, gamaka treatment should remain balanced and disciplined, keeping the swaras distinct.",
     "hindustani_equivalent": "unknown",
     "western_equivalent": "unknown",
     "popular_janya_ragas": [],
@@ -8963,7 +8634,7 @@
         "language": "Tamil"
       },
       {
-        "name": "Pavana tanaya pAlayamAm",
+        "name": "Pavana tanaya pĀlayamĀm",
         "composer": "Dr. M. Balamuralikrishna",
         "language": "Sanskrit"
       },
@@ -8975,7 +8646,7 @@
       {
         "name": "Paripahi pahi",
         "composer": "Kuttikkunhi Thangachi",
-        "language": "Malayalam"
+        "language": "unknown"
       },
       {
         "name": "Veena gana priye varnam",
@@ -8985,10 +8656,16 @@
       {
         "name": "Rajatha Sabha Nayakane",
         "composer": "Muthiah Bhagavatar",
-        "language": "Tamil"
+        "language": "unknown"
+      },
+      {
+        "name": "rasikapriya rAga rasikapriya",
+        "composer": "Chitravina Ravikiran",
+        "language": "Telugu"
       }
     ],
-    "notable_features": "Rasikapriya is the last melakarta in the canonical 72-melakarta scheme. It belongs to the 12th chakra Aditya and is identified by the mnemonic Aditya-Sha. It is theoretically significant because graha bhedam on this scale yields Mayamalavagowla and Simhendramadhyamam. It is also known as Rasamanjari in the Muthuswami Dikshitar school. The raga has a few minor janya ragas. Because it employs R3 and D3, it includes vivadi swara positions. It is the prati madhyama counterpart of Chalanata (36th melakarta)."
+    "notable_features": "Last (72nd) melakarta; 6th in the 12th chakra Aditya; mnemonic name Aditya-Sha; mnemonic phrase sa ru gu mi pa dhu nu. It is the prati madhyama equivalent of Chalanata (36th melakarta). Graha bhedam from Rasikapriya yields Mayamalavagowla and Simhendramadhyamam. Also known as Rasamanjari in the Muthuswami Dikshitar school. The provided text mentions that it has a few minor janya ragas associated with it, but does not list them.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rasikapriya"
   },
   {
     "raga_id": "abheri",
@@ -20480,7 +20157,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Valaji"
   },
   {
-    "raga_id": "vasantha_suryakantam",
+    "raga_id": "vasantha",
     "raga_name": "Vasantha",
     "other_names": [
       "Vasanta"
