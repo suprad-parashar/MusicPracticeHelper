@@ -22,6 +22,7 @@ from popular_janya_ids import (
     normalize_popular_janya_list,
 )
 from raga_slug import slug_raga_id
+from swara_scale import normalize_swara_scale_notation
 
 logger = logging.getLogger(__name__)
 
@@ -600,6 +601,12 @@ def save_raga_info(raga_info: RagaInfo, output_dir: str = "output") -> str:
         filename = f"{raga_info.melakarta_number:02d}_{safe_name}.json"
     else:
         filename = f"{raga_info.raga_id}.json"
+
+    na, nv = normalize_swara_scale_notation(
+        list(raga_info.arohana), list(raga_info.avrohana)
+    )
+    if na != raga_info.arohana or nv != raga_info.avrohana:
+        raga_info = raga_info.model_copy(update={"arohana": na, "avrohana": nv})
 
     filepath = os.path.join(output_dir, filename)
     with open(filepath, "w", encoding="utf-8") as f:

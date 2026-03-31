@@ -57,8 +57,8 @@ def compute_swaras(melakarta_number: int) -> dict:
     ri, ga = RI_GA_COMBINATIONS[ri_ga_idx]
     da, ni = DA_NI_COMBINATIONS[da_ni_idx]
 
-    arohana = ["S", ri, ga, ma, "P", da, ni, "S"]
-    avrohana = list(reversed(arohana))
+    arohana = ["S", ri, ga, ma, "P", da, ni, ">S"]
+    avrohana = [">S", ni, da, "P", ma, ga, ri, "S"]
 
     return {
         "arohana": arohana,
