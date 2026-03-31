@@ -1,4 +1,5 @@
 {
+  "raga_id": "chitrambari",
   "raga_name": "Chitrambari",
   "other_names": [
     "Chaturangini"
@@ -45,7 +46,7 @@
   "hindustani_equivalent": "unknown",
   "western_equivalent": "unknown",
   "popular_janya_ragas": [
-    "Amritavarshini"
+    "amritavarshini"
   ],
   "notable_compositions": [
     {

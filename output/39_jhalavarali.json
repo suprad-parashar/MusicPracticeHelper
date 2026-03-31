@@ -1,4 +1,5 @@
 {
+  "raga_id": "jhalavarali",
   "raga_name": "Jhalavarali",
   "other_names": [
     "Jhālavarāḻi",
@@ -49,7 +50,7 @@
   "hindustani_equivalent": "unknown",
   "western_equivalent": "C–D♭–D–F♯–G–A♭–B–C",
   "popular_janya_ragas": [
-    "Varali"
+    "varali"
   ],
   "notable_compositions": [
     {

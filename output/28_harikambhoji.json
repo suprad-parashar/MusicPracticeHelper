@@ -1,4 +1,5 @@
 {
+  "raga_id": "harikambhoji",
   "raga_name": "Harikambhoji",
   "other_names": [
     "Harikāmbhōji",
@@ -46,19 +47,14 @@
   "hindustani_equivalent": "Khamaj",
   "western_equivalent": "Mixolydian mode",
   "popular_janya_ragas": [
-    "Kambhoji",
-    "Mohanam",
-    "Andolika",
-    "Kamas",
-    "Pashupatipriya",
-    "Kedaragaula",
-    "Natakurinji",
-    "Navarasa kannada",
-    "Sahana",
-    "Senchuruti",
-    "Surutti",
-    "Yadukula kambhoji",
-    "Kuntalavarali"
+    "kambhoji",
+    "mohanam",
+    "andolika",
+    "kamas",
+    "kedaragowla",
+    "navarasa_kannada",
+    "sahana",
+    "surutti"
   ],
   "notable_compositions": [
     {

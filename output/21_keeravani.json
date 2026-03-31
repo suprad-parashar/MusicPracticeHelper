@@ -1,4 +1,5 @@
 {
+  "raga_id": "keeravani",
   "raga_name": "Keeravani",
   "other_names": [
     "Kiraṇāval̥i",
@@ -46,10 +47,7 @@
   "hindustani_equivalent": "Kirwani",
   "western_equivalent": "Harmonic minor scale",
   "popular_janya_ragas": [
-    "Kalyanavasantam",
-    "Chandrakouns",
-    "Sāmapriya",
-    "Vasantamanohari"
+    "kalyanavasantam"
   ],
   "notable_compositions": [
     {

@@ -1,5 +1,6 @@
 {
-  "raga_name": "Sankarabharanam",
+  "raga_id": "shankarabharanam",
+  "raga_name": "Shankarabharanam",
   "other_names": [
     "Śankarābharaṇaṃ",
     "Dhīraśankarābharaṇaṃ",
@@ -49,25 +50,17 @@
   "hindustani_equivalent": "Bilaval",
   "western_equivalent": "major scale / Ionian mode",
   "popular_janya_ragas": [
-    "Arabhi",
-    "Atana",
-    "Bilahari",
-    "Begada",
-    "Maand",
-    "Devagaandhaari",
-    "Jana Ranjani",
-    "Hamsadhvani",
-    "Kathanakuthuhalam",
-    "Niroshta",
-    "Shuddha Sāveri",
-    "Pahādi",
-    "Poornachandrika",
-    "Kedaram",
-    "Kurinji",
-    "Navroj",
-    "Sarasvati-manohari",
-    "Naagadhvani",
-    "Garudadhvani"
+    "arabhi",
+    "atana",
+    "bilahari",
+    "jana_ranjani",
+    "hamsadhvani",
+    "kathanakuthuhalam",
+    "niroshta",
+    "karnataka_shuddha_saveri",
+    "poornachandrika",
+    "kedaram",
+    "garudadhvani"
   ],
   "notable_compositions": [
     {

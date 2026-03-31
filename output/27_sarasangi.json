@@ -1,4 +1,5 @@
 {
+  "raga_id": "sarasangi",
   "raga_name": "Sarasangi",
   "other_names": [
     "Sowrasena"
@@ -44,10 +45,7 @@
   "gamaka_usage": "Sarasangi is generally rendered with restrained, elegant gamaka treatment rather than heavy oscillation. R2, G3, D1, and N3 may take light kampita or gentle oscillatory touches in sangatis, while M1 and P are usually kept comparatively steady as structural anchor notes. Jaru and smooth slides are common in phrase transitions, especially in descent, but the raga’s identity depends on the precise intonation of G3, D1, and N3, so these swaras should not be over-blurred. Compared with more gamaka-dense ragas, Sarasangi tends to sound cleaner and more linear, with controlled ornamentation that preserves its bright, harmonic-major-like character.",
   "hindustani_equivalent": "unknown",
   "western_equivalent": "Harmonic major scale",
-  "popular_janya_ragas": [
-    "Kamala manohari",
-    "Nalinakanti"
-  ],
+  "popular_janya_ragas": [],
   "notable_compositions": [
     {
       "name": "Menu Joochi",

@@ -1,4 +1,5 @@
 {
+  "raga_id": "chakravakam",
   "raga_name": "Chakravakam",
   "other_names": [
     "Chakravaham",
@@ -46,9 +47,8 @@
   "hindustani_equivalent": "Ahir Bhairav",
   "western_equivalent": "unknown",
   "popular_janya_ragas": [
-    "Bindumalini",
-    "Malayamarutam",
-    "Valaji"
+    "malayamarutam",
+    "valaji"
   ],
   "notable_compositions": [
     {

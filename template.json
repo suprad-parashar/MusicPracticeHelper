@@ -1,4 +1,5 @@
 {
+  "raga_id": "kanakangi",
   "raga_name": "Kanakangi",
   "other_names": [
     "Kanakāmbari"
@@ -23,8 +24,8 @@
   "hindustani_equivalent": "Description of the equivalent raga in Hindustani music. If no equivalent, default to unknown.",
   "western_equivalent": "Description of the equivalent raga in Western music. If no equivalent, default to unknown.",
   "popular_janya_ragas": [
-    "Karnataka shuddha saveri",
-    "Lavangi"
+    "karnataka_shuddha_saveri",
+    "shuddha_saveri"
   ],
   "notable_compositions": [
     {

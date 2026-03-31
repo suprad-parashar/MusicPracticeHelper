@@ -1,0 +1,111 @@
+{
+  "raga_id": "kalyanavasantam",
+  "raga_name": "Kalyanavasantam",
+  "other_names": [
+    "kalyanavasantham"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 21,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G2",
+    "M1",
+    "D1",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "D1",
+    "P",
+    "M1",
+    "G2",
+    "R2",
+    "S"
+  ],
+  "raga_type": "audava-sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Karuna"
+  ],
+  "mood": "Kalyanavasantam has a serene, soft, and devotional character. The pentatonic ascent gives it a light, uncluttered lift, while the fuller descent adds a gentle sense of completion and repose. It can evoke calm joy, quiet devotion, and a slightly wistful sweetness, making it suitable for reflective or prayerful moods rather than intense drama. The raga feels graceful and soothing, with an airy brightness tempered by inwardness. In some renderings it can also carry a deep, nostalgic, and absorbing melancholy, lending the music a tender, heart-touching quality.",
+  "description": "Kalyanavasantam is a janya rāgam derived from the 21st melakarta, Keeravani. It is an asymmetric audava-sampurna scale: the ascent is pentatonic and omits rishabham and panchamam, while the descent is sampurna in effect with panchamam and chatushruti rishabham included. The raga combines the pentatonic Hindustani Chandrakauns with the full Keeravani scale. Its structure is ārohaṇa S G2 M1 D1 N3 S and avarohaṇa S N3 D1 P M1 G2 R2 S. The notes used are shadjam, sadharana gandharam, shuddha madhyamam, shuddha dhaivatam and kakali nishadham in ascent, with panchamam and chatushruti rishabham appearing in descent. The raga is also written as kalyanavasantham. The source text does not mention a specific inventor, time theory, or special historical origin beyond its derivation and scale relationship. It is a raga that has been popularized in modern concert practice and is often appreciated for its poignant, introspective beauty.",
+  "time_of_day": "",
+  "gamaka_usage": "The source text does not specify gamaka treatment, but from the scale structure the raga is likely rendered with gentle, flowing gamakas rather than heavy oscillation. G2 and N3 are typically the most expressive notes and may be given light kampita or graceful slides, while M1 and P in the descent are usually held cleanly as anchor notes. R2 appears only in descent and is generally approached by a smooth jaru from G2. D1 is a key note in both directions and is often treated with subtle oscillation or touch-based emphasis. Since the ascent omits R and P, phrases should avoid forcing those notes upward; the raga’s identity depends on the pentatonic ascent and the fuller, more complete descent. In practice, the raga often sounds most effective when the phrases are sung with delicate meends and restrained kampita, preserving its plaintive, serene character rather than using heavy gamaka density.",
+  "hindustani_equivalent": "Chandrakauns",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Annalin Aanai",
+      "composer": "A. S. Panchapakesa Iyer",
+      "language": ""
+    },
+    {
+      "name": "Vinayaka",
+      "composer": "T. M. Thyagarajan",
+      "language": ""
+    },
+    {
+      "name": "Nadaloludai",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Kanulu Takani",
+      "composer": "Tyagaraja",
+      "language": "Telugu"
+    },
+    {
+      "name": "Saagarasuthaam Aaradhyaye",
+      "composer": "Kalyani Varadarajan",
+      "language": ""
+    },
+    {
+      "name": "Innudaya Baarade",
+      "composer": "Purandara Dasa",
+      "language": ""
+    },
+    {
+      "name": "Sri Ranganatha Pahimam",
+      "composer": "Jayachamaraja Wodeyar",
+      "language": ""
+    },
+    {
+      "name": "Gaanamalinchi",
+      "composer": "M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Vaanin Mazhai Neeye",
+      "composer": "Bharathidasan",
+      "language": "Tamil"
+    },
+    {
+      "name": "Deva Jagannatha",
+      "composer": "Gopalakrishna Bharathi",
+      "language": ""
+    },
+    {
+      "name": "Parashakthiye",
+      "composer": "Tara Natarajan",
+      "language": ""
+    },
+    {
+      "name": "Unnai Paadaadha",
+      "composer": "HH Maharanyam Sri Sri Muralidhara Swamiji",
+      "language": ""
+    }
+  ],
+  "notable_features": "Kalyanavasantam is an audava-sampurna janya of Keeravani (melakarta 21). It is structurally related to Chandrakauns in the ascent, sharing the same notes, while the descent restores panchamam and rishabham from Keeravani. The raga is asymmetric and specifically noted to omit rishabham and panchamam in the आरोहण. The source explicitly identifies the scale similarity with Chandrakauns. No graha bhedam, vivadi, or pedagogical details are stated in the provided text.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kalyanavasantam"
+}

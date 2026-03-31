@@ -1,4 +1,5 @@
 {
+  "raga_id": "vakulabharanam",
   "raga_name": "Vakulabharanam",
   "other_names": [
     "Dhātivasantabhairavi",
@@ -44,11 +45,7 @@
   "gamaka_usage": "The source does not give detailed gamaka rules for Vakulabharanam, but as a melakarta with shuddha rishabham and antara gandharam, the raga is generally rendered with smooth, measured oscillations and clear phrase-based treatment rather than heavy ornamentation. R1 and D1 are typically handled with light kampita or gentle janta-style emphasis in melodic movement, while G3 and N2 are important color tones that should be articulated cleanly. M1 and P are usually steadier anchor notes. In the asampurna form, the vakra descent requires careful jaru-like movement through M1 and G3, giving the raga a more winding contour than the straight melakarta version.",
   "hindustani_equivalent": "Basant Mukhari",
   "western_equivalent": "Phrygian dominant scale",
-  "popular_janya_ragas": [
-    "Vasantabhairavi",
-    "Surya",
-    "Srothoswini"
-  ],
+  "popular_janya_ragas": [],
   "notable_compositions": [
     {
       "name": "Gowrinatham",

@@ -63,6 +63,50 @@ FILM_NOISE_PATTERNS = re.compile(
 
 MIN_CONTENT_LENGTH = 200
 
+# When Wikipedia uses a different primary title than common spellings / aliases.
+# Keys: normalized with _normalize_lookup_key (diacritics stripped, lower, spaces collapsed).
+WIKIPEDIA_CANONICAL_TITLES: dict[str, str] = {
+    "suddha dhanyasi": "Udayaravichandrika",
+    "shuddha dhanyasi": "Udayaravichandrika",
+    "sudha dhanyasi": "Udayaravichandrika",
+    "suddhadhanyasi": "Udayaravichandrika",
+    "shuddhadhanyasi": "Udayaravichandrika",
+    "udayaraga": "Udayaravichandrika",
+    "udaya raga": "Udayaravichandrika",
+    # Wikipedia: "Shuddha Saveri"; common spellings omit / swap "h"
+    "suddha saveri": "Shuddha Saveri",
+    "shuddha saveri": "Shuddha Saveri",
+    "suddhasaveri": "Shuddha Saveri",
+    "shuddhasaveri": "Shuddha Saveri",
+    "karnataka suddha saveri": "Karnataka Shuddha Saveri",
+    "karnataka shuddha saveri": "Karnataka Shuddha Saveri",
+    # Wikipedia: "Kalyanavasantam" (one word; second part is vasantam, not vasantham)
+    "kalyana vasantam": "Kalyanavasantam",
+    "kalyana vasantham": "Kalyanavasantam",
+    "kalyanavasantam": "Kalyanavasantam",
+    "kalyanavasantham": "Kalyanavasantam",
+    # Wikipedia: "Gambhiranata"; also known as Shuddha Nata; Tamil-style "Gambheeranattai"
+    "gambheeranattai": "Gambhiranata",
+    "gambhiranattai": "Gambhiranata",
+    "gambheeranata": "Gambhiranata",
+    "gambhiranata": "Gambhiranata",
+}
+
+
+def _normalize_lookup_key(name: str) -> str:
+    """Normalize for WIKIPEDIA_CANONICAL_TITLES lookup."""
+    return " ".join(_strip_diacritics(name).lower().split())
+
+
+def _canonical_wikipedia_title(raga_name: str, aliases: list[str]) -> str | None:
+    """Return the English Wikipedia article title when the raga uses a different primary page name."""
+    for raw in [raga_name] + aliases:
+        key = _normalize_lookup_key(raw)
+        if key in WIKIPEDIA_CANONICAL_TITLES:
+            return WIKIPEDIA_CANONICAL_TITLES[key]
+    return None
+
+
 TRANSLITERATION_SWAPS = [
     ("dw", "dv"),
     ("dv", "dw"),
@@ -108,6 +152,13 @@ def _transliteration_variants(name: str) -> list[str]:
                 variants.add(capitalized)
 
     variants.discard(name)
+    # Common spelling alternates (whole-name only; avoids corrupting e.g. Reetigowla)
+    _simple = _strip_diacritics(name).lower()
+    if _simple == "gowla":
+        variants.add("Gaula")
+    elif _simple == "gaula":
+        variants.add("Gowla")
+
     return list(variants)
 
 
@@ -150,27 +201,46 @@ def _normalize_for_match(text: str) -> str:
     return _strip_diacritics(text).lower().replace(" ", "")
 
 
+def _term_matches_title(term: str, title: str) -> bool:
+    """True if term matches the raga name in title as a whole word.
+
+    Prevents false positives like 'gowla' matching inside 'Reetigowla'.
+    """
+    if not term:
+        return False
+    title_clean = re.sub(r"\s*\([^)]*\)\s*$", "", title).strip()
+    term_norm = _normalize_for_match(term)
+    if not term_norm:
+        return False
+    t_norm = _normalize_for_match(title_clean)
+    if term_norm == t_norm:
+        return True
+    for tok in re.split(r"[\s\-_/]+", title_clean):
+        if _normalize_for_match(tok) == term_norm:
+            return True
+    if re.search(r"(?<![a-z])" + re.escape(term_norm) + r"(?![a-z])", t_norm):
+        return True
+    return False
+
+
 def _title_matches_raga(title: str, raga_name: str, aliases: list[str]) -> bool:
     """Check if a page title is about the target raga (fuzzy on transliteration).
 
-    Comparisons are space-insensitive so 'Sindhubhairavi' matches
-    'Sindhu Bhairavi (raga)'.
+    Space-insensitive whole-word matching so 'Sindhubhairavi' matches
+    'Sindhu Bhairavi (raga)', but 'Gowla' does not match 'Reetigowla'.
     """
-    title_norm = _normalize_for_match(title)
     candidates = set()
     for raw in [raga_name] + aliases:
         candidates.add(_normalize_for_match(raw))
+        candidates.add(_strip_diacritics(raw).lower().replace(" ", ""))
         candidates.add(raw.lower())
-        candidates.add(_strip_diacritics(raw).lower())
     for raw in [raga_name] + aliases:
         for v in _transliteration_variants(raw):
             candidates.add(_normalize_for_match(v))
     for term in candidates:
-        if term in title_norm:
-            return True
-    title_lower = _strip_diacritics(title).lower()
-    for term in candidates:
-        if term in title_lower:
+        if not term:
+            continue
+        if _term_matches_title(term, title):
             return True
     return False
 
@@ -338,6 +408,20 @@ class WikipediaCrawler:
 
         Returns (title, content, is_exact_match).
         """
+        canonical = _canonical_wikipedia_title(raga_name, aliases)
+        if canonical:
+            seen_canon: set[str] = set()
+            for suffix in ["", " (raga)", " (Carnatic raga)", " (Carnatic)"]:
+                candidate = canonical + suffix
+                if candidate in seen_canon:
+                    continue
+                seen_canon.add(candidate)
+                logger.info(f"Trying canonical Wikipedia title: '{candidate}'")
+                result = self._try_direct_page(candidate)
+                if result:
+                    logger.info(f"Found direct page: '{result[0]}'")
+                    return result[0], result[1], True
+
         base_names = []
         seen_bases: set[str] = set()
         all_raw = [raga_name] + aliases

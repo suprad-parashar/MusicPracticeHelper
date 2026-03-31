@@ -1,4 +1,5 @@
 {
+  "raga_id": "pavani",
   "raga_name": "Pavani",
   "other_names": [
     "Pāvani",
@@ -45,9 +46,7 @@
   "gamaka_usage": "As a melakarta with the vivadi combination R1-G1 and the sharp contrast of M2, Pavani is best handled with careful, weighty gamaka treatment rather than plain scalar rendering. The lower swaras R1 and G1 need delicate but precise handling, typically with restrained kampita or subtle oscillation, so that the vivadi color is heard clearly without becoming harsh. These two swaras should not be rendered too flatly or too heavily shaken; their intonation must remain exact. The movement from G1 to M2 is especially important: the wide interval can be approached with a measured jaru or a clearly articulated leap, and M2 should emerge with brightness and firmness as a point of contrast after the dense lower tetrachord. P is generally a stable nyasa-like resting point, while D2 is usually treated more plainly, with moderate ornamentation. N3 can take a mild emphasis or light kampita when approaching the upper shadjam, and the N3-S ascent benefits from a smooth upward glide. Descending phrases through N3 D2 P and P M2 G1 R1 should preserve the raga's gravity and avoid overly decorative brigas that can blur the vivadi identity. In general, Pavani demands controlled gamakas, measured slides, and a dignified gait; excessive plain-note scalar singing makes it sound skeletal, while excessive ornamentation can obscure its rare melodic personality.",
   "hindustani_equivalent": "unknown",
   "western_equivalent": "unknown",
-  "popular_janya_ragas": [
-    "Chandrajyoti"
-  ],
+  "popular_janya_ragas": [],
   "notable_compositions": [
     {
       "name": "Sachidanandamaya",

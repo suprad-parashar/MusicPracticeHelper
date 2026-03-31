@@ -1,4 +1,5 @@
 {
+  "raga_id": "natabhairavi",
   "raga_name": "Natabhairavi",
   "other_names": [
     "Naṭabhairavi",
@@ -46,13 +47,10 @@
   "hindustani_equivalent": "Asavari thaat",
   "western_equivalent": "Natural minor scale (Aeolian mode)",
   "popular_janya_ragas": [
-    "Bhairavi",
-    "Nagagandhari",
-    "Saramati",
-    "Jaunpuri",
-    "Hindolam",
-    "Darbari Kanada",
-    "Jayanthasree"
+    "bhairavi",
+    "saramati",
+    "hindolam",
+    "darbari_kanada"
   ],
   "notable_compositions": [
     {

@@ -1,4 +1,5 @@
 {
+  "raga_id": "simhendramadhyamam",
   "raga_name": "Simhendramadhyamam",
   "other_names": [
     "Sumadyuti",
@@ -48,10 +49,7 @@
   "gamaka_usage": "Simhendramadhyamam is not handled as a plain scalar melakarta; its identity emerges through weighty, rakti-laden gamaka treatment. G2 and D1 are especially important for establishing the raga’s dark, intense color and are typically rendered with pronounced kampita/oscillation rather than as flat notes. R2 is usually not left bare for long; it is often approached in relation to G2 and can carry a measured oscillation, especially in phrases that dwell on the poorvanga. M2 is a major color-bearing swara and is often sustained with weight, sometimes reached through a glide from G2 or moving onward with force toward P. N3 is bright and tense, frequently emphasized in ascent toward the upper shadja and in descending phrases such as N3-D1-P; it should sound luminous rather than casual. P and S function as comparatively stable nyasa points. Jaru movements and curved phraseology are important around M2-P-D1, D1-N3-S, and S-N3-D1-P, and the upper-octave region can be given striking emphasis, with the tara sthayi Rishabha receiving notable weight in elaboration. The raga should be unfolded with gravitas and continuity of gamaka so that it remains distinct from Keeravani: the prati madhyamam must be clearly colored, and the handling of G2, M2, D1, and N3 should project a regal, meditative, and emotionally charged bhava rather than a dry heptatonic outline.",
   "hindustani_equivalent": "Simhendra Madhyamam (borrowed into Hindustani music)",
   "western_equivalent": "Hungarian Minor Scale (Gypsy Minor Scale)",
-  "popular_janya_ragas": [
-    "Vijaya Saraswati",
-    "Urmika"
-  ],
+  "popular_janya_ragas": [],
   "notable_compositions": [
     {
       "name": "Needu Charanamule",

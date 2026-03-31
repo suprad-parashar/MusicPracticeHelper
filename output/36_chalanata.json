@@ -1,4 +1,5 @@
 {
+  "raga_id": "chalanata",
   "raga_name": "Chalanata",
   "other_names": [
     "Chalanāta",
@@ -47,10 +48,8 @@
   "hindustani_equivalent": "unknown",
   "western_equivalent": "unknown",
   "popular_janya_ragas": [
-    "Nata",
-    "Nattai",
-    "Ghambheeranata",
-    "Gambheeranattai"
+    "nattai",
+    "gambhiranata"
   ],
   "notable_compositions": [
     {

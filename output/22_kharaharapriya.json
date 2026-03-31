@@ -1,4 +1,5 @@
 {
+  "raga_id": "kharaharapriya",
   "raga_name": "Kharaharapriya",
   "other_names": [
     "Harapriya"
@@ -45,20 +46,16 @@
   "hindustani_equivalent": "Kafi thaat",
   "western_equivalent": "Dorian mode",
   "popular_janya_ragas": [
-    "Abheri",
-    "Abhogi",
-    "Andolika",
-    "Bhimplaas",
-    "Brindavana Saranga",
-    "Kāpi",
-    "Madhyamavati",
-    "Megh",
-    "Mukhari",
-    "Reetigowla",
-    "Shree",
-    "Dhanashree",
-    "Udayaravichandrika",
-    "Sriranjani"
+    "abheri",
+    "abhogi",
+    "andolika",
+    "kapi",
+    "madhyamavati",
+    "mukhari",
+    "reetigowla",
+    "shree",
+    "udayaravichandrika",
+    "shree_ranjani"
   ],
   "notable_compositions": [
     {

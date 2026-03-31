@@ -1,4 +1,5 @@
 {
+  "raga_id": "vachaspati",
   "raga_name": "Vachaspati",
   "other_names": [
     "Vāchaspati",
@@ -49,8 +50,7 @@
   "hindustani_equivalent": "Vachaspati",
   "western_equivalent": "Acoustic scale",
   "popular_janya_ragas": [
-    "Bhooshavali",
-    "Saraswathi"
+    "vachaspati"
   ],
   "notable_compositions": [
     {

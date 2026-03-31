@@ -1,4 +1,5 @@
 {
+  "raga_id": "vagadheeswari",
   "raga_name": "Vagadheeswari",
   "other_names": [
     "Vagadheeshwari",
@@ -47,11 +48,7 @@
   "gamaka_usage": "As a sampurna melakarta with a straight scalar structure, Vagadheeswari can accommodate both plain-note handling and ornamented treatment. The raga identity is strongly shaped by the R3-G3 area, which must be handled with clarity so that the unusual bright opening tetrachord is unmistakable. R3 is not usually dwelt on with heavy oscillation in the manner of more gamaka-laden rakti ragas; instead it is often approached and released cleanly, sometimes with a light kampita or a subtle glide into G3. G3 can take measured kampita and serves as an important color-bearing swara, but excessive oscillation that blurs the R3-G3 distinction should be avoided. M1 and P are comparatively steady nyasa points and help stabilize the raga's otherwise sharp-edged purvanga. D2 and especially N2 in descent admit gentle kampita or slide-based treatment, with phrases such as N2-D2-P and P-M1-G3-R3 benefiting from smooth jaru movement. The raga tolerates plain-note sancharas well, and this plainness is in fact useful in establishing its melakarta outline; over-decoration can obscure its scalar identity. Characteristic handling therefore lies in balancing clean scalar movement with selective ornamentation: light to moderate kampita on G3 and N2, restrained treatment of R3, stable M1 and P, and graceful descending jarus across the upper notes. Compared with heavier rakti ragas, Vagadheeswari is best projected through lucid phrase architecture, slow-to-medium movement, and a dignified, devotional repose rather than dense gamaka saturation.",
   "hindustani_equivalent": "unknown",
   "western_equivalent": "Mixolydian #2",
-  "popular_janya_ragas": [
-    "Magadhi",
-    "Mohanangi",
-    "Chayanata"
-  ],
+  "popular_janya_ragas": [],
   "notable_compositions": [
     {
       "name": "SudheyoLu",

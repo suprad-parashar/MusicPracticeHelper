@@ -11,10 +11,17 @@ import logging
 import os
 import re
 import time
-
 from openai import OpenAI, RateLimitError, APIError, APITimeoutError, APIConnectionError
 from pydantic import BaseModel, Field
 from rich.console import Console
+
+from melakarta_ragas import get_raga_info
+from popular_janya_ids import (
+    build_lookup_from_rows,
+    load_json_rows_from_output_dir,
+    normalize_popular_janya_list,
+)
+from raga_slug import slug_raga_id
 
 logger = logging.getLogger(__name__)
 
@@ -49,6 +56,71 @@ def _sleep_with_progress(seconds: float, desc: str = "Waiting"):
             time.sleep(remainder)
 
 
+def _raga_signature_from_dict(data: dict) -> tuple:
+    return (
+        (data.get("raga_name") or "").strip(),
+        bool(data.get("is_melakarta")),
+        data.get("parent_raga"),
+        data.get("melakarta_number"),
+    )
+
+
+def _load_signature_from_path(path: str) -> tuple | None:
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        return _raga_signature_from_dict(data)
+    except (OSError, json.JSONDecodeError, TypeError):
+        return None
+
+
+def _scan_raga_id_to_paths(output_dir: str) -> dict[str, list[str]]:
+    """Map raga_id -> paths of JSON files that currently claim that id."""
+    out: dict[str, list[str]] = {}
+    if not os.path.isdir(output_dir):
+        return out
+    for fn in os.listdir(output_dir):
+        if not fn.endswith(".json"):
+            continue
+        path = os.path.join(output_dir, fn)
+        try:
+            with open(path, encoding="utf-8") as f:
+                data = json.load(f)
+            rid = (data.get("raga_id") or "").strip()
+            if rid:
+                out.setdefault(rid, []).append(path)
+        except (OSError, json.JSONDecodeError):
+            continue
+    return out
+
+
+def _parent_slug(parent_raga: int | None) -> str | None:
+    if parent_raga is None or not (1 <= parent_raga <= 72):
+        return None
+    try:
+        name = get_raga_info(parent_raga)["name"]
+        return slug_raga_id(name)
+    except (KeyError, ValueError):
+        return None
+
+
+def _candidate_id_available(
+    candidate: str,
+    rid_to_paths: dict[str, list[str]],
+    our_sig: tuple,
+) -> bool:
+    paths = rid_to_paths.get(candidate, [])
+    if not paths:
+        return True
+    for p in paths:
+        ps = _load_signature_from_path(p)
+        if ps is None:
+            return False
+        if ps != our_sig:
+            return False
+    return True
+
+
 class Composition(BaseModel):
     name: str = Field(description="Name of the composition")
     composer: str = Field(default="", description="Composer name")
@@ -56,6 +128,10 @@ class Composition(BaseModel):
 
 
 class RagaInfo(BaseModel):
+    raga_id: str = Field(
+        default="",
+        description="Stable slug id (lowercase ASCII, underscores). Same meaning as template raga_id.",
+    )
     raga_name: str = Field(description="Primary Carnatic name of the raga")
     other_names: list[str] = Field(default_factory=list, description="All alternative names/spellings/transliterations")
     melakarta_number: int | None = Field(default=None, description="Melakarta number (1-72) if this is a melakarta raga")
@@ -77,10 +153,71 @@ class RagaInfo(BaseModel):
     gamaka_usage: str = Field(default="", description="How gamakas are used in the raga. Which swaras are used for gamakas and how, where to use strong or weak gamakas, etc.")
     hindustani_equivalent: str = Field(default="unknown", description="Equivalent raga in Hindustani music. If no equivalent, use 'unknown'.")
     western_equivalent: str = Field(default="unknown", description="Equivalent scale/mode in Western music. If no equivalent, use 'unknown'.")
-    popular_janya_ragas: list[str] = Field(default_factory=list, description="Popular janya (derived) ragas if this is a melakarta")
+    popular_janya_ragas: list[str] = Field(
+        default_factory=list,
+        description="Popular janya ragas for this melakarta: each entry is a raga_id (ASCII slug) present in the catalog, not a display name",
+    )
     notable_compositions: list[Composition] = Field(default_factory=list, description="All notable compositions. Be exhaustive.")
     notable_features: str = Field(default="", description="Any other notable facts: graha bhedam, prati madhyama equivalent, pedagogical significance, etc.")
     wikipedia_url: str = Field(default="", description="URL of the most relevant Wikipedia page for this raga")
+
+
+def _raga_signature_from_info(info: RagaInfo) -> tuple:
+    """Identity tuple for disambiguating duplicate names (same raga may re-save the same raga_id)."""
+    return (
+        (info.raga_name or "").strip(),
+        bool(info.is_melakarta),
+        info.parent_raga,
+        info.melakarta_number,
+    )
+
+
+def build_raga_id_candidates(raga_info: RagaInfo, base: str) -> list[str]:
+    """Ordered slug candidates when `base` is already taken by another raga."""
+    out: list[str] = []
+
+    def add(x: str) -> None:
+        if x and x not in out:
+            out.append(x)
+
+    add(base)
+    if raga_info.is_melakarta and raga_info.melakarta_number is not None:
+        add(f"{base}_m{raga_info.melakarta_number}")
+    if not raga_info.is_melakarta and raga_info.parent_raga is not None:
+        pn = _parent_slug(raga_info.parent_raga)
+        if pn:
+            add(f"{base}_{pn}")
+        add(f"{base}_parent_{raga_info.parent_raga}")
+    n = 2
+    while len(out) < 200:
+        add(f"{base}_{n}")
+        n += 1
+    return out
+
+
+def resolve_unique_raga_id(raga_info: RagaInfo, output_dir: str) -> RagaInfo:
+    """
+    Ensure raga_id is unique among JSON files in output_dir.
+
+    If another file already uses the same id for a *different* raga (name/parent/melakarta),
+    pick the next candidate: melakarta may use ``{base}_m{N}``, janya ``{base}_{parent_slug}``, etc.
+    """
+    base = (raga_info.raga_id or "").strip() or slug_raga_id(raga_info.raga_name)
+    rid_map = _scan_raga_id_to_paths(output_dir)
+    our_sig = _raga_signature_from_info(raga_info)
+
+    for cand in build_raga_id_candidates(raga_info, base):
+        if _candidate_id_available(cand, rid_map, our_sig):
+            if cand != (raga_info.raga_id or "").strip():
+                logger.info(
+                    "raga_id '%s' unavailable or ambiguous — using unique id '%s' for %r",
+                    (raga_info.raga_id or base) or base,
+                    cand,
+                    raga_info.raga_name,
+                )
+            return raga_info.model_copy(update={"raga_id": cand})
+
+    raise RuntimeError(f"Could not assign a unique raga_id for {raga_info.raga_name!r} (base={base!r})")
 
 
 SYSTEM_PROMPT = """You are an expert in Carnatic music with encyclopedic knowledge of ragas, compositions, composers, and musical theory.
@@ -93,6 +230,13 @@ Extract ALL available structured information about a Carnatic raga from the prov
 - For janya (derived) ragas, set parent_raga to the melakarta number (1-72) of the parent raga.
 - For melakarta ragas, leave as null.
 - Example: Hamsadhvani is a janya of Shankarabharanam → parent_raga: 29
+
+### raga_id
+- Prefer a lowercase ASCII slug from `raga_name` (e.g. `shankarabharanam`). If you leave it empty, the pipeline fills it.
+- The save step guarantees a **unique** id across all JSON files in `output/`; if the same name exists as both a melakarta and a janya, set `parent_raga` / `is_melakarta` correctly — disambiguation uses that.
+
+### popular_janya_ragas (melakarta only)
+- List **raga_id** strings for well-known janya ragas derived from this melakarta (e.g. `hamsadhvani`, `mohanam`), matching ids used elsewhere in the catalog — **not** long prose names.
 
 ### arohana / avrohana
 - Return as a JSON list of individual swaras: ["S", "R1", "G1", "M1", "P", "D1", "N1", ">S"]
@@ -439,11 +583,23 @@ def save_raga_info(raga_info: RagaInfo, output_dir: str = "output") -> str:
     """Save extracted raga info to a JSON file."""
     os.makedirs(output_dir, exist_ok=True)
 
+    if not (raga_info.raga_id or "").strip():
+        raga_info = raga_info.model_copy(update={"raga_id": slug_raga_id(raga_info.raga_name)})
+
+    raga_info = resolve_unique_raga_id(raga_info, output_dir)
+
+    if raga_info.is_melakarta and raga_info.popular_janya_ragas:
+        rows = load_json_rows_from_output_dir(output_dir)
+        ids, name_to_id = build_lookup_from_rows(rows)
+        new_pj = normalize_popular_janya_list(raga_info.popular_janya_ragas, ids, name_to_id)
+        if new_pj != raga_info.popular_janya_ragas:
+            raga_info = raga_info.model_copy(update={"popular_janya_ragas": new_pj})
+
     safe_name = raga_info.raga_name.lower().replace(" ", "_")
-    if raga_info.melakarta_number:
+    if raga_info.is_melakarta and raga_info.melakarta_number is not None:
         filename = f"{raga_info.melakarta_number:02d}_{safe_name}.json"
     else:
-        filename = f"{safe_name}.json"
+        filename = f"{raga_info.raga_id}.json"
 
     filepath = os.path.join(output_dir, filename)
     with open(filepath, "w", encoding="utf-8") as f:
@@ -586,6 +742,7 @@ Other rules:
 - KEEP all existing data that is already correct — do not remove or change it.
 - FILL IN empty fields using information from the additional snippets.
 - parent_raga: for janya ragas, set to the melakarta NUMBER (1-72), not the name. E.g. Shankarabharanam → 29, Kalyani → 65.
+- popular_janya_ragas: for melakarta ragas only — list **raga_id** slugs (e.g. `hamsadhvani`), not display names. The save step maps names to ids when possible.
 - arohana/avrohana: JSON list of swaras (e.g. ["S", "R2", "G3", "M1", "P", "D2", "N3", ">S"]).
 - description: rich text combining nature, character, history, significance.
 - notable_features: any additional facts (graha bhedam, prati madhyama equivalent, teaching use, etc.)

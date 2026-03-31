@@ -1,11 +1,9 @@
 {
+  "raga_id": "dhatuvardhani",
   "raga_name": "Dhatuvardhani",
   "other_names": [
     "Dhātuvardhani",
-    "Dhatuvardani",
-    "Dhautapanchamam",
-    "Dhatuvardhini",
-    "Dhathuvardhani"
+    "Dhautapanchamam"
   ],
   "melakarta_number": 69,
   "is_melakarta": true,
@@ -23,7 +21,7 @@
     ">S"
   ],
   "avrohana": [
-    ">S",
+    "S",
     "N3",
     "D1",
     "P",
@@ -36,16 +34,16 @@
   "is_vakra": false,
   "is_bhashanga": false,
   "anya_swaras": [],
-  "uses_vivadi_swaras": true,
+  "uses_vivadi_swaras": false,
   "rasa": [
-    "Adbhuta",
-    "Veera",
-    "Bhakti"
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
   ],
-  "mood": "Dhatuvardhani has a bright, sharp, and somewhat striking melodic personality because of its high R3–G3 combination, prati madhyamam, and the contrast created by shuddha dhaivatam. The raga can evoke a sense of brilliance and wonder, with an austere but energetic color rather than soft sweetness. It suggests alertness, intensity, and a dignified devotional fervor, making it suitable for compositions of weight and intellectual interest. Its atmosphere can feel radiant yet slightly tense, like a vivid sunrise with a metallic sheen, combining majesty with a subtle spiritual seriousness.",
-  "description": "Dhatuvardhani is a melakarta ragam in Carnatic music and is the 69th melakarta in the 72 melakarta system. It is known as Dhautapanchamam in the Muthuswami Dikshitar school. It is the 3rd ragam in the 12th chakra, Aditya, and its mnemonic name is Aditya-Go; the mnemonic phrase is 'sa ru gu mi pa dha nu'. Its scale is sampurna in both ascent and descent: S R3 G3 M2 P D1 N3 S / S N3 D1 P M2 G3 R3 S. The swaras used are shatsruthi rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kakali nishadham, along with shadjam and panchamam. As a melakarta, it contains all seven notes in both directions. Dhatuvardhani is the prati madhyamam equivalent of Gangeyabhushani, the 33rd melakarta. It has only a few minor janya ragams derived from it. In theoretical treatment, applying graha bhedam to Dhatuvardhani yields Gayakapriya, a minor melakarta ragam.",
-  "time_of_day": "No fixed time; in modern Carnatic practice, time-of-day assignment is generally not observed.",
-  "gamaka_usage": "The source material does not give a formal lakshana-style gamaka prescription, but the raga's melakarta structure and vivadi content imply a careful, precise treatment. R3 and G3, occurring in close succession, must be rendered distinctly so the vivadi edge is preserved and not smeared; they can take controlled kampita or subtle oscillation, but excessive shaking can blur the identity. M2 should be given a firm, bright emphasis to establish the prati-madhyama color clearly. P is generally a stable anchoring note, and S and P can function as important nyasa points. D1 is the most delicate swara in the scale because it contrasts strongly with the otherwise sharp upper tetrachord; it is best handled with restraint, often approached from P or moving toward N3 with measured intonation rather than struck too harshly. N3 can be highlighted in ascent as a leading tone to the upper shadjam. Jaru phrases such as P-D1-N3->S or >S-N3-D1-P can be effective when rendered cleanly, but the raga should not be reduced to plain scalar runs. Overall, Dhatuvardhani benefits from a weighty, exact, and slightly austere gamaka approach that preserves its crisp vivadi identity and the tension between the brilliant R3-G3-M2 region and the softer D1.",
+  "mood": "Dhatuvardhani has a bright, expansive, and dignified mood, with the clarity and symmetry of a full melakarta scale. Its shatsruti rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kakali nishadham give it a polished, slightly intense but orderly character that can feel uplifting and contemplative at once. It suits a listener seeking a composed, devotional, and somewhat majestic atmosphere rather than overt pathos or romance.",
+  "description": "Dhatuvardhani (pronounced Dhātuvardhani) is the 69th melakarta rāgam in the 72-melakarta system of Carnatic music. In the Muthuswami Dikshitar school it is called Dhautapanchamam. It is the 3rd rāgam in the 12th chakra, Aditya, with mnemonic name Aditya-Go and mnemonic phrase sa ru gu mi pa dha nu. Its scale is sampurna in both ascent and descent: S R3 G3 M2 P D1 N3 S / S N3 D1 P M2 G3 R3 S. The notes used are shatsruthi rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kakali nishadham. As a melakarta, it is a parent scale and the prati madhyamam equivalent of Gangeyabhushani, the 33rd melakarta. The text notes that a few minor janya ragams are associated with it, though no specific janyas are listed. In graha bhedam, shifting the shadjam yields Gayakapriya, a minor melakarta rāgam.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "As a plain melakarta scale, Dhatuvardhani is generally rendered with a relatively direct, orderly treatment of swaras rather than heavy vakra ornamentation. The source does not specify special gamaka rules, but by melakarta convention R3, G3, D1, and N3 may be given light oscillation or phrase-based ornamentation depending on composition, while M2 and P are typically steadier anchor notes. Because the scale is symmetrical and non-bhashanga, the gamaka treatment is expected to remain within the scale without anya-swara inflections.",
   "hindustani_equivalent": "unknown",
   "western_equivalent": "unknown",
   "popular_janya_ragas": [],
@@ -53,18 +51,19 @@
     {
       "name": "Mathangi Marakathangi",
       "composer": "Muthuswami Dikshitar",
-      "language": "Sanskrit"
+      "language": ""
     },
     {
       "name": "Sukha Kara",
       "composer": "Koteeswara Iyer",
-      "language": "Tamil"
+      "language": ""
     },
     {
       "name": "Mahesham Bhavayami",
       "composer": "Dr. M. Balamuralikrishna",
-      "language": "Sanskrit"
+      "language": ""
     }
   ],
-  "notable_features": "69th melakarta; 3rd ragam in the 12th chakra Aditya. Mnemonic name: Aditya-Go. Mnemonic phrase: sa ru gu mi pa dha nu. Called Dhautapanchamam in the Muthuswami Dikshitar school. Its graha bhedam yields Gayakapriya. It is the prati madhyamam counterpart of Gangeyabhushani (33rd melakarta). It has only a few minor janya ragams derived from it."
+  "notable_features": "Melakarta #69; 3rd chakra position in Aditya chakra; mnemonic name Aditya-Go; mnemonic phrase sa ru gu mi pa dha nu; called Dhautapanchamam in the Muthuswami Dikshitar school; prati madhyamam equivalent of Gangeyabhushani (#33); graha bhedam from Dhatuvardhani yields Gayakapriya; a few minor janya ragams are associated with it, but the source does not enumerate them.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dhatuvardhani"
 }

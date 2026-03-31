@@ -1,0 +1,124 @@
+{
+  "raga_id": "gaula",
+  "raga_name": "Gaula",
+  "other_names": [
+    "Gowla",
+    "gauḷa"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 15,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "R1",
+    "M1",
+    "P",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "P",
+    "M1",
+    "R1",
+    "G3",
+    "M1",
+    "R1",
+    "S"
+  ],
+  "raga_type": "audava-vakra-shadava",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [
+    "G3"
+  ],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti"
+  ],
+  "mood": "Gaula has an auspicious, ancient, and dignified mood, often associated with the early part of a concert. It feels solemn yet uplifting, with a devotional and serene quality that can evoke reverence, calmness, and a sense of traditional gravity. The raga’s contour gives it a stately, grounded character rather than overt sweetness, making it suitable for opening a performance with an atmosphere of sanctity and composure.",
+  "description": "Gaula (or Gowla, pronounced gauḷa) is an ancient Carnatic janya raga derived from the 15th melakarta Mayamalavagowla. It is described as an auspicious raga, usually sung in the early part of a concert, and is also considered a popular ghana raga. Its structure is asymmetric: the ascent is audava (pentatonic) and omits gandharam and dhaivatam, while the descent is vakra-shadava with six notes and zig-zag movement. The scale given is S R1 M1 P N3 S in ascent and S N3 P M1 R1 G3 M1 R1 S in descent. The text notes that it is an ancient raga mentioned in Sangita Ratnakara, Sangita Makarandha, and Sangita Samayasara. It is strongly associated with the Gaula rishabham (ekasruti rishabham) and includes antara gandharam only in the descent. The raga has a substantial repertoire of compositions, especially by Tyagaraja, Muthuswami Dikshitar, Swathi Thirunal, Mysore Vasudevachar, Gopalakrishna Bharathi, Ambi Dikshithar, Thiruvottriyur Thyagaraja, and Oothukkadu Venkata Kavi.",
+  "time_of_day": "early part of concert",
+  "gamaka_usage": "Gaula is rendered with characteristic Carnatic gamakas, especially on R1 and G3 in the descent. R1 is a key note and is typically given a firm kampita/oscillatory treatment, reflecting its identity as Gaula rishabham. G3 appears only in the avarohana and is approached in a vakra manner, usually with a gentle slide or oscillation rather than a plain, flat touch. M1 and P are comparatively steadier anchor notes, while N3 in the ascent is also held clearly as part of the pentatonic climb. The raga’s zig-zag descent requires careful jaru-like movement through S–N3–P–M1–R1–G3–M1–R1–S, and the repeated return to M1 and R1 is a defining prayoga. Dhaivatam is avoided entirely, and gandharam is not used in ascent. Compared with closely related Mayamalavagowla-type phrases, Gaula’s treatment is more weighty and gamaka-rich, with emphasis on its ghana character rather than scalar plainness.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Duduku gala",
+      "composer": "Tyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Sri Mahaganapathiravatumam",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Nilotpalambikaya",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Mahishasura Mardhini",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Tyagaraja Palayasumam",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Kaama Janaka",
+      "composer": "Maharaja Swathi Thirunal",
+      "language": ""
+    },
+    {
+      "name": "Pranamamyaham",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Sharanagathamenru",
+      "composer": "Gopalakrishna Bharathi",
+      "language": ""
+    },
+    {
+      "name": "Gananathaya Namaste",
+      "composer": "Ambi Dikshithar",
+      "language": ""
+    },
+    {
+      "name": "Chelimi Kori Vacchiyunnadi",
+      "composer": "Thiruvottriyur Thyagaraja",
+      "language": ""
+    },
+    {
+      "name": "Chora Chaturyaleela",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Senapathe Namostute",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Brindavana Nilaye",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Aganita Mahimadhbutha",
+      "composer": "Oothukkadu Venkata Kavi",
+      "language": ""
+    }
+  ],
+  "notable_features": "Ancient raga mentioned in Sangita Ratnakara, Sangita Makarandha, and Sangita Samayasara. It is a janya of Mayamalavagowla (melakarta 15). Classified as audava-vakra-shadava. Considered auspicious and a ghana raga, commonly placed in the early part of concerts. The scale omits dhaivatam entirely and omits gandharam in ascent, but uses antara gandharam in descent. The text explicitly lists it as a popular raga with many compositions. No graha bhedam or prati madhyama equivalent is mentioned in the provided content.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gaula"
+}

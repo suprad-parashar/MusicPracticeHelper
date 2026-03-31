@@ -1,0 +1,102 @@
+{
+  "raga_id": "jyotiswarupini",
+  "raga_name": "Jyoti swarupini",
+  "other_names": [
+    "Jyotiswarupini",
+    "Jyōtiswarūpini",
+    "Jyōtirāga",
+    "Joti",
+    "Jyōti"
+  ],
+  "melakarta_number": 68,
+  "is_melakarta": true,
+  "parent_raga": null,
+  "inventor": "",
+  "chakra": "Aditya",
+  "arohana": [
+    "S",
+    "R3",
+    "G3",
+    "M2",
+    "P",
+    "D1",
+    "N2",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N2",
+    "D1",
+    "P",
+    "M2",
+    "G3",
+    "R3",
+    "S"
+  ],
+  "raga_type": "sampurna",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Jyoti swarupini has a bright, radiant, and uplifting character, with a sense of clarity and spiritual luminosity suggested by its very name. As a melakarta with a complete, symmetrical scale, it tends to evoke calm devotion and a dignified, contemplative serenity rather than intense pathos or agitation. The raga can suggest the imagery of light, inner awakening, and auspiciousness, making it suitable for reflective and devotional expression.",
+  "description": "Jyotiswarupini is the 68th melakarta rāgam in the 72-melakarta system of Carnatic music. It is the prati madhyamam equivalent of Ragavardhini, the 32nd melakarta. In the Muthuswami Dikshitar school it is also referred to as Jyōtirāga, Joti, or Jyōti. It is the 2nd rāgam in the 12th chakra, Aditya, with mnemonic name Aditya-Sri and mnemonic phrase sa ru gu mi pa dha ni. As a melakarta, it is a sampoorna rāgam with all seven notes in both ascent and descent. The notes used are shatsruthi rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kaisiki nishadham. The source notes that a few minor janya rāgams are associated with it, but does not list them. It is also noted that shifting its notes by graha bhedam does not yield any other melakarta rāgam.",
+  "time_of_day": "",
+  "gamaka_usage": "The source does not give explicit gamaka rules for Jyotiswarupini. As a melakarta with the scale S R3 G3 M2 P D1 N2 S / S N2 D1 P M2 G3 R3 S, the raga is generally rendered with smooth, well-connected prayogas rather than heavy oscillation. R3 and G3 are typically handled with controlled kampita or gentle jaru transitions to preserve the bright, sharp color of the scale, while M2 and P are usually steadier anchor notes. D1 and N2 may take light oscillation or slide-based treatment in phrases, but the raga’s identity depends more on clean scalar movement than on elaborate gamaka-heavy treatment. Compared with janya ragas, its gamaka profile is expected to be more straightforward and less phrase-specific.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Rame Bharatha Palita",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Paramjyothismathi",
+      "composer": "Muthuswami Dikshitar",
+      "language": ""
+    },
+    {
+      "name": "Anandamayamanave",
+      "composer": "Walajapet Venkataramana Bhagavathar",
+      "language": ""
+    },
+    {
+      "name": "Gaanamrutha paanam",
+      "composer": "Koteeswara Iyer",
+      "language": ""
+    },
+    {
+      "name": "Jyotiswaroopini Jaya",
+      "composer": "Periyasaamy Thooran",
+      "language": ""
+    },
+    {
+      "name": "Sri Gayatri baktha durita",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Adineepai",
+      "composer": "Koranadu Natesa Pillai",
+      "language": "Telugu"
+    },
+    {
+      "name": "Paramathma",
+      "composer": "Nallan Chakravarthy Murthy",
+      "language": ""
+    },
+    {
+      "name": "Nannu Brovu Kamakshi",
+      "composer": "Akkarai Sornalatha",
+      "language": ""
+    }
+  ],
+  "notable_features": "Jyotiswarupini is the prati madhyamam equivalent of Ragavardhini (32nd melakarta). It belongs to the 12th chakra Aditya and carries the mnemonic phrase sa ru gu mi pa dha ni. The scale uses shatsruthi rishabham, antara gandharam, prati madhyamam, shuddha dhaivatham, and kaisiki nishadham. The raga is a melakarta, so it is inherently sampoorna. The article states that graha bhedam on this raga does not produce any other melakarta raga. In the Muthuswami Dikshitar school it is known by alternate names Jyōtirāga, Joti, and Jyōti.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jyoti_swarupini"
+}

@@ -1,4 +1,5 @@
 {
+  "raga_id": "gamanashrama",
   "raga_name": "Gamanashrama",
   "other_names": [
     "Gamanāshrama",
@@ -46,8 +47,7 @@
   "hindustani_equivalent": "Marva",
   "western_equivalent": "Lydian ♭2",
   "popular_janya_ragas": [
-    "Hamsanandi",
-    "Poorvikalyani"
+    "hamsanandi"
   ],
   "notable_compositions": [
     {

@@ -1,4 +1,5 @@
 {
+  "raga_id": "kamavardhani",
   "raga_name": "Kamavardhani",
   "other_names": [
     "Kamavardhini",
@@ -49,12 +50,7 @@
   "gamaka_usage": "Kamavardhani is not a plain scalar raga; its identity emerges through weighty, sustained, and highly expressive gamaka treatment. R1 and D1 are typically rendered with strong kampita/oscillatory handling and are rarely left dry in important phrases. G3 is a key nyasa and identity-bearing swara, often approached with curved movement from R1 and linked sensitively to M2. M2 is the defining pivot that separates the raga from Mayamalavagowla; it must be given clear prominence and intonational precision, often with a lingering emphasis or a smooth jaru into or out of adjacent swaras. N3 is also an important color note, usually handled with intensity rather than as a flat scalar step, especially in upper-register phrases leading to >S. P serves as a comparatively steady anchoring swara, offering repose amid the raga's tension-filled contours. Jaru phrases between adjacent notes and elongated, curved prayogas are central to its rakti; the raga responds especially well to expansive alapana because the swaras admit deep oscillation and sustained emotional shading. Care is needed to preserve the distinct Kamavardhani color and not let phrases drift toward Purvikalyani; the handling of M2 and the overall grave, austere gamaka profile are crucial in maintaining that distinction.",
   "hindustani_equivalent": "Poorvi thaat/Puriya Dhanashree",
   "western_equivalent": "1 b2 3 #4 5 b6 7",
-  "popular_janya_ragas": [
-    "Deepakam",
-    "Bhogavasanta",
-    "Gamakapriya",
-    "Mandari"
-  ],
+  "popular_janya_ragas": [],
   "notable_compositions": [
     {
       "name": "Guruvina Gulaamanaaguva Tanaka",

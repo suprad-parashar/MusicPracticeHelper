@@ -1,4 +1,5 @@
 {
+  "raga_id": "suryakantam",
   "raga_name": "Suryakantam",
   "other_names": [
     "Sooryakantam",
@@ -49,9 +50,7 @@
   "hindustani_equivalent": "unknown",
   "western_equivalent": "unknown",
   "popular_janya_ragas": [
-    "Vasantha",
-    "Sowrashtram",
-    "Bhairavam"
+    "vasantha"
   ],
   "notable_compositions": [
     {

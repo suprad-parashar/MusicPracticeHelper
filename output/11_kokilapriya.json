@@ -1,4 +1,5 @@
 {
+  "raga_id": "kokilapriya",
   "raga_name": "Kokilapriya",
   "other_names": [
     "Kokilāravam"
@@ -43,9 +44,7 @@
   "gamaka_usage": "As a melakarta with a straightforward sampoorna scale, Kokilapriya is generally rendered with moderate, controlled gamakas rather than heavy oscillation. R1 and M1 are typically stable anchor notes, while G2, D2, and N3 may take light kampita or gentle slides to bring out the raga’s color. P is usually held steady. Because the scale is not vakra and contains no anya swaras, the gamaka treatment should preserve the plain scalar identity; phrases should flow cleanly with smooth jaru between adjacent swaras and restrained ornamentation compared with more heavily gamaka-driven ragas. In the asampurna Kokilāravam form, the vakra phrase structure would naturally invite more zig-zag movement, but the melakarta form itself is best kept direct and balanced.",
   "hindustani_equivalent": "unknown",
   "western_equivalent": "unknown",
-  "popular_janya_ragas": [
-    "Vardhani"
-  ],
+  "popular_janya_ragas": [],
   "notable_compositions": [
     {
       "name": "Dasarathe Dayasaradhe",

@@ -13,6 +13,7 @@ Usage:
     python main.py --file ragas.txt          # List of ragas from file
     python main.py --all                     # All 72 melakarta ragas
     python main.py --crawl-only --number 29  # Only crawl, skip LLM extraction
+    python main.py --compile                 # Merge output/*.json → all_ragas.json
 """
 
 import argparse
@@ -57,6 +58,41 @@ console = Console()
 
 OUTPUT_DIR = "output"
 CACHE_DIR = ".cache/wiki"
+ALL_RAGAS_JSON = "all_ragas.json"
+
+
+def compile_ragas_to_bundle(output_dir: str, dest_path: Path) -> None:
+    """Load every *.json raga file from output_dir, sort, write as one JSON array."""
+    out = Path(output_dir)
+    if not out.is_dir():
+        console.print(f"[red]Error: Output directory not found: {out.resolve()}[/red]")
+        sys.exit(1)
+
+    paths = sorted(out.glob("*.json"))
+    ragas: list[dict] = []
+    for path in paths:
+        try:
+            with open(path, encoding="utf-8") as f:
+                ragas.append(json.load(f))
+        except json.JSONDecodeError as e:
+            console.print(f"[red]Error: Invalid JSON in {path}: {e}[/red]")
+            sys.exit(1)
+
+    def sort_key(obj: dict):
+        if obj.get("is_melakarta") and obj.get("melakarta_number") is not None:
+            return (0, obj["melakarta_number"], obj.get("raga_id") or "")
+        return (1, 0, obj.get("raga_id") or "")
+
+    ragas.sort(key=sort_key)
+
+    dest_path = dest_path.resolve()
+    with open(dest_path, "w", encoding="utf-8") as f:
+        json.dump(ragas, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+
+    console.print(
+        f"[green]Compiled {len(ragas)} ragas from {out.resolve()}/ → {dest_path}[/green]"
+    )
 
 
 def setup_logging(verbose: bool = False):
@@ -372,6 +408,7 @@ Examples:
   %(prog)s --all                         # All 72 melakarta ragas
   %(prog)s --crawl-only --name Abheri    # Only crawl Wikipedia, skip LLM
   %(prog)s --list                        # List all 72 melakarta ragas
+  %(prog)s --compile                     # Merge output/*.json into all_ragas.json
         """,
     )
 
@@ -443,15 +480,25 @@ Examples:
         action="store_true",
         help="List all 72 melakarta ragas and exit",
     )
+    options_group.add_argument(
+        "--compile",
+        action="store_true",
+        help=f"Merge all JSON files from --output into {ALL_RAGAS_JSON} in the project root and exit",
+    )
 
     args = parser.parse_args()
     setup_logging(args.verbose)
 
-    effective_model = args.model or os.environ.get("OPENAI_MODEL", DEFAULT_MODEL)
-    wiki_delay = args.delay if args.delay is not None else float(os.environ.get("WIKI_CRAWL_DELAY", "0.5"))
-
     if args.llm_delay is not None:
         reset_pacer(args.llm_delay)
+
+    project_root = Path(__file__).resolve().parent
+    if args.compile:
+        compile_ragas_to_bundle(args.output, project_root / ALL_RAGAS_JSON)
+        return
+
+    effective_model = args.model or os.environ.get("OPENAI_MODEL", DEFAULT_MODEL)
+    wiki_delay = args.delay if args.delay is not None else float(os.environ.get("WIKI_CRAWL_DELAY", "0.5"))
 
     console.print(Panel(
         "[bold cyan]Carnatic Raga RAG Pipeline[/bold cyan]\n"

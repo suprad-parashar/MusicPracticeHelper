@@ -1,4 +1,5 @@
 {
+  "raga_id": "mararanjani",
   "raga_name": "Mararanjani",
   "other_names": [
     "Sharāvati",
@@ -44,9 +45,7 @@
   "gamaka_usage": "The source does not specify detailed gamaka treatment, but as a melakarta with shuddha madhyamam and shuddha dhaivatham/nishadham, the raga is generally rendered with clear, well-defined swaras and smooth scalar movement. R2, G3, D1, and N1 are typically approached with gentle oscillation or light kampita as needed for melodic expression, while M1 and P are usually held more steadily. Because the scale is straight and sampoorna, jaru-based transitions between adjacent notes are natural, and there is no indication of vakra or anya-swara handling. Compared with more heavily gamaka-driven ragas, Mararanjani is likely to favor balanced, measured ornamentation rather than extreme oscillation.",
   "hindustani_equivalent": "unknown",
   "western_equivalent": "unknown",
-  "popular_janya_ragas": [
-    "Janasammodini"
-  ],
+  "popular_janya_ragas": [],
   "notable_compositions": [
     {
       "name": "Manasa sri raamuni",

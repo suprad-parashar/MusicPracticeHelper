@@ -1,4 +1,5 @@
 {
+  "raga_id": "dharmavati",
   "raga_name": "Dharmavati",
   "other_names": [
     "Dhaamavati"
@@ -45,10 +46,8 @@
   "hindustani_equivalent": "Madhuvanti",
   "western_equivalent": "unknown",
   "popular_janya_ragas": [
-    "Madhuvanti",
-    "Ranjani",
-    "Sri Tyagaraja",
-    "Vijayanagari"
+    "ranjani",
+    "sri_tyagaraja"
   ],
   "notable_compositions": [
     {

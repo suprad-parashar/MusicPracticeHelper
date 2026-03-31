@@ -1,4 +1,5 @@
 {
+  "raga_id": "kalyani",
   "raga_name": "Kalyani",
   "other_names": [
     "Mechakalyani",
@@ -47,13 +48,9 @@
   "hindustani_equivalent": "Yaman",
   "western_equivalent": "Lydian mode",
   "popular_janya_ragas": [
-    "Hamir Kalyani",
-    "Mohanakalyani",
-    "Amritha Kalyani",
-    "Saranga",
-    "Nada Kalyani",
-    "Sunadavinodini",
-    "Yamunakalyani"
+    "mohanakalyani",
+    "amritha_kalyani",
+    "nada_kalyani"
   ],
   "notable_compositions": [
     {

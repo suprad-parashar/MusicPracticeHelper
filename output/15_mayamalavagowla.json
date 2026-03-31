@@ -1,4 +1,5 @@
 {
+  "raga_id": "mayamalavagowla",
   "raga_name": "Mayamalavagowla",
   "other_names": [
     "Māyāmāḻavagauḻa",
@@ -48,15 +49,11 @@
   "hindustani_equivalent": "Bhairav",
   "western_equivalent": "unknown",
   "popular_janya_ragas": [
-    "Bowli",
-    "Jaganmohini",
-    "Gowla",
-    "Gowlipantu",
-    "Lalita",
-    "Nadanamakriya",
-    "Revagupti",
-    "Saveri",
-    "Malahari"
+    "bowli",
+    "gaula",
+    "revagupti",
+    "saveri",
+    "malahari"
   ],
   "notable_compositions": [
     {

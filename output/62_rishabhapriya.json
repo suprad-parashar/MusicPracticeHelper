@@ -1,4 +1,5 @@
 {
+  "raga_id": "rishabhapriya",
   "raga_name": "Rishabhapriya",
   "other_names": [
     "Ratipriya"
@@ -45,9 +46,7 @@
   "gamaka_usage": "As a melakarta with a straight sampurna scale, Rishabhapriya permits clear scalar movement, but a merely plain rendering can sound skeletal; its identity emerges through measured gamaka on the key swaras. R2 and especially G3 are often given gentle kampita or a nuanced oscillatory touch rather than being struck too flatly, helping establish the raga’s melodic personality early. M2 is an important color note and is usually approached smoothly from G3 or led into from P with a mild jaru, highlighting the prati-madhyama brightness without making the raga sound harsh. P generally functions as a stable nyasa point and is comparatively plain. D1 and N2 are crucial for bhava: D1 is delicate and should be handled with care, often with a soft oscillation or curved approach from P, while N2 benefits from a tender kampita and a subtle pull toward the upper shadja in ascent or toward D1 in descent. Characteristic movement is therefore not just linear SRGMPDN-S, but phrases where G3-M2 and D1-N2 are linked with smooth slides and controlled inflection. The raga should avoid over-heavy gamakas that obscure its melakarta clarity, yet it also should not be rendered in a dry scale-wise manner; balanced kampita on G3, D1, and N2, with graceful jaru around M2 and the upper tetrachord, best preserves its contemplative, slightly yearning character.",
   "hindustani_equivalent": "unknown",
   "western_equivalent": "unknown",
-  "popular_janya_ragas": [
-    "Gopriya"
-  ],
+  "popular_janya_ragas": [],
   "notable_compositions": [
     {
       "name": "Ghana naya desika",

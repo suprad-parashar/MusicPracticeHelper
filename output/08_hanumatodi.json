@@ -1,4 +1,5 @@
 {
+  "raga_id": "hanumatodi",
   "raga_name": "Hanumatodi",
   "other_names": [
     "Todi",
@@ -47,11 +48,9 @@
   "hindustani_equivalent": "Bhairavi thaat",
   "western_equivalent": "Phrygian mode",
   "popular_janya_ragas": [
-    "Asaveri",
-    "Janatodi",
-    "Dhanyasi",
-    "Punnagavarali",
-    "Shuddha Seemanthini"
+    "asaveri",
+    "hanumatodi",
+    "punnagavarali"
   ],
   "notable_compositions": [
     {

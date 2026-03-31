@@ -1,4 +1,5 @@
 {
+  "raga_id": "suvarnangi",
   "raga_name": "Suvarnangi",
   "other_names": [
     "Suvarṇāngi",
@@ -48,10 +49,7 @@
   "hindustani_equivalent": "unknown",
   "western_equivalent": "unknown",
   "popular_janya_ragas": [
-    "Sowveeram",
-    "Abhiru",
-    "Rathikā",
-    "Vijayashree"
+    "suvarnangi"
   ],
   "notable_compositions": [
     {

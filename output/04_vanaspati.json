@@ -1,4 +1,5 @@
 {
+  "raga_id": "vanaspati",
   "raga_name": "Vanaspati",
   "other_names": [
     "Bhānumati",
@@ -44,9 +45,7 @@
   "gamaka_usage": "The source text does not explicitly describe gamakas, but from the scale structure Vanaspati is typically rendered with restrained, measured ornamentation rather than heavy oscillation. R1 and G1 are usually approached with delicate kampita or gentle slides to preserve the austere flavor of the raga; M1 and P are generally held steady as anchor notes; D2 and N2 may take light oscillation or jaru-like transitions in phrases leading back to S. Because it is a melakarta with shuddha R and G, the swaras should remain clearly articulated and not be over-ornamented. The raga’s identity depends on clean phraseology and balanced treatment of the notes rather than elaborate gamaka density.",
   "hindustani_equivalent": "unknown",
   "western_equivalent": "unknown",
-  "popular_janya_ragas": [
-    "Rasāli"
-  ],
+  "popular_janya_ragas": [],
   "notable_compositions": [
     {
       "name": "Pariyachakama",

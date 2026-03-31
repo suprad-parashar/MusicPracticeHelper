@@ -1,0 +1,133 @@
+{
+  "raga_id": "gambhiranata",
+  "raga_name": "Gambhiranata",
+  "other_names": [
+    "Gambheeranata",
+    "Gambheeranattai",
+    "Gambhiranattai",
+    "Shuddha Nata",
+    "Naati"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 36,
+  "inventor": "",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G3",
+    "M1",
+    "P",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "P",
+    "M1",
+    "G3",
+    "S"
+  ],
+  "raga_type": "audava-audava",
+  "is_vakra": false,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Adbhuta"
+  ],
+  "mood": "Gambhiranata has a serene, expansive, and dignified mood. Its pentatonic symmetry gives it a calm, uplifting, and temple-like character, often evoking devotion, grandeur, and a sense of spaciousness rather than intense pathos or agitation. It suits contemplative listening, processional settings, and moments that feel auspicious, stately, and spiritually elevated.",
+  "description": "Gambhiranata is a Carnatic janya rāga and also appears in Yakshagana, where it is called Naati. It is an audava (pentatonic) symmetric rāgam with the scale S G3 M1 P N3 S / S N3 P M1 G3 S, omitting both rishabham and dhaivatam. The notes used are shadjam, antara gandharam, shuddha madhyamam, panchamam, and kakali nishadam. It is considered a janya of Chalanata, the 36th melakarta rāgam, though it can also be derived from other melakartas by dropping R and D. The raga is also known as Shuddha Nata. Its pentatonic symmetry and openness make it suitable for elaboration, and the mallari tune played on nadaswaram in temple processions is commonly set in this scale. Related theoretical notes include graha bhedam yielding Bhupalam, and the presence of a prati madhyamam counterpart in Amritavarshini. It is also related by scale similarity to Nata, which shares the ascending structure but has a different descent.",
+  "time_of_day": "unknown",
+  "gamaka_usage": "The raga is generally rendered with a clean, open pentatonic treatment. Since the scale is symmetric and omits R and D, the main melodic weight falls on G3, M1, P, and N3. G3 is typically given a gentle kampita or light oscillation in phrases, while M1 and P are usually held steady and flat. N3 is often approached with a smooth jaru from P and may receive a mild oscillation in descent. Because the raga is structurally simple, excessive gamaka can blur its identity; phrases should remain crisp and spacious, with clear emphasis on the characteristic S-G3-M1-P-N3-S movement. Compared with more gamaka-heavy ragas, Gambhiranata favors restrained ornamentation and well-shaped phrases over heavy oscillation.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Mudadinda Ninna Kondaduvenu",
+      "composer": "",
+      "language": "Kannada"
+    },
+    {
+      "name": "Sri Jalandharam",
+      "composer": "Jayachamaraja Wodeyar",
+      "language": ""
+    },
+    {
+      "name": "Jayadevaki Kishora",
+      "composer": "Swati Tirunal",
+      "language": ""
+    },
+    {
+      "name": "Tiru Tiru Javarale",
+      "composer": "Annamacharya",
+      "language": ""
+    },
+    {
+      "name": "Sharanambe Vani",
+      "composer": "Purandaradasa",
+      "language": ""
+    },
+    {
+      "name": "Enu Sadhana Madi",
+      "composer": "Bannanje Govindacharya",
+      "language": ""
+    },
+    {
+      "name": "Ini Yedhu Kavalai",
+      "composer": "Periyasaamy Thooran",
+      "language": ""
+    },
+    {
+      "name": "Padavarnam – Amma Anandadayini",
+      "composer": "Dr. M. Balamuralikrishna",
+      "language": ""
+    },
+    {
+      "name": "Padavarnam – Vanajaksha",
+      "composer": "Mysore Sadashiva Rao",
+      "language": ""
+    },
+    {
+      "name": "Girijaramana",
+      "composer": "Mysore Vasudevachar",
+      "language": ""
+    },
+    {
+      "name": "Gajamukhane",
+      "composer": "Vyasatirtha",
+      "language": ""
+    },
+    {
+      "name": "Kalinga Narthana Tillana",
+      "composer": "Othukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Ranganatham Anisham",
+      "composer": "Othukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Sri Vighnaraajam Bhaje",
+      "composer": "Othukkadu Venkata Kavi",
+      "language": ""
+    },
+    {
+      "name": "Gambheera Gajanayaka",
+      "composer": "Madurai G. S. Mani",
+      "language": ""
+    },
+    {
+      "name": "Sri Gambheera Natya Ganapathe",
+      "composer": "P. K. Rajagopala Iyer",
+      "language": ""
+    }
+  ],
+  "notable_features": "Yakshagana name: Naati. Considered a janya of Chalanata (36th melakarta), but derivable from 8 other melakartas by omitting R and D. Graha bhedam on Gambhiranata yields Bhupalam. Amritavarshini is noted as the prati madhyamam equivalent, and Hamsadhvani is mentioned in the related-scale comparison table. The raga is especially suitable for elaboration and is used for temple-procession mallari tunes on nadaswaram. It is also called Shuddha Nata.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gambhiranata"
+}

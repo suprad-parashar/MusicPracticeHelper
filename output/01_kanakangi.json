@@ -1,4 +1,5 @@
 {
+  "raga_id": "kanakangi",
   "raga_name": "Kanakangi",
   "other_names": [
     "Kanakāngi",
@@ -46,8 +47,7 @@
   "hindustani_equivalent": "unknown",
   "western_equivalent": "unknown",
   "popular_janya_ragas": [
-    "Karnataka Shuddha Saveri",
-    "Lavangi"
+    "shuddha_saveri"
   ],
   "notable_compositions": [
     {
