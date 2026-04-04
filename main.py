@@ -13,6 +13,8 @@ Usage:
     python main.py --file ragas.txt          # List of ragas from file
     python main.py --all                     # All 72 melakarta ragas
     python main.py --crawl-only --number 29  # Only crawl, skip LLM extraction
+    python main.py --name X --skip-wikipedia  # DuckDuckGo web search only (no Wikipedia API)
+    python main.py --name Kanada --extra-info "Janya of 22; known compositions: …"
     python main.py --compile                 # Merge output/*.json → all_ragas.json
 """
 
@@ -50,6 +52,7 @@ from raga_extractor import (
     identify_gaps,
     web_search,
     fill_gaps,
+    fetch_web_context_for_raga,
     RagaInfo,
     DEFAULT_MODEL,
 )
@@ -221,6 +224,24 @@ def display_crawl_results(pages: list[WikiPage], raga_name: str):
     console.print()
 
 
+def display_web_search_preview(raga_name: str, search_results: list[dict], context_chars: int):
+    """Show web search hits used as primary context (DuckDuckGo, not Wikipedia API)."""
+    tree = Tree(
+        f"[bold cyan]Web search results for [yellow]{raga_name}[/yellow] "
+        f"[dim]({context_chars} chars)[/dim]"
+    )
+    for sr in search_results[:15]:
+        branch = tree.add(f"[white]{sr.get('title', '')}[/white]")
+        branch.add(f"[dim]{sr.get('url', '')}[/dim]")
+        snip = (sr.get("snippet") or "")[:200]
+        if snip:
+            branch.add(f"[dim italic]{snip}...[/dim italic]")
+    if len(search_results) > 15:
+        tree.add(f"[dim]... and {len(search_results) - 15} more[/dim]")
+    console.print(tree)
+    console.print()
+
+
 def display_extraction_result(raga_info: RagaInfo):
     """Display extracted raga information in a rich panel."""
     sections = []
@@ -307,6 +328,8 @@ def process_single_raga(
     top_n: int = 5,
     model: str | None = None,
     output_dir: str = OUTPUT_DIR,
+    skip_wikipedia: bool = False,
+    extra_info: str | None = None,
 ) -> RagaInfo | None:
     """Process a single raga through the full pipeline."""
     name = raga["name"]
@@ -321,34 +344,59 @@ def process_single_raga(
         console.print(f"[bold]Processing: [yellow]{name}[/yellow] (Janya raga)[/bold]")
     console.print(f"[bold cyan]{'='*60}[/bold cyan]\n")
 
-    console.print("[bold]Phase 1: Wikipedia Crawling[/bold]")
-    with console.status(f"[cyan]Crawling Wikipedia for {name}...", spinner="dots"):
-        pages = crawler.crawl_raga(
-            raga_name=name,
-            aliases=aliases,
-            melakarta_number=melakarta_num,
-            top_n=top_n,
+    if skip_wikipedia:
+        console.print("[bold]Phase 1: Web search (Wikipedia skipped)[/bold]")
+        with console.status(f"[cyan]Searching the web for {name}...", spinner="dots"):
+            context, primary_results = fetch_web_context_for_raga(
+                name, aliases=aliases, melakarta_number=melakarta_num
+            )
+
+        if not (context or "").strip():
+            console.print(
+                f"[red]No web search results for {name}.[/red] "
+                "[dim]Install ddgs (pip install ddgs) and check connectivity.[/dim]"
+            )
+            return None
+
+        wiki_name = name
+        display_web_search_preview(wiki_name, primary_results, len(context))
+        console.print(
+            f"[dim]Primary context: {len(context)} chars from DuckDuckGo text search[/dim]\n"
         )
 
-    if not pages:
-        console.print(f"[red]No Wikipedia pages found for {name}[/red]")
-        return None
+        if crawl_only:
+            console.print("[yellow]Crawl-only mode: skipping LLM extraction[/yellow]")
+            return None
+    else:
+        console.print("[bold]Phase 1: Wikipedia Crawling[/bold]")
+        with console.status(f"[cyan]Crawling Wikipedia for {name}...", spinner="dots"):
+            pages = crawler.crawl_raga(
+                raga_name=name,
+                aliases=aliases,
+                melakarta_number=melakarta_num,
+                top_n=top_n,
+            )
 
-    wiki_name = _extract_wiki_name(pages, name)
-    if wiki_name != name:
-        console.print(f"[dim]Wikipedia name: {wiki_name}[/dim]")
+        if not pages:
+            console.print(f"[red]No Wikipedia pages found for {name}[/red]")
+            return None
 
-    display_crawl_results(pages, wiki_name)
+        wiki_name = _extract_wiki_name(pages, name)
+        if wiki_name != name:
+            console.print(f"[dim]Wikipedia name: {wiki_name}[/dim]")
 
-    context = crawler.build_context(pages)
-    console.print(f"[dim]Total context: {len(context)} chars from {len(pages)} pages[/dim]\n")
+        display_crawl_results(pages, wiki_name)
 
-    if crawl_only:
-        console.print("[yellow]Crawl-only mode: skipping LLM extraction[/yellow]")
-        return None
+        context = crawler.build_context(pages)
+        console.print(f"[dim]Total context: {len(context)} chars from {len(pages)} pages[/dim]\n")
+
+        if crawl_only:
+            console.print("[yellow]Crawl-only mode: skipping LLM extraction[/yellow]")
+            return None
 
     console.print("[bold]Phase 2: LLM Extraction[/bold]")
     known_swaras = raga if melakarta_num else None
+    source_label = "WEB SEARCH SNIPPETS" if skip_wikipedia else "WIKIPEDIA CONTENT"
     with console.status(f"[cyan]Extracting raga information via LLM...", spinner="dots"):
         raga_info = extract_raga_info(
             raga_name=wiki_name,
@@ -356,11 +404,14 @@ def process_single_raga(
             known_swaras=known_swaras,
             melakarta_number=melakarta_num,
             model=model,
+            extra_user_notes=extra_info,
+            source_label=source_label,
         )
 
-    best_wiki_page = max(pages, key=lambda p: p.relevance_score)
-    if best_wiki_page.relevance_score >= 50.0:
-        raga_info.wikipedia_url = best_wiki_page.url
+    if not skip_wikipedia:
+        best_wiki_page = max(pages, key=lambda p: p.relevance_score)
+        if best_wiki_page.relevance_score >= 50.0:
+            raga_info.wikipedia_url = best_wiki_page.url
 
     gap_names, gap_queries = identify_gaps(raga_info)
     if gap_queries:
@@ -379,7 +430,9 @@ def process_single_raga(
                 console.print(f"  [dim]... and {len(search_results) - 10} more[/dim]")
 
             with console.status("[cyan]Supplementary LLM extraction...", spinner="dots"):
-                raga_info = fill_gaps(raga_info, additional_context, model=model)
+                raga_info = fill_gaps(
+                    raga_info, additional_context, model=model, extra_user_notes=extra_info
+                )
         else:
             console.print("[dim]No additional context found from web search[/dim]")
     else:
@@ -407,6 +460,8 @@ Examples:
   %(prog)s --file ragas.txt              # Process from file (one name/number per line)
   %(prog)s --all                         # All 72 melakarta ragas
   %(prog)s --crawl-only --name Abheri    # Only crawl Wikipedia, skip LLM
+  %(prog)s --skip-wikipedia --name X    # Web search only (DuckDuckGo), no Wikipedia API
+  %(prog)s --name Kanada --extra-info "Janya of 22; arohana S R2 G2 M1 P M1 D2 N2 S"
   %(prog)s --list                        # List all 72 melakarta ragas
   %(prog)s --compile                     # Merge output/*.json into all_ragas.json
         """,
@@ -443,7 +498,25 @@ Examples:
     options_group.add_argument(
         "--crawl-only",
         action="store_true",
-        help="Only crawl Wikipedia, don't run LLM extraction",
+        help="Only fetch sources (Wikipedia or web search with --skip-wikipedia), don't run LLM extraction",
+    )
+    options_group.add_argument(
+        "--skip-wikipedia",
+        action="store_true",
+        help="Skip Wikipedia; use DuckDuckGo web search as the primary context (gap-filling still uses web search)",
+    )
+    options_group.add_argument(
+        "--extra-info",
+        type=str,
+        default=None,
+        help="Extra facts you already know about the raga; injected into the LLM as authoritative (use quotes for multiple words)",
+    )
+    options_group.add_argument(
+        "--extra-info-file",
+        type=str,
+        default=None,
+        metavar="PATH",
+        help="Same as --extra-info but read from a UTF-8 file; overrides --extra-info if both are set",
     )
     options_group.add_argument(
         "--top-n",
@@ -492,6 +565,16 @@ Examples:
     if args.llm_delay is not None:
         reset_pacer(args.llm_delay)
 
+    extra_info_text: str | None = None
+    if args.extra_info_file:
+        extra_path = Path(args.extra_info_file).expanduser()
+        if not extra_path.is_file():
+            console.print(f"[red]Error: --extra-info-file not found: {extra_path.resolve()}[/red]")
+            sys.exit(1)
+        extra_info_text = extra_path.read_text(encoding="utf-8").strip()
+    elif args.extra_info:
+        extra_info_text = args.extra_info.strip()
+
     project_root = Path(__file__).resolve().parent
     if args.compile:
         compile_ragas_to_bundle(args.output, project_root / ALL_RAGAS_JSON)
@@ -500,10 +583,22 @@ Examples:
     effective_model = args.model or os.environ.get("OPENAI_MODEL", DEFAULT_MODEL)
     wiki_delay = args.delay if args.delay is not None else float(os.environ.get("WIKI_CRAWL_DELAY", "0.5"))
 
+    pipeline_line = (
+        "[dim]Web search → Extract → JSON[/dim]"
+        if args.skip_wikipedia
+        else "[dim]Wikipedia → Crawl → Rank → Extract → JSON[/dim]"
+    )
+    extra_line = ""
+    if extra_info_text:
+        preview = extra_info_text.replace("\n", " ")[:80]
+        if len(extra_info_text) > 80:
+            preview += "…"
+        extra_line = f"\n[dim]Extra user facts: {preview}[/dim]"
     console.print(Panel(
         "[bold cyan]Carnatic Raga RAG Pipeline[/bold cyan]\n"
-        "[dim]Wikipedia → Crawl → Rank → Extract → JSON[/dim]\n"
-        f"[dim]Model: {effective_model}[/dim]",
+        f"{pipeline_line}\n"
+        f"[dim]Model: {effective_model}[/dim]"
+        f"{extra_line}",
         border_style="cyan",
     ))
 
@@ -559,6 +654,8 @@ Examples:
                 top_n=args.top_n,
                 model=args.model,
                 output_dir=args.output,
+                skip_wikipedia=args.skip_wikipedia,
+                extra_info=extra_info_text,
             )
             if result:
                 results.append(result)

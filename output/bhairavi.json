@@ -11,6 +11,7 @@
   "chakra": "",
   "arohana": [
     "S",
+    "G2",
     "R2",
     "G2",
     "M1",
@@ -30,7 +31,7 @@
     "S"
   ],
   "raga_type": "janya",
-  "is_vakra": false,
+  "is_vakra": true,
   "is_bhashanga": true,
   "anya_swaras": [
     "D1"

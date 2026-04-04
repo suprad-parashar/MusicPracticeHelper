@@ -10409,6 +10409,7 @@
     "chakra": "",
     "arohana": [
       "S",
+      "G2",
       "R2",
       "G2",
       "M1",
@@ -10428,7 +10429,7 @@
       "S"
     ],
     "raga_type": "janya",
-    "is_vakra": false,
+    "is_vakra": true,
     "is_bhashanga": true,
     "anya_swaras": [
       "D1"
@@ -13461,6 +13462,81 @@
     ],
     "notable_features": "Derived from the 28th melakarta Harikambhoji. It is a bhashanga raga because of the use of N3 in the phrase N3 P D2 S. It is classified as shadava in the ascent and sampurna in the descent. Historically, it appears in ancient and medieval sources under related names and classifications, including Thakkesi in Cilappatikaram and references in Brihaddesi, Sangita Makaranda, Chaturdandi Prakashika, and other treatises. The raga is one of the primary ragas in Carnatic music and has a very large composition corpus. The text also notes a possible derivation of the scale from Cambodia. It is associated with female-raga/ragini classification in older theory, linking it to shringara, hasya, and karuna. Harikambhoji is its parent melakarta; Kambhoji is one of its most famous janyas.",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kambhoji"
+  },
+  {
+    "raga_id": "kanada",
+    "raga_name": "Kanada",
+    "other_names": [
+      "Kaanada",
+      "Kanhada"
+    ],
+    "melakarta_number": null,
+    "is_melakarta": false,
+    "parent_raga": 22,
+    "inventor": "",
+    "chakra": "",
+    "arohana": [
+      "S",
+      "R2",
+      "P",
+      "G2",
+      "M1",
+      "D2",
+      "N2",
+      ">S"
+    ],
+    "avrohana": [
+      ">S",
+      "N2",
+      "D2",
+      "P",
+      "M1",
+      "G2",
+      "M1",
+      "R2",
+      "S"
+    ],
+    "raga_type": "shadava-vakra",
+    "is_vakra": true,
+    "is_bhashanga": false,
+    "anya_swaras": [],
+    "uses_vivadi_swaras": false,
+    "rasa": [
+      "Shanta",
+      "Bhakti",
+      "Karuna"
+    ],
+    "mood": "Kanada is a weighty, deeply expressive raga with a characteristic sense of gravitas and undulation. It often feels contemplative and devotional, yet also carries a plaintive, yearning quality that can suggest pathos and emotional depth. The raga is easy to पहचान by its distinctive treatment of gandhara and its gamaka-rich phrases, which create a rounded, resonant, and somewhat solemn atmosphere. It suits reflective, prayerful, and emotionally nuanced settings.",
+    "description": "Kanada is a very popular Carnatic raga and is one of the easiest to identify because of its highly characteristic gandhara usage in the ascent. It is a janya of Kharaharapriya (22nd melakarta), and is commonly described as a shadava vakra raga. The raga is strongly associated with heavy ornamentation and minute melodic nuances, and it has inspired a family of related ragas in both Carnatic and Hindustani traditions. The source notes that the Carnatic Kanada has given rise to a bouquet of Kanada ragas in Hindustani music, and that Hindustani musicians have also taken up Darbari Kanada with great gusto. The raga is often used in ragamalikas and RTPs. A notable identifying feature is the prominence of gandhara in the ascent, and the overall weightiness and undulation of the melodic movement.",
+    "time_of_day": "night",
+    "gamaka_usage": "Kanada is heavily gamaka-oriented: the raga depends on ornamentation and subtle oscillations rather than plain scalar rendering. Gandhara is especially characteristic and is typically approached with a pronounced kampita/oscillatory treatment and nuanced slides. The raga’s phrases are not meant to be sung flatly; instead, swaras are given weight and curvature, with jaru-like movement and delicate inflections shaping the identity of the raga. The overall effect is one of undulation and gravitas. Compared with simpler janya ragas, Kanada demands minute gamaka control and careful emphasis on its signature phrases, especially around G and the surrounding notes.",
+    "hindustani_equivalent": "Darbari Kanada",
+    "western_equivalent": "unknown",
+    "popular_janya_ragas": [],
+    "notable_compositions": [
+      {
+        "name": "Alaipayuthe Kanna",
+        "composer": "Oottukkadu Venkata Kavi",
+        "language": "Tamil"
+      },
+      {
+        "name": "Sree Narada",
+        "composer": "Tyagaraja",
+        "language": "Telugu"
+      },
+      {
+        "name": "Sukhi Evvaro",
+        "composer": "Tyagaraja",
+        "language": "Telugu"
+      },
+      {
+        "name": "Anyayamu Seyakura",
+        "composer": "Tyagaraja",
+        "language": "Telugu"
+      }
+    ],
+    "notable_features": "The raga is described as one of the easiest Carnatic ragas to identify due to its characteristic gandhara. It is a popular choice in ragamalikas and RTPs. The source also highlights that Kanada stresses gamakas and minute nuances. Related-note context from the snippets indicates the phrase s r p g as an example of anya sthana swaras in Kanada in a broader theoretical discussion, but no foreign swara is explicitly established for this raga in the provided text. The raga is also linked conceptually to the broader Kanada family in Indian classical music, and is associated with weightiness and undulation. It is commonly performed at night, and its Hindustani counterpart Darbari Kanada is also described as a grave, deep-night raga.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kanada_(family_of_ragas)"
   },
   {
     "raga_id": "kapi",

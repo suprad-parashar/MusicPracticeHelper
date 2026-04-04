@@ -274,6 +274,8 @@ Extract ALL available structured information about a Carnatic raga from the prov
 
 ### General Rules
 - Extract ONLY information present or strongly implied in the provided text.
+- The source may be Wikipedia text or general web search snippets; quality varies — still extract what is reliable.
+- If the user provides separate labeled facts, treat those as authoritative when they conflict with the main source.
 - If information is not available, leave the field as its default (empty string, empty list, false).
 - Be thorough — capture everything the text offers."""
 
@@ -455,9 +457,12 @@ def extract_raga_info(
     known_swaras: dict | None = None,
     melakarta_number: int | None = None,
     model: str | None = None,
+    *,
+    extra_user_notes: str | None = None,
+    source_label: str = "WIKIPEDIA CONTENT",
 ) -> RagaInfo:
     """
-    Extract structured raga information from Wikipedia context using an LLM.
+    Extract structured raga information from context (Wikipedia or web search) using an LLM.
     Auto-trims context to fit token limits and retries on transient errors.
     """
     if model is None:
@@ -476,7 +481,14 @@ def extract_raga_info(
             user_content += f"\n\nKnown swaras from Melakarta system:\n"
             user_content += f"Arohana: {known_swaras.get('arohana_str', 'N/A')}\n"
             user_content += f"Avrohana: {known_swaras.get('avrohana_str', 'N/A')}\n"
-        user_content += f"\n\n--- WIKIPEDIA CONTENT ---\n{ctx}\n--- END CONTENT ---"
+        if extra_user_notes and extra_user_notes.strip():
+            user_content += (
+                "\n\n--- USER-PROVIDED FACTS (authoritative; prefer these when they conflict "
+                "with other sources) ---\n"
+                f"{extra_user_notes.strip()}\n"
+                "--- END USER FACTS ---"
+            )
+        user_content += f"\n\n--- {source_label} ---\n{ctx}\n--- END CONTENT ---"
         return [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_content},
@@ -735,6 +747,55 @@ def web_search(queries: list[str], max_results_per_query: int = 3) -> tuple[str,
     return "\n\n".join(snippets), result_list
 
 
+INITIAL_WEB_ONLY_TEMPLATES: list[str] = [
+    "{raga} Carnatic raga",
+    "{raga} raga arohana avrohana melakarta",
+    "{raga} raga lakshana swaras",
+    "{raga} ragam compositions kriti composer",
+    "{raga} raga characteristics mood rasa",
+    "{raga} Carnatic music ragam",
+]
+
+
+def build_initial_web_queries(
+    raga_name: str,
+    aliases: list[str] | None = None,
+    melakarta_number: int | None = None,
+) -> list[str]:
+    """Search queries for web-only extraction (DuckDuckGo text search, not Wikipedia API)."""
+    aliases = aliases or []
+    queries: list[str] = []
+    seen: set[str] = set()
+
+    def add(q: str) -> None:
+        q = q.strip()
+        if q and q not in seen:
+            seen.add(q)
+            queries.append(q)
+
+    for tmpl in INITIAL_WEB_ONLY_TEMPLATES:
+        add(tmpl.format(raga=raga_name))
+    for a in aliases[:3]:
+        if not a or a.strip().lower() == raga_name.strip().lower():
+            continue
+        add(f"{a.strip()} Carnatic raga")
+        add(f"{a.strip()} raga arohana avrohana")
+    if melakarta_number is not None:
+        add(f"Melakarta {melakarta_number} {raga_name} Carnatic raga")
+    return queries
+
+
+def fetch_web_context_for_raga(
+    raga_name: str,
+    aliases: list[str] | None = None,
+    melakarta_number: int | None = None,
+    max_results_per_query: int = 4,
+) -> tuple[str, list[dict]]:
+    """Run web search queries suitable for primary extraction when Wikipedia is skipped."""
+    queries = build_initial_web_queries(raga_name, aliases, melakarta_number)
+    return web_search(queries, max_results_per_query=max_results_per_query)
+
+
 SUPPLEMENT_PROMPT = """You are an expert in Carnatic music. You have an EXISTING extraction for a raga (provided as JSON).
 Some fields are empty or incomplete. You are given ADDITIONAL web search snippets that may contain the missing information.
 
@@ -762,6 +823,8 @@ def fill_gaps(
     raga_info: RagaInfo,
     additional_context: str,
     model: str | None = None,
+    *,
+    extra_user_notes: str | None = None,
 ) -> RagaInfo:
     """Supplementary LLM call to fill in missing fields using web search results."""
     if model is None:
@@ -773,7 +836,13 @@ def fill_gaps(
     if len(additional_context) > max_snippet_chars:
         additional_context = additional_context[:max_snippet_chars]
 
-    user_content = (
+    user_content = ""
+    if extra_user_notes and extra_user_notes.strip():
+        user_content += (
+            "USER-PROVIDED FACTS (authoritative; prefer these when they conflict with snippets):\n"
+            f"{extra_user_notes.strip()}\n\n"
+        )
+    user_content += (
         f"Existing extraction for raga '{raga_info.raga_name}':\n"
         f"```json\n{existing_json}\n```\n\n"
         f"--- ADDITIONAL WEB SEARCH RESULTS ---\n{additional_context}\n--- END ---\n\n"
@@ -817,7 +886,13 @@ def fill_gaps(
                     f"Trimming context and retrying..."
                 )
                 additional_context = additional_context[:len(additional_context) // 2]
-                user_content = (
+                user_content = ""
+                if extra_user_notes and extra_user_notes.strip():
+                    user_content += (
+                        "USER-PROVIDED FACTS (authoritative; prefer these when they conflict with snippets):\n"
+                        f"{extra_user_notes.strip()}\n\n"
+                    )
+                user_content += (
                     f"Existing extraction for raga '{raga_info.raga_name}':\n"
                     f"```json\n{existing_json}\n```\n\n"
                     f"--- ADDITIONAL WEB SEARCH RESULTS ---\n{additional_context}\n--- END ---\n\n"
