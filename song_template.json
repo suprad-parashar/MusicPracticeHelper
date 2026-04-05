@@ -1,0 +1,93 @@
+{
+  "song_id": "example_song_slug",
+  "title": "Samaja Vara Gamana",
+  "other_titles": [
+    "Saamaja Vara Gamana",
+    "Samajavaragamana",
+    "SAmAjavara gamana",
+    "sAmajavara gamana"
+  ],
+  "composer": "Tyagaraja",
+  "raga": "Hindolam",
+  "tala": "Adi",
+  "language": "Sanskrit",
+  "lyrics_full_text": "Pallavi :\nSaamaja Vara Gamana ...\n\nAnupallavi :\n...\n\nCharanam :\n...",
+  "lyrics_source_url": "https://www.karnatik.com/...",
+  "notation_url": "https://www.shivkumar.org/music/example.htm",
+  "youtube_url": "https://www.youtube.com/watch?v=VIDEO_ID",
+  "stanzas": [
+    {
+      "section": "pallavi",
+      "raga_id": "hindolam",
+      "tala": "Adi",
+      "tempo": 120,
+      "lines": [
+        {
+          "notes": ["M", ";", "G", "S", "N", "D", "N", "N", "|", "S", ";", ";", "S", "|", "M", "G", "M", ";"],
+          "lyrics": "Saamaja Vara Gamana Saadhu Hrut Saarasaabja Paala",
+          "translation": ""
+        },
+        {
+          "notes": ["m", "g", "g", "m", "m", "g", "S", "s", "s", "n", "d", ",", "n", "N", "|", "S", ";", ";", "S", "|", "M", "G", "g", "m", "d", "n"],
+          "lyrics": "Kaalaateeta Vikhyaata",
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "section": "anupallavi",
+      "raga_id": "hindolam",
+      "tala": "Adi",
+      "tempo": 120,
+      "lines": [
+        {
+          "notes": ["S", ";", "M", "-", "N", "G", "M", "D", "-", "N", "|", "S", ";", ";", ";", "|", ";", ";", "n", "d", "m", "g"],
+          "lyrics": "Saama Nigamaja Sudhaamaya Gaana Vichakshana Gunasheela",
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "section": "charanam",
+      "raga_id": "hindolam",
+      "tala": "Adi",
+      "tempo": 120,
+      "lines": [
+        {
+          "notes": ["M", "G", "S"],
+          "lyrics": "Veda Shiromaatruja Saptasvara ... Tyaagaraaja Vandaneeya",
+          "translation": ""
+        }
+      ]
+    },
+    {
+      "section": "full_stanza_example_geetham_style",
+      "raga_id": "malahari",
+      "tala": "4-Rupaka",
+      "tempo": 120,
+      "lines": [
+        {
+          "notes": ["M", "G", "S"],
+          "lyrics": "Sri GaNanAtha, sindhUrA varNa",
+          "translation": "Oh leader of the pramada ganas, you are the colour of vermillion."
+        },
+        {
+          "notes": ["M", "G", "S"],
+          "lyrics": "karuNa sAgara, kari vadanA",
+          "translation": "You are the ocean of compassion and you have the visage of the mighty elephant."
+        },
+        {
+          "notes": ["M", "G", "S"],
+          "lyrics": "lambOdara, lakumikara.",
+          "translation": "You have a protruding belly. You hold goddess Lakshmi in your hand."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "shivkumar_notation_html",
+      "url": "https://www.shivkumar.org/music/example.htm"
+    }
+  ]
+}

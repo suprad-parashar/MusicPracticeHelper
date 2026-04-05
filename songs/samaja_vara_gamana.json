@@ -1,0 +1,221 @@
+{
+  "song_id": "samaja_vara_gamana",
+  "title": "Samaja Vara Gamana",
+  "other_titles": [
+    "Saamaja Vara Gamana",
+    "Samajavaragamana"
+  ],
+  "composer": "Tyagaraja",
+  "raga": "Hindolam",
+  "tala": "Adi",
+  "language": "Telugu",
+  "lyrics_full_text": "Saamaja Vara Gamana Saadhu Hrut Saarasaabja Paala\nKaalaateeta Vikhyaata\nSaama Nigamaja Sudhaamaya Gaana Vichakshana Gunasheela\nDayaalavaala Maam Paalaya\nVeda Shiromaatruja Saptasvara Naadaachala Deepa Sveekruta\nYaadavakula Murali Vaadana Vinoda Mohanakara Tyaagaraaja Vandaneeya",
+  "lyrics_source_url": "https://www.karnatik.com/c1036.shtml",
+  "notation_url": "https://www.shivkumar.org/music/samajavaragamana.htm",
+  "youtube_url": "https://www.youtube.com/watch?v=Or9X36vnEXQ",
+  "stanzas": [
+    {
+      "section": "pallavi",
+      "raga_id": "hindolam",
+      "tala": "Adi",
+      "tempo": 0,
+      "lines": [
+        {
+          "notes": [
+            "M",
+            ";",
+            "G",
+            "S",
+            "N",
+            "D",
+            "N",
+            "N",
+            "|",
+            "S",
+            ";",
+            ";",
+            "S",
+            "|",
+            "M",
+            "G",
+            "M",
+            ";",
+            "||"
+          ],
+          "lyrics": "Saamaja Vara Gamana Saadhu Hrut Saarasaabja Paala Kaalaateeta Vikhyaata",
+          "translation": "O Lord, with the majestic gait of a large elephant! O effulgent sun who causes the hearts of devotees to blossom like the lotus! Lord, your fame transcends time!"
+        }
+      ]
+    },
+    {
+      "section": "anupallavi",
+      "raga_id": "hindolam",
+      "tala": "Adi",
+      "tempo": 0,
+      "lines": [
+        {
+          "notes": [
+            "S",
+            ";",
+            "M",
+            "-",
+            "N",
+            "G",
+            "M",
+            "D",
+            "-",
+            "N",
+            "|",
+            "S",
+            ";",
+            ";",
+            "|",
+            ";",
+            ";",
+            "n",
+            "d",
+            "m",
+            "g",
+            "||"
+          ],
+          "lyrics": "Saama Nigamaja Sudhaamaya Gaana Vichakshana Gunasheela Dayaalavaala Maam Paalaya",
+          "translation": "O expounder of the nectar-like music arising from the Saama Veda! Thou of great qualities and mercy! Care for me."
+        }
+      ]
+    },
+    {
+      "section": "charanam",
+      "raga_id": "hindolam",
+      "tala": "Adi",
+      "tempo": 0,
+      "lines": [
+        {
+          "notes": [
+            "S",
+            ";",
+            "M",
+            "-",
+            "G",
+            "M",
+            ";",
+            "M",
+            ";",
+            "|",
+            "D",
+            "N",
+            "d",
+            "n",
+            "s",
+            "n",
+            "|",
+            "D",
+            "M",
+            "D",
+            "N",
+            "||"
+          ],
+          "lyrics": "Veda Shiromaatruja Saptasvara Naadaachala Deepa Sveekruta Yaadavakula Murali Vaadana Vinoda Mohanakara Tyaagaraaja Vandaneeya",
+          "translation": "You are the divine flame illuminating the subtle and lofty heights of Omkaara, the essence of the Vedas, out of which emanated the seven notes of music. You elevated the Yaadava race; you delighted in playing the flute and fascinated the Gopis by your bewitching form and mellifluous music. You are worshipped by Tyaagaraaja!"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "shivkumar_notation_html",
+      "url": "https://www.shivkumar.org/music/samajavaragamana.htm"
+    },
+    {
+      "label": "karnatik_lyrics",
+      "url": "https://www.karnatik.com/c1036.shtml"
+    },
+    {
+      "label": "youtube_reference",
+      "url": "https://www.youtube.com/watch?v=Or9X36vnEXQ"
+    },
+    {
+      "label": "web_search:Mysore Sadashiva Rao | sreenivasarao's blogs",
+      "url": "https://sreenivasaraos.com/tag/mysore-sadashiva-rao/"
+    },
+    {
+      "label": "web_search:Venkatramana Bhagavatar | sreenivasarao's blogs",
+      "url": "https://sreenivasaraos.com/tag/venkatramana-bhagavatar/"
+    },
+    {
+      "label": "web_search:Sampradaya | sreenivasarao's blogs",
+      "url": "https://sreenivasaraos.com/tag/sampradaya/"
+    },
+    {
+      "label": "web_search:Kirthana | sreenivasarao's blogs",
+      "url": "https://sreenivasaraos.com/tag/kirthana/"
+    },
+    {
+      "label": "web_search:Veena Kuppa Ayyar | sreenivasarao's blogs",
+      "url": "https://sreenivasaraos.com/tag/veena-kuppa-ayyar/"
+    },
+    {
+      "label": "karnatik_web:Royal Carpet karnATik: Ragas H",
+      "url": "https://www.karnatik.com/ragash.shtml"
+    },
+    {
+      "label": "karnatik_web:Carnatic Songs - sAmajavara",
+      "url": "https://www.karnatik.com/c6483.shtml"
+    },
+    {
+      "label": "karnatik_web:Carnatic Songs - sAmaja vara gamana",
+      "url": "https://www.karnatik.com/c31357.shtml"
+    },
+    {
+      "label": "karnatik_web:Carnatic Songs - sAmaja vara gamana sAkEtavAsa",
+      "url": "https://www.karnatik.com/c1558.shtml"
+    },
+    {
+      "label": "shivkumar_web:PDFKamalambam Bhajare - Shivkumar",
+      "url": "https://www.shivkumar.org/music/samajavaragamana.pdf"
+    },
+    {
+      "label": "shivkumar_web:South Indian Classical Carnatic Music Krithi Archive with ... - Shivkumar",
+      "url": "https://www.shivkumar.org/music/"
+    },
+    {
+      "label": "shivkumar_web:Kamalambam Bhajare - Shivkumar",
+      "url": "https://www.shivkumar.org/music/kamalambambhajare.htm"
+    },
+    {
+      "label": "shivkumar_web:Kamalambam Bhajare - Shivkumar",
+      "url": "https://www.shivkumar.org/music/sakalagraha.htm"
+    },
+    {
+      "label": "web_search:List of compositions by Tyagaraja - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_compositions_by_Tyagaraja"
+    },
+    {
+      "label": "web_search:Thyagaraja Kritis Compilation ListThyagaraja Kriti - Saamaja Vara Gamana - Raga ",
+      "url": "https://www.scribd.com/doc/52816926/Complete-Works-of-Thyagaraja"
+    },
+    {
+      "label": "web_search:Thyagaraja Kriti - Saamaja Vara Gamana - Raga Hindolam",
+      "url": "https://thyagaraja-vaibhavam.blogspot.com/2007/06/thyagaraja-kriti-saamaja-vara-gamana.html"
+    },
+    {
+      "label": "web_search:Samajavaragamana | సామజవరగమన | Sri Tyagaraja Kriti |Hindolam ...",
+      "url": "https://www.youtube.com/watch?v=yu-qAVbIidg"
+    },
+    {
+      "label": "web_search:Samajavaragamana- Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samajavaragamana"
+    },
+    {
+      "label": "web_search:SamajaVaragamana-Carnaticfusion - Vijay Madhur - YouTube",
+      "url": "https://www.youtube.com/watch?v=hRAQv5i8UMo"
+    },
+    {
+      "label": "web_search:Notations-SamajaVaragamana| Forum - rasikas.org",
+      "url": "https://www.rasikas.org/forums/viewtopic.php?t=30277"
+    },
+    {
+      "label": "web_search:Learn Film Songs OnCarnaticFlute",
+      "url": "https://www.udemy.com/course/2021-learn-latest-telugu-hits/"
+    }
+  ]
+}

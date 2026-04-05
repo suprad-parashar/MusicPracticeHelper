@@ -1,0 +1,69 @@
+{
+  "raga_id": "nalinakanthi",
+  "raga_name": "Nalinakanthi",
+  "other_names": [
+    "Nalinakanti",
+    "Nalinakanthi Ragam"
+  ],
+  "melakarta_number": null,
+  "is_melakarta": false,
+  "parent_raga": 27,
+  "inventor": "Tyagaraja Swamy",
+  "chakra": "",
+  "arohana": [
+    "S",
+    "G3",
+    "R2",
+    "M1",
+    "P",
+    "N3",
+    ">S"
+  ],
+  "avrohana": [
+    ">S",
+    "N3",
+    "P",
+    "M1",
+    "G3",
+    "R2",
+    "S"
+  ],
+  "raga_type": "shadava",
+  "is_vakra": true,
+  "is_bhashanga": false,
+  "anya_swaras": [],
+  "uses_vivadi_swaras": false,
+  "rasa": [
+    "Shanta",
+    "Bhakti",
+    "Shringara"
+  ],
+  "mood": "Nalinakanthi has a bright, pleasant, and joyful character, yet it also carries a refined devotional warmth. Its zig-zag movement gives it a lively, engaging feel rather than a plain scale-like one, so it can evoke happiness, freshness, and a gentle uplift in the listener. The raga suits expressive, graceful rendering and often feels suitable for devotional, optimistic, and charming moods.",
+  "description": "Nalinakanthi is a janya raga of the 27th melakarta Sarasangi, and the user-provided facts explicitly identify it as such. It is a vakra shadava raga with the characteristic zig-zag scale S G3 R2 M1 P N3 S / S N3 P M1 G3 R2 S. The raga is associated with Tyagaraja Swamy in the provided source snippets, and one snippet describes it as bright, joyful, pleasant, and happiness-evoking. Another source notes that it is a janyam of the 27th mela Sarasangi. Nalinakanthi is pedagogically useful for learning vakra prayogas and for developing creative swara-korvais, since its phrase structure is interesting and challenging. It is also a concert raga with a number of compositions and performances, and is often appreciated for its distinctive melodic signature.",
+  "time_of_day": "",
+  "gamaka_usage": "Nalinakanthi is best rendered with clear vakra phraseology rather than plain scalar movement. G3 and R2 are typically handled with gentle kampita and connected slides, with G3 often taking a prominent oscillated treatment and R2 approached through jaru-like movement from G3. M1 and P are comparatively steadier anchor notes, while N3 is usually touched cleanly and can be given a light oscillation in descent. The raga depends strongly on signature phrases such as S G3 R2 M1 P and S N3 P M1 G3 R2 S, so gamakas should support these contours without over-heavy ornamentation. Compared with more linear ragas, the gamaka treatment here emphasizes phrase identity and zig-zag motion over long sustained oscillations.",
+  "hindustani_equivalent": "unknown",
+  "western_equivalent": "unknown",
+  "popular_janya_ragas": [],
+  "notable_compositions": [
+    {
+      "name": "Manavyalakinchara Raadate",
+      "composer": "Tyagaraja Swamy",
+      "language": "Telugu"
+    },
+    {
+      "name": "Nee paadame gathi",
+      "composer": "G. N. Balasubramaniam",
+      "language": ""
+    },
+    {
+      "name": "Natajana Palini",
+      "composer": "Tanjavur Shankara Iyer",
+      "language": ""
+    }
+  ],
+  "notable_features": "User-provided authoritative facts give the scale as S G3 R2 M1 P N3 S / S N3 P M1 G3 R2 S and identify the raga as a janya of Sarasangi (melakarta 27). It is a vakra raga. One source snippet attributes creation to Tyagaraja Swamy, while another calls it a janyam of the 27th mela Sarasangi. The raga is noted for its bright, joyful, pleasant character and for making creative swara-korvais challenging and interesting. It is also taught as a vakra shadava raga in veena pedagogy. A snippet mentions that 'Manaviyalakincha Raadate' is its most celebrated composition.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nalinakanthi",
+  "ragasurabhi_url": "https://ragasurabhi.com/carnatic-music/raga/raga--nalinakanthi.html",
+  "youtube_url": ""
+}
